@@ -90,6 +90,6 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] /reciprocity/ page (interstate travel, FOPA, flying, vehicle storage)
 - [x] /safety/ page (four rules, secure storage, children, maintenance)
 - [x] /red-flag-laws/ page (ERPO process, 21 states detailed, federal legislation)
-- [x] Google Analytics integration (G-5PMR8Q3KDL)
+- [x] Google Analytics integration (G-5PMR8Q3KDL, consent-aware — only loads after cookie accept)
 - [x] Google Search Console (verified via GA)
 - [ ] More dealers per city
