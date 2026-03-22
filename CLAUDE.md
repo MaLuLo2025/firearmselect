@@ -1,7 +1,7 @@
 # FirearmSelect — Project Memory (CLAUDE.md)
 
 ## What This Project Is
-FirearmSelect.com is an informational firearms directory connecting buyers with trusted local dealers, providing state-by-state gun law guides, and offering factual, non-partisan firearms education. Part of the Select Sites portfolio alongside AestheticSelect.com.
+FirearmSelect.com is an informational firearms directory connecting buyers with trusted local gun shops, shooting ranges, FFL dealers, and certified instructors. Provides state-by-state gun law guides and factual, non-partisan firearms education. Part of the Select Sites portfolio alongside AestheticSelect.com.
 
 ## Core Philosophy
 The Second Amendment is a fundamental constitutional right. This site is NOT an advocacy platform — it's an information resource. Rights AND responsibilities. Every law links to the actual statute. No gun/bullet imagery. Serious, editorial tone.
@@ -41,28 +41,37 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 3. ranges — Shooting Ranges (shoot & practice)
 4. instructors — Firearms Instructors (classes & certs)
 
+## Terminology
+- Never say just "dealers" when describing the site — always include ranges and instructors
+- Use "shops, ranges & instructors" or "gun shops, ranges & instructors" in headings/copy
+- "Find local shops & ranges" (not "Browse dealers")
+
 ## Content Standards
 - Never use superlative claims in dealer descriptions
 - All descriptions factual only — licenses, services, location
 - Every law references the actual statute
 - No advocacy language — present law as it is
-- Firearms-appropriate disclaimer on every page
+- Firearms-appropriate disclaimer on every page (include dealers, ranges, and instructors)
 - Colorado law, Durango/La Plata County venue, binding arbitration in TOS
 
 ## Current State
 - [x] Project scaffolded with Broadsheet theme
 - [x] 50 state gun law pages (full coverage)
 - [x] 3 blog articles (constitutional carry, Bruen, first-time buyer)
+- [x] 50 cities from top US MSAs (1.5M+ population) with SEO pages
 - [x] Sample dealer data for 6 states (13 dealers across 12 cities)
+- [x] City pages with "coming soon" placeholder when no dealers listed
 - [x] City-level dealer architecture (/dealers/{state}/{city}/ hub pages)
 - [x] State dealer pages (/dealers/{state}/ grouped by city)
 - [x] Individual dealer detail pages (/dealers/{state}/{city}/{dealer}/)
 - [x] Schema.org LocalBusiness structured data on dealer pages
-- [x] Homepage with dealers above fold
+- [x] Cascading state→city dropdown search on homepage (client component)
+- [x] Separate state dropdown for gun law lookup on homepage
+- [x] Homepage with category cards above search, then law section
 - [x] Legal pages (privacy, terms, cookies)
 - [x] Cookie consent banner
-- [x] Dynamic sitemap and robots.txt (cities + dealers included)
+- [x] Dynamic sitemap and robots.txt (all cities + dealers included)
+- [x] Full 50-state coverage
 - [ ] Google Analytics integration
 - [ ] Google Search Console
-- [x] Full 50-state coverage
-- [ ] More dealers per state
+- [ ] More dealers per city
