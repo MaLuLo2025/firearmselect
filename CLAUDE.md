@@ -23,6 +23,11 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 ```
 /                                       → Homepage (dealers above fold)
 /{state}/gun-laws/                      → State gun law guide
+/states/                                → All 50 states index (CC vs permit)
+/carry-laws/                            → Concealed & open carry overview
+/reciprocity/                           → Interstate carry reciprocity guide
+/safety/                                → Firearms safety & storage guide
+/red-flag-laws/                         → Red flag / ERPO laws by state
 /dealers/                               → Main dealer directory
 /dealers/{state}/                       → State dealers (grouped by city)
 /dealers/{state}/{city}/                → City dealer hub
@@ -80,6 +85,11 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] Dynamic sitemap and robots.txt (all cities + dealers included)
 - [x] Full 50-state coverage
 - [x] All internal links audited and verified (law links → gun-laws, dealer links → /dealers/)
+- [x] /states/ index page (constitutional carry vs permit-required grouping)
+- [x] /carry-laws/ page (concealed, open carry, Bruen, restricted locations)
+- [x] /reciprocity/ page (interstate travel, FOPA, flying, vehicle storage)
+- [x] /safety/ page (four rules, secure storage, children, maintenance)
+- [x] /red-flag-laws/ page (ERPO process, 21 states detailed, federal legislation)
 - [ ] Google Analytics integration
 - [ ] Google Search Console
 - [ ] More dealers per city
