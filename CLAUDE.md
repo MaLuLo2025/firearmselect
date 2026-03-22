@@ -46,6 +46,13 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - Use "shops, ranges & instructors" or "gun shops, ranges & instructors" in headings/copy
 - "Find local shops & ranges" (not "Browse dealers")
 
+## Link Rules
+- Links labeled "gun laws" or "state laws" → must point to /{state}/gun-laws/
+- Links labeled "find shops" or dealer-related → must point to /dealers/{state}/ or /dealers/{state}/{city}/
+- All dealer page links use the /dealers/ prefix — never /{state}/{city}/ at root
+- Gun-laws pages link to /dealers/{state}/ for "find shops & ranges"
+- Dealer/city pages link to /{state}/gun-laws for "view gun laws"
+
 ## Content Standards
 - Never use superlative claims in dealer descriptions
 - All descriptions factual only — licenses, services, location
@@ -72,6 +79,7 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] Cookie consent banner
 - [x] Dynamic sitemap and robots.txt (all cities + dealers included)
 - [x] Full 50-state coverage
+- [x] All internal links audited and verified (law links → gun-laws, dealer links → /dealers/)
 - [ ] Google Analytics integration
 - [ ] Google Search Console
 - [ ] More dealers per city
