@@ -23,8 +23,9 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 ```
 /                                 → Homepage (dealers above fold)
 /{state}/gun-laws/                → State gun law guide
-/dealers/                         → Dealer directory
-/dealers/{category}/              → Dealer category listing
+/{state}/{city}/                  → City dealer hub (all dealers in city)
+/{state}/{city}/{dealer}/         → Individual dealer detail page
+/dealers/                         → Dealer directory (all states)
 /blog/                            → Blog listing
 /blog/{slug}/                     → Blog article
 /about/                           → About page
@@ -51,13 +52,15 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] Project scaffolded with Broadsheet theme
 - [x] 10 state gun law pages (TX, FL, CA, NY, AZ, GA, OH, CO, PA, MI)
 - [x] 3 blog articles (constitutional carry, Bruen, first-time buyer)
-- [x] Sample dealer data for 6 states
+- [x] Sample dealer data for 6 states (13 dealers across 12 cities)
+- [x] City-level dealer architecture (/{state}/{city}/ hub pages)
+- [x] Individual dealer detail pages (/{state}/{city}/{dealer}/)
+- [x] Schema.org LocalBusiness structured data on dealer pages
 - [x] Homepage with dealers above fold
 - [x] Legal pages (privacy, terms, cookies)
 - [x] Cookie consent banner
-- [x] Dynamic sitemap and robots.txt
+- [x] Dynamic sitemap and robots.txt (cities + dealers included)
 - [ ] Google Analytics integration
 - [ ] Google Search Console
 - [ ] Full 50-state coverage
 - [ ] More dealers per state
-- [ ] Schema.org structured data on dealer pages
