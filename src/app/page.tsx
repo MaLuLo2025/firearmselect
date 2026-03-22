@@ -1,10 +1,20 @@
 import Link from "next/link";
 import { states } from "@/lib/states";
+import { cities } from "@/lib/cities";
 import { categories } from "@/lib/categories";
 import { getRecentPosts } from "@/lib/blog";
+import DealerSearch from "@/components/DealerSearch";
+import LawSearch from "@/components/LawSearch";
 
 export default function HomePage() {
   const recentPosts = getRecentPosts(3);
+
+  const stateOptions = states.map((s) => ({ name: s.name, slug: s.slug }));
+  const cityOptions = cities.map((c) => ({
+    name: c.name,
+    slug: c.slug,
+    stateSlug: c.stateSlug,
+  }));
 
   return (
     <>
@@ -27,18 +37,6 @@ export default function HomePage() {
             The Second Amendment is a fundamental constitutional right. Exercising it
             responsibly starts with the right dealer and the right information.
           </p>
-
-          {/* Dual search */}
-          <div className="mt-10 flex flex-col sm:flex-row gap-3 justify-center items-center">
-            <div className="relative">
-              <select className="font-serif text-sm px-5 py-3 border-2 border-ink-900 bg-white text-ink-900 appearance-none pr-10 min-w-[220px]">
-                <option>Select your state</option>
-                {states.map((s) => (
-                  <option key={s.slug} value={s.slug}>{s.name}</option>
-                ))}
-              </select>
-            </div>
-          </div>
         </div>
       </section>
 
@@ -47,16 +45,16 @@ export default function HomePage() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-10">
             <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-steel-500 mb-2">
-              Find local dealers
+              Find local dealers &amp; ranges
             </p>
             <h2 className="font-serif text-display-sm text-ink-900">
-              Trusted shops &amp; FFLs near you
+              Trusted shops &amp; ranges near you
             </h2>
           </div>
 
           <div className="grid grid-cols-2 sm:grid-cols-4">
             {categories.map((cat, i) => (
-              <Link key={cat.slug} href={`/dealers/${cat.slug}`}
+              <Link key={cat.slug} href="/dealers"
                 className={`group text-center py-6 px-4 border border-ink-100 ${i > 0 ? "-ml-px" : ""} hover:bg-cream-100 transition-colors`}>
                 {cat.slug === "gun-shops" && (
                   <svg width="24" height="24" viewBox="0 0 40 40" className="mx-auto mb-3" fill="none" stroke="#111110" strokeWidth="1.3">
@@ -95,14 +93,32 @@ export default function HomePage() {
             ))}
           </div>
 
-          {/* Browse CTA */}
+          {/* CTA */}
           <div className="mt-4 border border-ink-100 px-6 py-4 flex items-center justify-between">
             <div>
-              <p className="font-serif text-sm text-ink-900">Browse all dealers in your state</p>
+              <p className="font-serif text-sm text-ink-900">Find shops &amp; ranges in your state</p>
               <p className="font-sans text-xs text-ink-300 mt-1">Factual listings. Direct links to dealer websites. No paid placements.</p>
             </div>
-            <Link href="/dealers" className="btn-primary shrink-0">Browse dealers</Link>
+            <Link href="/dealers" className="btn-primary shrink-0">Find local dealers</Link>
           </div>
+        </div>
+      </section>
+
+      {/* Dealer search — cascading state/city dropdowns */}
+      <section className="py-12 sm:py-16 border-t border-ink-100">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-8">
+            <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-steel-500 mb-2">
+              Search by location
+            </p>
+            <h2 className="font-serif text-heading text-ink-900">
+              Find dealers &amp; ranges near you
+            </h2>
+          </div>
+          <DealerSearch states={stateOptions} cities={cityOptions} />
+          <p className="text-center text-[10px] text-ink-300 mt-4">
+            Select a state, then a city to see local dealers.
+          </p>
         </div>
       </section>
 
@@ -120,15 +136,15 @@ export default function HomePage() {
 
           <div className="grid grid-cols-2 sm:grid-cols-3">
             {[
-              { title: "State gun laws", sub: "50 state guides", href: "/states", icon: "document" },
+              { title: "State gun laws", sub: "50 state guides", href: "/dealers", icon: "document" },
               { title: "Carry laws", sub: "Concealed & open", href: "/blog/constitutional-carry-2026-which-states", icon: "shield" },
               { title: "Travel guide", sub: "Across state lines", href: "/blog", icon: "map" },
               { title: "Safety & storage", sub: "Responsible ownership", href: "/blog", icon: "safe" },
               { title: "New buyer guide", sub: "First-time owners", href: "/blog/first-time-gun-buyer-guide", icon: "person" },
               { title: "Red flag laws", sub: "State-by-state", href: "/blog", icon: "clock" },
-            ].map((item, i) => (
+            ].map((item) => (
               <Link key={item.title} href={item.href}
-                className={`group text-center py-6 px-4 border border-ink-100 hover:bg-cream-100 transition-colors`}>
+                className="group text-center py-6 px-4 border border-ink-100 hover:bg-cream-100 transition-colors">
                 {item.icon === "document" && (
                   <svg width="24" height="24" viewBox="0 0 40 40" className="mx-auto mb-3" fill="none" stroke="#111110" strokeWidth="1.3">
                     <rect x="8" y="6" width="24" height="28" rx="2" />
@@ -170,6 +186,14 @@ export default function HomePage() {
                 <p className="font-sans text-[9px] text-ink-300 mt-1">{item.sub}</p>
               </Link>
             ))}
+          </div>
+
+          {/* Law search dropdown */}
+          <div className="mt-8">
+            <div className="text-center mb-4">
+              <p className="font-serif text-sm text-ink-900">Look up your state&apos;s gun laws</p>
+            </div>
+            <LawSearch states={stateOptions} />
           </div>
         </div>
       </section>

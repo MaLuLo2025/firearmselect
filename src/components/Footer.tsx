@@ -30,7 +30,7 @@ export default function Footer() {
             <ul className="space-y-2">
               {categories.map((cat) => (
                 <li key={cat.slug}>
-                  <Link href={`/dealers/${cat.slug}`} className="text-sm text-ink-300 hover:text-steel-300 transition-colors">
+                  <Link href="/dealers" className="text-sm text-ink-300 hover:text-steel-300 transition-colors">
                     {cat.name}
                   </Link>
                 </li>

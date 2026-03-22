@@ -5,8 +5,8 @@ import { states, getStateBySlug } from "@/lib/states";
 import { categories } from "@/lib/categories";
 
 export const metadata: Metadata = {
-  title: "Find Firearms Dealers — Gun Shops, FFLs, Ranges & Instructors",
-  description: "Browse trusted firearms dealers by state. Find local gun shops, FFL transfer dealers, shooting ranges, and certified instructors near you.",
+  title: "Find Shops & Ranges — Gun Shops, FFLs, Ranges & Instructors",
+  description: "Find local gun shops, FFL transfer dealers, shooting ranges, and certified instructors by state. Factual listings with direct links to dealer websites.",
 };
 
 export default function DealersPage() {
@@ -21,7 +21,7 @@ export default function DealersPage() {
           <p className="font-sans text-[10px] uppercase tracking-[0.35em] text-steel-500 mb-3">
             Directory
           </p>
-          <h1 className="font-serif text-display-sm text-ink-900">Find dealers</h1>
+          <h1 className="font-serif text-display-sm text-ink-900">Find shops &amp; ranges</h1>
           <div className="section-divider mt-6 mb-6" />
           <p className="text-sm text-ink-400 max-w-md mx-auto">
             Browse trusted firearms dealers by state. Factual listings with direct links
