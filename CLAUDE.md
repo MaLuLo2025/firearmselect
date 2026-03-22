@@ -79,7 +79,7 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] Schema.org LocalBusiness structured data on dealer pages
 - [x] Cascading state→city dropdown search on homepage (client component)
 - [x] Separate state dropdown for gun law lookup on homepage
-- [x] Homepage with category cards above search, then law section
+- [x] Homepage layout: hero → search dropdowns → category cards → CTA bar → law section
 - [x] Legal pages (privacy, terms, cookies)
 - [x] Cookie consent banner
 - [x] Dynamic sitemap and robots.txt (all cities + dealers included)
