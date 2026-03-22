@@ -1,6 +1,8 @@
 import { MetadataRoute } from "next";
 import { states } from "@/lib/states";
 import { blogPosts } from "@/lib/blog";
+import { cities } from "@/lib/cities";
+import { dealers } from "@/lib/dealers";
 
 const BASE = "https://firearmselect.com";
 
@@ -11,6 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: BASE, lastModified: now, changeFrequency: "weekly" as const, priority: 1.0 },
     { url: `${BASE}/about`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.6 },
     { url: `${BASE}/blog`, lastModified: now, changeFrequency: "weekly" as const, priority: 0.8 },
+    { url: `${BASE}/dealers`, lastModified: now, changeFrequency: "weekly" as const, priority: 0.8 },
     { url: `${BASE}/privacy`, lastModified: now, changeFrequency: "yearly" as const, priority: 0.3 },
     { url: `${BASE}/terms`, lastModified: now, changeFrequency: "yearly" as const, priority: 0.3 },
     { url: `${BASE}/cookies`, lastModified: now, changeFrequency: "yearly" as const, priority: 0.3 },
@@ -23,6 +26,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }));
 
+  const cityPages = cities.map((c) => ({
+    url: `${BASE}/${c.stateSlug}/${c.slug}`,
+    lastModified: now,
+    changeFrequency: "weekly" as const,
+    priority: 0.8,
+  }));
+
+  const dealerPages = dealers.map((d) => ({
+    url: `${BASE}/${d.state}/${d.citySlug}/${d.slug}`,
+    lastModified: now,
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
   const blogPages = blogPosts.map((post) => ({
     url: `${BASE}/blog/${post.slug}`,
     lastModified: post.publishedAt,
@@ -30,5 +47,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticPages, ...statePages, ...blogPages];
+  return [...staticPages, ...statePages, ...cityPages, ...dealerPages, ...blogPages];
 }

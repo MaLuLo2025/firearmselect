@@ -22,6 +22,7 @@ export interface Dealer {
   categories: string[];
   state: string;
   city: string;
+  citySlug: string;
   address: string;
   phone: string;
   rating: number;
@@ -29,6 +30,12 @@ export interface Dealer {
   description: string;
   website?: string;
   featured?: boolean;
+}
+
+export interface City {
+  name: string;
+  slug: string;
+  stateSlug: string;
 }
 
 export interface BlogPost {
