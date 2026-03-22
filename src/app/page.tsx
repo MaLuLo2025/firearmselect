@@ -52,7 +52,21 @@ export default function HomePage() {
             </h2>
           </div>
 
-          <div className="grid grid-cols-2 sm:grid-cols-4">
+          {/* Dealer search — cascading state/city dropdowns */}
+          <div className="text-center">
+            <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-steel-500 mb-2">
+              Search by location
+            </p>
+            <h3 className="font-serif text-heading text-ink-900 mb-6">
+              Find shops, ranges &amp; instructors near you
+            </h3>
+            <DealerSearch states={stateOptions} cities={cityOptions} />
+            <p className="text-[10px] text-ink-300 mt-4">
+              Select a state, then a city to see local shops, ranges &amp; instructors.
+            </p>
+          </div>
+
+          <div className="mt-10 grid grid-cols-2 sm:grid-cols-4">
             {categories.map((cat, i) => (
               <Link key={cat.slug} href="/dealers"
                 className={`group text-center py-6 px-4 border border-ink-100 ${i > 0 ? "-ml-px" : ""} hover:bg-cream-100 transition-colors`}>
@@ -91,20 +105,6 @@ export default function HomePage() {
                 <p className="font-sans text-[9px] text-ink-300 mt-1">{cat.shortDescription}</p>
               </Link>
             ))}
-          </div>
-
-          {/* Dealer search — cascading state/city dropdowns */}
-          <div className="mt-8 text-center">
-            <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-steel-500 mb-2">
-              Search by location
-            </p>
-            <h3 className="font-serif text-heading text-ink-900 mb-6">
-              Find shops, ranges &amp; instructors near you
-            </h3>
-            <DealerSearch states={stateOptions} cities={cityOptions} />
-            <p className="text-[10px] text-ink-300 mt-4">
-              Select a state, then a city to see local shops, ranges &amp; instructors.
-            </p>
           </div>
 
           {/* CTA */}
