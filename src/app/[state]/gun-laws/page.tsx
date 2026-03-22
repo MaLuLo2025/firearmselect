@@ -102,7 +102,11 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
 
           <div className="text-center py-8 border border-ink-100">
             <p className="font-serif text-sm text-ink-900 mb-2">More {state.name} content coming soon</p>
-            <p className="font-sans text-xs text-ink-400">Detailed law breakdowns, additional shops, ranges, instructors, and carry-specific guides.</p>
+            <p className="font-sans text-xs text-ink-400 mb-4">Detailed law breakdowns, additional shops, ranges, instructors, and carry-specific guides.</p>
+            <Link href={`/dealers/${state.slug}`}
+              className="font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
+              Find shops &amp; ranges in {state.name} &rarr;
+            </Link>
           </div>
         </div>
       </section>

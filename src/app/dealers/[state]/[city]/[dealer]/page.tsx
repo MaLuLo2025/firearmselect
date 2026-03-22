@@ -134,7 +134,7 @@ export default function DealerDetailPage({ params }: { params: { state: string; 
           {relatedDealers.length > 0 && (
             <div>
               <h2 className="font-serif text-heading text-ink-900 mb-4">
-                Other dealers in {city.name}
+                Other shops &amp; ranges in {city.name}
               </h2>
               <div className="space-y-3">
                 {relatedDealers.map((d) => (
@@ -153,7 +153,7 @@ export default function DealerDetailPage({ params }: { params: { state: string; 
           <div className="flex gap-4 flex-wrap">
             <Link href={`/dealers/${state.slug}/${city.slug}`}
               className="font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
-              All {city.name} dealers &rarr;
+              All {city.name} shops &amp; ranges &rarr;
             </Link>
             <Link href={`/${state.slug}/gun-laws`}
               className="font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">

@@ -136,7 +136,7 @@ export default function HomePage() {
 
           <div className="grid grid-cols-2 sm:grid-cols-3">
             {[
-              { title: "State gun laws", sub: "50 state guides", href: "/dealers", icon: "document" },
+              { title: "State gun laws", sub: "50 state guides", href: "/blog", icon: "document" },
               { title: "Carry laws", sub: "Concealed & open", href: "/blog/constitutional-carry-2026-which-states", icon: "shield" },
               { title: "Travel guide", sub: "Across state lines", href: "/blog", icon: "map" },
               { title: "Safety & storage", sub: "Responsible ownership", href: "/blog", icon: "safe" },
