@@ -14,8 +14,8 @@ export function generateMetadata({ params }: { params: { state: string; city: st
   const state = getStateBySlug(params.state);
   const city = getCityBySlug(params.state, params.city);
   if (!state || !city) return {};
-  const title = `Firearms Dealers in ${city.name}, ${state.abbr} — Gun Shops, Ranges & More`;
-  const description = `Find trusted firearms dealers in ${city.name}, ${state.name}. Browse local gun shops, FFL dealers, shooting ranges, and certified instructors.`;
+  const title = `Gun Shops, Ranges & Instructors in ${city.name}, ${state.abbr}`;
+  const description = `Find trusted gun shops, shooting ranges, FFL dealers, and firearms instructors in ${city.name}, ${state.name}. Factual listings with direct links.`;
   return { title, description, openGraph: { title, description } };
 }
 
@@ -39,7 +39,7 @@ export default function CityDealersPage({ params }: { params: { state: string; c
             <ol className="flex items-center gap-2 text-xs text-ink-300">
               <li><Link href="/" className="hover:text-ink-900 transition-colors">Home</Link></li>
               <li>/</li>
-              <li><Link href="/dealers" className="hover:text-ink-900 transition-colors">Dealers</Link></li>
+              <li><Link href="/dealers" className="hover:text-ink-900 transition-colors">Shops &amp; Ranges</Link></li>
               <li>/</li>
               <li><Link href={`/dealers/${state.slug}`} className="hover:text-ink-900 transition-colors">{state.name}</Link></li>
               <li>/</li>
@@ -47,15 +47,21 @@ export default function CityDealersPage({ params }: { params: { state: string; c
             </ol>
           </nav>
           <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-steel-500 mb-3">
-            Dealers &middot; {state.abbr}
+            Shops, Ranges &amp; Instructors &middot; {state.abbr}
           </p>
           <h1 className="font-serif text-display-sm text-ink-900">
-            Firearms Dealers in {city.name}, {state.abbr}
+            Gun Shops, Ranges &amp; Instructors in {city.name}, {state.abbr}
           </h1>
           <div className="w-10 h-0.5 bg-ink-900 mt-6 mb-4" />
-          <p className="text-sm text-ink-400">
-            {cityDealers.length} {cityDealers.length === 1 ? "dealer" : "dealers"} listed
-          </p>
+          {cityDealers.length > 0 ? (
+            <p className="text-sm text-ink-400">
+              {cityDealers.length} {cityDealers.length === 1 ? "listing" : "listings"}
+            </p>
+          ) : (
+            <p className="text-sm text-ink-400">
+              Listings coming soon
+            </p>
+          )}
         </div>
       </section>
 
@@ -73,33 +79,58 @@ export default function CityDealersPage({ params }: { params: { state: string; c
         </section>
       )}
 
-      <section className="py-12 sm:py-16">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-3">
-          {cityDealers.map((d) => (
-            <div key={d.id} className="border border-ink-100 p-5 flex items-start justify-between gap-4">
-              <div>
-                <h3 className="font-serif text-subheading text-ink-900">
-                  <Link href={`/dealers/${state.slug}/${city.slug}/${d.slug}`} className="hover:text-steel-600 transition-colors">
-                    {d.name}
+      {cityDealers.length > 0 ? (
+        <section className="py-12 sm:py-16">
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-3">
+            {cityDealers.map((d) => (
+              <div key={d.id} className="border border-ink-100 p-5 flex items-start justify-between gap-4">
+                <div>
+                  <h3 className="font-serif text-subheading text-ink-900">
+                    <Link href={`/dealers/${state.slug}/${city.slug}/${d.slug}`} className="hover:text-steel-600 transition-colors">
+                      {d.name}
+                    </Link>
+                  </h3>
+                  <p className="font-sans text-xs text-ink-400 mt-1">
+                    {d.city}, {state.abbr} &middot;{" "}
+                    {d.categories.map((c) => c.replace(/-/g, " ")).join(", ")}
+                  </p>
+                  <p className="text-xs text-ink-400 mt-2 leading-relaxed">{d.description}</p>
+                </div>
+                <div className="text-right shrink-0">
+                  <p className="font-sans text-xs text-ink-500">{d.rating} ({d.reviewCount})</p>
+                  <Link href={`/dealers/${state.slug}/${city.slug}/${d.slug}`}
+                    className="inline-block mt-2 font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
+                    View details
                   </Link>
-                </h3>
-                <p className="font-sans text-xs text-ink-400 mt-1">
-                  {d.city}, {state.abbr} &middot;{" "}
-                  {d.categories.map((c) => c.replace(/-/g, " ")).join(", ")}
-                </p>
-                <p className="text-xs text-ink-400 mt-2 leading-relaxed">{d.description}</p>
+                </div>
               </div>
-              <div className="text-right shrink-0">
-                <p className="font-sans text-xs text-ink-500">{d.rating} ({d.reviewCount})</p>
-                <Link href={`/dealers/${state.slug}/${city.slug}/${d.slug}`}
-                  className="inline-block mt-2 font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
-                  View details
+            ))}
+          </div>
+        </section>
+      ) : (
+        <section className="py-12 sm:py-16">
+          <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="text-center py-12 border border-ink-100">
+              <p className="font-serif text-sm text-ink-900 mb-2">
+                Gun shops, ranges &amp; instructors in {city.name} coming soon
+              </p>
+              <p className="font-sans text-xs text-ink-400 mb-6 max-w-sm mx-auto">
+                We&apos;re adding verified listings for {city.name}, {state.abbr}. Check back soon or browse other locations.
+              </p>
+              <div className="flex justify-center gap-4">
+                <Link href={`/dealers/${state.slug}`}
+                  className="font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors border border-ink-100 px-4 py-2">
+                  All {state.name} listings
+                </Link>
+                <Link href="/dealers"
+                  className="font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors border border-ink-100 px-4 py-2">
+                  All states
                 </Link>
               </div>
             </div>
-          ))}
-        </div>
-      </section>
+          </div>
+        </section>
+      )}
 
       <section className="py-12 sm:py-16 border-t border-ink-100">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 space-y-6">
@@ -130,8 +161,8 @@ export default function CityDealersPage({ params }: { params: { state: string; c
       <section className="py-6 bg-cream-100 border-t border-ink-100">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-[10px] text-ink-300 leading-relaxed">
-            FirearmSelect does not endorse or recommend any specific dealer. Listings are based on publicly available
-            information. Verify dealer credentials and comply with all applicable laws before conducting any transaction.
+            FirearmSelect does not endorse or recommend any specific dealer, range, or instructor. Listings are based on publicly available
+            information. Verify credentials and comply with all applicable laws before conducting any transaction.
           </p>
         </div>
       </section>

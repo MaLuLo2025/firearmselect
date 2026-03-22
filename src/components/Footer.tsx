@@ -20,13 +20,13 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-sm text-ink-300 leading-relaxed max-w-xs">
-              The informed firearms directory. Find trusted dealers, understand state laws,
-              and own responsibly.
+              The informed firearms directory. Find trusted shops, ranges, and instructors.
+              Understand state laws and own responsibly.
             </p>
           </div>
 
           <div>
-            <h4 className="font-serif text-sm text-white uppercase tracking-wider mb-4">Dealers</h4>
+            <h4 className="font-serif text-sm text-white uppercase tracking-wider mb-4">Shops &amp; Ranges</h4>
             <ul className="space-y-2">
               {categories.map((cat) => (
                 <li key={cat.slug}>

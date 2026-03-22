@@ -64,7 +64,7 @@ export default function DealerDetailPage({ params }: { params: { state: string; 
             <ol className="flex items-center gap-2 text-xs text-ink-300">
               <li><Link href="/" className="hover:text-ink-900 transition-colors">Home</Link></li>
               <li>/</li>
-              <li><Link href="/dealers" className="hover:text-ink-900 transition-colors">Dealers</Link></li>
+              <li><Link href="/dealers" className="hover:text-ink-900 transition-colors">Shops &amp; Ranges</Link></li>
               <li>/</li>
               <li><Link href={`/dealers/${state.slug}`} className="hover:text-ink-900 transition-colors">{state.name}</Link></li>
               <li>/</li>
@@ -166,8 +166,8 @@ export default function DealerDetailPage({ params }: { params: { state: string; 
       <section className="py-6 bg-cream-100 border-t border-ink-100">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-[10px] text-ink-300 leading-relaxed">
-            FirearmSelect does not endorse or recommend any specific dealer. Listings are based on publicly available
-            information. Verify dealer credentials and comply with all applicable laws before conducting any transaction.
+            FirearmSelect does not endorse or recommend any specific dealer, range, or instructor. Listings are based on publicly available
+            information. Verify credentials and comply with all applicable laws before conducting any transaction.
           </p>
         </div>
       </section>

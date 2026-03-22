@@ -67,7 +67,7 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
           {featured.length > 0 && (
             <div>
               <h2 className="font-serif text-heading text-ink-900 mb-4">
-                Featured dealers in {state.name}
+                Featured shops, ranges &amp; instructors in {state.name}
               </h2>
               <div className="space-y-3">
                 {featured.map((d) => (
@@ -102,7 +102,7 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
 
           <div className="text-center py-8 border border-ink-100">
             <p className="font-serif text-sm text-ink-900 mb-2">More {state.name} content coming soon</p>
-            <p className="font-sans text-xs text-ink-400">Detailed law breakdowns, additional dealers, and carry-specific guides.</p>
+            <p className="font-sans text-xs text-ink-400">Detailed law breakdowns, additional shops, ranges, instructors, and carry-specific guides.</p>
           </div>
         </div>
       </section>

@@ -19,7 +19,7 @@ export default function Header() {
 
         <nav className="flex items-center gap-6">
           <Link href="/dealers" className="font-sans text-[11px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
-            Dealers
+            Shops &amp; Ranges
           </Link>
           <div className="relative group">
             <span className="font-sans text-[11px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors cursor-pointer">

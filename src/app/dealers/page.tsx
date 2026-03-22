@@ -24,8 +24,8 @@ export default function DealersPage() {
           <h1 className="font-serif text-display-sm text-ink-900">Find shops &amp; ranges</h1>
           <div className="section-divider mt-6 mb-6" />
           <p className="text-sm text-ink-400 max-w-md mx-auto">
-            Browse trusted firearms dealers by state. Factual listings with direct links
-            to dealer websites. No paid placements.
+            Find gun shops, shooting ranges, FFL dealers, and instructors by state.
+            Factual listings with direct links. No paid placements.
           </p>
         </div>
       </section>
@@ -94,8 +94,8 @@ export default function DealersPage() {
       <section className="py-6 bg-cream-100 border-t border-ink-100">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-[10px] text-ink-300 leading-relaxed">
-            FirearmSelect does not endorse or recommend any specific dealer. Listings are based on publicly available
-            information. Verify dealer credentials and comply with all applicable laws before conducting any transaction.
+            FirearmSelect does not endorse or recommend any specific dealer, range, or instructor. Listings are based on publicly available
+            information. Verify credentials and comply with all applicable laws before conducting any transaction.
           </p>
         </div>
       </section>

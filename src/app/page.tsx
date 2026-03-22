@@ -25,13 +25,13 @@ export default function HomePage() {
             The Informed Firearms Directory
           </p>
           <h1 className="font-serif text-display-sm sm:text-display text-ink-900 text-balance">
-            Find trusted dealers.{" "}
+            Find trusted dealers, ranges &amp; instructors.{" "}
             <span className="border-b-2 border-steel-500 pb-0.5">Know your rights.</span>
           </h1>
           <div className="w-10 h-0.5 bg-ink-900 mx-auto mt-8 mb-6" />
           <p className="text-ink-400 text-base sm:text-lg max-w-lg mx-auto leading-relaxed">
-            Local firearms dealers, state-by-state gun laws, and educational content
-            for responsible gun owners — all in one place.
+            Local gun shops, shooting ranges, certified instructors, state-by-state gun laws,
+            and educational content for responsible gun owners — all in one place.
           </p>
           <p className="text-steel-500 text-sm italic max-w-md mx-auto mt-3 leading-relaxed">
             The Second Amendment is a fundamental constitutional right. Exercising it
@@ -99,7 +99,7 @@ export default function HomePage() {
               <p className="font-serif text-sm text-ink-900">Find shops &amp; ranges in your state</p>
               <p className="font-sans text-xs text-ink-300 mt-1">Factual listings. Direct links to dealer websites. No paid placements.</p>
             </div>
-            <Link href="/dealers" className="btn-primary shrink-0">Find local dealers</Link>
+            <Link href="/dealers" className="btn-primary shrink-0">Find local shops &amp; ranges</Link>
           </div>
         </div>
       </section>
@@ -112,12 +112,12 @@ export default function HomePage() {
               Search by location
             </p>
             <h2 className="font-serif text-heading text-ink-900">
-              Find dealers &amp; ranges near you
+              Find shops, ranges &amp; instructors near you
             </h2>
           </div>
           <DealerSearch states={stateOptions} cities={cityOptions} />
           <p className="text-center text-[10px] text-ink-300 mt-4">
-            Select a state, then a city to see local dealers.
+            Select a state, then a city to see local shops, ranges &amp; instructors.
           </p>
         </div>
       </section>
@@ -205,7 +205,7 @@ export default function HomePage() {
             <p className="font-serif text-sm text-ink-900 mb-1">Factual. Non-partisan. Cited to primary sources.</p>
             <p className="font-sans text-xs text-ink-400 leading-relaxed">
               Every law links to the actual statute. Every right comes with its responsibility.
-              We connect buyers with trusted dealers and arm everyone with accurate information.
+              We connect buyers with trusted shops, ranges, and instructors — and arm everyone with accurate information.
             </p>
           </div>
         </div>

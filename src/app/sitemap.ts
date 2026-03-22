@@ -1,8 +1,8 @@
 import { MetadataRoute } from "next";
 import { states } from "@/lib/states";
 import { blogPosts } from "@/lib/blog";
-import { cities } from "@/lib/cities";
-import { dealers, getDealersByState } from "@/lib/dealers";
+import { cities, getCitiesByState } from "@/lib/cities";
+import { dealers } from "@/lib/dealers";
 
 const BASE = "https://firearmselect.com";
 
@@ -27,7 +27,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   const stateDealerPages = states
-    .filter((s) => getDealersByState(s.slug).length > 0)
+    .filter((s) => getCitiesByState(s.slug).length > 0)
     .map((s) => ({
       url: `${BASE}/dealers/${s.slug}`,
       lastModified: now,

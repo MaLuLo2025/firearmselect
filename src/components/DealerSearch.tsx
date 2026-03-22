@@ -25,7 +25,7 @@ export default function DealerSearch({
   const [selectedState, setSelectedState] = useState("");
   const [selectedCity, setSelectedCity] = useState("");
 
-  const statesWithDealers = useMemo(
+  const statesWithCities = useMemo(
     () => states.filter((s) => cities.some((c) => c.stateSlug === s.slug)),
     [states, cities]
   );
@@ -55,7 +55,7 @@ export default function DealerSearch({
         className="font-serif text-sm px-5 py-3 border-2 border-ink-900 bg-white text-ink-900 appearance-none pr-10 min-w-[220px]"
       >
         <option value="">Select your state</option>
-        {statesWithDealers.map((s) => (
+        {statesWithCities.map((s) => (
           <option key={s.slug} value={s.slug}>
             {s.name}
           </option>
