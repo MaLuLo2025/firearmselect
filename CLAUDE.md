@@ -91,5 +91,5 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] /safety/ page (four rules, secure storage, children, maintenance)
 - [x] /red-flag-laws/ page (ERPO process, 21 states detailed, federal legislation)
 - [x] Google Analytics integration (G-5PMR8Q3KDL)
-- [ ] Google Search Console
+- [x] Google Search Console (verified via GA)
 - [ ] More dealers per city
