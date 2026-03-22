@@ -93,32 +93,28 @@ export default function HomePage() {
             ))}
           </div>
 
+          {/* Dealer search — cascading state/city dropdowns */}
+          <div className="mt-8 text-center">
+            <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-steel-500 mb-2">
+              Search by location
+            </p>
+            <h3 className="font-serif text-heading text-ink-900 mb-6">
+              Find shops, ranges &amp; instructors near you
+            </h3>
+            <DealerSearch states={stateOptions} cities={cityOptions} />
+            <p className="text-[10px] text-ink-300 mt-4">
+              Select a state, then a city to see local shops, ranges &amp; instructors.
+            </p>
+          </div>
+
           {/* CTA */}
-          <div className="mt-4 border border-ink-100 px-6 py-4 flex items-center justify-between">
+          <div className="mt-8 border border-ink-100 px-6 py-4 flex items-center justify-between">
             <div>
               <p className="font-serif text-sm text-ink-900">Find shops &amp; ranges in your state</p>
               <p className="font-sans text-xs text-ink-300 mt-1">Factual listings. Direct links to dealer websites. No paid placements.</p>
             </div>
             <Link href="/dealers" className="btn-primary shrink-0">Find local shops &amp; ranges</Link>
           </div>
-        </div>
-      </section>
-
-      {/* Dealer search — cascading state/city dropdowns */}
-      <section className="py-12 sm:py-16 border-t border-ink-100">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-8">
-            <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-steel-500 mb-2">
-              Search by location
-            </p>
-            <h2 className="font-serif text-heading text-ink-900">
-              Find shops, ranges &amp; instructors near you
-            </h2>
-          </div>
-          <DealerSearch states={stateOptions} cities={cityOptions} />
-          <p className="text-center text-[10px] text-ink-300 mt-4">
-            Select a state, then a city to see local shops, ranges &amp; instructors.
-          </p>
         </div>
       </section>
 
