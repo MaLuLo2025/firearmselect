@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-ink-900 font-sans antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-block font-sans text-xs uppercase tracking-widest px-6 py-3
+           bg-ink-900 text-white transition-colors duration-200
+           hover:bg-ink-700;
+  }
+  .btn-secondary {
+    @apply inline-block font-sans text-xs uppercase tracking-widest px-6 py-3
+           border border-ink-200 text-ink-500 transition-colors duration-200
+           hover:border-ink-900 hover:text-ink-900;
+  }
+  .section-divider {
+    @apply w-10 h-0.5 bg-ink-900 mx-auto;
+  }
+}

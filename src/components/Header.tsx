@@ -1,0 +1,47 @@
+import Link from "next/link";
+import { states } from "@/lib/states";
+
+export default function Header() {
+  return (
+    <header className="border-b-2 border-ink-900">
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-3.5 flex items-center justify-between">
+        <Link href="/" className="flex items-center gap-2.5">
+          <svg width="32" height="32" viewBox="0 0 100 100" fill="none">
+            <circle cx="50" cy="50" r="46" stroke="#111110" strokeWidth="2.5" />
+            <circle cx="50" cy="50" r="34" stroke="#5a6a7a" strokeWidth="1.5" />
+            <circle cx="50" cy="50" r="22" stroke="#111110" strokeWidth="1" />
+            <text x="50" y="58" textAnchor="middle" fontFamily="Georgia, serif" fontSize="28" fill="#111110">F</text>
+          </svg>
+          <span className="font-serif text-xl text-ink-900 tracking-tight">
+            Firearm<span className="text-steel-500">Select</span>
+          </span>
+        </Link>
+
+        <nav className="flex items-center gap-6">
+          <Link href="/dealers" className="font-sans text-[11px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
+            Dealers
+          </Link>
+          <div className="relative group">
+            <span className="font-sans text-[11px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors cursor-pointer">
+              States
+            </span>
+            <div className="hidden group-hover:block absolute top-full left-0 mt-2 w-48 bg-white border border-ink-100 shadow-sm z-50 max-h-64 overflow-y-auto">
+              {states.map((s) => (
+                <Link key={s.slug} href={`/${s.slug}/gun-laws`}
+                  className="block px-4 py-2 text-xs text-ink-500 hover:bg-cream-100 hover:text-ink-900 transition-colors">
+                  {s.name}
+                </Link>
+              ))}
+            </div>
+          </div>
+          <Link href="/blog" className="font-sans text-[11px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
+            Blog
+          </Link>
+          <Link href="/about" className="font-sans text-[11px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
+            About
+          </Link>
+        </nav>
+      </div>
+    </header>
+  );
+}
