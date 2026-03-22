@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { states } from "@/lib/states";
 import { blogPosts } from "@/lib/blog";
 import { cities } from "@/lib/cities";
-import { dealers } from "@/lib/dealers";
+import { dealers, getDealersByState } from "@/lib/dealers";
 
 const BASE = "https://firearmselect.com";
 
@@ -26,15 +26,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }));
 
+  const stateDealerPages = states
+    .filter((s) => getDealersByState(s.slug).length > 0)
+    .map((s) => ({
+      url: `${BASE}/dealers/${s.slug}`,
+      lastModified: now,
+      changeFrequency: "weekly" as const,
+      priority: 0.85,
+    }));
+
   const cityPages = cities.map((c) => ({
-    url: `${BASE}/${c.stateSlug}/${c.slug}`,
+    url: `${BASE}/dealers/${c.stateSlug}/${c.slug}`,
     lastModified: now,
     changeFrequency: "weekly" as const,
     priority: 0.8,
   }));
 
   const dealerPages = dealers.map((d) => ({
-    url: `${BASE}/${d.state}/${d.citySlug}/${d.slug}`,
+    url: `${BASE}/dealers/${d.state}/${d.citySlug}/${d.slug}`,
     lastModified: now,
     changeFrequency: "monthly" as const,
     priority: 0.7,
@@ -47,5 +56,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticPages, ...statePages, ...cityPages, ...dealerPages, ...blogPages];
+  return [...staticPages, ...statePages, ...stateDealerPages, ...cityPages, ...dealerPages, ...blogPages];
 }

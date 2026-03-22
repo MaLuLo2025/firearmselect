@@ -62,12 +62,12 @@ export default function DealersPage() {
                     <div key={d.id} className="border border-ink-100 p-5 flex items-start justify-between gap-4">
                       <div>
                         <h3 className="font-serif text-subheading text-ink-900">
-                          <Link href={`/${d.state}/${d.citySlug}/${d.slug}`} className="hover:text-steel-600 transition-colors">
+                          <Link href={`/dealers/${d.state}/${d.citySlug}/${d.slug}`} className="hover:text-steel-600 transition-colors">
                             {d.name}
                           </Link>
                         </h3>
                         <p className="font-sans text-xs text-ink-400 mt-1">
-                          <Link href={`/${d.state}/${d.citySlug}`} className="hover:text-ink-900 transition-colors">
+                          <Link href={`/dealers/${d.state}/${d.citySlug}`} className="hover:text-ink-900 transition-colors">
                             {d.city}
                           </Link>
                           , {state.abbr} &middot;{" "}
@@ -77,7 +77,7 @@ export default function DealersPage() {
                       </div>
                       <div className="text-right shrink-0">
                         <p className="font-sans text-xs text-ink-500">{d.rating} ({d.reviewCount})</p>
-                        <Link href={`/${d.state}/${d.citySlug}/${d.slug}`}
+                        <Link href={`/dealers/${d.state}/${d.citySlug}/${d.slug}`}
                           className="inline-block mt-2 font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
                           View details
                         </Link>

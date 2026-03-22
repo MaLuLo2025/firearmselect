@@ -75,12 +75,12 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
                     <div className="flex items-start justify-between gap-4">
                       <div>
                         <h3 className="font-serif text-subheading text-ink-900">
-                          <Link href={`/${state.slug}/${d.citySlug}/${d.slug}`} className="hover:text-steel-600 transition-colors">
+                          <Link href={`/dealers/${state.slug}/${d.citySlug}/${d.slug}`} className="hover:text-steel-600 transition-colors">
                             {d.name}
                           </Link>
                         </h3>
                         <p className="font-sans text-xs text-ink-400 mt-1">
-                          <Link href={`/${state.slug}/${d.citySlug}`} className="hover:text-ink-900 transition-colors">{d.city}</Link>, {state.abbr} &middot; {d.categories.map(c => c.replace(/-/g, ' ')).join(', ')}
+                          <Link href={`/dealers/${state.slug}/${d.citySlug}`} className="hover:text-ink-900 transition-colors">{d.city}</Link>, {state.abbr} &middot; {d.categories.map(c => c.replace(/-/g, ' ')).join(', ')}
                         </p>
                         <p className="text-xs text-ink-400 mt-2 leading-relaxed">{d.description}</p>
                       </div>

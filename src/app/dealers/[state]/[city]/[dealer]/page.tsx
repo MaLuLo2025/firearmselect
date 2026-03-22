@@ -66,9 +66,9 @@ export default function DealerDetailPage({ params }: { params: { state: string; 
               <li>/</li>
               <li><Link href="/dealers" className="hover:text-ink-900 transition-colors">Dealers</Link></li>
               <li>/</li>
-              <li><Link href={`/${state.slug}/gun-laws`} className="hover:text-ink-900 transition-colors">{state.name}</Link></li>
+              <li><Link href={`/dealers/${state.slug}`} className="hover:text-ink-900 transition-colors">{state.name}</Link></li>
               <li>/</li>
-              <li><Link href={`/${state.slug}/${city.slug}`} className="hover:text-ink-900 transition-colors">{city.name}</Link></li>
+              <li><Link href={`/dealers/${state.slug}/${city.slug}`} className="hover:text-ink-900 transition-colors">{city.name}</Link></li>
               <li>/</li>
               <li className="text-ink-500">{dealer.name}</li>
             </ol>
@@ -138,7 +138,7 @@ export default function DealerDetailPage({ params }: { params: { state: string; 
               </h2>
               <div className="space-y-3">
                 {relatedDealers.map((d) => (
-                  <Link key={d.id} href={`/${state.slug}/${city.slug}/${d.slug}`}
+                  <Link key={d.id} href={`/dealers/${state.slug}/${city.slug}/${d.slug}`}
                     className="block border border-ink-100 p-4 hover:border-ink-300 transition-colors">
                     <h3 className="font-serif text-subheading text-ink-900">{d.name}</h3>
                     <p className="font-sans text-xs text-ink-400 mt-1">
@@ -151,7 +151,7 @@ export default function DealerDetailPage({ params }: { params: { state: string; 
           )}
 
           <div className="flex gap-4 flex-wrap">
-            <Link href={`/${state.slug}/${city.slug}`}
+            <Link href={`/dealers/${state.slug}/${city.slug}`}
               className="font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
               All {city.name} dealers &rarr;
             </Link>

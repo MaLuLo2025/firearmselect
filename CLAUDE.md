@@ -21,17 +21,18 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 
 ## URL Architecture
 ```
-/                                 → Homepage (dealers above fold)
-/{state}/gun-laws/                → State gun law guide
-/{state}/{city}/                  → City dealer hub (all dealers in city)
-/{state}/{city}/{dealer}/         → Individual dealer detail page
-/dealers/                         → Dealer directory (all states)
-/blog/                            → Blog listing
-/blog/{slug}/                     → Blog article
-/about/                           → About page
-/privacy/                         → Privacy policy
-/terms/                           → Terms of service
-/cookies/                         → Cookie policy
+/                                       → Homepage (dealers above fold)
+/{state}/gun-laws/                      → State gun law guide
+/dealers/                               → Main dealer directory
+/dealers/{state}/                       → State dealers (grouped by city)
+/dealers/{state}/{city}/                → City dealer hub
+/dealers/{state}/{city}/{dealer}/       → Individual dealer detail page
+/blog/                                  → Blog listing
+/blog/{slug}/                           → Blog article
+/about/                                 → About page
+/privacy/                               → Privacy policy
+/terms/                                 → Terms of service
+/cookies/                               → Cookie policy
 ```
 
 ## Dealer Categories
@@ -53,8 +54,9 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] 10 state gun law pages (TX, FL, CA, NY, AZ, GA, OH, CO, PA, MI)
 - [x] 3 blog articles (constitutional carry, Bruen, first-time buyer)
 - [x] Sample dealer data for 6 states (13 dealers across 12 cities)
-- [x] City-level dealer architecture (/{state}/{city}/ hub pages)
-- [x] Individual dealer detail pages (/{state}/{city}/{dealer}/)
+- [x] City-level dealer architecture (/dealers/{state}/{city}/ hub pages)
+- [x] State dealer pages (/dealers/{state}/ grouped by city)
+- [x] Individual dealer detail pages (/dealers/{state}/{city}/{dealer}/)
 - [x] Schema.org LocalBusiness structured data on dealer pages
 - [x] Homepage with dealers above fold
 - [x] Legal pages (privacy, terms, cookies)

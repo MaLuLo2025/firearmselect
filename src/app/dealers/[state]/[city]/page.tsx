@@ -41,7 +41,7 @@ export default function CityDealersPage({ params }: { params: { state: string; c
               <li>/</li>
               <li><Link href="/dealers" className="hover:text-ink-900 transition-colors">Dealers</Link></li>
               <li>/</li>
-              <li><Link href={`/${state.slug}/gun-laws`} className="hover:text-ink-900 transition-colors">{state.name}</Link></li>
+              <li><Link href={`/dealers/${state.slug}`} className="hover:text-ink-900 transition-colors">{state.name}</Link></li>
               <li>/</li>
               <li className="text-ink-500">{city.name}</li>
             </ol>
@@ -79,7 +79,7 @@ export default function CityDealersPage({ params }: { params: { state: string; c
             <div key={d.id} className="border border-ink-100 p-5 flex items-start justify-between gap-4">
               <div>
                 <h3 className="font-serif text-subheading text-ink-900">
-                  <Link href={`/${state.slug}/${city.slug}/${d.slug}`} className="hover:text-steel-600 transition-colors">
+                  <Link href={`/dealers/${state.slug}/${city.slug}/${d.slug}`} className="hover:text-steel-600 transition-colors">
                     {d.name}
                   </Link>
                 </h3>
@@ -91,7 +91,7 @@ export default function CityDealersPage({ params }: { params: { state: string; c
               </div>
               <div className="text-right shrink-0">
                 <p className="font-sans text-xs text-ink-500">{d.rating} ({d.reviewCount})</p>
-                <Link href={`/${state.slug}/${city.slug}/${d.slug}`}
+                <Link href={`/dealers/${state.slug}/${city.slug}/${d.slug}`}
                   className="inline-block mt-2 font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
                   View details
                 </Link>
@@ -116,7 +116,7 @@ export default function CityDealersPage({ params }: { params: { state: string; c
               </p>
               <div className="flex gap-3 flex-wrap">
                 {otherCities.map((c) => (
-                  <Link key={c.slug} href={`/${state.slug}/${c.slug}`}
+                  <Link key={c.slug} href={`/dealers/${state.slug}/${c.slug}`}
                     className="font-sans text-xs text-steel-500 hover:text-ink-900 transition-colors border border-ink-100 px-3 py-1">
                     {c.name}
                   </Link>
