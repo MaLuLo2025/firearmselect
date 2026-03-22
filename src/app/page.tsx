@@ -136,12 +136,12 @@ export default function HomePage() {
 
           <div className="grid grid-cols-2 sm:grid-cols-3">
             {[
-              { title: "State gun laws", sub: "50 state guides", href: "/blog", icon: "document" },
-              { title: "Carry laws", sub: "Concealed & open", href: "/blog/constitutional-carry-2026-which-states", icon: "shield" },
-              { title: "Travel guide", sub: "Across state lines", href: "/blog", icon: "map" },
-              { title: "Safety & storage", sub: "Responsible ownership", href: "/blog", icon: "safe" },
+              { title: "State gun laws", sub: "50 state guides", href: "/states", icon: "document" },
+              { title: "Carry laws", sub: "Concealed & open", href: "/carry-laws", icon: "shield" },
+              { title: "Travel guide", sub: "Across state lines", href: "/reciprocity", icon: "map" },
+              { title: "Safety & storage", sub: "Responsible ownership", href: "/safety", icon: "safe" },
               { title: "New buyer guide", sub: "First-time owners", href: "/blog/first-time-gun-buyer-guide", icon: "person" },
-              { title: "Red flag laws", sub: "State-by-state", href: "/blog", icon: "clock" },
+              { title: "Red flag laws", sub: "State-by-state", href: "/red-flag-laws", icon: "clock" },
             ].map((item) => (
               <Link key={item.title} href={item.href}
                 className="group text-center py-6 px-4 border border-ink-100 hover:bg-cream-100 transition-colors">
