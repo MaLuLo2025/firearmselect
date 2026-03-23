@@ -56,16 +56,22 @@ export default function ReciprocityPage() {
             <div className="space-y-4">
               {[
                 { title: "Research every state on your route", text: "You must comply with the laws of each state you pass through, not just your destination. A legal firearm in your home state may be illegal in a state you drive through." },
-                { title: "Federal Peaceable Journey law (FOPA)", text: "Under 18 U.S.C. § 926A, you may transport a firearm through a state where it would otherwise be illegal, provided the firearm is unloaded, not readily accessible, and legal at both your origin and destination. This is a narrow protection — stops, detours, or overnight stays may void it." },
+                { title: "Federal Peaceable Journey law (FOPA)", text: "Under 18 U.S.C. § 926A, you may transport a firearm through a state where it would otherwise be illegal, provided the firearm is unloaded, not readily accessible, and legal at both your origin and destination. This is a narrow protection — stops, detours, or overnight stays may void it.", url: "https://www.law.cornell.edu/uscode/text/18/926A" },
                 { title: "Flying with firearms", text: "TSA allows firearms in checked baggage only. The firearm must be unloaded, in a hard-sided locked case, and declared at check-in. Ammunition must be in its original packaging or a container designed for it. Check your airline's specific policies in addition to TSA rules." },
                 { title: "Vehicle storage requirements vary", text: "Some states require firearms to be stored in the trunk or a locked container while in a vehicle. Others allow loaded firearms in the passenger compartment with or without a permit. These rules differ significantly and can result in criminal charges if violated." },
                 { title: "Magazine and ammunition restrictions", text: "Some states restrict magazine capacity (commonly 10 or 15 rounds) or ban certain types of ammunition. A magazine that is legal in your home state may be a criminal offense in your destination state. Check before you travel." },
-              ].map((item) => (
+              ].map((item: { title: string; text: string; url?: string }) => (
                 <div key={item.title} className="flex gap-4">
                   <div className="w-0.5 bg-ink-900 shrink-0" />
                   <div>
                     <h3 className="font-serif text-subheading text-ink-900">{item.title}</h3>
                     <p className="text-xs text-ink-400 leading-relaxed mt-1">{item.text}</p>
+                    {item.url && (
+                      <a href={item.url} target="_blank" rel="noopener noreferrer"
+                        className="text-xs text-steel-500 hover:text-ink-900 transition-colors mt-1 inline-block">
+                        Read full statute &rarr;
+                      </a>
+                    )}
                   </div>
                 </div>
               ))}

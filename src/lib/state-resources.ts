@@ -1,0 +1,61 @@
+export interface StateResources {
+  stateSlug: string;
+  legislature: { name: string; url: string };
+  permits: { name: string; url: string };
+}
+
+export const stateResources: StateResources[] = [
+  { stateSlug: "alabama", legislature: { name: "Alabama Legislature", url: "https://alison.legislature.state.al.us" }, permits: { name: "Alabama Law Enforcement Agency", url: "https://www.alea.gov" } },
+  { stateSlug: "alaska", legislature: { name: "Alaska Legislature", url: "https://www.akleg.gov" }, permits: { name: "Alaska Department of Public Safety", url: "https://dps.alaska.gov" } },
+  { stateSlug: "arizona", legislature: { name: "Arizona Legislature", url: "https://www.azleg.gov" }, permits: { name: "Arizona Department of Public Safety", url: "https://www.azdps.gov/services/public/cwp" } },
+  { stateSlug: "arkansas", legislature: { name: "Arkansas Legislature", url: "https://www.arkleg.state.ar.us" }, permits: { name: "Arkansas State Police", url: "https://www.asp.arkansas.gov/services-and-programs/concealed-handgun-carry-licensing" } },
+  { stateSlug: "california", legislature: { name: "California Legislature", url: "https://leginfo.legislature.ca.gov" }, permits: { name: "California DOJ — Firearms", url: "https://oag.ca.gov/firearms" } },
+  { stateSlug: "colorado", legislature: { name: "Colorado General Assembly", url: "https://leg.colorado.gov" }, permits: { name: "Colorado Bureau of Investigation", url: "https://cbi.colorado.gov" } },
+  { stateSlug: "connecticut", legislature: { name: "Connecticut General Assembly", url: "https://www.cga.ct.gov" }, permits: { name: "Connecticut DESPP", url: "https://portal.ct.gov/despp" } },
+  { stateSlug: "delaware", legislature: { name: "Delaware General Assembly", url: "https://legis.delaware.gov" }, permits: { name: "Delaware State Police", url: "https://dsp.delaware.gov" } },
+  { stateSlug: "florida", legislature: { name: "Florida Legislature", url: "http://www.leg.state.fl.us/statutes" }, permits: { name: "Florida Dept. of Agriculture — CWL", url: "https://www.fdacs.gov/Consumer-Resources/Concealed-Weapon-License" } },
+  { stateSlug: "georgia", legislature: { name: "Georgia General Assembly", url: "https://www.legis.ga.gov" }, permits: { name: "Georgia Bureau of Investigation", url: "https://gbi.georgia.gov" } },
+  { stateSlug: "hawaii", legislature: { name: "Hawaii Legislature", url: "https://www.capitol.hawaii.gov" }, permits: { name: "Hawaii Dept. of Attorney General", url: "https://ag.hawaii.gov/firearms" } },
+  { stateSlug: "idaho", legislature: { name: "Idaho Legislature", url: "https://legislature.idaho.gov" }, permits: { name: "Idaho State Police", url: "https://isp.idaho.gov" } },
+  { stateSlug: "illinois", legislature: { name: "Illinois General Assembly", url: "https://www.ilga.gov" }, permits: { name: "Illinois State Police — FOID/CCL", url: "https://isp.illinois.gov/Foid" } },
+  { stateSlug: "indiana", legislature: { name: "Indiana General Assembly", url: "https://iga.in.gov" }, permits: { name: "Indiana State Police", url: "https://www.in.gov/isp" } },
+  { stateSlug: "iowa", legislature: { name: "Iowa Legislature", url: "https://www.legis.iowa.gov" }, permits: { name: "Iowa Dept. of Public Safety", url: "https://dps.iowa.gov" } },
+  { stateSlug: "kansas", legislature: { name: "Kansas Legislature", url: "http://www.kslegislature.org" }, permits: { name: "Kansas Attorney General", url: "https://ag.ks.gov/public-safety/concealed-carry" } },
+  { stateSlug: "kentucky", legislature: { name: "Kentucky Legislature", url: "https://legislature.ky.gov" }, permits: { name: "Kentucky State Police", url: "https://kentuckystatepolice.org" } },
+  { stateSlug: "louisiana", legislature: { name: "Louisiana Legislature", url: "https://www.legis.la.gov" }, permits: { name: "Louisiana State Police", url: "https://lsp.org/services/concealed-handgun-permits" } },
+  { stateSlug: "maine", legislature: { name: "Maine Legislature", url: "https://legislature.maine.gov" }, permits: { name: "Maine State Police", url: "https://www.maine.gov/dps/msp" } },
+  { stateSlug: "maryland", legislature: { name: "Maryland General Assembly", url: "https://mgaleg.maryland.gov" }, permits: { name: "Maryland State Police — Firearms", url: "https://mdsp.maryland.gov/Organization/Pages/CriminalInvestigationBureau/LicensingDivision/default.aspx" } },
+  { stateSlug: "massachusetts", legislature: { name: "Massachusetts Legislature", url: "https://malegislature.gov" }, permits: { name: "Mass. Exec. Office of Public Safety", url: "https://www.mass.gov/firearms-registration" } },
+  { stateSlug: "michigan", legislature: { name: "Michigan Legislature", url: "https://www.legislature.mi.gov" }, permits: { name: "Michigan State Police", url: "https://www.michigan.gov/msp/services/concealed-pistol-licensing" } },
+  { stateSlug: "minnesota", legislature: { name: "Minnesota Legislature", url: "https://www.revisor.mn.gov/statutes" }, permits: { name: "Minnesota BCA", url: "https://dps.mn.gov/divisions/bca/bca-divisions/administrative/Pages/firearms.aspx" } },
+  { stateSlug: "mississippi", legislature: { name: "Mississippi Legislature", url: "https://www.legislature.ms.gov" }, permits: { name: "Mississippi Dept. of Public Safety", url: "https://www.dps.ms.gov/firearms" } },
+  { stateSlug: "missouri", legislature: { name: "Missouri General Assembly", url: "https://www.moga.mo.gov" }, permits: { name: "Missouri Highway Patrol", url: "https://www.mshp.dps.missouri.gov/MSHPWeb/PatrolDivisions/SHPCCW/index.html" } },
+  { stateSlug: "montana", legislature: { name: "Montana Legislature", url: "https://leg.mt.gov" }, permits: { name: "Montana Dept. of Justice", url: "https://dojmt.gov/enforcement/concealed-weapons" } },
+  { stateSlug: "nebraska", legislature: { name: "Nebraska Legislature", url: "https://nebraskalegislature.gov" }, permits: { name: "Nebraska State Patrol", url: "https://nsp.nebraska.gov" } },
+  { stateSlug: "nevada", legislature: { name: "Nevada Legislature", url: "https://www.leg.state.nv.us" }, permits: { name: "Nevada DPS", url: "https://dps.nv.gov" } },
+  { stateSlug: "new-hampshire", legislature: { name: "New Hampshire Legislature", url: "https://www.gencourt.state.nh.us" }, permits: { name: "New Hampshire State Police", url: "https://www.nh.gov/safety/divisions/nhsp" } },
+  { stateSlug: "new-jersey", legislature: { name: "New Jersey Legislature", url: "https://www.njleg.state.nj.us" }, permits: { name: "New Jersey State Police — Firearms", url: "https://www.njsp.org/firearms" } },
+  { stateSlug: "new-mexico", legislature: { name: "New Mexico Legislature", url: "https://www.nmlegis.gov" }, permits: { name: "New Mexico DPS", url: "https://www.dps.nm.gov/concealed-carry" } },
+  { stateSlug: "new-york", legislature: { name: "New York Legislature", url: "https://nysenate.gov/legislation" }, permits: { name: "New York State Police — Firearms", url: "https://troopers.ny.gov/firearms" } },
+  { stateSlug: "north-carolina", legislature: { name: "North Carolina General Assembly", url: "https://www.ncleg.gov" }, permits: { name: "North Carolina SBI", url: "https://www.ncdoj.gov/law-enforcement/firearms" } },
+  { stateSlug: "north-dakota", legislature: { name: "North Dakota Legislature", url: "https://www.ndlegis.gov" }, permits: { name: "North Dakota AG — Firearms", url: "https://attorneygeneral.nd.gov/public-safety/concealed-weapons-licenses" } },
+  { stateSlug: "ohio", legislature: { name: "Ohio Legislature", url: "https://www.legislature.ohio.gov" }, permits: { name: "Ohio Attorney General — CHL", url: "https://www.ohioattorneygeneral.gov/Law-Enforcement/Concealed-Carry" } },
+  { stateSlug: "oklahoma", legislature: { name: "Oklahoma Legislature", url: "https://www.oklegislature.gov" }, permits: { name: "Oklahoma SDA — Handgun License", url: "https://www.ok.gov/osbi/Handgun_Licensing" } },
+  { stateSlug: "oregon", legislature: { name: "Oregon Legislature", url: "https://www.oregonlegislature.gov" }, permits: { name: "Oregon State Police", url: "https://www.oregon.gov/osp" } },
+  { stateSlug: "pennsylvania", legislature: { name: "Pennsylvania General Assembly", url: "https://www.legis.state.pa.us" }, permits: { name: "Pennsylvania State Police — Firearms", url: "https://www.psp.pa.gov/firearms-information/Pages/default.aspx" } },
+  { stateSlug: "rhode-island", legislature: { name: "Rhode Island Legislature", url: "https://www.rilegislature.gov" }, permits: { name: "Rhode Island Attorney General", url: "https://riag.ri.gov" } },
+  { stateSlug: "south-carolina", legislature: { name: "South Carolina Legislature", url: "https://www.scstatehouse.gov" }, permits: { name: "SLED — Concealed Weapon Permits", url: "https://www.sled.sc.gov/firearms" } },
+  { stateSlug: "south-dakota", legislature: { name: "South Dakota Legislature", url: "https://sdlegislature.gov" }, permits: { name: "South Dakota Secretary of State", url: "https://sdsos.gov/general-information/concealed-pistol-permits" } },
+  { stateSlug: "tennessee", legislature: { name: "Tennessee General Assembly", url: "https://www.capitol.tn.gov" }, permits: { name: "Tennessee Dept. of Safety", url: "https://www.tn.gov/safety/tnhp/handgun/handguns.html" } },
+  { stateSlug: "texas", legislature: { name: "Texas Legislature", url: "https://capitol.texas.gov" }, permits: { name: "Texas DPS — Handgun Licensing", url: "https://www.dps.texas.gov/section/handgun-licensing" } },
+  { stateSlug: "utah", legislature: { name: "Utah Legislature", url: "https://le.utah.gov" }, permits: { name: "Utah BCI — Concealed Firearm Permits", url: "https://bci.utah.gov/concealed-firearm" } },
+  { stateSlug: "vermont", legislature: { name: "Vermont Legislature", url: "https://legislature.vermont.gov" }, permits: { name: "Vermont State Police", url: "https://vsp.vermont.gov" } },
+  { stateSlug: "virginia", legislature: { name: "Virginia General Assembly", url: "https://lis.virginia.gov" }, permits: { name: "Virginia State Police — Firearms", url: "https://vsp.virginia.gov/sections-units-bureaus/criminal-justice-information-services/firearms" } },
+  { stateSlug: "washington", legislature: { name: "Washington Legislature", url: "https://leg.wa.gov" }, permits: { name: "Washington DOL — Firearms", url: "https://www.dol.wa.gov/business/firearms" } },
+  { stateSlug: "west-virginia", legislature: { name: "West Virginia Legislature", url: "https://www.wvlegislature.gov" }, permits: { name: "West Virginia State Police", url: "https://www.wvsp.gov" } },
+  { stateSlug: "wisconsin", legislature: { name: "Wisconsin Legislature", url: "https://legis.wisconsin.gov" }, permits: { name: "Wisconsin DOJ — CCW", url: "https://www.doj.state.wi.us/dles/cib/conceal-carry" } },
+  { stateSlug: "wyoming", legislature: { name: "Wyoming Legislature", url: "https://wyoleg.gov" }, permits: { name: "Wyoming AG — Concealed Carry", url: "https://ag.wyo.gov/law-enforcement/concealed-carry" } },
+];
+
+export const getStateResources = (stateSlug: string): StateResources | undefined =>
+  stateResources.find((r) => r.stateSlug === stateSlug);

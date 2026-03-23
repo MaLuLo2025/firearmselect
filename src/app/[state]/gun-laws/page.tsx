@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getStateBySlug, states } from "@/lib/states";
+import { getStateResources } from "@/lib/state-resources";
 
 export function generateStaticParams() {
   return states.map((s) => ({ state: s.slug }));
@@ -19,6 +20,8 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
   const state = getStateBySlug(params.state);
   if (!state) notFound();
 
+  const resources = getStateResources(state.slug);
+
   return (
     <>
       <section className="py-12 sm:py-16 border-b border-ink-100">
@@ -27,7 +30,9 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
             <ol className="flex items-center gap-2 text-xs text-ink-300">
               <li><Link href="/" className="hover:text-ink-900 transition-colors">Home</Link></li>
               <li>/</li>
-              <li className="text-ink-500">{state.name} Gun Laws</li>
+              <li><Link href="/states" className="hover:text-ink-900 transition-colors">State Laws</Link></li>
+              <li>/</li>
+              <li className="text-ink-500">{state.name}</li>
             </ol>
           </nav>
           <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-steel-500 mb-3">
@@ -67,6 +72,47 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
               className="font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
               Find shops &amp; ranges in {state.name} &rarr;
             </Link>
+          </div>
+
+          {/* Sources & official resources */}
+          <div>
+            <h2 className="font-serif text-heading text-ink-900 mb-4">Sources &amp; official resources</h2>
+            <div className="space-y-3">
+              <div className="flex gap-4">
+                <div className="w-0.5 bg-ink-900 shrink-0" />
+                <div>
+                  <h3 className="font-serif text-subheading text-ink-900">Federal firearms laws</h3>
+                  <a href="https://www.atf.gov/firearms/federal-law" target="_blank" rel="noopener noreferrer"
+                    className="text-xs text-steel-500 hover:text-ink-900 transition-colors">
+                    ATF.gov — Federal Firearms Laws &rarr;
+                  </a>
+                </div>
+              </div>
+              {resources && (
+                <>
+                  <div className="flex gap-4">
+                    <div className="w-0.5 bg-ink-900 shrink-0" />
+                    <div>
+                      <h3 className="font-serif text-subheading text-ink-900">{state.name} statutes</h3>
+                      <a href={resources.legislature.url} target="_blank" rel="noopener noreferrer"
+                        className="text-xs text-steel-500 hover:text-ink-900 transition-colors">
+                        {resources.legislature.name} &rarr;
+                      </a>
+                    </div>
+                  </div>
+                  <div className="flex gap-4">
+                    <div className="w-0.5 bg-ink-900 shrink-0" />
+                    <div>
+                      <h3 className="font-serif text-subheading text-ink-900">Permits &amp; licensing</h3>
+                      <a href={resources.permits.url} target="_blank" rel="noopener noreferrer"
+                        className="text-xs text-steel-500 hover:text-ink-900 transition-colors">
+                        {resources.permits.name} &rarr;
+                      </a>
+                    </div>
+                  </div>
+                </>
+              )}
+            </div>
           </div>
         </div>
       </section>

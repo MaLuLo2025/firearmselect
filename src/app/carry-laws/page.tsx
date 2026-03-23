@@ -62,7 +62,8 @@ export default function CarryLawsPage() {
               while others are &quot;may-issue&quot; (issuing authority has discretion).
             </p>
             <p className="text-sm text-ink-500 leading-relaxed mt-3">
-              The 2022 Supreme Court decision in <em>New York State Rifle &amp; Pistol Association v. Bruen</em> struck
+              The 2022 Supreme Court decision in{" "}
+              <a href="https://www.law.cornell.edu/supremecourt/text/20-843" target="_blank" rel="noopener noreferrer" className="text-steel-500 hover:text-ink-900 transition-colors"><em>New York State Rifle &amp; Pistol Association v. Bruen</em></a> struck
               down &quot;proper cause&quot; requirements, holding that states may not require applicants to demonstrate
               a special need for self-defense. This shifted several may-issue states toward shall-issue frameworks.
             </p>
@@ -86,6 +87,20 @@ export default function CarryLawsPage() {
               and establishments that post signage prohibiting firearms. Specific restricted locations
               vary by state — always check your state&apos;s law for a complete list.
             </p>
+          </div>
+
+          <div>
+            <h2 className="font-serif text-heading text-ink-900 mb-4">Federal resources</h2>
+            <div className="space-y-2 mb-8">
+              <a href="https://www.atf.gov/firearms/state-laws-and-published-ordinances-firearms-44th-edition" target="_blank" rel="noopener noreferrer"
+                className="block text-xs text-steel-500 hover:text-ink-900 transition-colors">
+                ATF.gov — State Laws and Published Ordinances &rarr;
+              </a>
+              <a href="https://www.atf.gov/firearms/federal-law" target="_blank" rel="noopener noreferrer"
+                className="block text-xs text-steel-500 hover:text-ink-900 transition-colors">
+                ATF.gov — Federal Firearms Laws &rarr;
+              </a>
+            </div>
           </div>
 
           <div>

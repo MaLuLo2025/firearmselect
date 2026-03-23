@@ -17,6 +17,25 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   };
 }
 
+function renderTextWithLinks(text: string) {
+  const urlRegex = /(https?:\/\/[^\s),]+)/g;
+  const parts = text.split(urlRegex);
+  return parts.map((part, i) => {
+    if (urlRegex.test(part)) {
+      // Extract display text — use domain + path
+      const display = part.replace(/^https?:\/\/(?:www\.)?/, "").replace(/\/$/, "");
+      return (
+        <a key={i} href={part} target="_blank" rel="noopener noreferrer"
+          className="text-steel-500 hover:text-ink-900 transition-colors">
+          {display}
+        </a>
+      );
+    }
+    // Clean up surrounding text like "(full opinion: " or ")"
+    return part;
+  });
+}
+
 export default function BlogPostPage({ params }: { params: { slug: string } }) {
   const post = getPostBySlug(params.slug);
   if (!post) notFound();
@@ -61,7 +80,7 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
                 )}
                 {section.body.split("\n\n").map((para, j) => (
                   <p key={j} className="text-ink-500 text-sm leading-relaxed mb-4">
-                    {para}
+                    {renderTextWithLinks(para)}
                   </p>
                 ))}
               </div>

@@ -27,7 +27,7 @@ Vermont has never required a permit to carry concealed, making it the original c
 
 Even in constitutional carry states, the state-issued concealed carry permit remains valuable for several practical reasons. First, reciprocity. Many states that do not have constitutional carry will honor your home state's carry permit. Without a permit, you cannot legally carry concealed when traveling to those states.
 
-Second, the federal Gun-Free School Zones Act prohibits carrying a firearm within 1,000 feet of a school unless you hold a state-issued carry permit. This is federal law and applies regardless of state constitutional carry provisions.
+Second, the federal Gun-Free School Zones Act (18 U.S.C. § 922(q), full text: https://www.law.cornell.edu/uscode/text/18/922) prohibits carrying a firearm within 1,000 feet of a school unless you hold a state-issued carry permit. This is federal law and applies regardless of state constitutional carry provisions.
 
 Third, some constitutional carry states restrict permitless carry to residents only. If you are visiting from another state, you may still need a permit from your home state or a recognized state to carry legally.
 
@@ -43,7 +43,7 @@ Whether you live in a constitutional carry state or a state that requires a perm
     categorySlug: "constitutional-law",
     publishedAt: "2026-03-18",
     readTime: "8 min read",
-    content: `New York State Rifle and Pistol Association v. Bruen was a landmark 2022 Supreme Court decision that fundamentally changed the legal framework courts use to evaluate firearms regulations. If you own or carry firearms, or if you follow gun law debates, understanding Bruen is essential.
+    content: `New York State Rifle and Pistol Association v. Bruen (full opinion: https://www.law.cornell.edu/supremecourt/text/20-843) was a landmark 2022 Supreme Court decision that fundamentally changed the legal framework courts use to evaluate firearms regulations. If you own or carry firearms, or if you follow gun law debates, understanding Bruen is essential.
 
 ## What the case was about
 
@@ -89,7 +89,7 @@ Do you have a plan for secure storage? If you have children in the home, secure 
 
 ## The purchase process
 
-The federal process for buying a firearm from a licensed dealer is the same in every state. You must be at least 18 years old to purchase a rifle or shotgun from a federally licensed dealer, and at least 21 to purchase a handgun. You will fill out ATF Form 4473, which asks questions about your identity, residency, and eligibility. The dealer will then run a National Instant Criminal Background Check System (NICS) check through the FBI.
+The federal process for buying a firearm from a licensed dealer is the same in every state. You must be at least 18 years old to purchase a rifle or shotgun from a federally licensed dealer, and at least 21 to purchase a handgun. You will fill out ATF Form 4473 (details: https://www.atf.gov/firearms/atf-form-4473-firearms-transaction-record-revisions), which asks questions about your identity, residency, and eligibility. The dealer will then run a National Instant Criminal Background Check System (NICS) check through the FBI (https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/nics).
 
 In most cases, the background check takes minutes. You will receive a "proceed," "delayed," or "denied" response. A "proceed" means you can complete the purchase. A "delayed" means the FBI needs additional time, up to three business days. A "denied" means you are prohibited from purchasing.
 

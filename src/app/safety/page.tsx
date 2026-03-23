@@ -117,6 +117,24 @@ export default function SafetyPage() {
             </p>
           </div>
 
+          <div>
+            <h2 className="font-serif text-heading text-ink-900 mb-4">Resources</h2>
+            <div className="space-y-2">
+              <a href="https://home.nra.org/firearms-safety" target="_blank" rel="noopener noreferrer"
+                className="block text-xs text-steel-500 hover:text-ink-900 transition-colors">
+                NRA Gun Safety Rules &rarr;
+              </a>
+              <a href="https://projectchildsafe.org" target="_blank" rel="noopener noreferrer"
+                className="block text-xs text-steel-500 hover:text-ink-900 transition-colors">
+                Project ChildSafe — Safe Storage &amp; Education &rarr;
+              </a>
+              <a href="https://www.atf.gov/firearms/federal-law" target="_blank" rel="noopener noreferrer"
+                className="block text-xs text-steel-500 hover:text-ink-900 transition-colors">
+                ATF.gov — Federal Firearms Laws &rarr;
+              </a>
+            </div>
+          </div>
+
           <div className="bg-cream-100 border-l-[3px] border-ink-900 px-5 py-4">
             <p className="font-serif text-sm text-ink-900 mb-1">Training matters</p>
             <p className="font-sans text-xs text-ink-400 leading-relaxed">
