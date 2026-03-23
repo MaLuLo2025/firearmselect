@@ -75,7 +75,7 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] 50 state gun law pages (full coverage)
 - [x] 3 blog articles (constitutional carry, Bruen, first-time buyer)
 - [x] 50 cities from top US MSAs (1.5M+ population) with SEO pages
-- [x] 70 dealer listings across 20 states and 40 cities
+- [x] 502 dealer listings across all 50 cities (Tier 1: 15 per city, Tier 2: 10, Tier 3: 8)
 - [x] City pages with "coming soon" placeholder when no dealers listed
 - [x] City-level dealer architecture (/dealers/{state}/{city}/ hub pages)
 - [x] State dealer pages (/dealers/{state}/ grouped by city)
@@ -100,4 +100,4 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] State gun law pages: ATF, state legislature, and state police .gov links for all 50 states
 - [x] state-resources.ts with .gov URLs for all 50 state legislatures and permit agencies (all verified working)
 - [x] Blog renderer auto-converts URLs to clickable outbound links
-- [ ] More dealers per city (currently 1-4 per city; top metros at 3-4)
+- [x] Full dealer coverage across all 50 cities (502 dealers, 8-15 per city)
