@@ -98,6 +98,12 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
                         className="text-xs text-steel-500 hover:text-ink-900 transition-colors">
                         {resources.legislature.name} &rarr;
                       </a>
+                      {!/statutes|statute|firearms|weapons/i.test(resources.legislature.url) && (
+                        <p className="text-xs italic text-ink-300 mt-1">
+                          This link goes to {state.name}&apos;s legislative website. To find specific firearms statutes,
+                          search for terms like &quot;concealed carry,&quot; &quot;firearms,&quot; or &quot;weapons permit&quot; in the site&apos;s search function.
+                        </p>
+                      )}
                     </div>
                   </div>
                   <div className="flex gap-4">
