@@ -98,6 +98,6 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] Google Search Console (verified via GA)
 - [x] Outbound links to authoritative sources on all law/safety pages
 - [x] State gun law pages: ATF, state legislature, and state police .gov links for all 50 states
-- [x] state-resources.ts with .gov URLs for all 50 state legislatures and permit agencies
+- [x] state-resources.ts with .gov URLs for all 50 state legislatures and permit agencies (all verified working)
 - [x] Blog renderer auto-converts URLs to clickable outbound links
 - [ ] More dealers per city (currently 1-4 per city; top metros at 3-4)
