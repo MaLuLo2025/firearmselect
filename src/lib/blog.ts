@@ -89,7 +89,7 @@ Do you have a plan for secure storage? If you have children in the home, secure 
 
 ## The purchase process
 
-The federal process for buying a firearm from a licensed dealer is the same in every state. You must be at least 18 years old to purchase a rifle or shotgun from a federally licensed dealer, and at least 21 to purchase a handgun. You will fill out ATF Form 4473 (details: https://www.atf.gov/firearms/atf-form-4473-firearms-transaction-record-revisions), which asks questions about your identity, residency, and eligibility. The dealer will then run a National Instant Criminal Background Check System (NICS) check through the FBI (https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/nics).
+The federal process for buying a firearm from a licensed dealer is the same in every state. You must be at least 18 years old to purchase a rifle or shotgun from a federally licensed dealer, and at least 21 to purchase a handgun. You will fill out ATF Form 4473 (details: https://www.atf.gov/firearms), which asks questions about your identity, residency, and eligibility. The dealer will then run a National Instant Criminal Background Check System (NICS) check through the FBI (https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/nics).
 
 In most cases, the background check takes minutes. You will receive a "proceed," "delayed," or "denied" response. A "proceed" means you can complete the purchase. A "delayed" means the FBI needs additional time, up to three business days. A "denied" means you are prohibited from purchasing.
 

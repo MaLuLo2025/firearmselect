@@ -92,13 +92,13 @@ export default function CarryLawsPage() {
           <div>
             <h2 className="font-serif text-heading text-ink-900 mb-4">Federal resources</h2>
             <div className="space-y-2 mb-8">
-              <a href="https://www.atf.gov/firearms/state-laws-and-published-ordinances-firearms-44th-edition" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.atf.gov/firearms/state-laws-and-published-ordinances-firearms-36th-edition" target="_blank" rel="noopener noreferrer"
                 className="block text-xs text-steel-500 hover:text-ink-900 transition-colors">
                 ATF.gov — State Laws and Published Ordinances &rarr;
               </a>
-              <a href="https://www.atf.gov/firearms/federal-law" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.atf.gov/rules-and-regulations/laws-alcohol-tobacco-firearms-and-explosives" target="_blank" rel="noopener noreferrer"
                 className="block text-xs text-steel-500 hover:text-ink-900 transition-colors">
-                ATF.gov — Federal Firearms Laws &rarr;
+                ATF.gov — Laws: Alcohol, Tobacco, Firearms &amp; Explosives &rarr;
               </a>
             </div>
           </div>

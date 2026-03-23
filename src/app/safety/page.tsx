@@ -128,9 +128,9 @@ export default function SafetyPage() {
                 className="block text-xs text-steel-500 hover:text-ink-900 transition-colors">
                 Project ChildSafe — Safe Storage &amp; Education &rarr;
               </a>
-              <a href="https://www.atf.gov/firearms/federal-law" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.atf.gov/rules-and-regulations/laws-alcohol-tobacco-firearms-and-explosives" target="_blank" rel="noopener noreferrer"
                 className="block text-xs text-steel-500 hover:text-ink-900 transition-colors">
-                ATF.gov — Federal Firearms Laws &rarr;
+                ATF.gov — Laws: Alcohol, Tobacco, Firearms &amp; Explosives &rarr;
               </a>
             </div>
           </div>
