@@ -55,6 +55,7 @@ export const stateResources: StateResources[] = [
   { stateSlug: "west-virginia", legislature: { name: "West Virginia Legislature", url: "https://www.wvlegislature.gov" }, permits: { name: "West Virginia State Police", url: "https://www.wvsp.gov" } },
   { stateSlug: "wisconsin", legislature: { name: "Wisconsin Legislature", url: "https://legis.wisconsin.gov" }, permits: { name: "Wisconsin DOJ — CCW", url: "https://www.wisdoj.gov/Pages/PublicSafety/concealed-carry-weapon-license.aspx" } },
   { stateSlug: "wyoming", legislature: { name: "Wyoming Legislature", url: "https://wyoleg.gov" }, permits: { name: "Wyoming DCI — Concealed Firearm Permits", url: "https://wyomingdci.wyo.gov/criminal-justice-information-services-cjis/concealed-firearm-permits" } },
+  { stateSlug: "district-of-columbia", legislature: { name: "DC Council — Legislation", url: "https://lims.dccouncil.gov" }, permits: { name: "DC Metropolitan Police — Firearms", url: "https://mpdc.dc.gov/page/firearms-registration" } },
 ];
 
 export const getStateResources = (stateSlug: string): StateResources | undefined =>

@@ -54,6 +54,9 @@ export const states: State[] = [
   { name: "Virginia", slug: "virginia", abbr: "VA", permitRequired: true, constitutionalCarry: false, description: "Virginia requires a Concealed Handgun Permit (CHP) for concealed carry, issued by the circuit court. Open carry is legal without a permit in most locations. The state requires background checks for all sales and has a red flag law." },
   { name: "Washington", slug: "washington", abbr: "WA", permitRequired: true, constitutionalCarry: false, description: "Washington requires a Concealed Pistol License (CPL) for concealed carry, issued by local law enforcement. The state has enacted several measures in recent years including an assault weapons ban, universal background checks, mandatory waiting periods, and a large-capacity magazine ban." },
   { name: "Wisconsin", slug: "wisconsin", abbr: "WI", permitRequired: true, constitutionalCarry: false, description: "Wisconsin requires a Concealed Carry Weapon (CCW) license for concealed carry, issued by the Department of Justice. Open carry is legal without a license. The state requires background checks for sales through licensed dealers but does not require them for private sales." },
+
+  // District of Columbia
+  { name: "District of Columbia", slug: "district-of-columbia", abbr: "DC", permitRequired: true, constitutionalCarry: false, description: "The District of Columbia requires a Concealed Carry Pistol License (CCPL) for concealed carry, issued by the Metropolitan Police Department. Following Bruen, DC transitioned from may-issue to shall-issue. DC has extensive prohibited locations, an assault weapons ban, a 10-round magazine limit, and requires registration of all firearms." },
 ];
 
 export const getStateBySlug = (slug: string): State | undefined =>
