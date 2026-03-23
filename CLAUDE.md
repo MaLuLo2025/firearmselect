@@ -63,6 +63,8 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - Never use superlative claims in dealer descriptions
 - All descriptions factual only — licenses, services, location
 - Every law references the actual statute — statute names should link to the text (law.cornell.edu, congress.gov, or state legislature sites)
+- ATF links: use /rules-and-regulations/laws-alcohol-tobacco-firearms-and-explosives (NOT /firearms/federal-law which 404s)
+- ATF state laws publication: use 36th edition URL (/firearms/state-laws-and-published-ordinances-firearms-36th-edition)
 - All outbound links open in new tabs with rel="noopener noreferrer"
 - No advocacy language — present law as it is
 - Firearms-appropriate disclaimer on every page (include dealers, ranges, and instructors)
