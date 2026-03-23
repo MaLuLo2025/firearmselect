@@ -57,6 +57,7 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - All dealer page links use the /dealers/ prefix — never /{state}/{city}/ at root
 - Gun-laws pages link to /dealers/{state}/ for "find shops & ranges"
 - Dealer/city pages link to /{state}/gun-laws for "view gun laws"
+- Dealer listings (names, ratings, descriptions) ONLY render on /dealers/ pages — never on gun-laws, blog, or other pages
 
 ## Content Standards
 - Never use superlative claims in dealer descriptions
