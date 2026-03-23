@@ -101,3 +101,5 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] state-resources.ts with .gov URLs for all 50 state legislatures and permit agencies (all verified working)
 - [x] Blog renderer auto-converts URLs to clickable outbound links
 - [x] Full dealer coverage across all 50 cities (502 dealers, 8-15 per city)
+- [x] Fake dealer website URLs removed — only verified real URLs kept
+- [x] Legislature links: helper note on 48 states with general homepages (auto-suppressed for FL/MN which link to statute pages)
