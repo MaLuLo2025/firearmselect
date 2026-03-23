@@ -40,9 +40,9 @@ export const stateResources: StateResources[] = [
   { stateSlug: "north-carolina", legislature: { name: "North Carolina General Assembly", url: "https://www.ncleg.gov" }, permits: { name: "North Carolina SBI", url: "https://www.ncdoj.gov/law-enforcement/firearms" } },
   { stateSlug: "north-dakota", legislature: { name: "North Dakota Legislature", url: "https://www.ndlegis.gov" }, permits: { name: "North Dakota AG — Firearms", url: "https://attorneygeneral.nd.gov/public-safety/" } },
   { stateSlug: "ohio", legislature: { name: "Ohio Legislature", url: "https://www.legislature.ohio.gov" }, permits: { name: "Ohio Attorney General — CHL", url: "https://www.ohioattorneygeneral.gov/Law-Enforcement/Concealed-Carry" } },
-  { stateSlug: "oklahoma", legislature: { name: "Oklahoma Legislature", url: "https://www.oklegislature.gov" }, permits: { name: "Oklahoma SDA — Handgun License", url: "https://www.ok.gov/osbi/Handgun_Licensing" } },
+  { stateSlug: "oklahoma", legislature: { name: "Oklahoma Legislature", url: "https://www.oklegislature.gov" }, permits: { name: "Oklahoma SDA — Handgun License", url: "https://oklahoma.gov/osbi/services/information-services-division/self-defense-act-unit/handgun-licensing.html" } },
   { stateSlug: "oregon", legislature: { name: "Oregon Legislature", url: "https://www.oregonlegislature.gov" }, permits: { name: "Oregon State Police", url: "https://www.oregon.gov/osp" } },
-  { stateSlug: "pennsylvania", legislature: { name: "Pennsylvania General Assembly", url: "https://www.legis.state.pa.us" }, permits: { name: "Pennsylvania State Police — Firearms", url: "https://www.psp.pa.gov/firearms-information/Pages/default.aspx" } },
+  { stateSlug: "pennsylvania", legislature: { name: "Pennsylvania General Assembly", url: "https://www.legis.state.pa.us" }, permits: { name: "Pennsylvania State Police — Firearms", url: "https://www.pa.gov/agencies/psp/programs/firearms/" } },
   { stateSlug: "rhode-island", legislature: { name: "Rhode Island Legislature", url: "https://www.rilegislature.gov" }, permits: { name: "Rhode Island Attorney General", url: "https://riag.ri.gov" } },
   { stateSlug: "south-carolina", legislature: { name: "South Carolina Legislature", url: "https://www.scstatehouse.gov" }, permits: { name: "SLED — Concealed Weapon Permits", url: "https://www.sled.sc.gov" } },
   { stateSlug: "south-dakota", legislature: { name: "South Dakota Legislature", url: "https://sdlegislature.gov" }, permits: { name: "South Dakota Secretary of State", url: "https://sdsos.gov" } },
@@ -53,7 +53,7 @@ export const stateResources: StateResources[] = [
   { stateSlug: "virginia", legislature: { name: "Virginia General Assembly", url: "https://lis.virginia.gov" }, permits: { name: "Virginia State Police — Firearms", url: "https://vsp.virginia.gov/services/firearms/" } },
   { stateSlug: "washington", legislature: { name: "Washington Legislature", url: "https://leg.wa.gov" }, permits: { name: "Washington Dept. of Licensing", url: "https://www.dol.wa.gov" } },
   { stateSlug: "west-virginia", legislature: { name: "West Virginia Legislature", url: "https://www.wvlegislature.gov" }, permits: { name: "West Virginia State Police", url: "https://www.wvsp.gov" } },
-  { stateSlug: "wisconsin", legislature: { name: "Wisconsin Legislature", url: "https://legis.wisconsin.gov" }, permits: { name: "Wisconsin DOJ — CCW", url: "https://www.doj.state.wi.us/dles/cib/conceal-carry" } },
+  { stateSlug: "wisconsin", legislature: { name: "Wisconsin Legislature", url: "https://legis.wisconsin.gov" }, permits: { name: "Wisconsin DOJ — CCW", url: "https://www.wisdoj.gov/Pages/PublicSafety/concealed-carry-weapon-license.aspx" } },
   { stateSlug: "wyoming", legislature: { name: "Wyoming Legislature", url: "https://wyoleg.gov" }, permits: { name: "Wyoming DCI — Concealed Firearm Permits", url: "https://wyomingdci.wyo.gov/criminal-justice-information-services-cjis/concealed-firearm-permits" } },
 ];
 
