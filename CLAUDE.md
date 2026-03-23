@@ -62,7 +62,8 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 ## Content Standards
 - Never use superlative claims in dealer descriptions
 - All descriptions factual only — licenses, services, location
-- Every law references the actual statute
+- Every law references the actual statute — statute names should link to the text (law.cornell.edu, congress.gov, or state legislature sites)
+- All outbound links open in new tabs with rel="noopener noreferrer"
 - No advocacy language — present law as it is
 - Firearms-appropriate disclaimer on every page (include dealers, ranges, and instructors)
 - Colorado law, Durango/La Plata County venue, binding arbitration in TOS
@@ -93,4 +94,8 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] /red-flag-laws/ page (ERPO process, 21 states detailed, federal legislation)
 - [x] Google Analytics integration (G-5PMR8Q3KDL, consent-aware — only loads after cookie accept)
 - [x] Google Search Console (verified via GA)
+- [x] Outbound links to authoritative sources on all law/safety pages
+- [x] State gun law pages: ATF, state legislature, and state police .gov links for all 50 states
+- [x] state-resources.ts with .gov URLs for all 50 state legislatures and permit agencies
+- [x] Blog renderer auto-converts URLs to clickable outbound links
 - [ ] More dealers per city
