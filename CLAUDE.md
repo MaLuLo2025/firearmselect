@@ -22,7 +22,7 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 ## URL Architecture
 ```
 /                                       → Homepage (dealers above fold)
-/{state}/gun-laws/                      → State gun law guide
+/{state}/gun-laws/                      → State gun law guide (50 states + DC)
 /states/                                → All 50 states index (CC vs permit)
 /carry-laws/                            → Concealed & open carry overview
 /reciprocity/                           → Interstate carry reciprocity guide
@@ -72,7 +72,7 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 
 ## Current State
 - [x] Project scaffolded with Broadsheet theme
-- [x] 50 state gun law pages (full coverage; 10 with detailed multi-section content, 40 with overview)
+- [x] 50 state + DC gun law pages (all with detailed multi-section statutory content)
 - [x] 3 blog articles (constitutional carry, Bruen, first-time buyer)
 - [x] 50 cities from top US MSAs (1.5M+ population) with SEO pages
 - [x] 502 dealer listings across all 50 cities (Tier 1: 15 per city, Tier 2: 10, Tier 3: 8)
@@ -103,5 +103,5 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] Full dealer coverage across all 50 cities (502 dealers, 8-15 per city)
 - [x] Fake dealer website URLs removed — only verified real URLs kept
 - [x] Legislature links: helper note on 48 states with general homepages (auto-suppressed for FL/MN which link to statute pages)
-- [x] state-law-details.ts with detailed statutory content for 10 states (TX, FL, CA, NY, AZ, GA, OH, CO, PA, MI)
-- [ ] Detailed law content for remaining 40 states
+- [x] state-law-details.ts with detailed statutory content for all 50 states + DC
+- [x] DC added to states.ts, state-resources.ts, and gun-laws routing
