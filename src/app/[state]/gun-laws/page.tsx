@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getStateBySlug, states } from "@/lib/states";
 import { getStateResources } from "@/lib/state-resources";
+import { getStateLawDetail } from "@/lib/state-law-details";
 
 export function generateStaticParams() {
   return states.map((s) => ({ state: s.slug }));
@@ -21,6 +22,7 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
   if (!state) notFound();
 
   const resources = getStateResources(state.slug);
+  const lawDetail = getStateLawDetail(state.slug);
 
   return (
     <>
@@ -52,10 +54,51 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
 
       <section className="py-12 sm:py-16">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 space-y-10">
-          <div>
-            <h2 className="font-serif text-heading text-ink-900 mb-4">Overview</h2>
-            <p className="text-sm text-ink-500 leading-relaxed">{state.description}</p>
-          </div>
+          {lawDetail ? (
+            <>
+              {/* Effective date */}
+              <p className="text-xs italic text-ink-400">
+                Effective as of {lawDetail.effectiveDate} ({lawDetail.effectiveLaw}).
+                Laws change — you should check for updates or consult with a licensed firearms trainer
+                in your state before acting on this information.
+              </p>
+
+              {/* Law sections */}
+              {lawDetail.sections.map((section, i) => (
+                <div key={i}>
+                  <h2 className="font-serif text-heading text-ink-900 mb-4">{section.heading}</h2>
+                  <p className="text-sm text-ink-500 leading-relaxed">{section.content}</p>
+                  {section.keyStatute && (
+                    <p className="text-xs text-ink-400 leading-relaxed mt-3">
+                      <strong>Key statute:</strong> {section.keyStatute}
+                    </p>
+                  )}
+                </div>
+              ))}
+
+              {/* Citations */}
+              <div>
+                <h2 className="font-serif text-heading text-ink-900 mb-4">Citations</h2>
+                <p className="text-xs text-ink-400 leading-relaxed">
+                  <strong>{lawDetail.citations}</strong>
+                </p>
+                {resources && (
+                  <a href={resources.legislature.url} target="_blank" rel="noopener noreferrer"
+                    className="inline-block mt-2 text-xs text-steel-500 hover:text-ink-900 transition-colors">
+                    Look up statutes at {resources.legislature.name} &rarr;
+                  </a>
+                )}
+              </div>
+            </>
+          ) : (
+            <>
+              {/* Fallback for states without detailed content */}
+              <div>
+                <h2 className="font-serif text-heading text-ink-900 mb-4">Overview</h2>
+                <p className="text-sm text-ink-500 leading-relaxed">{state.description}</p>
+              </div>
+            </>
+          )}
 
           <div className="bg-cream-100 border-l-[3px] border-ink-900 px-5 py-4">
             <p className="font-serif text-sm text-ink-900 mb-1">Legal disclaimer</p>
@@ -65,9 +108,18 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
             </p>
           </div>
 
-          <div className="text-center py-8 border border-ink-100">
-            <p className="font-serif text-sm text-ink-900 mb-2">More {state.name} content coming soon</p>
-            <p className="font-sans text-xs text-ink-400 mb-4">Detailed law breakdowns and carry-specific guides.</p>
+          {!lawDetail && (
+            <div className="text-center py-8 border border-ink-100">
+              <p className="font-serif text-sm text-ink-900 mb-2">More {state.name} content coming soon</p>
+              <p className="font-sans text-xs text-ink-400 mb-4">Detailed law breakdowns and carry-specific guides.</p>
+              <Link href={`/dealers/${state.slug}`}
+                className="font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
+                Find shops &amp; ranges in {state.name} &rarr;
+              </Link>
+            </div>
+          )}
+
+          <div className="text-center">
             <Link href={`/dealers/${state.slug}`}
               className="font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
               Find shops &amp; ranges in {state.name} &rarr;
