@@ -2,7 +2,6 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getStateBySlug, states } from "@/lib/states";
-import { getDealersByState } from "@/lib/dealers";
 
 export function generateStaticParams() {
   return states.map((s) => ({ state: s.slug }));
@@ -19,9 +18,6 @@ export function generateMetadata({ params }: { params: { state: string } }): Met
 export default function StateGunLawsPage({ params }: { params: { state: string } }) {
   const state = getStateBySlug(params.state);
   if (!state) notFound();
-
-  const stateDealers = getDealersByState(state.slug);
-  const featured = stateDealers.filter((d) => d.featured);
 
   return (
     <>
@@ -64,45 +60,9 @@ export default function StateGunLawsPage({ params }: { params: { state: string }
             </p>
           </div>
 
-          {featured.length > 0 && (
-            <div>
-              <h2 className="font-serif text-heading text-ink-900 mb-4">
-                Featured shops, ranges &amp; instructors in {state.name}
-              </h2>
-              <div className="space-y-3">
-                {featured.map((d) => (
-                  <div key={d.id} className="border border-ink-100 p-5">
-                    <div className="flex items-start justify-between gap-4">
-                      <div>
-                        <h3 className="font-serif text-subheading text-ink-900">
-                          <Link href={`/dealers/${state.slug}/${d.citySlug}/${d.slug}`} className="hover:text-steel-600 transition-colors">
-                            {d.name}
-                          </Link>
-                        </h3>
-                        <p className="font-sans text-xs text-ink-400 mt-1">
-                          <Link href={`/dealers/${state.slug}/${d.citySlug}`} className="hover:text-ink-900 transition-colors">{d.city}</Link>, {state.abbr} &middot; {d.categories.map(c => c.replace(/-/g, ' ')).join(', ')}
-                        </p>
-                        <p className="text-xs text-ink-400 mt-2 leading-relaxed">{d.description}</p>
-                      </div>
-                      <div className="text-right shrink-0">
-                        <p className="font-sans text-xs text-ink-500">{d.rating} ({d.reviewCount})</p>
-                        {d.website && (
-                          <a href={d.website} target="_blank" rel="noopener noreferrer"
-                            className="inline-block mt-2 font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
-                            Visit website
-                          </a>
-                        )}
-                      </div>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
-
           <div className="text-center py-8 border border-ink-100">
             <p className="font-serif text-sm text-ink-900 mb-2">More {state.name} content coming soon</p>
-            <p className="font-sans text-xs text-ink-400 mb-4">Detailed law breakdowns, additional shops, ranges, instructors, and carry-specific guides.</p>
+            <p className="font-sans text-xs text-ink-400 mb-4">Detailed law breakdowns and carry-specific guides.</p>
             <Link href={`/dealers/${state.slug}`}
               className="font-sans text-[10px] uppercase tracking-widest text-steel-500 hover:text-ink-900 transition-colors">
               Find shops &amp; ranges in {state.name} &rarr;
