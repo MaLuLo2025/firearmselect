@@ -120,9 +120,9 @@ export default function SafetyPage() {
           <div>
             <h2 className="font-serif text-heading text-ink-900 mb-4">Resources</h2>
             <div className="space-y-2">
-              <a href="https://home.nra.org/firearms-safety" target="_blank" rel="noopener noreferrer"
+              <a href="https://home.nra.org" target="_blank" rel="noopener noreferrer"
                 className="block text-xs text-steel-500 hover:text-ink-900 transition-colors">
-                NRA Gun Safety Rules &rarr;
+                NRA — Firearms Safety &rarr;
               </a>
               <a href="https://projectchildsafe.org" target="_blank" rel="noopener noreferrer"
                 className="block text-xs text-steel-500 hover:text-ink-900 transition-colors">
