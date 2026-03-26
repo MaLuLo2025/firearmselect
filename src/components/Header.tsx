@@ -34,9 +34,22 @@ export default function Header() {
               ))}
             </div>
           </div>
-          <Link href="/blog" className="font-sans text-xs uppercase tracking-widest text-steel-700 hover:text-ink-900 transition-colors">
-            Blog
-          </Link>
+          <div className="relative group">
+            <span className="font-sans text-xs uppercase tracking-widest text-steel-700 hover:text-ink-900 transition-colors cursor-pointer">
+              Resources
+            </span>
+            <div className="hidden group-hover:block absolute top-full right-0 mt-2 w-48 bg-white border-2 border-ink-200 shadow-sm z-50">
+              <Link href="/blog" className="block px-4 py-2 text-sm text-ink-500 hover:bg-cream-100 hover:text-ink-900 transition-colors">
+                Blog
+              </Link>
+              <Link href="/resources/videos" className="block px-4 py-2 text-sm text-ink-500 hover:bg-cream-100 hover:text-ink-900 transition-colors">
+                Video Library
+              </Link>
+              <Link href="/resources/faq" className="block px-4 py-2 text-sm text-ink-500 hover:bg-cream-100 hover:text-ink-900 transition-colors">
+                FAQ
+              </Link>
+            </div>
+          </div>
           <Link href="/about" className="font-sans text-xs uppercase tracking-widest text-steel-700 hover:text-ink-900 transition-colors">
             About
           </Link>

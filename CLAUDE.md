@@ -34,6 +34,8 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 /dealers/{state}/{city}/{dealer}/       → Individual dealer detail page
 /blog/                                  → Blog listing
 /blog/{slug}/                           → Blog article
+/resources/videos/                      → Firearms education video library
+/resources/faq/                         → FAQ hub with fuzzy search
 /about/                                 → About page
 /privacy/                               → Privacy policy
 /terms/                                 → Terms of service
@@ -105,3 +107,61 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - [x] Legislature links: helper note on 48 states with general homepages (auto-suppressed for FL/MN which link to statute pages)
 - [x] state-law-details.ts with detailed statutory content for all 50 states + DC
 - [x] DC added to states.ts, state-resources.ts, and gun-laws routing
+- [x] Video Hub page (/resources/videos) with 12 curated educational videos
+- [x] FAQ Hub page (/resources/faq) with 18 entries and Fuse.js fuzzy search
+- [x] FAQ accordion with category filters and cross-links to videos/blog/state laws
+- [x] Schema.org FAQPage structured data on FAQ page
+- [x] Resources dropdown in nav (Blog, Video Library, FAQ)
+- [x] Sitemap updated with /resources/videos and /resources/faq
+
+## Video Hub
+
+### Location
+`/resources/videos`
+
+### Approved Video Sources (Non-Political Only)
+- NSSF (National Shooting Sports Foundation) — official industry safety education
+- Project ChildSafe (NSSF program) — family safety focus
+- Lucky Gunner / Chris Baker — ammunition testing and education
+- Honest Outlaw — straightforward reviews, no political content
+
+### Editorial Standards for Video Summaries
+- 3-4 sentences per summary
+- Broadsheet voice: factual, authoritative, no opinion, no advocacy
+- Always identify the source/channel
+- Never editorialize on political topics (2A, legislation, etc.)
+- Never link to videos that contain political commentary
+
+### Video Categories
+1. Safety & Storage
+2. First-Time Buyers
+3. Caliber & Ammunition
+4. Concealed Carry
+5. Range & Marksmanship
+6. Cleaning & Maintenance
+
+---
+
+## FAQ Hub
+
+### Location
+`/resources/faq`
+
+### Fuzzy Search (Fuse.js)
+- Threshold: 0.4
+- Keys: question (weight 0.6), answer (0.3), keywords (0.5), category (0.1)
+- Debounce: 300ms
+- Minimum match length: 2 characters
+- Location-independent matching (ignoreLocation: true)
+
+### FAQ Categories
+1. Gun Laws (tied to state law pages)
+2. Buying Your First Firearm
+3. Safety & Storage
+4. Concealed Carry
+
+### Cross-Linking Rules
+- Every FAQ answer that references state-specific information links to relevant state law pages
+- Every FAQ with a related video links to that video's entry in the video hub
+- Every FAQ with a related blog post links to that blog post
+- Consistent "Related Resources" block at bottom of each answer

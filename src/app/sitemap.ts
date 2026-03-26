@@ -19,6 +19,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE}/reciprocity`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.8 },
     { url: `${BASE}/safety`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.7 },
     { url: `${BASE}/red-flag-laws`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.8 },
+    { url: `${BASE}/resources/videos`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.7 },
+    { url: `${BASE}/resources/faq`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.7 },
     { url: `${BASE}/privacy`, lastModified: now, changeFrequency: "yearly" as const, priority: 0.3 },
     { url: `${BASE}/terms`, lastModified: now, changeFrequency: "yearly" as const, priority: 0.3 },
     { url: `${BASE}/cookies`, lastModified: now, changeFrequency: "yearly" as const, priority: 0.3 },
