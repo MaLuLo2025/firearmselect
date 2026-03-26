@@ -13,16 +13,16 @@
 
 @layer components {
   .btn-primary {
-    @apply inline-block font-sans text-xs uppercase tracking-widest px-6 py-3
+    @apply inline-block font-sans text-sm uppercase tracking-widest px-6 py-3
            bg-ink-900 text-white transition-colors duration-200
            hover:bg-ink-700;
   }
   .btn-secondary {
-    @apply inline-block font-sans text-xs uppercase tracking-widest px-6 py-3
-           border border-ink-200 text-ink-500 transition-colors duration-200
+    @apply inline-block font-sans text-sm uppercase tracking-widest px-6 py-3
+           border-2 border-ink-300 text-ink-600 transition-colors duration-200
            hover:border-ink-900 hover:text-ink-900;
   }
   .section-divider {
-    @apply w-10 h-0.5 bg-ink-900 mx-auto;
+    @apply w-12 h-1 bg-ink-900 mx-auto;
   }
 }

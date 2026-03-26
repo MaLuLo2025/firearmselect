@@ -5,8 +5,8 @@ import { categories } from "@/lib/categories";
 export default function Footer() {
   return (
     <footer className="bg-ink-900 text-cream-300">
-      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
             <div className="flex items-center gap-2 mb-4">
               <svg width="24" height="24" viewBox="0 0 100 100" fill="none">
@@ -15,7 +15,7 @@ export default function Footer() {
                 <circle cx="50" cy="50" r="22" stroke="#e8e4de" strokeWidth="1" />
                 <text x="50" y="58" textAnchor="middle" fontFamily="Georgia, serif" fontSize="28" fill="#e8e4de">F</text>
               </svg>
-              <span className="font-serif text-base text-white">
+              <span className="font-serif text-lg text-white">
                 Firearm<span className="text-steel-400">Select</span>
               </span>
             </div>
@@ -63,11 +63,11 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-16 pt-8 border-t border-ink-700 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-ink-400 text-xs">
+        <div className="mt-12 pt-6 border-t border-ink-700 flex flex-col sm:flex-row items-center justify-between gap-4">
+          <p className="text-ink-400 text-sm">
             &copy; {new Date().getFullYear()} FirearmSelect. All rights reserved.
           </p>
-          <p className="text-ink-400 text-xs font-serif italic">
+          <p className="text-ink-400 text-sm font-serif italic">
             Find dealers. Know the law. Own responsibly.
           </p>
         </div>
