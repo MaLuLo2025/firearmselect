@@ -32,7 +32,6 @@ export const faqData: FaqEntry[] = [
     category: "Gun Laws",
     relatedLinks: [
       { label: "State Gun Law Guides", href: "/states" },
-      { label: "Video: Understanding the NICS Background Check", href: "/resources/videos#nics-background-check" },
     ],
   },
   {
@@ -44,7 +43,7 @@ export const faqData: FaqEntry[] = [
     category: "Gun Laws",
     relatedLinks: [
       { label: "State Carry Laws", href: "/carry-laws" },
-      { label: "Video: Concealed Carry Basics", href: "/resources/videos#concealed-carry-basics" },
+      { label: "Video: Concealed Carry Essentials", href: "/resources/videos#concealed-carry-essentials" },
     ],
   },
   {
@@ -79,7 +78,6 @@ export const faqData: FaqEntry[] = [
     keywords: ["background check", "NICS", "4473", "form", "FBI", "dealer", "FFL", "private sale"],
     category: "Gun Laws",
     relatedLinks: [
-      { label: "Video: Understanding the NICS Background Check", href: "/resources/videos#nics-background-check" },
       { label: "State Gun Law Guides", href: "/states" },
     ],
   },
@@ -105,7 +103,8 @@ export const faqData: FaqEntry[] = [
     keywords: ["first gun", "buying", "new shooter", "beginner", "what gun", "recommend", "starter"],
     category: "Buying Your First Firearm",
     relatedLinks: [
-      { label: "Video: How to Buy Your First Handgun", href: "/resources/videos#first-handgun" },
+      { label: "Video: Choosing a Carry Pistol", href: "/resources/videos#choosing-carry-pistol" },
+      { label: "Video: 9mm Home Defense Pistols", href: "/resources/videos#9mm-home-defense" },
       { label: "Blog: First-Time Buyer's Guide", href: "/blog/first-time-gun-buyer-guide" },
     ],
   },
@@ -117,7 +116,8 @@ export const faqData: FaqEntry[] = [
     keywords: ["revolver", "semi-automatic", "pistol", "auto", "difference", "which is better"],
     category: "Buying Your First Firearm",
     relatedLinks: [
-      { label: "Video: How to Buy Your First Handgun", href: "/resources/videos#first-handgun" },
+      { label: "Video: How Short Recoil Works", href: "/resources/videos#short-recoil" },
+      { label: "Video: Python vs S&W 686", href: "/resources/videos#python-vs-686" },
     ],
   },
   {
@@ -128,7 +128,7 @@ export const faqData: FaqEntry[] = [
     keywords: ["cost", "price", "how much", "expensive", "budget", "affordable", "cheap"],
     category: "Buying Your First Firearm",
     relatedLinks: [
-      { label: "Video: How to Buy Your First Handgun", href: "/resources/videos#first-handgun" },
+      { label: "Video: 9mm Home Defense Pistols Under $500", href: "/resources/videos#9mm-home-defense" },
       { label: "Find Local Dealers", href: "/dealers" },
     ],
   },
@@ -140,8 +140,8 @@ export const faqData: FaqEntry[] = [
     keywords: ["class", "training", "course", "learn", "instruction", "first shots", "safety class", "required"],
     category: "Buying Your First Firearm",
     relatedLinks: [
-      { label: "Video: The 10 Rules of Firearm Safety", href: "/resources/videos#10-rules-safety" },
-      { label: "Video: Your First Trip to the Range", href: "/resources/videos#first-range-trip" },
+      { label: "Video: Self-Defense Misconceptions", href: "/resources/videos#self-defense-misconceptions" },
+      { label: "Safety & Storage Guide", href: "/safety" },
     ],
   },
 
@@ -154,8 +154,7 @@ export const faqData: FaqEntry[] = [
     keywords: ["rules", "safety", "basic", "fundamental", "four rules", "NRA rules", "safe handling"],
     category: "Safety & Storage",
     relatedLinks: [
-      { label: "Video: The 10 Rules of Firearm Safety", href: "/resources/videos#10-rules-safety" },
-      { label: "Video: Secure Firearm Storage", href: "/resources/videos#secure-storage" },
+      { label: "Video: Home Defense Guns", href: "/resources/videos#home-defense-guns" },
       { label: "Safety & Storage Guide", href: "/safety" },
     ],
   },
@@ -167,8 +166,7 @@ export const faqData: FaqEntry[] = [
     keywords: ["storage", "safe", "lockbox", "secure", "lock", "child", "children", "access", "home"],
     category: "Safety & Storage",
     relatedLinks: [
-      { label: "Video: Secure Firearm Storage", href: "/resources/videos#secure-storage" },
-      { label: "Video: Many Paths to Firearm Safety", href: "/resources/videos#many-paths-safety" },
+      { label: "Video: Home Defense Guns", href: "/resources/videos#home-defense-guns" },
       { label: "Safety & Storage Guide", href: "/safety" },
     ],
   },
@@ -180,8 +178,7 @@ export const faqData: FaqEntry[] = [
     keywords: ["home defense", "safe storage", "quick access", "bedside", "biometric", "child safe", "protect"],
     category: "Safety & Storage",
     relatedLinks: [
-      { label: "Video: Secure Firearm Storage", href: "/resources/videos#secure-storage" },
-      { label: "Video: Many Paths to Firearm Safety", href: "/resources/videos#many-paths-safety" },
+      { label: "Video: Home Defense Guns", href: "/resources/videos#home-defense-guns" },
       { label: "Safety & Storage Guide", href: "/safety" },
     ],
   },
@@ -193,7 +190,7 @@ export const faqData: FaqEntry[] = [
     keywords: ["clean", "cleaning", "maintenance", "how often", "lube", "lubricate", "oil", "solvent"],
     category: "Safety & Storage",
     relatedLinks: [
-      { label: "Video: How to Clean a Semi-Automatic Pistol", href: "/resources/videos#clean-pistol" },
+      { label: "Safety & Storage Guide", href: "/safety" },
     ],
   },
   {
@@ -204,9 +201,8 @@ export const faqData: FaqEntry[] = [
     keywords: ["range", "bring", "what to bring", "first time", "shooting range", "gear", "equipment", "eye", "ear"],
     category: "Safety & Storage",
     relatedLinks: [
-      { label: "Video: Your First Trip to the Range", href: "/resources/videos#first-range-trip" },
-      { label: "Video: Handgun Shooting Fundamentals", href: "/resources/videos#shooting-fundamentals" },
       { label: "Find Local Ranges", href: "/dealers" },
+      { label: "Safety & Storage Guide", href: "/safety" },
     ],
   },
 
@@ -219,8 +215,9 @@ export const faqData: FaqEntry[] = [
     keywords: ["concealed carry", "start carrying", "begin", "new", "CCW", "first time carry", "everyday carry", "EDC"],
     category: "Concealed Carry",
     relatedLinks: [
-      { label: "Video: Concealed Carry Basics", href: "/resources/videos#concealed-carry-basics" },
-      { label: "Video: Choosing a Holster", href: "/resources/videos#choosing-holster" },
+      { label: "Video: Concealed Carry Essentials", href: "/resources/videos#concealed-carry-essentials" },
+      { label: "Video: Choosing a Carry Pistol", href: "/resources/videos#choosing-carry-pistol" },
+      { label: "Video: Self-Defense Misconceptions", href: "/resources/videos#self-defense-misconceptions" },
       { label: "State Carry Laws", href: "/carry-laws" },
     ],
   },
@@ -232,7 +229,8 @@ export const faqData: FaqEntry[] = [
     keywords: ["holster", "IWB", "OWB", "appendix", "AIWB", "pocket", "carry position", "kydex", "leather"],
     category: "Concealed Carry",
     relatedLinks: [
-      { label: "Video: Choosing a Concealed Carry Holster", href: "/resources/videos#choosing-holster" },
+      { label: "Video: Choosing a Carry Pistol", href: "/resources/videos#choosing-carry-pistol" },
+      { label: "Video: Concealed Carry Essentials", href: "/resources/videos#concealed-carry-essentials" },
     ],
   },
   {
@@ -243,7 +241,8 @@ export const faqData: FaqEntry[] = [
     keywords: ["caliber", "concealed carry", "9mm", "380", "45", "best caliber", "self defense", "ammunition", "round"],
     category: "Concealed Carry",
     relatedLinks: [
-      { label: "Video: Handgun Calibers Explained", href: "/resources/videos#calibers-explained" },
+      { label: "Video: 9mm vs .357 Magnum", href: "/resources/videos#9mm-vs-357" },
+      { label: "Video: Why Ballistics Gel Works", href: "/resources/videos#ballistics-gel" },
     ],
   },
   {
