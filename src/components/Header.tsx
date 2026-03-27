@@ -22,34 +22,38 @@ export default function Header() {
             Shops &amp; Ranges
           </Link>
           <div className="relative group">
-            <span className="font-sans text-xs uppercase tracking-widest text-steel-700 hover:text-ink-900 transition-colors cursor-pointer">
+            <span className="font-sans text-xs uppercase tracking-widest text-steel-700 hover:text-ink-900 transition-colors cursor-pointer py-2">
               States
             </span>
-            <div className="hidden group-hover:block absolute top-full left-0 mt-2 w-48 bg-white border-2 border-ink-200 shadow-sm z-50 max-h-64 overflow-y-auto">
-              {states.map((s) => (
-                <Link key={s.slug} href={`/${s.slug}/gun-laws`}
-                  className="block px-4 py-2 text-sm text-ink-500 hover:bg-cream-100 hover:text-ink-900 transition-colors">
-                  {s.name}
-                </Link>
-              ))}
+            <div className="hidden group-hover:block absolute top-full left-0 pt-1 z-50">
+              <div className="w-48 bg-white border-2 border-ink-200 shadow-sm max-h-64 overflow-y-auto">
+                {states.map((s) => (
+                  <Link key={s.slug} href={`/${s.slug}/gun-laws`}
+                    className="block px-4 py-2 text-sm text-ink-500 hover:bg-cream-100 hover:text-ink-900 transition-colors">
+                    {s.name}
+                  </Link>
+                ))}
+              </div>
             </div>
           </div>
           <div className="relative group">
-            <span className="font-sans text-xs uppercase tracking-widest text-steel-700 hover:text-ink-900 transition-colors cursor-pointer">
+            <span className="font-sans text-xs uppercase tracking-widest text-steel-700 hover:text-ink-900 transition-colors cursor-pointer py-2">
               Resources
             </span>
-            <div className="hidden group-hover:block absolute top-full right-0 mt-2 w-48 bg-white border-2 border-ink-200 shadow-sm z-50">
-              <Link href="/blog" className="block px-4 py-2 text-sm text-ink-500 hover:bg-cream-100 hover:text-ink-900 transition-colors">
-                Blog
-              </Link>
-              <Link href="/resources/videos" className="block px-4 py-2 text-sm text-ink-500 hover:bg-cream-100 hover:text-ink-900 transition-colors">
-                Video Library
-              </Link>
-              <Link href="/resources/faq" className="block px-4 py-2 text-sm text-ink-500 hover:bg-cream-100 hover:text-ink-900 transition-colors">
-                FAQ
-              </Link>
+            <div className="hidden group-hover:block absolute top-full right-0 pt-1 z-50">
+              <div className="w-48 bg-white border-2 border-ink-200 shadow-sm">
+                <Link href="/blog" className="block px-4 py-2 text-sm text-ink-500 hover:bg-cream-100 hover:text-ink-900 transition-colors">
+                  Blog
+                </Link>
+                <Link href="/resources/videos" className="block px-4 py-2 text-sm text-ink-500 hover:bg-cream-100 hover:text-ink-900 transition-colors">
+                  Video Library
+                </Link>
+              </div>
             </div>
           </div>
+          <Link href="/resources/faq" className="font-sans text-xs uppercase tracking-widest text-steel-700 hover:text-ink-900 transition-colors">
+            FAQ
+          </Link>
           <Link href="/about" className="font-sans text-xs uppercase tracking-widest text-steel-700 hover:text-ink-900 transition-colors">
             About
           </Link>

@@ -3,6 +3,7 @@ import { states } from "@/lib/states";
 import { cities } from "@/lib/cities";
 import { categories } from "@/lib/categories";
 import { getRecentPosts } from "@/lib/blog";
+import { videos, getYoutubeUrl } from "@/lib/videos";
 import DealerSearch from "@/components/DealerSearch";
 import LawSearch from "@/components/LawSearch";
 
@@ -203,6 +204,71 @@ export default function HomePage() {
               Every law links to the actual statute. Every right comes with its responsibility.
               We connect buyers with trusted shops, ranges, and instructors — and arm everyone with accurate information.
             </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Firearms Education — Video Cards */}
+      <section className="py-8 sm:py-12 border-t-2 border-ink-200 bg-cream-100">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-8">
+            <h2 className="font-serif text-display-sm text-ink-900">
+              Firearms Education
+            </h2>
+            <p className="text-ink-500 text-base mt-2 max-w-xl mx-auto">
+              Curated educational content from trusted sources. No politics. No opinion. Just knowledge.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {videos.slice(0, 6).map((video) => (
+              <a
+                key={video.id}
+                href={getYoutubeUrl(video.youtubeId)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group block bg-white border-2 border-ink-200 hover:border-ink-900 transition-colors px-5 py-4"
+              >
+                <div className="flex items-start gap-4">
+                  {/* Play icon */}
+                  <div className="shrink-0 mt-1">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                      <circle cx="16" cy="16" r="15" stroke="#111110" strokeWidth="1.5" />
+                      <polygon points="13,10 23,16 13,22" fill="#111110" />
+                    </svg>
+                  </div>
+
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2 mb-1">
+                      <span className="inline-block font-sans text-[11px] uppercase tracking-widest text-steel-700 font-medium">
+                        {video.category}
+                      </span>
+                      <span className="text-ink-300">·</span>
+                      <span className="font-sans text-[11px] text-ink-400">{video.source}</span>
+                    </div>
+                    <h3 className="font-serif text-base text-ink-900 font-semibold leading-snug group-hover:text-steel-700 transition-colors mb-2">
+                      {video.title}
+                    </h3>
+                    <p className="text-sm text-ink-500 leading-relaxed line-clamp-2">
+                      {video.summary}
+                    </p>
+                  </div>
+
+                  {/* Arrow */}
+                  <div className="shrink-0 mt-2 text-ink-300 group-hover:text-ink-900 transition-colors">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                      <path d="M5 12h14M12 5l7 7-7 7" />
+                    </svg>
+                  </div>
+                </div>
+              </a>
+            ))}
+          </div>
+
+          <div className="text-center mt-6">
+            <Link href="/resources/videos" className="btn-secondary">
+              View all videos
+            </Link>
           </div>
         </div>
       </section>
