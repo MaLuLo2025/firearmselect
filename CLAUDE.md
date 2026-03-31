@@ -12,6 +12,18 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - **Hosting**: Vercel
 - **Language**: TypeScript
 
+## ECC Workflow
+
+- `/plan` before any non-trivial change
+- `/security-scan` before deploying any new endpoint or data change
+- `/code-review` before every deploy
+- Log any mistakes to `gotchas.md` at project root
+- Run `/learn` at session end
+
+## Connected Projects
+- **GoldSilverSelect** (`~/Projects/goldsilverselect`) — sister Select Sites directory, reference implementation for UX patterns
+- **AestheticSelect** (`~/Projects/aestheticselect`) — original reference implementation for geography-first search UX
+
 ## Brand System — "Broadsheet" Theme
 - **Colors**: Near-black (#111110), white background, steel blue (#5a6a7a) accent
 - **Typography**: Georgia (serif, headings) + Helvetica Neue (sans, body)
@@ -165,3 +177,53 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - Every FAQ with a related video links to that video's entry in the video hub
 - Every FAQ with a related blog post links to that blog post
 - Consistent "Related Resources" block at bottom of each answer
+
+## Security Standards (Non-Negotiable)
+
+These apply to ALL projects. No exceptions without explicit owner approval.
+
+### Authentication
+- All internal user accounts require 2FA via authenticator app (TOTP)
+  — no SMS 2FA, no email 2FA for internal users
+- Use Supabase Auth as the standard auth provider across all projects
+- Passwords: minimum 12 characters, bcrypt hashing (Supabase handles this)
+- Session tokens: httpOnly cookies, secure flag, sameSite=strict
+- Never store plaintext passwords, tokens, or secrets anywhere
+
+### API Keys & Secrets
+- All secrets in environment variables — never hardcoded, never committed
+- `.env` is always in `.gitignore` — verify before every commit
+- `.env.example` documents required variables without values
+- Rotate any key that is accidentally exposed immediately
+- Run `/security-scan` after adding any new API integration
+
+### Database (Supabase)
+- Row Level Security (RLS) enabled on every table — no exceptions
+- Never expose the Supabase service role key to the client
+- Use the anon key on the frontend, service role only in server-side code
+- All PII columns encrypted at rest
+- Database backups enabled and tested
+
+### Data Handling
+- Collect only what you need — no speculative data collection
+- PII (names, emails, addresses) stored in Supabase only — never in
+  logs, never in third-party analytics
+- Health/medical data: treated as PHI regardless of HIPAA status —
+  same protection level, no exceptions
+- Financial data: use Stripe for all payment processing — never store
+  card numbers or CVVs anywhere
+- User data deletion must be complete — all tables, all backups
+
+### Frontend Security
+- Content Security Policy (CSP) headers on all projects
+- HTTPS enforced — no mixed content
+- All user inputs sanitized and validated server-side (never trust
+  the client)
+- Run `/security-scan` before every production deploy
+
+### Incident Protocol
+- If a breach is suspected: take affected system offline first,
+  investigate second
+- Notify affected users within 72 hours of confirmed breach
+- Document everything — what happened, when, what data was affected,
+  what was done
