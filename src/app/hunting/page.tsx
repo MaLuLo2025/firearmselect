@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import { huntingStates } from "@/lib/hunting-data";
 import { states } from "@/lib/states";
+import { blogPosts } from "@/lib/blog";
+import { getFaqsByCategory } from "@/lib/faq";
 
 export const metadata: Metadata = {
   title: "Hunting Seasons & Licensing by State | FirearmSelect",
@@ -11,6 +13,8 @@ export const metadata: Metadata = {
 
 export default function HuntingHub() {
   const activeStates = huntingStates.map((h) => h.stateSlug);
+  const huntingPosts = blogPosts.filter((p) => p.categorySlug === "hunting");
+  const huntingFaqs = getFaqsByCategory("Hunting");
 
   return (
     <>
@@ -89,6 +93,76 @@ export default function HuntingHub() {
                 ))}
             </div>
           </div>
+
+          {/* Hunting Articles */}
+          {huntingPosts.length > 0 && (
+            <div className="mt-12">
+              <h2 className="font-serif text-heading text-ink-900 mb-6">
+                Hunting Guides &amp; Articles
+              </h2>
+              <div className="space-y-4">
+                {huntingPosts.map((post) => (
+                  <Link
+                    key={post.slug}
+                    href={`/blog/${post.slug}`}
+                    className="group block border-2 border-ink-200 hover:border-ink-900 transition-colors px-6 py-5"
+                  >
+                    <p className="font-sans text-[11px] uppercase tracking-widest text-steel-700 mb-2 font-medium">
+                      {post.category} &middot; {post.readTime}
+                    </p>
+                    <h3 className="font-serif text-lg text-ink-900 group-hover:text-steel-600 transition-colors leading-snug font-semibold mb-2">
+                      {post.title}
+                    </h3>
+                    <p className="text-sm text-ink-500 leading-relaxed">
+                      {post.excerpt}
+                    </p>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Hunting FAQ */}
+          {huntingFaqs.length > 0 && (
+            <div className="mt-12">
+              <h2 className="font-serif text-heading text-ink-900 mb-6">
+                Hunting FAQ
+              </h2>
+              <div className="space-y-4">
+                {huntingFaqs.map((faq) => (
+                  <div key={faq.id} className="border-b border-ink-100 pb-4">
+                    <h3 className="font-serif text-base text-ink-900 font-semibold mb-2">
+                      {faq.question}
+                    </h3>
+                    <p className="text-sm text-ink-500 leading-relaxed">
+                      {faq.answer}
+                    </p>
+                    {faq.relatedLinks.length > 0 && (
+                      <div className="mt-2 flex flex-wrap gap-3">
+                        {faq.relatedLinks.map((link) => (
+                          <Link
+                            key={link.href}
+                            href={link.href}
+                            className="font-sans text-xs text-steel-500 hover:text-ink-900 hover:underline transition-colors"
+                          >
+                            {link.label} →
+                          </Link>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+              <div className="mt-4">
+                <Link
+                  href="/resources/faq"
+                  className="font-sans text-xs uppercase tracking-wider text-steel-700 hover:text-ink-900 font-medium transition-colors"
+                >
+                  View all FAQs →
+                </Link>
+              </div>
+            </div>
+          )}
 
           {/* Disclaimer */}
           <div
