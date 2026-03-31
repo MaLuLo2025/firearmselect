@@ -90,9 +90,9 @@ export const huntingStates: HuntingStateData[] = [
     stateAbbr: "CO",
     overview: "Colorado offers world-class big game hunting, particularly for elk, mule deer, and pronghorn. The state manages roughly 23 million acres of public land, making it one of the most accessible states for hunting on public ground. Colorado uses a preference point system for limited licenses, and over-the-counter elk tags are available in many units. The state has seen significant growth in hunter numbers, leading to increased competition for limited draw tags.",
     wildlifeAgency: "Colorado Parks and Wildlife",
-    wildlifeAgencyUrl: "https://cpw.state.co.us/thingstodo/Pages/Hunting.aspx",
-    regulationsUrl: "https://cpw.state.co.us/hunting/Pages/Regulations.aspx",
-    hunterEdUrl: "https://cpw.state.co.us/learn/Pages/HunterEducation.aspx",
+    wildlifeAgencyUrl: "https://cpw.state.co.us/activities/hunting",
+    regulationsUrl: "https://cpw.state.co.us/rules-and-regulations",
+    hunterEdUrl: "https://cpw.state.co.us/activities/hunting/education-and-outreach",
     violationHotline: "Operation Game Thief: 1-877-265-6648",
     seasons: {
       bigGame: [
@@ -192,7 +192,7 @@ export const huntingStates: HuntingStateData[] = [
     wildlifeAgency: "Wisconsin Department of Natural Resources",
     wildlifeAgencyUrl: "https://dnr.wisconsin.gov/topic/hunt",
     regulationsUrl: "https://dnr.wisconsin.gov/topic/hunt/regulations",
-    hunterEdUrl: "https://dnr.wisconsin.gov/topic/hunt/education",
+    hunterEdUrl: "https://dnr.wisconsin.gov/Education/OutdoorSkills/safetyEducation",
     violationHotline: "WDNR Tip Line: 1-800-847-9367",
     seasons: {
       bigGame: [
@@ -236,9 +236,9 @@ export const huntingStates: HuntingStateData[] = [
     stateAbbr: "PA",
     overview: "Pennsylvania has nearly one million licensed hunters, making it one of the most active hunting states in the country. The state offers over 1.5 million acres of State Game Lands open to public hunting, plus additional state forest lands. White-tailed deer is the primary big game species, with the state managing antler restrictions that require bucks to have at least 3 points on one side in most Wildlife Management Units. Pennsylvania also has growing populations of black bear and wild turkey.",
     wildlifeAgency: "Pennsylvania Game Commission",
-    wildlifeAgencyUrl: "https://www.pgc.pa.gov/Hunting/Pages/default.aspx",
-    regulationsUrl: "https://www.pgc.pa.gov/Hunting/Law/Pages/HuntingSeasons.aspx",
-    hunterEdUrl: "https://www.pgc.pa.gov/Education/HunterTrapper Education/Pages/default.aspx",
+    wildlifeAgencyUrl: "https://www.pa.gov/en/agencies/pgc/huntingandtrapping.html",
+    regulationsUrl: "https://www.pa.gov/en/agencies/pgc/huntingandtrapping/regulations/seasons-and-bag-limits.html",
+    hunterEdUrl: "https://www.pa.gov/en/agencies/pgc/education/hunter-trapper-education.html",
     violationHotline: "Operation Game Thief: 1-888-742-8001",
     seasons: {
       bigGame: [
@@ -286,8 +286,8 @@ export const huntingStates: HuntingStateData[] = [
     overview: "Michigan ranks among the top hunting states with over 600,000 deer hunters and nearly 4 million acres of state-managed public land. The state is divided into Upper and Lower Peninsulas with distinct season structures. Michigan offers excellent white-tailed deer, wild turkey, waterfowl, and small game hunting. The state has been managing bovine tuberculosis in deer herds in the northeast Lower Peninsula and CWD in the south-central Lower Peninsula, affecting regulations in those areas.",
     wildlifeAgency: "Michigan Department of Natural Resources",
     wildlifeAgencyUrl: "https://www.michigan.gov/dnr/things-to-do/hunting",
-    regulationsUrl: "https://www.michigan.gov/dnr/managing-resources/wildlife/deer/regulations",
-    hunterEdUrl: "https://www.michigan.gov/dnr/education/hunter-education",
+    regulationsUrl: "https://www.michigan.gov/dnr/managing-resources/laws/regulations/deer",
+    hunterEdUrl: "https://www.michigan.gov/dnr/things-to-do/hunting/education",
     violationHotline: "Report All Poaching (RAP): 1-800-292-7800",
     seasons: {
       bigGame: [
@@ -336,8 +336,8 @@ export const huntingStates: HuntingStateData[] = [
     overview: "Georgia offers a long deer season and diverse hunting opportunities across the state's varied terrain — from the Blue Ridge Mountains in the north to the coastal plains in the south. The state has approximately 375,000 deer hunters and manages over 1 million acres of Wildlife Management Areas open to public hunting. Georgia is particularly known for excellent white-tailed deer, wild turkey, and feral hog hunting. Dove hunting is deeply rooted in the state's hunting culture.",
     wildlifeAgency: "Georgia Department of Natural Resources — Wildlife Resources Division",
     wildlifeAgencyUrl: "https://georgiawildlife.com/hunting",
-    regulationsUrl: "https://georgiawildlife.com/hunting/regulations",
-    hunterEdUrl: "https://georgiawildlife.com/hunter-education",
+    regulationsUrl: "https://georgiawildlife.com/regulations",
+    hunterEdUrl: "https://georgiawildlife.com/hunting/huntereducation",
     violationHotline: "Ranger Hotline: 1-800-241-4113",
     seasons: {
       bigGame: [
@@ -480,7 +480,7 @@ export const huntingStates: HuntingStateData[] = [
     wildlifeAgency: "Wyoming Game and Fish Department",
     wildlifeAgencyUrl: "https://wgfd.wyo.gov/Hunting",
     regulationsUrl: "https://wgfd.wyo.gov/Regulations",
-    hunterEdUrl: "https://wgfd.wyo.gov/Education/Hunter-Education",
+    hunterEdUrl: "https://wgfd.wyo.gov/education-camps/hunter-education",
     violationHotline: "STOP Poaching Hotline: 1-877-943-3847",
     seasons: {
       bigGame: [

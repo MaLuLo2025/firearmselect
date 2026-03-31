@@ -228,7 +228,7 @@ export default function HuntingStatePage({
               )}
               <li>
                 <a
-                  href="https://www.fws.gov/birds/management/managed-species/waterfowl.php"
+                  href="https://www.fws.gov/law/migratory-bird-hunting-regulations"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm text-steel-500 hover:underline"
