@@ -4,6 +4,7 @@ import { cities } from "@/lib/cities";
 import { categories } from "@/lib/categories";
 import { getRecentPosts } from "@/lib/blog";
 import { videos, getYoutubeUrl } from "@/lib/videos";
+import { huntingStates } from "@/lib/hunting-data";
 import DealerSearch from "@/components/DealerSearch";
 import LawSearch from "@/components/LawSearch";
 
@@ -119,8 +120,25 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Hunting announcement banner */}
+      <section className="border-t-2 border-ink-900 bg-ink-900">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between">
+          <div>
+            <p className="font-serif text-base text-white font-semibold">
+              New: Hunting Section — Laws, Seasons, Blogs, Videos &amp; More
+            </p>
+            <p className="font-sans text-xs text-ink-300 mt-0.5">
+              State-by-state season dates, licensing, and regulations from official wildlife agencies.
+            </p>
+          </div>
+          <Link href="/hunting" className="shrink-0 font-sans text-xs uppercase tracking-wider px-5 py-2 border-2 border-white text-white hover:bg-white hover:text-ink-900 transition-colors font-medium">
+            Explore →
+          </Link>
+        </div>
+      </section>
+
       {/* Laws & education */}
-      <section className="py-8 sm:py-12 border-t-2 border-ink-900">
+      <section className="py-8 sm:py-12">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-8">
             <p className="font-sans text-xs uppercase tracking-[0.25em] text-steel-700 mb-2 font-medium">
@@ -204,6 +222,90 @@ export default function HomePage() {
               Every law links to the actual statute. Every right comes with its responsibility.
               We connect buyers with trusted shops, ranges, and instructors — and arm everyone with accurate information.
             </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Hunting */}
+      <section className="py-8 sm:py-12 border-t-2 border-ink-200">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-8">
+            <p className="font-sans text-xs uppercase tracking-[0.25em] text-steel-700 mb-2 font-medium">
+              Hunting seasons &amp; licensing
+            </p>
+            <h2 className="font-serif text-display-sm text-ink-900">
+              Plan your hunt
+            </h2>
+            <p className="text-ink-500 text-base mt-2 max-w-xl mx-auto">
+              Season dates, licensing costs, draw information, and harvest reporting — sourced from official state wildlife agencies.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
+            {/* State season guides */}
+            <div className="border-2 border-ink-200 px-6 py-5">
+              <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-steel-700 mb-3 font-medium">
+                State guides
+              </p>
+              <h3 className="font-serif text-lg text-ink-900 font-semibold mb-4">
+                Hunting Seasons &amp; Licensing by State
+              </h3>
+              <div className="grid grid-cols-2 gap-2 mb-4">
+                {huntingStates
+                  .sort((a, b) => a.stateName.localeCompare(b.stateName))
+                  .slice(0, 6)
+                  .map((h) => (
+                    <Link
+                      key={h.stateSlug}
+                      href={`/hunting/seasons/${h.stateSlug}`}
+                      className="text-sm text-ink-500 hover:text-ink-900 transition-colors"
+                    >
+                      {h.stateName} →
+                    </Link>
+                  ))}
+              </div>
+              <Link
+                href="/hunting"
+                className="font-sans text-xs uppercase tracking-wider text-steel-700 hover:text-ink-900 font-medium transition-colors"
+              >
+                View all {huntingStates.length} state guides →
+              </Link>
+            </div>
+
+            {/* Hunting blog articles */}
+            <div className="border-2 border-ink-200 px-6 py-5">
+              <p className="font-sans text-[10px] uppercase tracking-[0.25em] text-steel-700 mb-3 font-medium">
+                Hunting guides
+              </p>
+              <div className="space-y-4">
+                <Link href="/blog/hunting-license-guide-2025-2026" className="group block">
+                  <h3 className="font-serif text-base text-ink-900 group-hover:text-steel-600 transition-colors leading-snug font-semibold">
+                    Hunting Licenses: What You Need, What It Costs, and How Draws Work
+                  </h3>
+                  <p className="font-sans text-xs text-ink-500 mt-1">
+                    Resident vs. non-resident, tags vs. permits, preference points explained.
+                  </p>
+                </Link>
+                <div className="border-t border-ink-100" />
+                <Link href="/blog/public-land-hunting-beginners-guide" className="group block">
+                  <h3 className="font-serif text-base text-ink-900 group-hover:text-steel-600 transition-colors leading-snug font-semibold">
+                    Public Land Hunting: How to Find Accessible Land in Your State
+                  </h3>
+                  <p className="font-sans text-xs text-ink-500 mt-1">
+                    National forests, BLM, WMAs, and walk-in access programs.
+                  </p>
+                </Link>
+              </div>
+            </div>
+          </div>
+
+          {/* Hunting CTA */}
+          <div className="mt-5 border-2 border-ink-900 px-6 py-4 flex items-center justify-between">
+            <div>
+              <p className="font-serif text-base text-ink-900 font-semibold">Season dates, licenses &amp; regulations</p>
+              <p className="font-sans text-sm text-ink-500 mt-1">Detailed guides for 10 states — more being added. Linked to official state wildlife agencies.</p>
+            </div>
+            <Link href="/hunting" className="btn-primary shrink-0">Explore hunting guides</Link>
           </div>
         </div>
       </section>

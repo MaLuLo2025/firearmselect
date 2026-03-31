@@ -1,3 +1,5 @@
+**BEFORE ANY DEPLOYMENT: Re-read this entire file. Confirm compliance with every item before marking any task complete.**
+
 # FirearmSelect — Project Memory (CLAUDE.md)
 
 ## What This Project Is
@@ -17,7 +19,7 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - `/plan` before any non-trivial change
 - `/security-scan` before deploying any new endpoint or data change
 - `/code-review` before every deploy
-- Log any mistakes to `gotchas.md` at project root
+- Log any mistakes to the Deployment Gotchas section of this file
 - Run `/learn` at session end
 
 ## Connected Projects
@@ -72,6 +74,16 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - Gun-laws pages link to /dealers/{state}/ for "find shops & ranges"
 - Dealer/city pages link to /{state}/gun-laws for "view gun laws"
 - Dealer listings (names, ratings, descriptions) ONLY render on /dealers/ pages — never on gun-laws, blog, or other pages
+
+## External Link Verification (Non-Negotiable)
+- Every external URL must be verified (curl, WebFetch, or browser) before deploying
+- State .gov sites restructure frequently — never trust a URL from memory
+- Run link verification as a separate step before any deploy that includes outbound links
+- If a URL redirects to a generic/homepage rather than the specific page intended:
+  - Do NOT use that link — it will confuse users
+  - Instead, link to the agency's main site and add helper text: "Search for '[specific topic]' on the [Agency Name] website"
+  - Example: if the PA Game Commission hunting seasons page redirects to the generic agency homepage, link to the homepage and add: "Search for 'hunting seasons and bag limits' on the Pennsylvania Game Commission website"
+- This applies to ALL outbound links on ALL Select Sites
 
 ## Content Standards
 - Never use superlative claims in dealer descriptions
@@ -177,6 +189,15 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - Every FAQ with a related video links to that video's entry in the video hub
 - Every FAQ with a related blog post links to that blog post
 - Consistent "Related Resources" block at bottom of each answer
+
+## Deployment Gotchas (Non-Negotiable)
+
+### 2026-03-31 — Deployed hunting section with 13 broken external URLs
+- **What went wrong:** Deployed 10 state hunting pages without verifying any of the 30 external wildlife agency URLs. 13 of them were 404s or redirected to wrong pages.
+- **Root cause:** Skipped the CLAUDE.md verification step ("Never mark a task complete without proof"). Used training data URLs without checking if state agencies had restructured their websites.
+- **Rule going forward:** Every external URL must be verified (curl or WebFetch) before deploying. State .gov sites restructure frequently — never trust a URL from memory. Run link verification as a separate step before any deploy that includes outbound links.
+
+---
 
 ## Security Standards (Non-Negotiable)
 

@@ -17,6 +17,7 @@ export const faqCategories = [
   "Buying Your First Firearm",
   "Safety & Storage",
   "Concealed Carry",
+  "Hunting",
 ] as const;
 
 export type FaqCategory = (typeof faqCategories)[number];
@@ -255,6 +256,77 @@ export const faqData: FaqEntry[] = [
     relatedLinks: [
       { label: "State Carry Laws", href: "/carry-laws" },
       { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+
+  // ── Hunting ──────────────────────────────────────────────
+  {
+    id: "hunting-license-need",
+    question: "What licenses do I need to go hunting?",
+    answer:
+      "At minimum, you need a base hunting license from the state where you plan to hunt. Most states also require species-specific tags (deer tag, elk tag, turkey tag) purchased separately. Waterfowl hunters need a federal duck stamp ($25) in addition to state licenses. Many states also require a habitat stamp or conservation stamp. Check your state's wildlife agency website for the complete list — requirements vary significantly from state to state.",
+    keywords: ["license", "permit", "tag", "stamp", "hunting license", "requirements"],
+    category: "Hunting",
+    relatedLinks: [
+      { label: "Hunting Licenses Guide 2025–2026", href: "/blog/hunting-license-guide-2025-2026" },
+      { label: "Hunting Seasons by State", href: "/hunting" },
+    ],
+  },
+  {
+    id: "hunting-draw-tags",
+    question: "What is a draw tag and how do I apply?",
+    answer:
+      "A draw tag (also called limited entry or controlled hunt) is a hunting license allocated through a lottery drawing rather than sold over the counter. States use draws for species or areas where demand exceeds what the wildlife population can sustain — most elk rifle tags in Colorado, all pronghorn tags in Wyoming, and bear permits in Wisconsin are examples. Applications are typically due months before the season (January through May for fall hunts). If you are not drawn, some states give you a preference or bonus point that improves your odds in future years.",
+    keywords: ["draw", "lottery", "controlled hunt", "preference point", "bonus point", "application", "tag"],
+    category: "Hunting",
+    relatedLinks: [
+      { label: "Hunting Licenses Guide 2025–2026", href: "/blog/hunting-license-guide-2025-2026" },
+      { label: "Hunting Seasons by State", href: "/hunting" },
+    ],
+  },
+  {
+    id: "hunter-education",
+    question: "Do I need to take a hunter education course?",
+    answer:
+      "Nearly every state requires completion of a hunter education course before you can purchase a hunting license, regardless of age. Most states accept certificates from other states, so you only need to complete the course once. Courses cover firearms safety, wildlife conservation, regulations, field dressing, and ethics. Many are available online with a required in-person field day. Complete your hunter education well before you plan to hunt — do not wait until the week before the season.",
+    keywords: ["hunter education", "hunter safety", "course", "certificate", "training", "requirement"],
+    category: "Hunting",
+    relatedLinks: [
+      { label: "Hunting Seasons by State", href: "/hunting" },
+    ],
+  },
+  {
+    id: "public-land-hunting",
+    question: "Where can I hunt if I don't own land?",
+    answer:
+      "The United States has hundreds of millions of acres of public land open to hunting. National Forests (193 million acres) and BLM land (245 million acres) are generally open to hunting under state regulations. Every state also manages Wildlife Management Areas, Game Lands, or Conservation Areas specifically for public hunting access. The onX Hunt app is the best tool for identifying public vs. private land boundaries. Many states also operate walk-in hunting access programs that open private land to public hunting during certain seasons.",
+    keywords: ["public land", "where to hunt", "access", "WMA", "game lands", "BLM", "national forest"],
+    category: "Hunting",
+    relatedLinks: [
+      { label: "Public Land Hunting Guide", href: "/blog/public-land-hunting-beginners-guide" },
+      { label: "Hunting Seasons by State", href: "/hunting" },
+    ],
+  },
+  {
+    id: "hunting-season-dates",
+    question: "When is hunting season in my state?",
+    answer:
+      "Season dates vary by state, species, and weapon type (archery, rifle, muzzleloader). Most deer seasons run from September through January, with archery seasons typically opening first and rifle seasons in November. Turkey spring seasons generally run April through May. Waterfowl seasons are set annually under federal frameworks and vary by flyway. We have detailed season date breakdowns for 10 states in our hunting section, with more being added. Always verify dates with your state wildlife agency before hunting — dates can change from year to year.",
+    keywords: ["season dates", "when", "hunting season", "deer season", "elk season", "turkey season"],
+    category: "Hunting",
+    relatedLinks: [
+      { label: "Hunting Seasons by State", href: "/hunting" },
+    ],
+  },
+  {
+    id: "harvest-reporting",
+    question: "Do I have to report my harvest?",
+    answer:
+      "Most states require mandatory harvest reporting for big game (deer, elk, bear) and turkey. Reporting deadlines range from immediately upon harvest to within a few days, depending on the state. Many states now use electronic reporting through apps or websites — gone are the days of physical check stations for most species. Failure to report is a violation that can result in fines and loss of hunting privileges. In states with Chronic Wasting Disease (CWD) management zones, additional mandatory testing may be required for deer and elk.",
+    keywords: ["harvest report", "reporting", "check station", "CWD", "mandatory", "telecheck"],
+    category: "Hunting",
+    relatedLinks: [
+      { label: "Hunting Seasons by State", href: "/hunting" },
     ],
   },
 ];
