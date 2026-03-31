@@ -36,6 +36,9 @@ export default function Header() {
               </div>
             </div>
           </div>
+          <Link href="/hunting" className="font-sans text-xs uppercase tracking-widest text-steel-700 hover:text-ink-900 transition-colors">
+            Hunting
+          </Link>
           <div className="relative group">
             <span className="font-sans text-xs uppercase tracking-widest text-steel-700 hover:text-ink-900 transition-colors cursor-pointer py-2">
               Resources

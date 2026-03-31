@@ -3,6 +3,7 @@ import { states } from "@/lib/states";
 import { blogPosts } from "@/lib/blog";
 import { cities, getCitiesByState } from "@/lib/cities";
 import { dealers } from "@/lib/dealers";
+import { huntingStates } from "@/lib/hunting-data";
 
 const BASE = "https://firearmselect.com";
 
@@ -63,5 +64,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticPages, ...statePages, ...stateDealerPages, ...cityPages, ...dealerPages, ...blogPages];
+  const huntingPages = [
+    { url: `${BASE}/hunting`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.85 },
+    ...huntingStates.map((h) => ({
+      url: `${BASE}/hunting/seasons/${h.stateSlug}`,
+      lastModified: now,
+      changeFrequency: "monthly" as const,
+      priority: 0.85,
+    })),
+  ];
+
+  return [...staticPages, ...statePages, ...stateDealerPages, ...cityPages, ...dealerPages, ...blogPages, ...huntingPages];
 }
