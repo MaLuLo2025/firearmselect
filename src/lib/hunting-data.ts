@@ -1757,11 +1757,11 @@ export const huntingStates: HuntingStateData[] = [
     stateSlug: "nevada",
     stateName: "Nevada",
     stateAbbr: "NV",
-    overview: "Nevada is a draw-only state for nearly all big game hunting, with species including mule deer, elk, pronghorn, bighorn sheep (both desert and California), mountain goat, and mountain lion. The state is over 80% public land (mostly BLM), making it highly accessible once you have a tag. Nevada uses a bonus point system similar to Arizona — weighted random rather than strict preference. Some premium units take decades to draw.",
+    overview: "Nevada is a draw-only state for nearly all big game hunting, with species including mule deer, elk, pronghorn, bighorn sheep (both desert and California), mountain goat, and mountain lion. The state is over 80% public land (mostly BLM), making it highly accessible once you have a tag. Nevada uses a bonus point system similar to Arizona — weighted random rather than strict preference. Some premium units take decades to draw. Note: NDOW's hunting-specific page has a redirect issue — visit ndow.org and search for 'hunting' to navigate to the hunting section directly.",
     wildlifeAgency: "Nevada Department of Wildlife",
-    wildlifeAgencyUrl: "https://www.ndow.org/get-outside/hunting/",
+    wildlifeAgencyUrl: "https://www.ndow.org",
     regulationsUrl: "https://www.ndow.org/get-outside/rules-regulations/",
-    hunterEdUrl: "https://www.ndow.org/get-outside/hunting/hunter-education/",
+    hunterEdUrl: "https://www.ndow.org/get-outside/hunter-education/",
     violationHotline: "Operation Game Thief: 1-800-992-3030",
     seasons: {
       bigGame: [
