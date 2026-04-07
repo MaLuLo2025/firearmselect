@@ -9,6 +9,9 @@ export const metadata: Metadata = {
   title: "Hunting Seasons & Licensing by State | FirearmSelect",
   description:
     "State-by-state hunting season dates, licensing costs, tag requirements, and harvest reporting. Updated for 2025–2026 seasons.",
+  alternates: {
+    canonical: "/hunting",
+  },
 };
 
 // Strip markdown link syntax [label](url) → label so JSON-LD text fields are clean.

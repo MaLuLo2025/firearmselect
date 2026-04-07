@@ -5,7 +5,7 @@ import { cities, getCitiesByState } from "@/lib/cities";
 import { dealers } from "@/lib/dealers";
 import { huntingStates } from "@/lib/hunting-data";
 
-const BASE = "https://firearmselect.com";
+const BASE = "https://www.firearmselect.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date().toISOString();

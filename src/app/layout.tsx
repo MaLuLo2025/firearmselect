@@ -6,6 +6,7 @@ import GoogleAnalytics from "@/components/GoogleAnalytics";
 import "@/styles/globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.firearmselect.com"),
   title: {
     default: "FirearmSelect — Find Trusted Dealers & Know Your State Gun Laws",
     template: "%s | FirearmSelect",
@@ -22,11 +23,14 @@ export const metadata: Metadata = {
     "shooting ranges",
     "gun laws by state",
   ],
+  alternates: {
+    canonical: "/",
+  },
   openGraph: {
     title: "FirearmSelect — Find Trusted Dealers & Know Your State Gun Laws",
     description:
       "The informed firearms directory. Find dealers, understand state laws, own responsibly.",
-    url: "https://firearmselect.com",
+    url: "https://www.firearmselect.com",
     siteName: "FirearmSelect",
     type: "website",
   },
