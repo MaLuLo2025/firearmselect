@@ -104,7 +104,11 @@ export default function HuntingHub() {
             </p>
             <div className="grid grid-cols-3 sm:grid-cols-4 gap-2">
               {states
-                .filter((s) => !activeStates.includes(s.slug))
+                .filter(
+                  (s) =>
+                    !activeStates.includes(s.slug) &&
+                    s.slug !== "district-of-columbia"
+                )
                 .sort((a, b) => a.name.localeCompare(b.name))
                 .map((s) => (
                   <span
