@@ -18,11 +18,28 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
 }
 
 function renderTextWithLinks(text: string) {
-  const urlRegex = /(https?:\/\/[^\s),]+)/g;
-  const parts = text.split(urlRegex);
+  // Combined matcher: markdown links [text](url) OR bare https URLs
+  const tokenRegex = /(\[[^\]]+\]\([^)]+\)|https?:\/\/[^\s),]+)/g;
+  const parts = text.split(tokenRegex);
   return parts.map((part, i) => {
-    if (urlRegex.test(part)) {
-      // Extract display text — use domain + path
+    // Markdown link: [text](url)
+    const mdMatch = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+    if (mdMatch) {
+      const [, label, href] = mdMatch;
+      const isExternal = /^https?:\/\//.test(href);
+      return (
+        <a
+          key={i}
+          href={href}
+          {...(isExternal ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+          className="text-steel-500 hover:text-ink-900 transition-colors"
+        >
+          {label}
+        </a>
+      );
+    }
+    // Bare URL
+    if (/^https?:\/\//.test(part)) {
       const display = part.replace(/^https?:\/\/(?:www\.)?/, "").replace(/\/$/, "");
       return (
         <a key={i} href={part} target="_blank" rel="noopener noreferrer"
@@ -31,7 +48,6 @@ function renderTextWithLinks(text: string) {
         </a>
       );
     }
-    // Clean up surrounding text like "(full opinion: " or ")"
     return part;
   });
 }

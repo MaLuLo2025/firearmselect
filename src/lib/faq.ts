@@ -269,7 +269,7 @@ export const faqData: FaqEntry[] = [
     category: "Hunting",
     relatedLinks: [
       { label: "Hunting Licenses Guide 2025–2026", href: "/blog/hunting-license-guide-2025-2026" },
-      { label: "Hunting Seasons by State", href: "/hunting" },
+      { label: "How to Plan Your First Hunt", href: "/blog/how-to-plan-your-first-hunt" },
     ],
   },
   {
@@ -288,11 +288,24 @@ export const faqData: FaqEntry[] = [
     id: "hunter-education",
     question: "Do I need to take a hunter education course?",
     answer:
-      "Nearly every state requires completion of a hunter education course before you can purchase a hunting license, regardless of age. Most states accept certificates from other states, so you only need to complete the course once. Courses cover firearms safety, wildlife conservation, regulations, field dressing, and ethics. Many are available online with a required in-person field day. Complete your hunter education well before you plan to hunt — do not wait until the week before the season.",
+      "Nearly every state requires completion of a hunter education course before you can purchase a hunting license, regardless of age. Most states accept certificates from other states, so you only need to complete the course once. Courses cover firearms safety, wildlife conservation, regulations, field dressing, and ethics. Many are available online with a required in-person field day. Complete your hunter education well before you plan to hunt — do not wait until the week before the season, because field-day slots fill up months in advance.",
     keywords: ["hunter education", "hunter safety", "course", "certificate", "training", "requirement"],
     category: "Hunting",
     relatedLinks: [
-      { label: "Hunting Seasons by State", href: "/hunting" },
+      { label: "How to Plan Your First Hunt", href: "/blog/how-to-plan-your-first-hunt" },
+      { label: "Hunter Safety Essentials", href: "/blog/hunter-safety-essentials" },
+    ],
+  },
+  {
+    id: "hunter-safety-essentials",
+    question: "What are the most important hunter safety habits?",
+    answer:
+      "The four firearms safety rules — treat every firearm as loaded, never point the muzzle at anything you are not willing to destroy, keep your finger off the trigger until you are ready to shoot, and be sure of your target and what is beyond it — are the foundation. Beyond those, the highest-stakes habits are positive target identification (never shooting at sound or movement), wearing blaze orange whenever possible, and using a full-body harness with a lifeline anytime you hunt from an elevated stand. Tree stand falls are the leading cause of serious hunting injury, and most are preventable with proper equipment used correctly.",
+    keywords: ["safety", "hunter safety", "tree stand", "harness", "blaze orange", "target identification", "four rules", "muzzle"],
+    category: "Hunting",
+    relatedLinks: [
+      { label: "Hunter Safety Essentials", href: "/blog/hunter-safety-essentials" },
+      { label: "Hunting Etiquette and Ethics", href: "/blog/hunting-etiquette-and-ethics" },
     ],
   },
   {
@@ -304,18 +317,19 @@ export const faqData: FaqEntry[] = [
     category: "Hunting",
     relatedLinks: [
       { label: "Public Land Hunting Guide", href: "/blog/public-land-hunting-beginners-guide" },
-      { label: "Hunting Seasons by State", href: "/hunting" },
+      { label: "How to Plan Your First Hunt", href: "/blog/how-to-plan-your-first-hunt" },
     ],
   },
   {
     id: "hunting-season-dates",
     question: "When is hunting season in my state?",
     answer:
-      "Season dates vary by state, species, and weapon type (archery, rifle, muzzleloader). Most deer seasons run from September through January, with archery seasons typically opening first and rifle seasons in November. Turkey spring seasons generally run April through May. Waterfowl seasons are set annually under federal frameworks and vary by flyway. We have detailed season date breakdowns for 10 states in our hunting section, with more being added. Always verify dates with your state wildlife agency before hunting — dates can change from year to year.",
+      "Season dates vary by state, species, and weapon type (archery, rifle, muzzleloader). Most deer seasons run from September through January, with archery seasons typically opening first and rifle seasons in November. Turkey spring seasons generally run April through May. Waterfowl seasons are set annually under federal frameworks and vary by flyway. We have detailed season date breakdowns for every state in our hunting section. Always verify dates with your state wildlife agency before hunting — dates can change from year to year.",
     keywords: ["season dates", "when", "hunting season", "deer season", "elk season", "turkey season"],
     category: "Hunting",
     relatedLinks: [
       { label: "Hunting Seasons by State", href: "/hunting" },
+      { label: "Hunting Licenses Guide 2025–2026", href: "/blog/hunting-license-guide-2025-2026" },
     ],
   },
   {
@@ -326,6 +340,7 @@ export const faqData: FaqEntry[] = [
     keywords: ["harvest report", "reporting", "check station", "CWD", "mandatory", "telecheck"],
     category: "Hunting",
     relatedLinks: [
+      { label: "How to Plan Your First Hunt", href: "/blog/how-to-plan-your-first-hunt" },
       { label: "Hunting Seasons by State", href: "/hunting" },
     ],
   },
