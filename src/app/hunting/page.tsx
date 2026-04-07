@@ -11,13 +11,36 @@ export const metadata: Metadata = {
     "State-by-state hunting season dates, licensing costs, tag requirements, and harvest reporting. Updated for 2025–2026 seasons.",
 };
 
+// Strip markdown link syntax [label](url) → label so JSON-LD text fields are clean.
+function stripMarkdownLinks(text: string): string {
+  return text.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
+}
+
 export default function HuntingHub() {
   const activeStates = huntingStates.map((h) => h.stateSlug);
   const huntingPosts = blogPosts.filter((p) => p.categorySlug === "hunting");
   const huntingFaqs = getFaqsByCategory("Hunting");
 
+  // FAQPage JSON-LD — built from the same data the FAQ component renders, so they cannot drift.
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: huntingFaqs.map((faq) => ({
+      "@type": "Question",
+      name: faq.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: stripMarkdownLinks(faq.answer),
+      },
+    })),
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       <section className="py-12 sm:py-16 border-b border-ink-100">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
           <nav className="mb-6">
