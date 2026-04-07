@@ -4,6 +4,7 @@ import Link from "next/link";
 import { getStateBySlug } from "@/lib/states";
 import { getCityBySlug } from "@/lib/cities";
 import { dealers, getDealersByCity } from "@/lib/dealers";
+import AnalyticsLink from "@/components/AnalyticsLink";
 
 export function generateStaticParams() {
   return dealers.map((d) => ({
@@ -109,15 +110,32 @@ export default function DealerDetailPage({ params }: { params: { state: string; 
               </div>
               <div className="flex justify-between">
                 <span className="text-ink-400">Phone</span>
-                <a href={`tel:${dealer.phone}`} className="text-ink-700 hover:text-steel-600 transition-colors">{dealer.phone}</a>
+                <AnalyticsLink
+                  variant="phone"
+                  href={`tel:${dealer.phone}`}
+                  vendorName={dealer.name}
+                  vendorId={dealer.slug}
+                  linkLocation="detail"
+                  className="text-ink-700 hover:text-steel-600 transition-colors"
+                >
+                  {dealer.phone}
+                </AnalyticsLink>
               </div>
               {dealer.website && (
                 <div className="flex justify-between">
                   <span className="text-ink-400">Website</span>
-                  <a href={dealer.website} target="_blank" rel="noopener noreferrer"
-                    className="text-steel-500 hover:text-ink-900 transition-colors">
+                  <AnalyticsLink
+                    variant="website"
+                    href={dealer.website}
+                    vendorName={dealer.name}
+                    vendorId={dealer.slug}
+                    linkLocation="detail"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-steel-500 hover:text-ink-900 transition-colors"
+                  >
                     Visit website &rarr;
-                  </a>
+                  </AnalyticsLink>
                 </div>
               )}
               <div className="flex justify-between">

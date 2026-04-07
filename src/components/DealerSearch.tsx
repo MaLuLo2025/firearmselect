@@ -2,6 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { useState, useMemo } from "react";
+import { trackLocationSelected } from "@/lib/analytics";
 
 interface CityOption {
   name: string;
@@ -43,6 +44,15 @@ export default function DealerSearch({
   const handleCityChange = (slug: string) => {
     setSelectedCity(slug);
     if (slug && selectedState) {
+      const stateObj = states.find((s) => s.slug === selectedState);
+      const cityObj = cities.find(
+        (c) => c.slug === slug && c.stateSlug === selectedState
+      );
+      trackLocationSelected({
+        state: stateObj?.name ?? selectedState,
+        city: cityObj?.name ?? slug,
+        geographyLevel: "state_and_city",
+      });
       router.push(`/dealers/${selectedState}/${slug}`);
     }
   };
