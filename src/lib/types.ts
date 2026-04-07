@@ -42,6 +42,7 @@ export interface BlogPost {
   slug: string;
   title: string;
   excerpt: string;
+  metaDescription?: string;
   category: string;
   categorySlug: string;
   publishedAt: string;

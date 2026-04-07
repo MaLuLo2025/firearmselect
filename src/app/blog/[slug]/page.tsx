@@ -10,10 +10,12 @@ export function generateStaticParams() {
 export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
   const post = getPostBySlug(params.slug);
   if (!post) return {};
+  const description = post.metaDescription ?? post.excerpt;
   return {
     title: post.title,
-    description: post.excerpt,
-    openGraph: { title: post.title, description: post.excerpt },
+    description,
+    openGraph: { title: post.title, description },
+    twitter: { title: post.title, description },
   };
 }
 
