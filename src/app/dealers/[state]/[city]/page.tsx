@@ -5,6 +5,7 @@ import { getStateBySlug } from "@/lib/states";
 import { cities, getCitiesByState, getCityBySlug } from "@/lib/cities";
 import { getDealersByCity } from "@/lib/dealers";
 import { categories } from "@/lib/categories";
+import TrackedListingMount from "@/components/TrackedListingMount";
 
 export function generateStaticParams() {
   return cities.map((c) => ({ state: c.stateSlug, city: c.slug }));
@@ -33,6 +34,12 @@ export default function CityDealersPage({ params }: { params: { state: string; c
 
   return (
     <>
+      <TrackedListingMount
+        category="all_dealers"
+        city={city.name}
+        state={state.abbr}
+        resultCount={cityDealers.length}
+      />
       <section className="py-12 sm:py-16 border-b border-ink-100">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
           <nav className="mb-6">

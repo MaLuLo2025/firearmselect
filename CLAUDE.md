@@ -12,7 +12,22 @@ The Second Amendment is a fundamental constitutional right. This site is NOT an 
 - **Framework**: Next.js 14 (App Router)
 - **Styling**: Tailwind CSS with custom Broadsheet theme
 - **Hosting**: Vercel
+- **Canonical hostname**: `https://www.firearmselect.com` (apex 307s to www)
 - **Language**: TypeScript
+
+## SEO Foundation (see global Section 20)
+
+This project must follow **Section 20 (SEO Foundation)** of the global `~/.claude/CLAUDE.md`. Read it before any content addition or template change.
+
+Project-specific notes:
+- Canonical hostname: `https://www.firearmselect.com` — `metadataBase` is set in `src/app/layout.tsx`
+- Sitemap base URL constant in `src/app/sitemap.ts` must match `metadataBase`
+- robots.ts sitemap reference must match the canonical hostname
+- New blog posts, hunting content, and state law pages must appear in the dynamic sitemap on the next deploy — verify before marking work done
+- Title suffix: `| FirearmSelect`
+- Every blog post must have `Article` JSON-LD
+- Hub pages with FAQ sections (e.g., `/hunting`) must include `FAQPage` JSON-LD — `/hunting` already has this and must not regress
+- Dealer detail pages should have `LocalBusiness` JSON-LD
 
 ## ECC Workflow
 
