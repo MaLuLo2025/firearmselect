@@ -594,6 +594,297 @@ Visit the land before the season if possible. Walk the terrain, study the habita
 
 Our state hunting guides include links to each state's wildlife agency, where you can find maps of public hunting land, WMA regulations, and walk-in access program details.`
   },
+  {
+    slug: "states-that-dont-honor-concealed-carry-permits",
+    title: "States That Don't Honor Concealed Carry Permits: What the Reciprocity Maps Won't Tell You",
+    excerpt: "Seven states and DC don't recognize any out-of-state CCW permit — and several of them actively prosecute visiting permit holders. Plus the partial-recognition traps that catch travelers who thought their permit was covered.",
+    metaDescription: "A 2026 guide to the 7 states and DC that don't recognize any out-of-state concealed carry permit, plus the partial-recognition traps and federal safe-passage limits every traveling CCW holder should know.",
+    category: "State Laws",
+    categorySlug: "state-laws",
+    publishedAt: "2026-04-20",
+    readTime: "8 min read",
+    content: `A concealed carry permit is not a driver's license. Cross the wrong state line with a firearm tucked in your waistband, and the same piece of paper that makes you a law-abiding citizen at home can make you a felony defendant by lunch.
+
+Most reciprocity maps show you where your permit *is* honored. That's the easy half. The hard half — the half that puts permit holders in county lockup — is understanding which states actively prosecute visitors carrying valid out-of-state permits, and how the "partial recognition" footnotes trip people up.
+
+This is a plain-language overview of where permit holders run into the worst trouble as of 2026. It is general information, not legal advice. If you travel armed, read the destination state's actual statute before you pack your gun in a suitcase.
+
+## The states that recognize no out-of-state permits
+
+Seven states and the District of Columbia do not honor any out-of-state concealed carry permit. If you carry a firearm concealed in these jurisdictions on a permit issued elsewhere, you are carrying without a license under their law — full stop.
+
+- **California**
+- **Hawaii**
+- **Illinois**
+- **Massachusetts**
+- **New Jersey**
+- **New York**
+- **Oregon** (non-resident permits only; resident permits from some other states are not honored)
+- **District of Columbia**
+
+Rhode Island and Connecticut have extremely narrow recognition that functionally excludes most visiting permit holders. Treat both as non-recognition unless you have specifically confirmed otherwise with the state attorney general's office.
+
+## The enforcement reality
+
+Non-recognition isn't theoretical. New York, New Jersey, and Massachusetts have each built reputations for aggressive prosecution of out-of-state permit holders — including people who disclosed their firearm to police at traffic stops, flew in through a local airport, or were transiting through on a multi-state road trip. Charges commonly filed include unlawful possession of a firearm, which in several of these states carries a mandatory minimum prison sentence.
+
+The Federal Safe Passage Law, [18 U.S.C. § 926A](https://www.law.cornell.edu/uscode/text/18/926A), does provide a narrow travel protection: it allows you to transport an unloaded firearm in a locked container, separate from ammunition, through states where you cannot legally possess it — provided you are traveling from one place where you can lawfully possess the gun to another. The key words are *transport* and *unloaded and locked*. Carrying concealed on your person during a layover or overnight stay is not protected. Several prosecutions have turned on exactly this distinction.
+
+## The partial-recognition traps
+
+A state saying it "honors" your permit doesn't always mean what you think.
+
+- **Minnesota** honors the Tennessee *Enhanced* handgun carry permit, not Tennessee's standard permit.
+- **Wisconsin** honors only the Massachusetts *Class A* license to carry.
+- Several states honor only *resident* permits from a given state, not the non-resident permits issued by Utah, Florida, and Arizona that many travelers rely on for broad coverage.
+- "Substantially similar training" clauses in some state statutes allow the host state to refuse recognition if your home state's training requirements fall below their threshold.
+
+The practical upshot: a "honored" designation on a reciprocity map is only the first step of the analysis. The second step is confirming that your specific permit — by state, issue type, and residency status — qualifies.
+
+## What changes if your destination is a constitutional carry state
+
+Twenty-nine states now allow some form of permitless concealed carry. Entering one of these states with a firearm is generally legal even without a permit — but several of these states limit permitless carry to their own residents, or to U.S. citizens who meet specific age and prohibited-person criteria. If you're visiting a constitutional carry state, verify whether the permitless-carry statute applies to non-residents. Don't assume.
+
+## Before you cross any state line armed
+
+Four practical steps that permit holders regularly skip:
+
+1. **Read the actual state statute**, not a map or a summary. Statutes are searchable on state legislature websites.
+2. **Call the destination state attorney general's office** if anything is unclear. They answer reciprocity questions.
+3. **Know the in-state restrictions** that apply even when your permit is honored — school zones, post offices, federal buildings, state capitols, and private property postings vary dramatically.
+4. **If you're routing through a non-recognition state**, plan to unload, lock, and separate the firearm and ammunition before you cross the line — and leave it that way until you exit.
+
+A permit holder who does all four will almost never be the one in handcuffs. A permit holder who assumes reciprocity works like a driver's license is the one who becomes a news story.
+
+## Frequently Asked Questions
+
+### Can I be arrested in New York for carrying on a valid out-of-state concealed carry permit?
+
+Yes. New York does not recognize any out-of-state concealed carry permit. Carrying concealed in New York on a permit issued by another state is treated under New York law as carrying without a license, which is a felony. The state has prosecuted visitors in this situation, including travelers who disclosed the firearm to police voluntarily.
+
+### Does the federal safe-passage law protect me if I'm just driving through?
+
+Only under narrow conditions. [18 U.S.C. § 926A](https://www.law.cornell.edu/uscode/text/18/926A) protects the *transport* of an unloaded firearm in a locked container, stored separately from ammunition, through a state where possession would otherwise be unlawful — and only when you are traveling between two places where possession is legal. Carrying the firearm on your person, keeping it loaded, or making an overnight stop in a non-recognition state can all void the protection.
+
+### Are constitutional carry states safe to visit with a firearm if I don't have a permit?
+
+Some, but not all. Several constitutional carry states limit permitless carry to their own residents. Others require you to be at least 21, a U.S. citizen, and not a prohibited person. Check the specific statute for the state you're visiting before relying on constitutional carry as a non-resident.
+
+### Which permits give me the widest reciprocity coverage?
+
+Non-resident permits from Florida, Utah, and Arizona are honored by the most states. A permit holder who maintains more than one of these can cover nearly every state that allows concealed carry — but still needs to plan around the non-recognition states listed above.
+
+### Is there a federal concealed carry reciprocity law?
+
+No. A federal reciprocity bill has passed the U.S. House of Representatives multiple times but has not become law. As of 2026, reciprocity remains entirely a matter of state agreements and unilateral state recognition.
+
+---
+
+*This article is for informational purposes only and does not constitute legal advice. Firearm laws change frequently. Before carrying a firearm across state lines, verify current law directly with the destination state's attorney general or a licensed attorney.*`
+  },
+  {
+    slug: "what-to-ask-when-buying-your-first-handgun",
+    title: "What to Ask When Buying Your First Handgun: 7 Questions the Pushy Dealers Hate",
+    excerpt: "Seven questions that separate a fair transaction from a padded one — out-the-door pricing, what's actually included with the firearm, bundled holsters, aftermarket upsells, and the training recommendation that tells you everything.",
+    metaDescription: "A first-time buyer's checklist of 7 questions to ask at any gun store — designed to surface out-the-door pricing, bundled markups, unnecessary upsells, and the training recommendation that reveals whether the dealer is advising or just selling.",
+    category: "Buying Guides",
+    categorySlug: "buying-guides",
+    publishedAt: "2026-04-20",
+    readTime: "9 min read",
+    content: `The gun industry makes most of its margin on accessories and upsells — not on the firearm itself. That's not a conspiracy; it's just how retail works. But it's also why walking into a gun store as a first-time buyer without a short list of questions is one of the most expensive ways to buy your first handgun.
+
+This isn't a list of gun recommendations. There are already hundreds of those. This is a list of the questions that separate a fair transaction from a padded one — the ones the good dealers will answer directly, and the ones that will make a pushy dealer squirm.
+
+## 1. "Is this new in box, or has it been a shop gun?"
+
+"Shop gun" or "counter gun" refers to a firearm that has been handled extensively by customers at the counter. It is still legally new — never sold, never fired — but it may have finish wear, light holster scratches, or magazine scuffs.
+
+A shop gun is not a bad buy. It's often the same price as a true new-in-box unit and functions identically. But you should *know* which one you're buying, because some dealers mark one up to match the other. Ask. Inspect the slide and frame before you pay. A direct, unannoyed answer is a green flag.
+
+## 2. "What's the out-the-door price, with tax and any transfer or shipping fees?"
+
+"Out-the-door" is the entire point of this question. A quoted sticker price that turns into a materially higher number at the register — new background check fee, "state compliance fee," "manufacturer shipping surcharge" — is a classic tactic. None of these are illegal. All of them should be disclosed when you ask for the total.
+
+Legitimate fees: the federal excise tax is already baked into the wholesale price (you don't pay it again), state sales tax applies, and a background check fee is typically $20–$40 depending on state. California adds a state-mandated Dealer Record of Sale fee. Anything beyond that deserves an explanation.
+
+## 3. "What's included with the firearm from the factory?"
+
+Most modern handguns ship from the factory with two magazines, a basic plastic case, a cable lock, and a manual. Some ship with a cleaning tool or a spent-casing envelope (required in some states). If the dealer is telling you one magazine is included and the second is "available as an add-on," check the manufacturer's product page before agreeing to buy a second magazine at retail. You may already own it.
+
+## 4. "Do I need this holster and light bundle to make the gun work?"
+
+The answer is always no. A holster and a weapon light can be excellent purchases, but they should be chosen separately based on how you plan to carry or store the firearm — not bundled at point of sale at a 30–40% markup over the same products online.
+
+Pushy bundle sales are the single most common way first-time buyers overpay. Take the firearm home, research holsters for your carry or storage method, and buy the holster separately. The gun will still work when you do.
+
+## 5. "What kind of ammo does this gun reliably run, and how much practice ammo do I need?"
+
+Good dealers will tell you that most modern 9mm handguns run reliably on standard brass-cased, full-metal-jacket range ammo from any major manufacturer. Pushy dealers will steer you toward the most expensive defensive hollow-point load on the shelf "for reliability" — which is backwards. You practice with FMJ. You carry with a proven hollow-point, after you've run a couple hundred rounds of it through the gun to confirm it cycles.
+
+If a dealer can't or won't explain that distinction, it's a sign they are in sales mode, not advisor mode.
+
+## 6. "Do you recommend a trigger upgrade or any other aftermarket parts?"
+
+For a first defensive or duty handgun, the honest answer is almost always *no, not yet*. Stock modern triggers are engineered and tested for the factory configuration; aftermarket triggers in a self-defense gun can complicate a legal defense after a use-of-force incident and are rarely necessary for the first several thousand rounds of training. A dealer who immediately upsells a $180 aftermarket trigger on a $500 gun to a first-time buyer is not prioritizing your interests.
+
+## 7. "What training do you recommend, and who do you recommend for it?"
+
+This is the question that tells you the most about the store. A dealer who refers you to a named local instructor, a reputable training organization, or state-specific CCW courses is invested in you becoming a competent owner. A dealer who shrugs and says "just practice at our range" is invested in you buying more ammo at their counter.
+
+Buying a firearm without training is like buying a motorcycle without ever having ridden one. The cost of a quality one-day fundamentals class — usually $150–$300 — is the best money you will spend in your first year of ownership.
+
+## What a good transaction looks like
+
+You walk in with a short list of handguns you've already researched. You ask the seven questions above. The dealer answers them directly, acknowledges when they don't know something, hands you firearms to check grip fit without sales pressure, tells you the all-in out-the-door price without being pushed, and recommends training. You leave with the gun, two factory magazines, and a short list of holsters to consider at home.
+
+You do *not* leave with a bundled holster you didn't ask for, a "range starter pack" of five different defensive ammo brands, an aftermarket trigger, an RMR-ready optic you don't yet know how to use, and a $79 cleaning kit. Each of those items has its place. None of them belong in a first-purchase transaction that started with "I want to buy a handgun for home defense."
+
+## Frequently Asked Questions
+
+### What's a fair price for a first-time handgun purchase in 2026?
+
+Most quality striker-fired 9mm handguns from major manufacturers — Glock, Smith & Wesson, Sig Sauer, Springfield, CZ, and Ruger — fall in the $450–$700 range at retail. Budget-friendly options from Taurus, Canik, and a few other manufacturers can be had in the $300–$450 range. Pricing above these ranges generally reflects a specific feature (threaded barrel, optics cut, match trigger) or a premium brand. If you're a first-time buyer and the out-the-door total is pushing past $900 for a standard handgun, walk through the receipt item-by-item.
+
+### Are online gun prices usually better than local gun stores?
+
+Often, yes, on the firearm itself — but you have to add the cost of a Federal Firearms License transfer fee ($25–$75) and shipping. After those fees, the total is usually within $30–$50 of local pricing. Buying online makes the most sense for specific models your local shops don't stock, not as a default strategy. Local shops also offer the ability to inspect the exact gun you're buying and get hands-on support.
+
+### Do I really need a holster, light, and safe on day one?
+
+A holster is optional on day one only if you are storing the firearm in a locked container and not carrying it. A secure storage container is not optional — at minimum, a basic pistol safe or lockbox, which can be had for $50–$150. A weapon light is useful but not required for the first purchase. Choose storage first, holster second, light later.
+
+### What should I check on the firearm before I leave the store?
+
+Confirm the gun is the correct model and caliber on the receipt. Inspect the slide and frame for finish wear if sold as new-in-box. Verify the factory accessories are in the case — typically two magazines, a cable lock, a manual, and any state-required casing envelope. Check that the serial number on the firearm matches what's recorded on your transfer paperwork.
+
+### Is it legal for a dealer to refuse a sale to me?
+
+Yes. Federal law requires dealers to refuse sales if they have reasonable cause to believe the buyer is intoxicated, a prohibited person, or making a straw purchase (buying for someone else). Dealers may also decline sales at their own discretion for other reasons. Refusal is not an accusation; if it happens, ask politely for the reason and seek out another dealer.
+
+---
+
+*Ready to find a dealer in your area? Browse our verified dealer directory to see listings filtered by state and city.*`
+  },
+  {
+    slug: "constitutional-carry-states-for-non-residents-2026",
+    title: "Constitutional Carry States 2026: Which Ones Actually Let Visitors Carry Without a Permit",
+    excerpt: "Twenty-nine states now have permitless carry — but several limit it to residents only. A 2026 guide to which constitutional carry states apply to non-resident visitors, the age and prohibited-person requirements, and the location restrictions that still apply.",
+    metaDescription: "A practical 2026 guide to constitutional carry as a visitor — which of the 29 permitless-carry states extend the right to non-residents, the age and prohibited-person requirements, and what still restricts carry even in permissive states.",
+    category: "State Laws",
+    categorySlug: "state-laws",
+    publishedAt: "2026-04-20",
+    readTime: "8 min read",
+    content: `Twenty-nine states have adopted some form of constitutional carry — the right to carry a concealed handgun without a permit, for people who can legally own one. That's a genuine shift in the legal landscape compared to a decade ago, when the number was under ten.
+
+But "constitutional carry state" is not the same thing as "no permit needed, ever, for anyone." Several of these states limit permitless carry to their own residents. Others set a higher minimum age than federal law. A few require you to be a U.S. citizen. Visitors who assume the headlines apply uniformly risk the same charges a permit-less resident would face — in a few cases, felony charges with mandatory minimums.
+
+This guide breaks down how constitutional carry actually works for out-of-state visitors in 2026. It is general information, not legal advice. Always verify the current statute for your destination state before carrying.
+
+## What "constitutional carry" means, practically
+
+In a constitutional carry state, a qualifying person may carry a concealed handgun in most public places without applying for a permit. That's the core rule. What varies from state to state is:
+
+- Whether the permitless-carry rule applies to non-residents
+- The minimum age (often 21, but 18 in some states for handguns and in some states for members of the military)
+- Prohibited-person criteria (federal disqualifications always apply; some states add their own)
+- Open-carry rules (which are usually, but not always, the same as concealed)
+- Location-based restrictions that apply even with constitutional carry (schools, bars, government buildings, posted private property)
+
+Permitless carry is a floor, not a ceiling. State and federal *location* restrictions stack on top of it.
+
+## The 29 constitutional carry states
+
+As of early 2026, these states allow some form of permitless concealed carry:
+
+Alabama, Alaska, Arizona, Arkansas, Florida, Georgia, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Mississippi, Missouri, Montana, Nebraska, New Hampshire, North Carolina (open carry; permit still required for concealed), North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, West Virginia, and Wyoming.
+
+Laws are amended frequently. Always confirm the current statute before traveling.
+
+## The non-resident distinction
+
+Some of these states apply permitless carry to any qualifying adult, regardless of which state issued their driver's license. Others limit it to their own residents — meaning a visitor who wants to carry must have a permit that the state honors under its reciprocity rules.
+
+In the most recent round of enacted laws, several states have broadened permitless carry to cover any U.S. citizen (or in some cases any legal resident) who meets the age and prohibited-person requirements. But this is not universal. A handful of states still limit permitless carry to residents only, or limit it to residents plus members of the military stationed in-state.
+
+The practical rule for travelers: if you are visiting a constitutional carry state and you do not hold a permit that the state recognizes, read the actual statute. Do not assume the headline coverage applies to you.
+
+## Age requirements for visitors
+
+Federal law sets the minimum age for handgun purchase from a licensed dealer at 21. But *carrying* a handgun you already own is governed by state law, and several states allow permitless carry at age 18 — particularly for members of the military, or more broadly following recent federal court decisions on age-based restrictions.
+
+For non-residents, the age floor varies:
+
+- Most constitutional carry states: 21
+- A growing number of states: 18 for members of the U.S. armed forces
+- Several states after recent court rulings: 18 for any qualifying person, concealed or open
+
+If you are between 18 and 21 and plan to carry as a non-resident, confirm current law before your trip.
+
+## Prohibited person criteria
+
+Federal law under [18 U.S.C. § 922(g)](https://www.law.cornell.edu/uscode/text/18/922) prohibits firearm possession by convicted felons, people with domestic violence convictions, people subject to certain restraining orders, unlawful users of controlled substances (including state-legal marijuana), and several other categories. These federal disqualifications apply in every state — constitutional carry or not.
+
+Several states add their own disqualifications, typically including:
+
+- Certain misdemeanor convictions
+- Commitment to mental health treatment
+- Pending felony charges
+- Age restrictions stricter than federal law
+
+If you are federally prohibited, constitutional carry does not give you a carry right. A state cannot override federal prohibitions on firearm possession.
+
+## Location restrictions still apply
+
+Even in the most permissive constitutional carry states, federal and state law restrict carry in specific locations regardless of permit status. Common restrictions:
+
+- **Federal buildings**, including post offices and federal courthouses
+- **Schools** (federal Gun-Free School Zones Act and most state laws)
+- **Airports** past the TSA checkpoint
+- **Military installations**
+- **National parks with specific restrictions** on building entry
+- **Bars and establishments serving alcohol** (varies by state)
+- **State capitols and certain government buildings** (varies by state)
+- **Posted private property** (enforceability of signage varies by state)
+
+A traveler carrying legally under constitutional carry can still be charged for entering a prohibited location. The permit, or lack of one, does not change that analysis.
+
+## Should you carry without a permit when you could get one?
+
+Many experienced travelers carry a permit even in their own constitutional carry home state, because:
+
+- A permit typically unlocks reciprocity with other states
+- It documents training and background-check clearance
+- In some states, it exempts the holder from the federal Gun-Free School Zones Act when passing near schools
+- It simplifies interactions with law enforcement in unfamiliar jurisdictions
+
+Constitutional carry and a permit are not mutually exclusive. For travelers, a non-resident permit from Florida, Utah, or Arizona combined with your home-state permit can cover nearly every state that allows concealed carry.
+
+## Frequently Asked Questions
+
+### Can I carry without a permit as a visitor to a constitutional carry state?
+
+Sometimes, not always. A number of constitutional carry states extend permitless carry to any qualifying non-resident adult. Others limit the right to their own residents. Always check the specific state statute — the current list of states with permitless carry is not the same as the list of states that extend it to visitors.
+
+### Do I need to be 21 to carry without a permit?
+
+In most constitutional carry states, yes. A handful of states now allow 18-to-20-year-olds to carry concealed without a permit, especially after recent federal court rulings on age-based restrictions, and several states make exceptions for active-duty military. Confirm the current law in your destination state.
+
+### If I'm a prohibited person under federal law, can I carry in a constitutional carry state?
+
+No. Federal prohibitions on firearm possession apply in every state. If you are a convicted felon, have a qualifying domestic violence conviction, are subject to certain restraining orders, or otherwise fall into a prohibited category under 18 U.S.C. § 922(g), constitutional carry does not give you a carry right, and possession of a firearm is a federal crime.
+
+### Do schools, airports, and federal buildings still apply under constitutional carry?
+
+Yes. Federal location restrictions — particularly the Gun-Free School Zones Act and the federal prohibition on firearms in federal buildings and past airport TSA checkpoints — apply regardless of whether the state allows permitless carry. State-level restrictions on bars, government buildings, and posted private property also generally continue to apply.
+
+### Is open carry legal in all constitutional carry states?
+
+Usually, but not always. Most constitutional carry states allow both open and concealed carry without a permit. A few, including North Carolina, allow open carry without a permit but still require a permit for concealed carry. Always verify both rules if you plan to open-carry, particularly in a state you're visiting.
+
+---
+
+*Planning a trip? Check the state law page for your destination before you pack. Our state-by-state firearm law coverage is updated as statutes change.*`
+  },
 ];
 
 export const getPostBySlug = (slug: string): BlogPost | undefined =>

@@ -344,6 +344,70 @@ export const faqData: FaqEntry[] = [
       { label: "Hunting Seasons by State", href: "/hunting" },
     ],
   },
+
+  // ── State Laws (CCW Travel) ─────────────────────────────
+  {
+    id: "arrested-ny-out-of-state-permit",
+    question: "Can I be arrested in New York for carrying on a valid out-of-state concealed carry permit?",
+    answer:
+      "Yes. New York does not recognize any out-of-state concealed carry permit. Carrying concealed in New York on a permit issued by another state is treated under New York law as carrying without a license, a felony with significant penalties. The state has prosecuted visitors in this situation, including travelers who voluntarily disclosed the firearm to law enforcement. For a full breakdown of non-recognition states and partial-recognition traps, see our guide on states that don't honor concealed carry permits.",
+    keywords: ["new york", "arrest", "out-of-state", "permit", "non-recognition", "felony", "CCW"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "States That Don't Honor CCW Permits", href: "/blog/states-that-dont-honor-concealed-carry-permits" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  {
+    id: "federal-safe-passage-non-recognition",
+    question: "Does federal safe-passage law protect me when driving through a non-recognition state?",
+    answer:
+      "Only under narrow conditions. 18 U.S.C. § 926A protects the transport of an unloaded firearm in a locked container, stored separately from ammunition, through a state where possession would otherwise be unlawful — and only when traveling between two places where possession is legal. Carrying the firearm on your person, keeping it loaded, or making an overnight stop can void the protection. Read our full travel guidance in our reciprocity breakdown.",
+    keywords: ["safe passage", "FOPA", "926A", "transport", "drive through", "non-recognition", "federal"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "States That Don't Honor CCW Permits", href: "/blog/states-that-dont-honor-concealed-carry-permits" },
+      { label: "Interstate Reciprocity Guide", href: "/reciprocity" },
+    ],
+  },
+  {
+    id: "constitutional-carry-visitor-no-permit",
+    question: "Can I carry without a permit as a visitor to a constitutional carry state?",
+    answer:
+      "Sometimes, not always. Twenty-nine states allow some form of permitless concealed carry, but several limit the right to their own residents. Age requirements, citizenship requirements, and location restrictions also vary. See our 2026 constitutional carry guide for non-residents for a state-by-state breakdown.",
+    keywords: ["constitutional carry", "visitor", "non-resident", "permitless", "travel", "no permit"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Constitutional Carry for Non-Residents 2026", href: "/blog/constitutional-carry-states-for-non-residents-2026" },
+      { label: "State Carry Laws", href: "/carry-laws" },
+    ],
+  },
+
+  // ── Buying (First-Time Handgun) ────────────────────────────
+  {
+    id: "fair-price-first-handgun-2026",
+    question: "What's a fair all-in price for a first-time handgun purchase in 2026?",
+    answer:
+      "Quality striker-fired 9mm handguns from major manufacturers fall in the $450–$700 range at retail. Budget options from a few reputable manufacturers run $300–$450. If your out-the-door total is pushing past $900 for a standard first handgun, walk through the receipt item-by-item — bundled holsters, \"range starter packs,\" and aftermarket triggers are the most common ways first-time buyers quietly overpay. Our first-time buyer question checklist covers what to ask and what to decline.",
+    keywords: ["price", "cost", "first handgun", "fair price", "2026", "out the door", "how much"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "7 Questions to Ask When Buying", href: "/blog/what-to-ask-when-buying-your-first-handgun" },
+      { label: "Find Local Dealers", href: "/dealers" },
+    ],
+  },
+  {
+    id: "holster-light-safe-day-one",
+    question: "Do I need a holster, light, and safe on day one?",
+    answer:
+      "A secure storage container is not optional — at minimum, a basic pistol safe or lockbox. A holster is optional unless you plan to carry immediately; choose it separately from the firearm purchase rather than accepting a bundled one at point-of-sale markup. A weapon light is useful but not required for the first purchase. Read the full breakdown in our first-time buyer guide.",
+    keywords: ["holster", "light", "safe", "day one", "first purchase", "accessories", "bundle"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "7 Questions to Ask When Buying", href: "/blog/what-to-ask-when-buying-your-first-handgun" },
+      { label: "Safety & Storage Guide", href: "/safety" },
+    ],
+  },
 ];
 
 export function getFaqsByCategory(category: string): FaqEntry[] {

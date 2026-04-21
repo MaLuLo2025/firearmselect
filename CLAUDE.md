@@ -29,6 +29,9 @@ Project-specific notes:
 - Hub pages with FAQ sections (e.g., `/hunting`) must include `FAQPage` JSON-LD — `/hunting` already has this and must not regress
 - Dealer detail pages should have `LocalBusiness` JSON-LD
 
+## File Output
+All generated files for this project go to `~/Claude Files/firearmselect/` — never `~/Downloads/`.
+
 ## ECC Workflow
 
 - `/plan` before any non-trivial change
