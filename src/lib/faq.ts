@@ -83,6 +83,42 @@ export const faqData: FaqEntry[] = [
     ],
   },
   {
+    id: "brandishing-definition",
+    question: "What does \"brandishing\" a firearm actually mean?",
+    answer:
+      "Brandishing typically means displaying a firearm in a rude, angry, threatening, or intimidating manner. Only five states (Louisiana, Michigan, Mississippi, Virginia, West Virginia) use the term \"brandishing\" explicitly in their statutes\u2014most states criminalize the same behavior under laws like menacing, improper exhibition, or unlawful display. Key elements: displaying or exhibiting the firearm (even partially), in a threatening manner, with intent to intimidate. The gun doesn't need to be pointed at anyone or even loaded. For detailed legal definitions and penalties, see our article on [what brandishing means legally](/blog/what-brandishing-firearm-means-felony).",
+    keywords: ["brandishing", "display", "threaten", "menacing", "unlawful display", "improper exhibition"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "What Brandishing Actually Means", href: "/blog/what-brandishing-firearm-means-felony" },
+      { label: "State Carry Laws", href: "/carry-laws" },
+    ],
+  },
+  {
+    id: "defensive-display-legal",
+    question: "Can I show my gun to deter someone without getting charged?",
+    answer:
+      "It depends on your state and the specific circumstances. Some states recognize \"defensive display\" as lawful when you reasonably believe you face an unlawful threat\u2014but it's an affirmative defense, meaning you admit to displaying the weapon and must prove it was justified. In states without defensive display laws, any exhibition of a firearm during a confrontation is presumptively criminal unless you meet the full standard for lawful use of deadly force. The legally safest response to confrontations while armed is to leave rather than reveal you're carrying. For the full breakdown, see our article on [brandishing and defensive display](/blog/what-brandishing-firearm-means-felony).",
+    keywords: ["defensive display", "deter", "show gun", "self-defense", "brandishing", "affirmative defense"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "What Brandishing Actually Means", href: "/blog/what-brandishing-firearm-means-felony" },
+      { label: "State Carry Laws", href: "/carry-laws" },
+    ],
+  },
+  {
+    id: "brandishing-misdemeanor-felony",
+    question: "Is brandishing a misdemeanor or felony?",
+    answer:
+      "Typically a misdemeanor for first offenses under ordinary circumstances (30 days to 1 year in jail). Circumstances that elevate to felony include: brandishing at a daycare during operating hours, brandishing in the presence of law enforcement, brandishing a loaded firearm in certain locations, or brandishing during commission of another crime. \"Wobbler\" offenses give prosecutors discretion to charge either misdemeanor or felony based on circumstances and your criminal history. See our [detailed brandishing penalties guide](/blog/what-brandishing-firearm-means-felony) for state-specific information.",
+    keywords: ["brandishing", "misdemeanor", "felony", "penalty", "wobbler", "sentencing"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "What Brandishing Actually Means", href: "/blog/what-brandishing-firearm-means-felony" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  {
     id: "restricted-locations",
     question: "Where can't I legally carry a firearm?",
     answer:
@@ -184,6 +220,42 @@ export const faqData: FaqEntry[] = [
     ],
   },
   {
+    id: "state-storage-laws",
+    question: "Does my state require me to lock up my guns?",
+    answer:
+      "Twenty-six states plus DC have secure storage or child access prevention (CAP) laws. Two states (Massachusetts, Oregon) require all firearms to be locked when not in use. Thirteen states require secure storage only when minors or prohibited persons are present. Eleven states plus DC only impose liability if someone actually gains access to an unsecured firearm. For state-specific requirements, see our article on [storage laws by state](/blog/firearm-storage-laws-by-state).",
+    keywords: ["storage", "lock", "state law", "CAP", "child access prevention", "secure storage", "required"],
+    category: "Safety & Storage",
+    relatedLinks: [
+      { label: "Firearm Storage Laws by State", href: "/blog/firearm-storage-laws-by-state" },
+      { label: "Safety & Storage Guide", href: "/safety" },
+    ],
+  },
+  {
+    id: "secure-storage-definition",
+    question: "What counts as \"secure storage\" under state law?",
+    answer:
+      "Common requirements include locked containers (gun safes, lockboxes), trigger locks or cable locks, and sometimes storing firearms unloaded with ammunition kept separately. Some states specify minimum lock standards; others accept any lock. Quick-access biometric safes satisfy all state requirements while preserving rapid access for home defense. The specific definition varies by state. See our [storage laws guide](/blog/firearm-storage-laws-by-state) for details.",
+    keywords: ["secure storage", "locked container", "trigger lock", "cable lock", "biometric safe", "gun safe"],
+    category: "Safety & Storage",
+    relatedLinks: [
+      { label: "Firearm Storage Laws by State", href: "/blog/firearm-storage-laws-by-state" },
+      { label: "Safety & Storage Guide", href: "/safety" },
+    ],
+  },
+  {
+    id: "child-age-storage-law",
+    question: "At what age does a child trigger storage requirements?",
+    answer:
+      "It varies. Twelve states (including California, Massachusetts, Colorado) define a child as anyone under 18. Florida, New Hampshire, and Texas use age 16. Illinois and Iowa use age 14. The age threshold determines when secure storage laws apply and affects liability if a minor accesses an unsecured firearm. For state-specific age thresholds, see our [storage laws article](/blog/firearm-storage-laws-by-state).",
+    keywords: ["child", "minor", "age", "storage", "CAP", "threshold", "teenager"],
+    category: "Safety & Storage",
+    relatedLinks: [
+      { label: "Firearm Storage Laws by State", href: "/blog/firearm-storage-laws-by-state" },
+      { label: "Safety & Storage Guide", href: "/safety" },
+    ],
+  },
+  {
     id: "cleaning-frequency",
     question: "How often should I clean my firearm?",
     answer:
@@ -244,6 +316,42 @@ export const faqData: FaqEntry[] = [
     relatedLinks: [
       { label: "Video: 9mm vs .357 Magnum", href: "/resources/videos#9mm-vs-357" },
       { label: "Video: Why Ballistics Gel Works", href: "/resources/videos#ballistics-gel" },
+    ],
+  },
+  {
+    id: "open-vs-concealed-legal-difference",
+    question: "What's the legal difference between open carry and concealed carry?",
+    answer:
+      "Open carry means carrying a firearm in a manner that's wholly or partially visible to others (typically in an outside-the-waistband holster). Concealed carry means carrying hidden from ordinary observation (inside waistband, ankle holster, off-body carry). The legal implications differ dramatically: 47 states permit some form of open carry, but only 3 states (California, Illinois, New York) prohibit it entirely. Some states require permits for concealed carry but allow permitless open carry, while others require permits for both. For state-by-state details, see our article on [open carry vs concealed carry laws](/blog/open-carry-vs-concealed-carry-laws).",
+    keywords: ["open carry", "concealed carry", "legal difference", "visible", "hidden", "permit"],
+    category: "Concealed Carry",
+    relatedLinks: [
+      { label: "Open Carry vs Concealed Carry", href: "/blog/open-carry-vs-concealed-carry-laws" },
+      { label: "State Carry Laws", href: "/carry-laws" },
+    ],
+  },
+  {
+    id: "printing-concealed-carry",
+    question: "What is \"printing\" and can I be charged for it?",
+    answer:
+      "Printing refers to the outline of a concealed firearm showing through clothing. Different states define \"concealed\" differently\u2014some require that the firearm not be \"readily visible,\" while others specify it must not be \"discernible.\" Whether a visible gun outline violates concealment requirements depends on your state's specific language. To avoid issues, carry in a manner that eliminates any visible outline. For more detail, see our [open carry vs concealed carry guide](/blog/open-carry-vs-concealed-carry-laws).",
+    keywords: ["printing", "concealed", "outline", "visible", "discernible", "concealment"],
+    category: "Concealed Carry",
+    relatedLinks: [
+      { label: "Open Carry vs Concealed Carry", href: "/blog/open-carry-vs-concealed-carry-laws" },
+      { label: "State Carry Laws", href: "/carry-laws" },
+    ],
+  },
+  {
+    id: "local-laws-restrict-open-carry",
+    question: "Can local laws restrict open carry even if my state allows it?",
+    answer:
+      "Yes. State law sets the baseline, but municipalities often add restrictions. Virginia allows statewide open carry but permits localities to ban firearms in public buildings and parks. North Carolina permits local governments to prohibit display of firearms on public property. Texas allows businesses to post signage (30.07 signs) prohibiting open carry while still allowing concealed carry. Always verify local ordinances before open carrying in a new city or county. See our [open carry vs concealed carry guide](/blog/open-carry-vs-concealed-carry-laws) for examples.",
+    keywords: ["local laws", "municipal", "ordinance", "open carry", "restriction", "city", "county"],
+    category: "Concealed Carry",
+    relatedLinks: [
+      { label: "Open Carry vs Concealed Carry", href: "/blog/open-carry-vs-concealed-carry-laws" },
+      { label: "State Carry Laws", href: "/carry-laws" },
     ],
   },
   {
@@ -406,6 +514,100 @@ export const faqData: FaqEntry[] = [
     relatedLinks: [
       { label: "7 Questions to Ask When Buying", href: "/blog/what-to-ask-when-buying-your-first-handgun" },
       { label: "Safety & Storage Guide", href: "/safety" },
+    ],
+  },
+  // ── Concealed Carry (new entries from 2026-04-27 cycle) ──
+  {
+    id: "ccw-reciprocity-other-states",
+    question: "Does my concealed carry permit work in other states?",
+    answer: "It depends on which states. There is no federal concealed carry license. Each state decides whether to honor permits issued by other states. Roughly half the states have constitutional carry (no permit required at all). Others recognize permits from defined lists of partner states. A small number recognize no out-of-state permits. Always verify on the destination state's attorney general or state police website before traveling.",
+    keywords: ["reciprocity", "concealed carry", "permit", "travel", "other states", "honor"],
+    category: "Concealed Carry",
+    relatedLinks: [
+      { label: "Concealed Carry Reciprocity Guide", href: "/blog/concealed-carry-reciprocity-states" },
+      { label: "State-by-State Gun Laws", href: "/laws" },
+    ],
+  },
+  {
+    id: "non-resident-permit-honored",
+    question: "Are non-resident permits honored the same way as resident permits?",
+    answer: "Often not. Many states honor only resident permits from their reciprocity partners. A Florida non-resident permit, for example, has historically been less broadly recognized than a Florida resident permit issued to a Florida resident. If you're carrying on a non-resident permit, verify the destination state's specific recognition rule — look for \"resident permits only\" language.",
+    keywords: ["non-resident", "permit", "reciprocity", "Florida", "recognition"],
+    category: "Concealed Carry",
+    relatedLinks: [
+      { label: "Concealed Carry Reciprocity Guide", href: "/blog/concealed-carry-reciprocity-states" },
+    ],
+  },
+  {
+    id: "syg-vs-castle-doctrine",
+    question: "What's the difference between Stand Your Ground and Castle Doctrine?",
+    answer: "The Castle Doctrine, present in nearly every U.S. state, removes the duty to retreat when defending against an unlawful intruder in your home (and often vehicle, business, or curtilage). Stand-your-ground laws extend the no-retreat rule to any place the defender has a legal right to be. Castle Doctrine is older, narrower, and nearly universal. SYG is broader, more recent, and adopted by a majority of states.",
+    keywords: ["stand your ground", "castle doctrine", "self-defense", "duty to retreat", "SYG"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Stand Your Ground vs Duty to Retreat", href: "/blog/stand-your-ground-vs-duty-to-retreat" },
+    ],
+  },
+  {
+    id: "syg-travel-other-state",
+    question: "Does Stand Your Ground apply to me when I travel to another state?",
+    answer: "No. Self-defense law is governed by the law of the place where the use of force occurred, not your state of residence. A traveler from a stand-your-ground state who uses force in a duty-to-retreat state is evaluated under the duty-to-retreat rule. This is one of the more dangerous gaps in carry knowledge — assumptions formed in one state's legal environment do not travel with you.",
+    keywords: ["stand your ground", "travel", "duty to retreat", "self-defense", "state law"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Stand Your Ground vs Duty to Retreat", href: "/blog/stand-your-ground-vs-duty-to-retreat" },
+      { label: "State-by-State Gun Laws", href: "/laws" },
+    ],
+  },
+  {
+    id: "first-handgun-caliber",
+    question: "What caliber should my first handgun be?",
+    answer: "For most users, 9mm is the defensive answer. Modern 9mm self-defense ammunition meets FBI ballistic standards, recoil is manageable, capacity in equivalent frames is the highest among centerfire defensive calibers, and practice ammunition is the cheapest. The FBI returned to 9mm as its issued service caliber after extensive testing. For a first handgun used primarily for skill development, .22 LR is excellent for learning fundamentals before stepping up.",
+    keywords: ["caliber", "9mm", "first handgun", ".22", ".45", ".380", "defensive"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "First Handgun Guide", href: "/blog/first-handgun-guide" },
+    ],
+  },
+  {
+    id: "full-size-vs-compact",
+    question: "Should I buy a full-size or compact handgun first?",
+    answer: "Depends on the use. For home defense, full-size 9mm — easier to shoot accurately, absorbs recoil better, holds more rounds. For concealed carry, compact 9mm in the size of a Glock 19, Sig P365XL, or M&P 2.0 Compact — large enough to be shootable, small enough to conceal. For pure range practice, full-size. The buyer trying to solve all three with one gun usually compromises all three.",
+    keywords: ["full-size", "compact", "handgun", "concealed carry", "home defense", "Glock 19"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "First Handgun Guide", href: "/blog/first-handgun-guide" },
+    ],
+  },
+  {
+    id: "permit-before-buying",
+    question: "Do I need a permit before I can buy a handgun?",
+    answer: "Federally, you need to be 21 (or 18 in some states for private sales), pass a background check, and have valid identification. A few states have universal background check or permit-to-purchase requirements that condition handgun purchases on additional documentation. Carrying concealed in public is what triggers the permit requirement in non-constitutional-carry states — buying does not.",
+    keywords: ["permit", "buy", "handgun", "background check", "purchase", "age requirement"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "First Handgun Guide", href: "/blog/first-handgun-guide" },
+    ],
+  },
+  {
+    id: "fopa-transport-rule",
+    question: "What's the FOPA federal transport rule?",
+    answer: "The Firearms Owners Protection Act allows a person legally entitled to possess a firearm in their state of origin and state of destination to transport that firearm through any state, provided the firearm is unloaded and locked in a container separate from ammunition. FOPA does not authorize carry — only transport. It is a defense against state prosecution, not a permit substitute.",
+    keywords: ["FOPA", "transport", "federal", "interstate", "travel", "unloaded", "locked"],
+    category: "Concealed Carry",
+    relatedLinks: [
+      { label: "Concealed Carry Reciprocity Guide", href: "/blog/concealed-carry-reciprocity-states" },
+      { label: "Reciprocity & Interstate Travel", href: "/reciprocity" },
+    ],
+  },
+  {
+    id: "deadly-force-requirements",
+    question: "What does the law require before I can use deadly force in self-defense?",
+    answer: "Every U.S. state requires the same baseline elements: an imminent threat of death or great bodily harm, a reasonable belief that the threat is real, force proportionate to the threat, and that the defender was not the initial aggressor. Stand-your-ground vs. duty-to-retreat governs only one additional question — whether the defender must attempt safe retreat before using deadly force. The threshold elements above must be met in either jurisdiction.",
+    keywords: ["deadly force", "self-defense", "imminent threat", "proportionate", "legal requirements"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Stand Your Ground vs Duty to Retreat", href: "/blog/stand-your-ground-vs-duty-to-retreat" },
     ],
   },
 ];
