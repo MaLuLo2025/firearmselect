@@ -18,6 +18,8 @@ export const faqCategories = [
   "Safety & Storage",
   "Concealed Carry",
   "Hunting",
+  "Travel & Transport",
+  "Training & Instruction",
 ] as const;
 
 export type FaqCategory = (typeof faqCategories)[number];
@@ -598,6 +600,7 @@ export const faqData: FaqEntry[] = [
     relatedLinks: [
       { label: "Concealed Carry Reciprocity Guide", href: "/blog/concealed-carry-reciprocity-states" },
       { label: "Reciprocity & Interstate Travel", href: "/reciprocity" },
+      { label: "Flying with Firearms: TSA Rules", href: "/blog/flying-with-firearms-tsa-rules" },
     ],
   },
   {
@@ -608,6 +611,104 @@ export const faqData: FaqEntry[] = [
     category: "Gun Laws",
     relatedLinks: [
       { label: "Stand Your Ground vs Duty to Retreat", href: "/blog/stand-your-ground-vs-duty-to-retreat" },
+    ],
+  },
+
+  // ── Travel & Transport ──────────────────────────────────────
+  {
+    id: "fly-with-firearm",
+    question: "Can I fly with a firearm?",
+    answer:
+      "Yes. Flying with a firearm is legal under federal law with four requirements: the firearm must be unloaded, packed in a hard-sided container, secured with locks only you control (no TSA master-key locks), and transported as checked baggage only. You must declare the firearm at the airline check-in counter — not at the TSA security checkpoint. Penalties for violations start at $1,500 for a carry-on incident and can exceed $17,000 per violation.",
+    keywords: ["fly", "flying", "airport", "TSA", "airline", "checked baggage", "travel", "air travel"],
+    category: "Travel & Transport",
+    relatedLinks: [
+      { label: "Flying with Firearms: Full Guide", href: "/blog/flying-with-firearms-tsa-rules" },
+      { label: "Reciprocity & Interstate Travel", href: "/reciprocity" },
+    ],
+  },
+  {
+    id: "tsa-locks-firearm-case",
+    question: "Do I need to use TSA-approved locks on my firearm case?",
+    answer:
+      "No — and this is one of the most common mistakes. TSA-accessible locks (the kind with master keys TSA agents can use) are explicitly prohibited for firearm containers. Use only standard locks that you control. If TSA needs to inspect the container, they will call you back to the checkpoint to unlock it yourself.",
+    keywords: ["TSA", "locks", "case", "container", "master key", "firearm case", "approved locks"],
+    category: "Travel & Transport",
+    relatedLinks: [
+      { label: "Flying with Firearms: Full Guide", href: "/blog/flying-with-firearms-tsa-rules" },
+    ],
+  },
+  {
+    id: "flight-diversion-firearm",
+    question: "What happens to my firearm if my flight is diverted?",
+    answer:
+      "If your flight diverts involuntarily and you must exit the airport and retrieve checked baggage, you may be in legal jeopardy if the diversion state has laws prohibiting your firearm or magazine configuration. Immediately notify airline staff that you have a declared firearm in your bag and ask for their procedure. Contact law enforcement at the diversion airport to explain the situation proactively. Demonstrate you're acting in good faith immediately — don't wait to be discovered with the firearm.",
+    keywords: ["diversion", "diverted", "flight", "layover", "state law", "airport", "travel"],
+    category: "Travel & Transport",
+    relatedLinks: [
+      { label: "Flying with Firearms: Full Guide", href: "/blog/flying-with-firearms-tsa-rules" },
+      { label: "FOPA Transport Rule", href: "/reciprocity" },
+    ],
+  },
+
+  // ── Buying Your First Firearm (gun show additions) ──────────
+  {
+    id: "gun-show-loophole",
+    question: "Do gun shows have a background check loophole?",
+    answer:
+      "The \"gun show loophole\" is a misleading label. Background check requirements depend on who is selling, not where the sale happens. Licensed dealers (FFLs) must run NICS background checks at gun shows, just as they would in their retail store. Private individuals selling from their personal collection are not required to conduct background checks in most states — and that exemption applies anywhere, not just at gun shows. Several states have enacted universal background check laws requiring checks for all transfers, including private party sales.",
+    keywords: ["gun show", "loophole", "background check", "private sale", "FFL", "NICS"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "Buying at a Gun Show: Full Guide", href: "/blog/buying-gun-at-gun-show" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  {
+    id: "private-seller-background-check",
+    question: "Are background check rules different for private sellers at gun shows?",
+    answer:
+      "In states without universal background check laws, private sellers at gun shows operate under the same rules as private sellers anywhere else — no NICS check required. In universal background check states (California, Colorado, Illinois, New York, and others), all transfers including private party sales must go through a licensed dealer for a background check, regardless of venue. Know your state's rules before completing any private sale.",
+    keywords: ["private seller", "background check", "universal", "gun show", "transfer", "FFL"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "Buying at a Gun Show: Full Guide", href: "/blog/buying-gun-at-gun-show" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+
+  // ── Training & Instruction ──────────────────────────────────
+  {
+    id: "instructor-credentials",
+    question: "What credentials should I look for in a firearms instructor?",
+    answer:
+      "Look for instructors certified by recognized organizations: NRA Certified Instructor (multiple discipline options), USCCA Certified Instructor (emphasis on defensive context and legal framework), or Rangemaster Certified Instructor (strong practical shooting background). Credentials establish a baseline but don't guarantee quality — ask specifically about years of experience, student-to-instructor ratio, and emergency medical kit availability at the range.",
+    keywords: ["instructor", "credentials", "NRA", "USCCA", "Rangemaster", "certification", "training"],
+    category: "Training & Instruction",
+    relatedLinks: [
+      { label: "Choosing an Instructor: Full Guide", href: "/blog/how-to-choose-firearms-instructor" },
+    ],
+  },
+  {
+    id: "instructor-red-flags",
+    question: "What are the warning signs of a poor firearms instructor?",
+    answer:
+      "Red flags: inability or unwillingness to demonstrate the techniques being taught; rigid insistence on one \"correct\" method with no acknowledgment of individual variation; casual attitude toward safety rules; credentials that can't be independently verified; pressure to purchase gear during the course; student-to-instructor ratio above 10:1 without additional range officers. Good instruction prioritizes repetition and corrective feedback on fundamental skills before advancing to complex techniques.",
+    keywords: ["instructor", "red flags", "warning signs", "bad instructor", "safety", "training"],
+    category: "Training & Instruction",
+    relatedLinks: [
+      { label: "Choosing an Instructor: Full Guide", href: "/blog/how-to-choose-firearms-instructor" },
+    ],
+  },
+  {
+    id: "instructor-student-ratio",
+    question: "What student-to-instructor ratio is safe for a live-fire course?",
+    answer:
+      "For live-fire instruction, the general safe standard is no more than 10 students per instructor. Below 8:1 allows for meaningful individual feedback. Courses running 15+ students per instructor without additional range safety officers present can create conditions where safety issues go unobserved. Ask about ratio before booking — it's a direct safety question and any competent instructor will answer without hesitation.",
+    keywords: ["ratio", "students", "instructor", "live fire", "range", "safety", "class size"],
+    category: "Training & Instruction",
+    relatedLinks: [
+      { label: "Choosing an Instructor: Full Guide", href: "/blog/how-to-choose-firearms-instructor" },
     ],
   },
 ];

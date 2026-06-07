@@ -117,7 +117,7 @@ All generated files for this project go to `~/Claude Files/firearmselect/` — n
 ## Current State
 - [x] Project scaffolded with Broadsheet theme
 - [x] 50 state + DC gun law pages (all with detailed multi-section statutory content)
-- [x] 3 blog articles (constitutional carry, Bruen, first-time buyer)
+- [x] 19 blog articles (constitutional carry, Bruen, first-time buyer, brandishing, storage laws, carry laws, hunting series, buying guides, flying with firearms, instructor selection, gun shows)
 - [x] 50 cities from top US MSAs (1.5M+ population) with SEO pages
 - [x] 502 dealer listings across all 50 cities (Tier 1: 15 per city, Tier 2: 10, Tier 3: 8)
 - [x] City pages with "coming soon" placeholder when no dealers listed
@@ -150,7 +150,7 @@ All generated files for this project go to `~/Claude Files/firearmselect/` — n
 - [x] state-law-details.ts with detailed statutory content for all 50 states + DC
 - [x] DC added to states.ts, state-resources.ts, and gun-laws routing
 - [x] Video Hub page (/resources/videos) with 12 curated educational videos
-- [x] FAQ Hub page (/resources/faq) with 18 entries and Fuse.js fuzzy search
+- [x] FAQ Hub page (/resources/faq) with 58 entries and Fuse.js fuzzy search
 - [x] FAQ accordion with category filters and cross-links to videos/blog/state laws
 - [x] Schema.org FAQPage structured data on FAQ page
 - [x] Resources dropdown in nav (Blog, Video Library, FAQ)
@@ -201,6 +201,9 @@ All generated files for this project go to `~/Claude Files/firearmselect/` — n
 2. Buying Your First Firearm
 3. Safety & Storage
 4. Concealed Carry
+5. Hunting
+6. Travel & Transport
+7. Training & Instruction
 
 ### Cross-Linking Rules
 - Every FAQ answer that references state-specific information links to relevant state law pages
