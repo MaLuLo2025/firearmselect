@@ -17,6 +17,7 @@ export const faqCategories = [
   "Buying Your First Firearm",
   "Safety & Storage",
   "Concealed Carry",
+  "Self-Defense Insurance",
   "Hunting",
   "Travel & Transport",
   "Training & Instruction",
@@ -548,6 +549,7 @@ export const faqData: FaqEntry[] = [
     category: "Gun Laws",
     relatedLinks: [
       { label: "Stand Your Ground vs Duty to Retreat", href: "/blog/stand-your-ground-vs-duty-to-retreat" },
+      { label: "Castle Doctrine and Stand Your Ground: Full Guide", href: "/blog/castle-doctrine-stand-your-ground" },
     ],
   },
   {
@@ -558,6 +560,7 @@ export const faqData: FaqEntry[] = [
     category: "Gun Laws",
     relatedLinks: [
       { label: "Stand Your Ground vs Duty to Retreat", href: "/blog/stand-your-ground-vs-duty-to-retreat" },
+      { label: "Castle Doctrine and Stand Your Ground: Full Guide", href: "/blog/castle-doctrine-stand-your-ground" },
       { label: "State-by-State Gun Laws", href: "/laws" },
     ],
   },
@@ -611,6 +614,7 @@ export const faqData: FaqEntry[] = [
     category: "Gun Laws",
     relatedLinks: [
       { label: "Stand Your Ground vs Duty to Retreat", href: "/blog/stand-your-ground-vs-duty-to-retreat" },
+      { label: "Castle Doctrine and Stand Your Ground: Full Guide", href: "/blog/castle-doctrine-stand-your-ground" },
     ],
   },
 
@@ -709,6 +713,107 @@ export const faqData: FaqEntry[] = [
     category: "Training & Instruction",
     relatedLinks: [
       { label: "Choosing an Instructor: Full Guide", href: "/blog/how-to-choose-firearms-instructor" },
+    ],
+  },
+
+  // ── Gun Laws (2026-06-30 additions) ────────────────────────
+  {
+    id: "castle-doctrine-vs-syg",
+    question: "What's the difference between castle doctrine and stand your ground?",
+    answer:
+      "Castle doctrine removes the legal duty to retreat when you're in your own home. Stand your ground goes further — it removes the duty to retreat anywhere you have a legal right to be, not just your home. About 38 states have some form of stand your ground protection, while more states have castle doctrine. Both doctrines still require that you have a reasonable belief of imminent death or serious bodily harm, and neither applies if you were the initial aggressor.",
+    keywords: ["castle doctrine", "stand your ground", "duty to retreat", "home defense", "self-defense law"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Castle Doctrine and Stand Your Ground: Full Guide", href: "/blog/castle-doctrine-stand-your-ground" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  {
+    id: "syg-deadly-force-misconception",
+    question: "Does stand your ground mean I can use deadly force in any confrontation?",
+    answer:
+      "No — this is one of the most common misunderstandings. Stand your ground removes the duty to retreat, but you still must have a reasonable belief that deadly force is necessary to prevent death or serious bodily harm. It doesn't authorize force based on feeling uncomfortable or threatened in a general sense. And if you were the initial aggressor, stand your ground protections generally don't apply.",
+    keywords: ["stand your ground", "deadly force", "misconception", "self-defense", "reasonable belief"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Castle Doctrine and Stand Your Ground: Full Guide", href: "/blog/castle-doctrine-stand-your-ground" },
+      { label: "What Does the Law Require Before Using Deadly Force?", href: "/resources/faq#deadly-force-requirements" },
+    ],
+  },
+  {
+    id: "self-defense-laws-by-state",
+    question: "Are self-defense laws the same in every state?",
+    answer:
+      "No — they vary significantly. Some states still have meaningful duty-to-retreat requirements in public settings. Castle doctrine extensions vary: some states include your occupied vehicle, curtilage, and workplace; others cover only the interior of your home. If you carry in multiple states, you need to understand the law in each state where you carry. Consulting a firearms attorney in your state is the most reliable way to get current, jurisdiction-specific guidance.",
+    keywords: ["self-defense", "state law", "variation", "duty to retreat", "castle doctrine", "stand your ground"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Castle Doctrine and Stand Your Ground: Full Guide", href: "/blog/castle-doctrine-stand-your-ground" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+
+  // ── Self-Defense Insurance ──────────────────────────────────
+  {
+    id: "ccw-insurance-coverage",
+    question: "What does self-defense legal insurance actually cover?",
+    answer:
+      "Most plans cover criminal defense attorney fees, civil defense costs if you're sued after a self-defense incident, and bail bond assistance. Higher-tier plans typically also cover expert witness fees, lost wages, and firearm replacement. Coverage varies significantly — some plans pay attorney fees upfront while others reimburse you after the fact, which matters because many criminal defense attorneys require retainers in advance.",
+    keywords: ["self-defense insurance", "CCW insurance", "legal protection", "coverage", "USCCA", "CCW Safe"],
+    category: "Self-Defense Insurance",
+    relatedLinks: [
+      { label: "Self-Defense Legal Insurance: Full Guide", href: "/blog/self-defense-legal-insurance" },
+      { label: "State Carry Laws", href: "/carry-laws" },
+    ],
+  },
+  {
+    id: "ccw-insurance-permit-required",
+    question: "Do I need a carry permit for self-defense legal insurance coverage?",
+    answer:
+      "It depends on the plan. Some base-tier plans require a valid carry permit. If you carry under your state's constitutional carry law without a permit, verify explicitly that your plan covers you. Most major providers have added constitutional carry coverage at equal or near-equal tiers in recent years, but confirm this in your actual contract.",
+    keywords: ["CCW insurance", "carry permit", "constitutional carry", "permitless carry", "coverage requirement"],
+    category: "Self-Defense Insurance",
+    relatedLinks: [
+      { label: "Self-Defense Legal Insurance: Full Guide", href: "/blog/self-defense-legal-insurance" },
+      { label: "Constitutional Carry States", href: "/carry-laws" },
+    ],
+  },
+
+  // ── Buying Your First Firearm (2026-06-30 rifle additions) ──
+  {
+    id: "first-rifle-home-defense",
+    question: "What's the best first rifle for home defense?",
+    answer:
+      "For home defense specifically, a semi-automatic platform provides faster follow-up shots than a manually cycled action. An AR-15 in 5.56 NATO with hollow-point or frangible ammunition is an effective choice where legal — but check your state's laws on magazine capacity and semi-automatic features. For those in states with semi-auto restrictions, a lever-action rifle in a pistol caliber like .357 Magnum or .44 Magnum is a capable alternative with good maneuverability.",
+    keywords: ["first rifle", "home defense", "AR-15", "lever action", "semi-automatic", "rifle recommendation"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "First Rifle Guide: AR-15 vs. Bolt-Action vs. Lever-Action", href: "/blog/first-rifle-guide" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  {
+    id: "bolt-action-vs-ar15",
+    question: "What's the advantage of a bolt-action rifle over an AR-15?",
+    answer:
+      "Bolt-actions typically offer better inherent accuracy, are legal in all states with no semi-automatic restrictions, and are available in a wider range of hunting calibers — including heavy-hitting options for large game that aren't practical in AR-15-format rifles. The tradeoff is slower follow-up shots. Bolt-actions are the most common choice for hunters and precision-focused shooters.",
+    keywords: ["bolt action", "AR-15", "rifle comparison", "accuracy", "hunting", "semi-automatic"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "First Rifle Guide: AR-15 vs. Bolt-Action vs. Lever-Action", href: "/blog/first-rifle-guide" },
+    ],
+  },
+  {
+    id: "first-rifle-what-to-look-for",
+    question: "What should I look for when buying my first rifle?",
+    answer:
+      "Start with your primary intended use — this determines the platform and caliber. Physically handle the rifle before buying if possible; fit and ergonomics matter. Buy from a licensed FFL dealer rather than private sale for documentation and legal protections. Consider starting with a caliber that has affordable, widely available ammunition, and build your skills before moving to specialized or expensive ammunition.",
+    keywords: ["first rifle", "buying", "beginner", "what to look for", "FFL", "caliber", "ergonomics"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "First Rifle Guide: AR-15 vs. Bolt-Action vs. Lever-Action", href: "/blog/first-rifle-guide" },
+      { label: "Blog: First-Time Buyer's Guide", href: "/blog/first-time-gun-buyer-guide" },
     ],
   },
 ];

@@ -1920,6 +1920,314 @@ No, with one exception: a few states have universal background check or permit-t
 
 Used handguns from reputable dealers are usually a good value. Modern handguns are durable; a well-maintained pistol with several thousand rounds through it is essentially indistinguishable from new in performance terms. The risk is buying a privately-sold gun with hidden problems. For a first purchase, buying new from a licensed dealer eliminates uncertainty and includes manufacturer warranty coverage. The cost premium is typically modest.`
   },
+  {
+    slug: "self-defense-legal-insurance",
+    title: "Self-Defense Legal Insurance: What It Covers, What It Doesn't, and How to Compare Plans",
+    excerpt: "A single justified self-defense incident can generate legal costs exceeding $500,000, and standard homeowners insurance excludes intentional acts. Here's what self-defense legal protection plans actually cover, where the gaps are, and how to compare providers.",
+    metaDescription: "What self-defense legal insurance actually covers: criminal defense, civil suits, bail, upfront vs. reimbursement models, and how to compare USCCA, CCW Safe, US LawShield, and Right to Bear.",
+    category: "Concealed Carry",
+    categorySlug: "concealed-carry",
+    publishedAt: "2026-06-30",
+    readTime: "8 min read",
+    content: `If you carry a firearm for self-defense, you've probably heard of concealed carry insurance, self-defense legal protection plans, or legal shield programs. The marketing is compelling: a single justified self-defense incident can generate legal costs exceeding $500,000, and standard homeowners insurance specifically excludes intentional acts.
+
+This article cuts through the marketing to explain what these programs actually are, what they typically cover, where the gaps are, and what distinguishes one provider from another.
+
+---
+
+## What These Programs Actually Are
+
+Despite being called "insurance," most self-defense legal protection plans are not insurance in the regulatory sense. Most are membership organizations or service contracts that provide legal representation, bail funding, and related services as a benefit of membership. A smaller number operate as true insurance products licensed in the states where they sell.
+
+The distinction matters because:
+
+- Membership organizations aren't regulated by state insurance departments, meaning coverage terms and claims processes can vary without the consumer protections that apply to licensed insurance
+- True insurance products are subject to state regulation, which provides some protection against adverse changes to terms
+
+The practical implication: read the actual contract, not the marketing summary.
+
+---
+
+## What Typical Plans Cover
+
+Most plans from established providers include some combination of:
+
+**Criminal defense coverage.** Attorney fees if you're criminally charged after a self-defense incident. This is the core product. Higher-tier plans offer unlimited coverage; entry-level plans often have caps in the $100,000 to $250,000 range. Criminal defense for a serious charge can exceed six figures quickly.
+
+**Civil defense coverage.** Defense costs if you're sued in civil court — which can happen even after a criminal acquittal. Civil suits from an attacker's family are a documented risk even when the criminal case is closed. Many plans include this; some require a higher tier.
+
+**Bail bond assistance.** Coverage for bail or a guarantee against bail bond costs while your case proceeds. Time to coverage and limits vary significantly.
+
+**Attorney access.** Post-incident access to an attorney to guide your immediate actions (what to say to police, what not to say). Several providers offer 24/7 hotline access.
+
+**Expert witness coverage.** Self-defense cases often require expert testimony on use-of-force standards. Higher-tier plans typically include this.
+
+**Incident-related expenses.** Lost wages from missed work, firearm replacement if your firearm is confiscated, psychological counseling. These vary considerably by plan.
+
+---
+
+## Critical Coverage Distinctions
+
+**Upfront payment vs. reimbursement.** Some plans pay your attorney directly and in advance — they advance funds as your case proceeds. Others reimburse you after the fact. The difference matters: many criminal defense attorneys require retainers upfront and won't work on a reimbursement model. Confirm before you rely on a plan.
+
+**Criminal vs. civil:** Confirm explicitly that both criminal and civil defense are covered and what the limits are for each.
+
+**Plea deal handling.** Some plans have historically excluded situations where a member takes a plea deal, even for a non-violent charge, treating this as a conviction that voids coverage. This is a significant potential gap — ask specifically how your plan handles plea agreements.
+
+**Your attorney vs. their network.** Some plans provide network attorneys; others let you choose. Network attorneys may be highly qualified, but if you have an existing relationship with a criminal defense attorney you trust, confirm whether you can use them.
+
+**Red flag law coverage.** A newer coverage category: legal defense if your firearms are subject to an Extreme Risk Protection Order (ERPO) challenge. Not universal across plans — check explicitly if this is important to you.
+
+**Constitutional carry states.** If you carry without a permit under your state's constitutional carry law, confirm that the plan covers you without a permit. Some plans at lower tiers require a valid carry permit to be in effect.
+
+---
+
+## Current Major Providers (Mid-2026)
+
+The landscape has shifted. Recent changes include:
+
+- **USCCA** remains one of the largest, with tiered memberships (Defender, Protector, Elite). Elite runs approximately $59/month and offers substantial coverage limits with education benefits.
+- **CCW Safe** absorbed ACLDN in 2025. It offers unlimited criminal defense coverage and is structured as a true membership organization.
+- **US LawShield** offers multi-state and 50-state plans, structured as attorney-provided services rather than insurance.
+- **Right to Bear** restructured to a simplified single-tier plan at approximately $135/year — a significant price point difference, with correspondingly different coverage depth.
+
+Costs run roughly $11 to $60 per month depending on provider and tier. Price shouldn't be the primary filter — coverage terms matter more. A $15/month plan with reimbursement-only and caps may not help you when it matters.
+
+---
+
+## What These Plans Don't Cover
+
+Read exclusions carefully. Common exclusions include:
+
+- Incidents involving alcohol or controlled substances (varies by plan, but common)
+- Pre-existing legal situations
+- Incidents in locations where carry is prohibited (bars, government buildings, etc.)
+- Criminal acts beyond self-defense framing (if a prosecutor succeeds in arguing the use of force wasn't justified, some plans may not continue defending)
+- Improper storage situations that led to a prohibited person accessing the firearm
+
+---
+
+## The Decision Framework
+
+Self-defense legal protection is a risk management decision. The question is whether the probability-weighted cost of a self-defense legal event, relative to your specific circumstances (how often you carry, where, what your state's legal climate looks like), justifies the membership cost.
+
+For regular carriers, most legal and firearms professionals consider some form of coverage a reasonable part of responsible carry. For occasional carriers or those in states with strong self-defense law and minimal civil litigation risk, the calculus is more personal.
+
+Whatever you choose, verify the plan with the provider directly, read the contract, and confirm specifically how the payment model works before you need it.
+
+---
+
+*This article is for informational purposes only and does not constitute legal advice. Consult a licensed attorney in your state for guidance on self-defense law and legal protection options.*`
+  },
+  {
+    slug: "castle-doctrine-stand-your-ground",
+    title: "Castle Doctrine and Stand Your Ground: What These Laws Actually Mean",
+    excerpt: "These terms appear constantly in discussions of self-defense, but their actual legal meaning, scope, and limitations are widely misunderstood. Understanding what these doctrines do — and don't — provide is essential for any firearm owner.",
+    metaDescription: "Castle doctrine vs. stand your ground: what these self-defense laws actually mean, which states have them, what they don't cover, and the practical implications for carriers.",
+    category: "Legal Definitions",
+    categorySlug: "state-laws",
+    publishedAt: "2026-06-30",
+    readTime: "8 min read",
+    content: `Few areas of firearms law generate more confusion — and more dangerous misconceptions — than castle doctrine and stand your ground laws. These terms appear frequently in discussions of self-defense, but their actual legal meaning, scope, and limitations are often misunderstood.
+
+Understanding what these doctrines do and don't provide is essential for any firearm owner who might ever face a self-defense situation.
+
+---
+
+## The Duty to Retreat: The Starting Point
+
+To understand castle doctrine and stand your ground, you first need to understand what they're responding to.
+
+Traditional self-defense law in many states included a "duty to retreat": before using deadly force, you were generally required to retreat from a threat if you could do so safely. Only when retreat wasn't possible could you legally use deadly force in self-defense.
+
+Castle doctrine and stand your ground laws both modify or eliminate this duty — but in different ways and to different extents.
+
+---
+
+## Castle Doctrine
+
+Castle doctrine is one of the oldest doctrines in Anglo-American law, rooted in the principle that a person's home is their castle. Under castle doctrine, you have no legal duty to retreat when you're in your own home and you're facing a threat of death or serious bodily harm.
+
+Most states have some form of castle doctrine. The scope varies:
+
+**What's typically covered:** Your dwelling — the home you live in. In most castle doctrine states, you can use deadly force against an intruder who has unlawfully entered your home and who you reasonably believe poses a threat of death or serious bodily injury.
+
+**What's often included but varies:** Many states extend castle doctrine to curtilage (the immediate area around your home — your yard, attached garage), your occupied vehicle, and your workplace. Whether these extensions apply depends on your specific state's statute.
+
+**The "reasonable belief" requirement:** Castle doctrine doesn't mean you can shoot anyone who enters your home. It removes the duty to retreat, but you still must have a reasonable belief that deadly force is necessary to prevent death or serious bodily harm. An intruder who turns out to be a neighbor who entered by mistake doesn't satisfy this standard.
+
+**The initial aggressor rule:** In almost all states, castle doctrine doesn't apply if you were the initial aggressor in the confrontation. You can't pick a fight and then claim castle doctrine protection.
+
+---
+
+## Stand Your Ground Laws
+
+Stand your ground laws extend the no-duty-to-retreat principle beyond the home to any place where you have a legal right to be.
+
+If you're in a state with stand your ground, and you're in a public place where you're lawfully present, you have no legal duty to retreat before using force in self-defense — as long as you reasonably believe force is necessary to prevent death or serious bodily harm, and you're not the initial aggressor.
+
+Approximately 38 states have some form of stand your ground law, though the language, scope, and judicial interpretation vary considerably. Some states have these protections in statute; others have them through court precedent.
+
+**What stand your ground does:** Removes the legal obligation to retreat from a threat when you're somewhere you have a legal right to be. If someone attacks you in a parking lot, on a sidewalk, or in a store, you can defend yourself without first being required to try to run away.
+
+**What stand your ground doesn't do:** It doesn't permit you to be the aggressor and then claim self-defense. It doesn't apply if you're in a location where you're not legally allowed to be. It doesn't mean lethal force is automatically justified in any confrontation. Lethal force still requires a reasonable belief of imminent death or serious bodily harm.
+
+**The aftermath:** Stand your ground immunity often provides a procedural protection — the ability to raise immunity before trial rather than only as a trial defense. How this works varies by state and is determined by state statute and court interpretation.
+
+---
+
+## States Without These Protections
+
+Several states — including New York, New Jersey, Massachusetts, Connecticut, Hawaii, and a few others — still have meaningful duty-to-retreat requirements in some or all public contexts. In these states, prosecutors can argue that you failed to retreat when you could have done so safely, which complicates self-defense claims even when the underlying use of force might otherwise seem justified.
+
+If you carry in multiple states or travel with your firearm, understanding the law in each state where you may carry is not optional.
+
+---
+
+## The Practical Takeaway
+
+Castle doctrine and stand your ground laws do not provide blanket immunity for any use of force. What they do:
+
+- Remove the legal requirement to retreat (in applicable contexts)
+- Preserve self-defense rights for people who lawfully choose to stand their ground
+
+What they don't do:
+
+- Authorize deadly force based on a subjective feeling of threat — the reasonable person standard still applies
+- Protect initial aggressors
+- Apply in locations where you're not legally permitted to be
+- Guarantee you won't be arrested, charged, or prosecuted (prosecutors often charge first and let courts sort it out)
+
+The most important practical reality: a justified use of force can still generate significant legal proceedings even in states with strong self-defense laws. Legal protection and a solid understanding of applicable law in your state are both reasonable parts of a responsible carry plan.
+
+---
+
+## Checking Your State's Current Law
+
+Self-defense law evolves through legislation and court interpretation. This article provides general principles, not legal advice for any specific state or situation. For current, state-specific guidance:
+
+- Your state's attorney general website often publishes plain-language summaries of self-defense law
+- State firearms owner associations often maintain current legal summaries
+- A consultation with a firearms attorney in your state is the most reliable option if you want certainty
+
+---
+
+*This article is informational only and does not constitute legal advice. Self-defense law is highly state-specific and fact-dependent. Consult a licensed attorney in your jurisdiction for guidance applicable to your situation.*`
+  },
+  {
+    slug: "first-rifle-guide",
+    title: "Choosing Your First Rifle: AR-15 vs. Bolt-Action vs. Lever-Action",
+    excerpt: "The right first rifle depends on what you actually intend to do with it. A rifle that excels for home defense may be a poor fit for hunting, and vice versa. An honest comparison of the three platforms most first-time buyers consider.",
+    metaDescription: "First rifle guide: AR-15 vs. bolt-action vs. lever-action trade-offs for home defense, hunting, and range use. Includes state restriction considerations and entry-level recommendations.",
+    category: "Buying Guides",
+    categorySlug: "buying-guides",
+    publishedAt: "2026-06-30",
+    readTime: "9 min read",
+    content: `Choosing a first rifle is more specific a question than most guides treat it. The right answer depends heavily on what you actually intend to do with it — home defense, hunting, competitive shooting, general-purpose use, or pure range enjoyment. A rifle that excels in one context may be a poor fit for another.
+
+This guide covers the three most common categories a first-time rifle buyer typically considers, with honest trade-offs for each.
+
+---
+
+## Before Picking a Platform: What's the Primary Use?
+
+Answer this before reading further. It determines almost everything.
+
+- **Home defense:** Reliability under stress, legal compliance with home defense scenarios, and potentially shorter configuration matter most
+- **Hunting:** Caliber for intended game, weight for carrying, accuracy at hunting distances
+- **General range use and learning:** Mild recoil, low ammunition cost, reliability, and ease of learning the manual of arms
+- **Competitive shooting:** Depends entirely on the competition format
+
+No single platform is optimal for all uses. Someone who primarily hunts whitetail in wooded terrain and occasionally wants a range gun has different needs than someone buying purely for home defense.
+
+---
+
+## AR-15 / Modern Sporting Rifle
+
+The AR-15 is the best-selling rifle platform in the United States and for most purposes the most capable general-purpose centerfire rifle for new buyers.
+
+**What it does well:**
+- Semi-automatic action means faster follow-up shots than manually cycled actions
+- Highly modular — optics, grips, stocks, handguards, and other components are interchangeable across manufacturers
+- Low recoil (standard 5.56 NATO or .223 Remington) makes it easy to learn, comfortable for a wide range of shooters, and suitable for high-volume training
+- Widely supported: parts, accessories, instructors, and published resources are more abundant for this platform than any other
+- Effective for home defense (with appropriate ammunition selection)
+- Capable of taking small to medium game
+
+**Trade-offs:**
+- Not optimal for large game hunting without switching calibers (though AR-10 platforms in .308/6.5 Creedmoor address this)
+- Magazine-fed semi-automatic rifles are restricted or prohibited in several states — check your state's specific laws before purchasing
+- More components to learn and maintain than simpler actions
+- Some range facilities restrict semi-automatic rifle use
+
+**Who it fits:** First-time rifle buyers who want a general-purpose platform, plan to use it for home defense, live in a state without semi-automatic restrictions, and want to invest in a platform with a long useful life and strong resale value.
+
+---
+
+## Bolt-Action Rifle
+
+The bolt-action requires the shooter to manually cycle the action after each shot — lift the bolt handle, pull it back, push it forward, push the handle down. This is slower than semi-automatic but has distinct advantages.
+
+**What it does well:**
+- Excellent inherent accuracy — bolt-actions have fewer moving parts and lock up more consistently than semi-automatics, which contributes to precision
+- Available in nearly any caliber, including heavy hunting calibers (.30-06, .300 Win Mag, .338 Lapua) not typically chambered in AR-15-format rifles
+- Legal everywhere — no state restrictions on bolt-action rifles
+- Simpler to operate and maintain
+- Excellent hunting platform, particularly for medium and large game
+
+**Trade-offs:**
+- Slower follow-up shots — in a multi-shot scenario (home defense), a bolt-action is at a disadvantage
+- Generally less modular than the AR platform
+- For target or competition shooting, requires a different skill set than semi-automatic shooting
+
+**Who it fits:** Hunters, especially those pursuing medium to large game where caliber selection matters. Buyers who prioritize precision shooting and accuracy development. Those in states with semi-automatic restrictions. Buyers who want a simple, reliable, no-fuss platform.
+
+Entry-level bolt-actions in strong calibers are available from Ruger, Savage, Mossberg, and others at relatively accessible price points. A Ruger American or Savage Axis in .308 or 6.5 Creedmoor is a capable hunting and target rifle that won't break the budget.
+
+---
+
+## Lever-Action Rifle
+
+Lever-action rifles occupy a specific and somewhat underrated niche. The lever mechanism cycles the action through a downward and backward stroke of the lever (which encircles the trigger guard), then returns it.
+
+**What it does well:**
+- Often legal in jurisdictions where semi-automatic rifles are restricted — lever-actions are generally not subject to the magazine capacity and semi-auto feature restrictions that affect AR-pattern rifles
+- Many lever-actions chamber pistol calibers (.357 Magnum, .44 Magnum, .45 Colt) that allow ammunition sharing with a matching handgun
+- Faster follow-up shots than bolt-action, though slower than semi-automatic
+- Typically more maneuverable in tight spaces — shorter overall length than many AR-15s
+- Excellent for home defense in appropriate calibers
+- Aesthetically classic; enjoyable to shoot
+
+**Trade-offs:**
+- Tube magazines (on many models) require single-round loading or careful attention to bullet nose shape with certain cartridges
+- Caliber selection is more limited than bolt-action or AR
+- Not optimal for precision long-range shooting
+- Less modular than AR-platform
+
+**Who it fits:** Buyers in restrictive states. Those who want to pair a rifle with a revolver in the same caliber. Buyers who find the ergonomics and aesthetic appealing. Good option for home defense in areas where AR-format rifles are restricted.
+
+Popular options include the Henry Big Boy and various Winchester and Marlin models. The Henry lineup is particularly worth examining for first-time buyers due to build quality and availability.
+
+---
+
+## The Decision Framework
+
+A simple way to work through this:
+
+**Are you in a state with semi-automatic or magazine restrictions?** If yes, bolt-action or lever-action is likely the right primary platform.
+
+**Is hunting your primary use?** If you're hunting deer-sized game, a bolt-action in an appropriate caliber is hard to beat. If you're hunting smaller or medium game, an AR-15 in 5.56 or a pistol-caliber lever-action may also be appropriate.
+
+**Is home defense a priority?** Semi-automatic provides faster follow-up shots. An AR-15 with appropriate hollow-point or frangible ammunition is an effective home defense platform where legal.
+
+**Are you primarily a range shooter?** Any of these platforms can be enjoyable range options. If budget for ammunition is a concern, consider a .22 LR-chambered version for economical practice.
+
+Whatever you decide, buy your first rifle from a licensed FFL dealer who allows you to handle the rifle before purchase. Fit and ergonomics matter — a rifle that doesn't feel comfortable in your hands won't be used effectively.
+
+---
+
+*Always comply with state and federal law regarding firearm purchase, ownership, and storage. This article is informational only.*`
+  },
 ];
 
 export const getPostBySlug = (slug: string): BlogPost | undefined =>
