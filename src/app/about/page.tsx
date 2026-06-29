@@ -3,6 +3,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About FirearmSelect",
   description: "FirearmSelect is the informed firearms directory — connecting buyers with trusted dealers and providing factual, non-partisan firearms education.",
+  alternates: { canonical: "/about" },
 };
 
 export default function AboutPage() {

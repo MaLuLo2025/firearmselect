@@ -15,6 +15,7 @@ export const metadata: Metadata = {
     "firearm cleaning",
     "first-time gun buyer",
   ],
+  alternates: { canonical: "/resources/videos" },
 };
 
 export default function VideosPage() {

@@ -5,6 +5,7 @@ import { states } from "@/lib/states";
 export const metadata: Metadata = {
   title: "Interstate Carry Reciprocity — Which States Honor Your Permit",
   description: "Understand interstate firearms carry reciprocity. Learn which states honor out-of-state concealed carry permits and how to legally transport firearms across state lines.",
+  alternates: { canonical: "/reciprocity" },
 };
 
 export default function ReciprocityPage() {

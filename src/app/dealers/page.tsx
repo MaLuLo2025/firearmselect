@@ -7,6 +7,7 @@ import { categories } from "@/lib/categories";
 export const metadata: Metadata = {
   title: "Find Shops & Ranges — Gun Shops, FFLs, Ranges & Instructors",
   description: "Find local gun shops, FFL transfer dealers, shooting ranges, and certified instructors by state. Factual listings with direct links to dealer websites.",
+  alternates: { canonical: "/dealers" },
 };
 
 export default function DealersPage() {

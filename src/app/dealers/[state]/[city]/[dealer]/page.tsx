@@ -20,7 +20,7 @@ export function generateMetadata({ params }: { params: { state: string; city: st
   if (!state || !dealer) return {};
   const title = `${dealer.name} — ${dealer.city}, ${state.abbr}`;
   const description = dealer.description;
-  return { title, description, openGraph: { title, description } };
+  return { title, description, alternates: { canonical: `/dealers/${params.state}/${params.city}/${params.dealer}` }, openGraph: { title, description } };
 }
 
 export default function DealerDetailPage({ params }: { params: { state: string; city: string; dealer: string } }) {

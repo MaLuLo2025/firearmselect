@@ -4,6 +4,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Firearms Safety & Storage — Responsible Gun Ownership Guide",
   description: "Comprehensive guide to firearms safety and secure storage. Learn the fundamental rules of gun safety, safe storage practices, and responsible ownership principles.",
+  alternates: { canonical: "/safety" },
 };
 
 export default function SafetyPage() {

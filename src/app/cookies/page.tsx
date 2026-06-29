@@ -3,6 +3,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Cookie Policy",
   description: "FirearmSelect cookie policy — what cookies we use and how to manage them.",
+  alternates: { canonical: "/cookies" },
 };
 
 export default function CookiesPage() {

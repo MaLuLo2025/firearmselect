@@ -5,6 +5,7 @@ import { blogPosts } from "@/lib/blog";
 export const metadata: Metadata = {
   title: "Blog — Firearms Laws, Education & Analysis",
   description: "In-depth articles on state gun laws, constitutional carry, firearms safety, and responsible ownership. Factual, non-partisan, cited to primary sources.",
+  alternates: { canonical: "/blog" },
 };
 
 export default function BlogPage() {

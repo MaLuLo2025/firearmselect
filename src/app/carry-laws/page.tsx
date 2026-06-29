@@ -5,6 +5,7 @@ import { states } from "@/lib/states";
 export const metadata: Metadata = {
   title: "Concealed Carry & Open Carry Laws — State-by-State Guide",
   description: "Understand concealed carry and open carry laws across all 50 US states. Constitutional carry, permit requirements, restricted locations, and key distinctions explained.",
+  alternates: { canonical: "/carry-laws" },
 };
 
 export default function CarryLawsPage() {

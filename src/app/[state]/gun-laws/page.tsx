@@ -14,7 +14,7 @@ export function generateMetadata({ params }: { params: { state: string } }): Met
   if (!state) return {};
   const title = `${state.name} Gun Laws — Carry, Purchase & Ownership Guide`;
   const description = `Comprehensive guide to ${state.name} firearms laws including concealed carry, open carry, purchase requirements, and prohibited locations. Updated for 2026.`;
-  return { title, description, openGraph: { title, description } };
+  return { title, description, alternates: { canonical: `/${params.state}/gun-laws` }, openGraph: { title, description } };
 }
 
 export default function StateGunLawsPage({ params }: { params: { state: string } }) {

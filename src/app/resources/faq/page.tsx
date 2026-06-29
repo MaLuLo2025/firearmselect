@@ -16,6 +16,7 @@ export const metadata: Metadata = {
     "firearm storage",
     "background check",
   ],
+  alternates: { canonical: "/resources/faq" },
 };
 
 export default function FaqPage() {

@@ -18,7 +18,7 @@ export function generateMetadata({ params }: { params: { state: string } }): Met
   if (!state) return {};
   const title = `Gun Shops, Ranges & Instructors in ${state.name} — By City`;
   const description = `Find trusted gun shops, shooting ranges, FFL dealers, and firearms instructors in ${state.name}. Browse by city for local listings.`;
-  return { title, description, openGraph: { title, description } };
+  return { title, description, alternates: { canonical: `/dealers/${params.state}` }, openGraph: { title, description } };
 }
 
 export default function StateDealersPage({ params }: { params: { state: string } }) {

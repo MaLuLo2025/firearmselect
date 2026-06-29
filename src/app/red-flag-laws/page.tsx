@@ -4,6 +4,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Red Flag Laws by State — Extreme Risk Protection Orders Explained",
   description: "Comprehensive state-by-state guide to red flag laws (Extreme Risk Protection Orders). Understand how ERPOs work, which states have them, and the legal process involved.",
+  alternates: { canonical: "/red-flag-laws" },
 };
 
 const redFlagStates = [

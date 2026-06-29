@@ -5,6 +5,7 @@ import { states } from "@/lib/states";
 export const metadata: Metadata = {
   title: "Gun Laws by State — All 50 States Carry, Purchase & Ownership Guide",
   description: "Comprehensive state-by-state guide to firearms laws across all 50 US states. Constitutional carry status, permit requirements, and key regulations for each state.",
+  alternates: { canonical: "/states" },
 };
 
 export default function StatesPage() {

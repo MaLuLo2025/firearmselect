@@ -17,7 +17,7 @@ export function generateMetadata({
   if (!data) return {};
   const title = `${data.stateName} Hunting Seasons & Licensing 2025–2026 | FirearmSelect`;
   const description = `${data.stateName} hunting season dates, license costs, tag requirements, and harvest reporting. Updated for 2025–2026.`;
-  return { title, description, openGraph: { title, description } };
+  return { title, description, alternates: { canonical: `/hunting/seasons/${params.state}` }, openGraph: { title, description } };
 }
 
 function SeasonTable({ seasons, title }: { seasons: HuntingSeason[]; title: string }) {
