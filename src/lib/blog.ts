@@ -2460,6 +2460,216 @@ For precision work, a chronograph at your range will give you actual muzzle velo
 
 *Always verify zero and expected trajectory at actual range with your specific rifle and load before hunting season.*`
   },
+  {
+    slug: "colorado-gun-laws-2026",
+    title: "Colorado's New 2026 Gun Purchase Requirements: What Gun Owners Need to Know",
+    excerpt: "Colorado enacted significant new firearms regulations in 2026 that take effect August 1, 2026. Here's what changed for anyone buying certain semi-automatic firearms or ammunition in the state.",
+    metaDescription: "Colorado's 2026 gun purchase requirements: the new Firearms Safety Course Eligibility Card, ammunition age restriction to 21, and what Colorado gun buyers need to know before August 1.",
+    category: "Gun Laws",
+    categorySlug: "gun-laws",
+    publishedAt: "2026-07-07",
+    readTime: "8 min read",
+    content: `Colorado enacted significant new firearms regulations in 2026 that take effect August 1, 2026. These changes affect anyone who wants to purchase certain semi-automatic firearms in the state and anyone under 21 who wants to purchase ammunition. If you're a Colorado resident or planning to purchase firearms in Colorado, here's what changed.
+
+*Note: This article reflects the law as enacted. Always verify current requirements with a licensed dealer or attorney before any purchase. Gun laws change frequently and this is general legal information, not legal advice.*
+
+## The Firearms Safety Course Eligibility Card
+
+Starting August 1, 2026, Colorado Senate Bill 25-003 requires individuals to obtain a Firearms Safety Course Eligibility Card before purchasing most specified semi-automatic firearms. This applies to:
+
+- Certain semi-automatic rifles with detachable magazines meeting the definition in the statute
+- Certain semi-automatic handguns with detachable magazines meeting the definition in the statute
+
+This is effectively a permit-to-purchase requirement for covered semi-automatic firearms. To obtain the card, you must:
+
+1. Pass a background check through the Colorado Bureau of Investigation
+2. Complete a state-approved firearms safety course
+
+The card is then presented at the time of purchase as a prerequisite. Note that the NICS background check at the point of purchase from an FFL still applies separately — the card is an additional step, not a replacement for the purchase-point check.
+
+**What isn't covered:** The law applies to covered semi-automatic firearms as defined in the statute. Bolt-action, lever-action, pump-action, and revolvers are not subject to this requirement. Single-shot firearms are also not covered.
+
+**For existing owners:** Owning semi-automatic firearms you already own before August 1, 2026 is not affected by the new purchase requirement.
+
+## Ammunition Age Restriction Changes
+
+Also effective July 1, 2026: the minimum age to purchase ammunition in Colorado increases to 21, up from 18.
+
+Additionally, all ammunition must be stored behind a counter or in enclosed displays that require employee assistance for customer access. This applies to retailers selling ammunition in the state.
+
+The age change applies to all ammunition — not just ammunition for semi-automatic firearms. A 19-year-old who is otherwise legally permitted to own a firearm cannot purchase ammunition in Colorado under the new law.
+
+## Key Practical Implications
+
+**For first-time buyers:** If you're planning your first firearm purchase in Colorado and want a covered semi-automatic handgun or rifle, plan for additional lead time. You'll need to complete the eligibility card process — background check plus approved safety course — before you can purchase.
+
+**The safety course requirement may overlap with what you should do anyway:** For new gun owners, formal safety training is legitimate value regardless of legal requirement. The approved course requirement is an additional step in the purchase process, but it's not without benefit.
+
+**For dealers:** Colorado FFLs must verify the Eligibility Card for covered purchases starting August 1. Colorado dealers will need to verify compliance.
+
+**Online purchases:** Firearms purchased online still must transfer through a Colorado FFL for the background check. That FFL will also need to verify the Eligibility Card for covered semi-automatic firearms.
+
+## The Broader Legislative Context
+
+Colorado's changes are part of a national trend toward permit-to-purchase systems. The approach — requiring buyers to demonstrate safety course completion before buying certain firearms — has been enacted in varying forms in multiple states.
+
+The USCCA and other organizations have tracked these developments and are monitoring constitutional challenges. Following the Supreme Court's 2022 Bruen decision, any modern firearm regulation must be consistent with historical tradition of firearm regulation in the US. Whether Colorado's permit-to-purchase requirement survives this test has not been resolved in court as of mid-2026; litigation is likely.
+
+## Other 2026 Firearm Law Developments Nationally
+
+At the federal level, the One Big Beautiful Bill Act (passed by Congress in May 2025, effective in 2025) included provisions removing suppressors from certain NFA regulatory requirements for specified individuals. This is covered in a separate FirearmSelect article.
+
+Maine voters approved a red flag law (Extreme Risk Protection Orders) in November 2025. Several other states have introduced or enacted assault weapon definition changes. The firearm law landscape is actively shifting.
+
+**Bottom line for Colorado gun owners:** If you're planning to purchase a covered semi-automatic firearm after August 1, 2026, initiate the Eligibility Card process before you walk into a dealer. Check with a Colorado FFL for current implementation details as the August 1 date approaches, since the approved course list and card application process were still being finalized as of this writing.
+
+---
+
+*This article is for informational purposes only and does not constitute legal advice. Firearm laws are subject to change and constitutional challenge. Consult a licensed attorney and verify with your dealer before any purchase.*`
+  },
+  {
+    slug: "suppressors-obbba-changes",
+    title: "Suppressors After the One Big Beautiful Bill Act: What Changed",
+    excerpt: "The One Big Beautiful Bill Act changed the federal regulatory treatment of suppressors for certain individuals. Here's what actually changed, who it affects, and what remains the same.",
+    metaDescription: "How the One Big Beautiful Bill Act (OBBBA) changed suppressor regulations: the $200 tax elimination, NFA changes, state law status, and ATF implementation as of mid-2026.",
+    category: "Gun Laws",
+    categorySlug: "gun-laws",
+    publishedAt: "2026-07-07",
+    readTime: "9 min read",
+    content: `The One Big Beautiful Bill Act (OBBBA), passed by Congress and signed in 2025, included provisions that meaningfully changed the federal regulatory treatment of suppressors for certain individuals. This is the most significant federal change to suppressor law since they were included in the National Firearms Act in 1934.
+
+Here's what actually changed, who it affects, and what remains the same.
+
+*This article provides general legal information, not legal advice. Suppressor laws are complex and vary by state. Consult a licensed attorney for guidance on your specific situation.*
+
+## Background: How Suppressors Were Regulated Before
+
+Under the National Firearms Act (NFA) of 1934, suppressors (legally called "silencers" in federal code) were classified as Title II firearms. This meant:
+
+- A $200 federal transfer tax on every purchase or transfer
+- Registration with the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- An extensive application process with an FBI background check
+- Months-long wait times (often 6-12+ months) for ATF approval
+- Tight restrictions on inter-state transfer and transport
+
+This regulatory framework applied to all suppressor purchases, regardless of who the buyer was.
+
+## What the OBBBA Changed
+
+The OBBBA provisions removed suppressors from certain NFA regulatory requirements for specific categories of individuals and circumstances. Based on the law as enacted:
+
+**The $200 transfer tax is eliminated** for qualifying individuals under the provisions.
+
+**The NFA registration requirement** is modified for certain transfers -- the full scope is being interpreted through ATF rulemaking as of mid-2026.
+
+**Who the changes benefit most:** The provisions appear most directly targeted at certain categories of law-abiding gun owners. Veterans and active-duty military are among the groups for whom the provisions were specifically discussed. The exact scope of who qualifies under each provision requires attention to the specific statutory language.
+
+**State laws are unaffected:** The OBBBA provisions address federal NFA requirements. States that have their own suppressor restrictions -- or that ban suppressors entirely -- are not overridden by this federal change. Currently, approximately 42 states permit suppressor ownership; about 8 states (California, Delaware, Hawaii, Illinois, Massachusetts, New Jersey, New York, Rhode Island) prohibit civilian suppressor ownership or have severe restrictions. None of these state laws changed.
+
+## What Remains the Same
+
+**Background checks:** Any suppressor purchase from a licensed dealer still involves a background check -- the same background check required for any firearm purchase.
+
+**State law:** Owning a suppressor in California, New York, or other restrictive states remains illegal regardless of the OBBBA.
+
+**Inter-state travel with suppressors:** Crossing state lines with a suppressor registered under your name into a state where suppressors are banned remains a federal crime.
+
+**NFA-compliant purchases for those not covered by OBBBA provisions:** If you don't fall within the specific categories addressed by the OBBBA, the prior NFA process with tax stamp and registration may still apply.
+
+## ATF Implementation and Rulemaking
+
+The OBBBA changes require ATF rulemaking to implement -- the agency must update its regulations, processes, and forms to reflect the new statutory framework. As of mid-2026, ATF is still in the process of issuing guidance and regulations implementing the OBBBA suppressor provisions.
+
+This creates practical uncertainty: dealers and buyers want to know exactly what process applies under the new law, and the ATF is working through that. Check with a licensed NFA dealer for current practical guidance on what the purchase process looks like as of your purchase date.
+
+## What to Do If You're Interested in Purchasing a Suppressor
+
+1. **Check your state's law first.** If you're in a state that bans suppressors, the federal change is irrelevant to you.
+
+2. **Find an NFA dealer.** Not all FFLs are NFA dealers. You need a dealer with a federal SOT (Special Occupational Taxpayer) license to facilitate suppressor transfers.
+
+3. **Get current guidance on the OBBBA process.** An NFA-licensed dealer current on ATF guidance will know what the actual process requires as of your purchase date.
+
+4. **Understand wait times.** Even post-OBBBA, there may still be processing time depending on the regulatory framework that's in place at the time of your purchase.
+
+---
+
+*This article reflects the status of the OBBBA suppressor provisions as of mid-2026. ATF rulemaking may change the practical implementation. Verify current requirements with a licensed NFA dealer and an attorney before any purchase.*`
+  },
+  {
+    slug: "women-firearms-guide",
+    title: "Women and Firearms: A Practical Buying and Carry Guide",
+    excerpt: "Women are now the fastest-growing demographic of new gun owners. This guide covers the practical questions -- what fits, what to look for, and what the carry specifics look like -- without the condescension.",
+    metaDescription: "Practical firearms guide for women: ergonomic fit considerations, carry options (IWB, AIWB, belly band, bra holsters), training resources, and navigating the gun store experience.",
+    category: "Buying Your First Firearm",
+    categorySlug: "buying-first-firearm",
+    publishedAt: "2026-07-07",
+    readTime: "10 min read",
+    content: `Women are now the fastest-growing demographic of new gun owners in the United States. Industry data consistently shows that roughly 29% of women personally own a firearm as of recent surveys, up from 22% a decade ago -- and 29% of concealed handgun permit holders nationwide are women. The market and the industry are adapting, but plenty of the practical information aimed at new female gun owners remains either condescending or missing entirely.
+
+This guide addresses the practical questions -- what fits, what to look for, and what the carry specifics look like.
+
+## The Fit Problem That's Rarely Addressed Directly
+
+Most handguns are designed around male average hand geometry -- larger palm width, longer fingers, higher grip strength. Many female shooters walk into a gun store, handle the same guns recommended to male customers, find them awkward or too large, and either force themselves to make it work or give up.
+
+The fit issues are real and addressable. Key considerations for female shooters:
+
+**Trigger reach:** The distance from the backstrap to the trigger face determines whether your index finger can reach the trigger without shifting your grip. Shorter trigger reach is the single most important ergonomic consideration for shooters with smaller hands. Many full-size and compact guns have trigger reaches that require a grip shift on smaller hands, creating lateral force and accuracy problems.
+
+Products with adjustable or interchangeable backstraps are worth seeking out specifically because they let you dial in trigger reach. The Glock Gen5 series, Smith & Wesson M&P, and SIG P320 all offer this adjustability.
+
+**Grip circumference:** Narrower is generally better for smaller hands. Single-stack and slim-frame pistols (SIG P365, Springfield Hellcat, S&W Shield/Plus, Walther CCP M2) are more ergonomic for smaller hands than double-stack alternatives in the same caliber.
+
+**Slide manipulation:** Some female shooters find racking the slide difficult on heavier recoil spring systems. Technique matters more than strength for slide manipulation -- the overhand grip, with proper thumb and finger positioning, is more effective than the slingshot grip for most people. Several guns have been specifically designed with easier slide manipulation in mind (the Walther PDP, various CZ models, the Beretta APX).
+
+**Recoil sensitivity:** Lighter-recoiling options like 9mm are easier to manage than .40 or .45 and don't sacrifice meaningful defensive effectiveness. For shooters sensitive to recoil, a 9mm in a mid-weight frame (not an ultralight sub-compact) will be more comfortable for training volume.
+
+## The Carry-Specific Challenges
+
+Female carry options are more varied and more complex than male carry, primarily because women's clothing typically has fewer and smaller pockets, and body geometry differs in ways that make standard male carry positions impractical.
+
+**Inside the waistband (IWB):** The most popular carry position for men works for many women as well, particularly for those who regularly wear pants with a waistband. The key is a holster designed for your specific gun (not generic), a gun belt that supports the weight without sagging, and clothing cut to accommodate the added bulk.
+
+**Appendix carry (AIWB):** Increasingly popular across genders. For women with a curved midsection, fit and comfort can require trying multiple holster designs. Curved or angled AIWB holsters designed for female anatomy are now widely available.
+
+**Outside the waistband (OWB):** More visible, better for open carry or range use. Harder to conceal in fitted clothing.
+
+**Bra holsters:** Offer excellent concealment under blouses and dresses but require practice for a clean draw and raise muzzle-direction concerns during the draw stroke that demand careful training attention.
+
+**Belly bands:** Versatile and work well with athletic wear, dresses, and clothing without a waistband. Quality varies significantly -- look for rigid holster pockets that fully cover the trigger guard.
+
+**Purse carry:** Highly functional for accessibility but carries significant risks: purse snatching removes your firearm from your control, children may access an unlocked purse, and a weapon stored in a bag takes longer to draw than on-body carry. If purse carry is used, it requires a purpose-built firearm purse with a dedicated lockable compartment, not a gun loose in a regular handbag.
+
+## The Training Gap
+
+Female-specific training has historically been underdeveloped compared to courses oriented toward male default assumptions. The good news: this is changing. Several national training organizations and independent instructors now offer women-specific courses and women-only training environments.
+
+For new female gun owners, a women-specific introductory course provides benefits beyond the content: an environment where asking basic questions feels easier, instructor attention to the ergonomic and practical issues specific to female shooters, and peer learning with people at a similar stage.
+
+The NRA Women's Programs, USCCA, and various regional organizations run women-focused training. A local gun store with a range can often refer you to instructors who specialize in new female shooters.
+
+## On Getting Help at a Gun Store
+
+The experience varies widely. Some gun store staff give excellent, attentive guidance to female customers. Others assume limited knowledge or default to "cute" smaller guns that may not be the best fit. If you receive poor guidance at one store, try another -- or go in with specific questions that redirect the conversation:
+
+- "I want to compare trigger reach on a few compact 9mm options."
+- "Can I handle the Hellcat, the Shield Plus, and the P365 side by side?"
+- "What grip panels or backstrap configurations does this model come with?"
+
+Coming in prepared with specific product names to compare puts the conversation on your terms.
+
+## The Concealed Carry Permit Process
+
+Every state with a shall-issue or constitutional carry framework has the same basic requirement if a permit is desired: an application, background check, and typically a firearms safety course. Some states require fingerprinting. Processing times range from days (Arizona, Utah) to months (some California counties).
+
+Reciprocity -- which states will honor your home state's permit -- is covered in a separate FirearmSelect article. For anyone who plans to carry across state lines, understanding reciprocity is essential before travel.
+
+---
+
+*This article is for informational purposes only. Carry laws vary significantly by state. Always comply with the laws of any state where you carry.*`
+  },
+
 ];
 
 export const getPostBySlug = (slug: string): BlogPost | undefined =>

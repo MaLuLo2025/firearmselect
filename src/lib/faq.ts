@@ -780,6 +780,100 @@ export const faqData: FaqEntry[] = [
     ],
   },
 
+  // ── Gun Laws / Buying / Concealed Carry (2026-07-07 additions) ──
+  {
+    id: "obbba-suppressor-changes",
+    question: "Did the One Big Beautiful Bill Act change suppressor laws?",
+    answer:
+      "Yes, significantly. The OBBBA (passed in 2025, effective on signing) removed suppressors from certain NFA regulatory requirements — including the $200 transfer tax — for qualifying individuals. The full scope is still being implemented through ATF rulemaking as of mid-2026. State laws are unaffected: suppressors remain banned in approximately 8 states regardless of the federal change. The practical purchase process depends on ATF's current implementation guidance — check with an NFA-licensed dealer for the latest.",
+    keywords: ["OBBBA", "suppressor", "silencer", "NFA", "transfer tax", "ATF", "One Big Beautiful Bill Act"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Suppressors After the OBBBA: Full Article", href: "/blog/suppressors-obbba-changes" },
+    ],
+  },
+  {
+    id: "colorado-semi-auto-permit",
+    question: "Does Colorado's new law mean I need a special permit to buy a handgun?",
+    answer:
+      "Starting August 1, 2026, Colorado requires a Firearms Safety Course Eligibility Card to purchase covered semi-automatic firearms, including certain semi-automatic handguns with detachable magazines. Getting the card requires passing a background check and completing a state-approved firearms safety course. The standard NICS background check at point of purchase still applies separately. Bolt-action, lever-action, and revolvers are not covered by the new requirement.",
+    keywords: ["Colorado", "semi-automatic", "permit to purchase", "eligibility card", "safety course", "2026"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Colorado's 2026 Gun Purchase Requirements", href: "/blog/colorado-gun-laws-2026" },
+      { label: "Colorado Gun Laws", href: "/colorado/gun-laws" },
+    ],
+  },
+  {
+    id: "red-flag-laws-erpo",
+    question: "What is a red flag law and does my state have one?",
+    answer:
+      "Red flag laws — formally called Extreme Risk Protection Orders (ERPOs) — allow courts to temporarily remove firearms from individuals who are determined to pose a significant risk of harm to themselves or others. The order is typically filed by law enforcement or, in some states, family members. The person's firearms can be removed pending a hearing where they have an opportunity to contest the order. About 21 states plus DC have enacted red flag/ERPO laws as of mid-2026, including Maine (approved by voters in November 2025). Constitutional challenges to these laws are ongoing in federal courts.",
+    keywords: ["red flag law", "ERPO", "extreme risk", "protection order", "firearm removal", "state law"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Red Flag Laws by State", href: "/red-flag-laws" },
+    ],
+  },
+  {
+    id: "guns-for-smaller-hands",
+    question: "What guns are best suited for women with smaller hands?",
+    answer:
+      "Trigger reach is the most important ergonomic factor — you want a gun where your index finger can press the trigger without shifting your grip. Guns with adjustable backstraps (Glock Gen5, S&W M&P, SIG P320) let you customize fit. Slim-frame 9mm options like the SIG P365, Springfield Hellcat, S&W Shield Plus, and Walther CCP M2 tend to fit smaller hands well. The best way to determine fit is handling several guns at a store or range before buying — don't commit based on reviews alone.",
+    keywords: ["smaller hands", "women", "trigger reach", "grip", "slim frame", "compact", "9mm", "ergonomics"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "Women and Firearms: Practical Buying Guide", href: "/blog/women-firearms-guide" },
+    ],
+  },
+  {
+    id: "women-carry-options",
+    question: "Are there women-specific carry options?",
+    answer:
+      "Yes, and the selection has expanded significantly. Common options include IWB holsters designed for female body geometry and curved midsections, AIWB holsters with angled designs for female torso, belly bands for athletic wear and dresses, and purpose-built bra holsters. Each requires practice for a clean, safe draw. Purse carry is common but carries specific risks (access by children, purse theft) and requires a purpose-built firearm purse with a dedicated compartment, not a gun in a regular handbag.",
+    keywords: ["women carry", "IWB", "AIWB", "belly band", "bra holster", "purse carry", "holster", "female carry"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "Women and Firearms: Carry Guide", href: "/blog/women-firearms-guide" },
+    ],
+  },
+  {
+    id: "ccw-training-requirements",
+    question: "Do I need any special training before getting a concealed carry permit?",
+    answer:
+      "Most states require a safety course for CCW permit issuance. The content and length vary widely — some states accept online-only courses; others require live fire demonstration. A few states (constitutional carry states) don't require a permit to carry at all, though a permit is still worth getting for reciprocity with other states. Beyond legal minimums, a structured course covering safe handling, draw from concealment, and decision-making under stress is strongly recommended regardless of what your state requires.",
+    keywords: ["CCW training", "concealed carry course", "safety training", "permit requirement", "live fire", "constitutional carry"],
+    category: "Concealed Carry",
+    relatedLinks: [
+      { label: "State Carry Laws", href: "/carry-laws" },
+      { label: "Find Local Firearms Instructors", href: "/dealers" },
+    ],
+  },
+  {
+    id: "ccw-reciprocity-explained",
+    question: "What is concealed carry reciprocity?",
+    answer:
+      "Reciprocity is when one state agrees to honor another state's CCW permit. If your home state's permit is honored in a state you're visiting, you can carry under your home state's permit while following that state's carry laws (not your home state's). Reciprocity agreements vary widely — some states honor most other states' permits; others honor very few. Always verify current reciprocity status before traveling, as agreements change. Carrying in a state that doesn't honor your permit can result in serious criminal charges.",
+    keywords: ["reciprocity", "CCW", "concealed carry", "travel", "interstate carry", "permit honored"],
+    category: "Concealed Carry",
+    relatedLinks: [
+      { label: "Interstate Carry Reciprocity Guide", href: "/reciprocity" },
+      { label: "State Carry Laws", href: "/carry-laws" },
+    ],
+  },
+  {
+    id: "minimum-age-buy-handgun",
+    question: "What's the minimum age to buy a handgun?",
+    answer:
+      "Federal law sets the minimum age for purchasing a handgun from a licensed dealer (FFL) at 21. For private sales, federal law sets the minimum at 18, though many states have raised this. Rifles and shotguns can be purchased from an FFL at 18. Some states — including Colorado starting July 1, 2026 — have raised the ammunition purchase age to 21 as well. Always check your state's specific requirements, which may be stricter than the federal floor.",
+    keywords: ["minimum age", "handgun", "18", "21", "age requirement", "buy", "purchase", "federal law"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "State Gun Law Guides", href: "/states" },
+      { label: "Colorado's 2026 Gun Purchase Requirements", href: "/blog/colorado-gun-laws-2026" },
+    ],
+  },
+
   // ── Buying Your First Firearm (2026-06-30 rifle additions) ──
   {
     id: "first-rifle-home-defense",
