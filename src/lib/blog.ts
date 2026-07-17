@@ -2669,6 +2669,236 @@ Reciprocity -- which states will honor your home state's permit -- is covered in
 
 *This article is for informational purposes only. Carry laws vary significantly by state. Always comply with the laws of any state where you carry.*`
   },
+  {
+    slug: "red-flag-laws-erpos",
+    title: "Red Flag Laws (ERPOs): What They Are, How They Work, and What Gun Owners Need to Know",
+    excerpt: "About 21 states plus DC have enacted Extreme Risk Protection Orders. Gun owners who want to understand the law they're operating under need to know how these orders work and what the due process structure looks like.",
+    metaDescription: "Red flag laws (ERPOs) explained: how Extreme Risk Protection Orders work, the due process structure, constitutional status as of mid-2026, and what to do if you receive notice of an ERPO.",
+    category: "Gun Laws",
+    categorySlug: "gun-laws",
+    publishedAt: "2026-07-14",
+    readTime: "7 min read",
+    content: `Extreme Risk Protection Orders — commonly called red flag laws — are among the most contested policy developments in firearms law of the past decade. About 21 states plus the District of Columbia have enacted them. Maine voters approved one in November 2025. Constitutional challenges are working through the federal court system.
+
+Gun owners who want to understand the law they're operating under need to know what these orders actually are, how they're obtained, and what protections the due process structure provides.
+
+*This article provides legal information, not legal advice. Laws vary by state and are subject to change and constitutional challenge.*
+
+---
+
+## What an ERPO Is
+
+An Extreme Risk Protection Order is a court order that temporarily prohibits a specific person from possessing firearms, and may require the surrender of any firearms currently in their possession, when a court finds they pose a significant risk of harm to themselves or others.
+
+ERPOs are civil court orders, not criminal convictions. This is an important distinction: being subject to an ERPO does not result in a criminal record in the same way a conviction does, though it does result in a firearms prohibition while the order is in effect.
+
+---
+
+## How the Process Works
+
+The process varies by state but follows a general structure:
+
+**Who can petition:** In most states, law enforcement officers can petition for an ERPO. Many states also allow family members, household members, and in some cases healthcare providers, school personnel, or coworkers to petition.
+
+**The initial hearing:** The first ERPO hearing is often ex parte — meaning the court hears from the petitioner without the respondent (the gun owner) present. If the court finds sufficient evidence of significant risk, it can issue a temporary ERPO. This temporary order authorizes law enforcement to seize the respondent's firearms.
+
+**Notice and service:** After the temporary order issues, the respondent is served with notice of the order and the firearms may be collected by law enforcement.
+
+**The full hearing:** Within a statutory period (typically 7–21 days depending on the state), a full hearing is held where the respondent has the opportunity to appear, contest the order, and present their own evidence. Both sides present their case. The court decides whether to extend the order (often for up to one year), let it expire, or terminate it.
+
+**Duration:** If extended, ERPOs typically last up to one year and can be renewed. They can also be terminated if circumstances change.
+
+---
+
+## Due Process Concerns and Constitutional Status
+
+The ex parte nature of initial ERPO hearings is the primary constitutional concern raised by gun owner organizations. The concern: a court can order seizure of firearms before the gun owner has any opportunity to be heard. The full hearing provides a correction mechanism, but the initial firearms removal can happen with no advance notice.
+
+Courts have addressed this question with varied results. Some have upheld ERPO statutes under post-Bruen analysis; others have found constitutional problems with specific provisions. As of mid-2026, the constitutional status of ERPOs is unsettled in the federal courts, with multiple cases pending in different circuit courts. The Supreme Court has not directly ruled on whether ERPOs are consistent with the Second Amendment as interpreted in Bruen.
+
+**False petition risk:** Most ERPO statutes include provisions making it a crime to file a knowingly false or malicious petition. Whether these deterrents are adequate is debated; documented cases of ERPOs being misused in domestic disputes and relationship conflicts have raised concerns about abuse of the process.
+
+---
+
+## Firearms Return After an Expired ERPO
+
+When an ERPO expires or is terminated, the respondent's firearms are supposed to be returned. In practice, this can involve delays and complications depending on the state and the agency holding the firearms. Some gun owners who have had ERPOs expire have faced difficulty getting their property returned promptly. If you find yourself in this situation, consulting a firearms attorney is the most efficient path to resolving the return.
+
+---
+
+## Self-Defense Legal Insurance and ERPOs
+
+Some concealed carry insurance providers — including CCW Safe — explicitly include coverage for legal defense against ERPO proceedings. If you carry and are concerned about ERPO exposure, this is a coverage category worth confirming with your provider.
+
+---
+
+## What to Do If You Receive Notice of an ERPO
+
+If you receive notice of a temporary ERPO:
+
+1. **Comply with the order.** Violating an ERPO is a criminal offense in every state that has them.
+2. **Retain a firearms attorney immediately.** The full hearing is your opportunity to contest the order, and preparation matters.
+3. **Document your circumstances.** Any evidence relevant to the claimed risk factors — mental health records, witness statements, documentation that the petition is retaliatory or factually incorrect — should be gathered for the hearing.
+4. **Do not contact the petitioner.** Contact between the respondent and petitioner in ERPO cases can create additional legal exposure.
+
+---
+
+*This article is for informational purposes only and does not constitute legal advice. ERPO laws vary significantly by state and are subject to ongoing constitutional challenge. Consult a licensed attorney in your state if you face ERPO proceedings.*`,
+  },
+  {
+    slug: "firearm-waiting-periods",
+    title: "Firearm Waiting Periods: What They Are, Which States Have Them, and Why",
+    excerpt: "Waiting periods impose a mandatory delay between purchase and possession — separate from the NICS background check process. Here's what buyers need to know about state waiting period laws as of mid-2026.",
+    metaDescription: "Firearm waiting periods explained: which states have them, how long they last, the difference between waiting periods and NICS delays, and practical implications for buyers.",
+    category: "Gun Laws",
+    categorySlug: "gun-laws",
+    publishedAt: "2026-07-14",
+    readTime: "6 min read",
+    content: `Waiting periods impose a mandatory delay between the time of purchase and when a buyer can take possession of a firearm. If you've been surprised to learn your purchase won't be ready for several days, or if you're planning a purchase in an unfamiliar state, here's what you need to know.
+
+---
+
+## What Waiting Periods Are and Aren't
+
+A waiting period is a statutory delay — the gun has been sold, the background check has been completed or is in progress, and the buyer simply cannot take possession until a set number of days have elapsed.
+
+Waiting periods are often confused with the NICS check delay (a "delay" response from the background check system, which means the FBI needs more time to research a record). These are different things. A background check delay is an uncertainty; a waiting period is a calendar requirement that applies regardless of the check result.
+
+---
+
+## States with Waiting Period Laws (as of Mid-2026)
+
+**Hawaii:** 14 days for all firearms
+**California:** 10 days for all firearms
+**New Jersey:** 7 days (permit-based system; the permit process itself creates delay)
+**Florida:** 3 days (or completion of NICS check, whichever is later); certain exceptions
+**Minnesota:** 7 days for handguns (permit to purchase process)
+**Rhode Island:** 7 days for all firearms
+**Washington:** 10 days for all firearms; extended periods in some cases
+**Oregon:** Effective with background check delays from 2022 law
+**Maryland:** 7 days for handguns
+**Connecticut:** 14 days for handguns from state database; different process for long guns
+**Illinois:** 3 days for long guns; 72 hours for handguns (FOID card system)
+
+Several other states have more limited waiting period provisions or permit-to-purchase systems that effectively create delays.
+
+**No federal waiting period:** Federal law does not impose a waiting period. The NICS system allows dealers to transfer after a "proceed" response is received. The three-business-day default provision (the "Charleston Loophole") allows transfer after three business days if the check hasn't returned a response — but this is separate from state-mandated waiting periods.
+
+---
+
+## The Rationale and the Counterarguments
+
+Proponents of waiting periods argue they create a "cooling off" period that may reduce impulsive acts of violence, particularly suicides and domestic violence incidents. Some research supports a modest association between waiting periods and reduced firearm suicide rates.
+
+Critics argue waiting periods primarily burden law-abiding buyers who want firearms for immediate defensive need, are ineffective against criminals who don't purchase through licensed dealers, and constitute an infringement on the right to keep and bear arms — particularly when they delay a legal purchase by someone who doesn't need a "cooling off" period.
+
+Constitutional challenges to waiting periods have generally not succeeded in federal courts under either pre- or post-Bruen frameworks, though challenges continue.
+
+---
+
+## Practical Implications for Buyers
+
+**Plan your timing:** If you're in a waiting period state and want a firearm for a specific purpose or date, initiate the purchase early enough to allow for the mandatory delay.
+
+**The waiting period starts when the purchase is completed:** In most states, the clock starts at the point of sale — the 4473 is completed and the background check is initiated. The waiting period runs from that point regardless of when the check clears.
+
+**Out-of-state purchases:** You cannot purchase a handgun from an FFL in another state and take it back to your home state. Handguns must be transferred through an FFL in your state of residence. Long guns from states bordering your home state can be purchased under certain circumstances — check ATF guidance and your state's law.
+
+**Private transfers:** State waiting period laws typically apply to transfers through licensed dealers. Private sales are governed by your state's specific private sale law, which varies.
+
+---
+
+*This article provides general information about waiting period laws as of mid-2026. State laws change frequently. Verify current requirements with your state and your dealer before any purchase. This is not legal advice.*`,
+  },
+  {
+    slug: "ccw-reciprocity-guide",
+    title: "CCW Reciprocity: Which States Honor Your Carry Permit",
+    excerpt: "If you have a concealed carry permit from your home state, you may be able to carry in other states through reciprocity — but the rules vary by state and change over time. Carrying without valid reciprocity can be a felony.",
+    metaDescription: "CCW reciprocity guide: how concealed carry permit recognition works across states, which states have broad vs. limited reciprocity, constitutional carry states, and how to check current status before travel.",
+    category: "Gun Laws",
+    categorySlug: "gun-laws",
+    publishedAt: "2026-07-14",
+    readTime: "7 min read",
+    content: `If you have a concealed carry permit from your home state, you don't have to stop carrying when you cross state lines — as long as you're in a state that recognizes your permit. This is called reciprocity: the state you're visiting honors the carry permit issued by your home state.
+
+Reciprocity varies enormously by state and changes over time. Carrying in a state that doesn't honor your permit is a serious crime — potentially a felony — regardless of whether you're a law-abiding permit holder in your home state.
+
+---
+
+## How Reciprocity Works
+
+Reciprocity isn't a federal right. There is no federal concealed carry reciprocity law as of mid-2026 (federal legislation has been proposed repeatedly but not enacted). Each state decides independently which other states' permits it will recognize.
+
+Most states approach this in one of two ways:
+
+**Statutory reciprocity:** The state's laws specify which other states' permits are honored, either by listing them or by providing a framework (e.g., "we honor permits from any state that honors our permits" or "we honor permits from states with training requirements equivalent to ours").
+
+**Administrative agreements:** Some states' attorneys general or governors enter into reciprocity agreements with other states.
+
+The result: the web of reciprocity varies for every home state. A Utah permit is honored in more states than a California permit. A Virginia permit's reciprocity changed when Virginia changed its permit requirements. What was true last year may not be true today.
+
+---
+
+## States with Broad Reciprocity (Generally Recognized by Many States)
+
+Arizona, Utah, Florida, and Virginia permits are among those honored in the most states, historically. This is partly because these states have substantial training requirements or long-standing reciprocity networks.
+
+The Utah permit is particularly popular among out-of-state applicants because Utah offers non-resident permits and the Utah permit has historically had wide recognition nationally. However, availability and specific recognition should be verified currently — not relied on from any information older than a few months.
+
+---
+
+## Restrictive States with Limited Recognition
+
+The following states are generally non-reciprocal with most other states — they honor few or no other states' permits:
+
+- California
+- New York
+- New Jersey
+- Massachusetts
+- Maryland
+- Hawaii
+
+Carrying in any of these states, even with a valid permit from your home state, is almost certainly illegal unless you have a permit specifically issued by that state (which residents of these states know is difficult or impossible to obtain, and non-residents cannot obtain).
+
+Illinois honors no other states' permits for regular carry. Illinois residents with FOID cards and CCW licenses can carry; visitors with out-of-state permits cannot.
+
+---
+
+## Constitutional Carry States: A Different Situation
+
+Approximately 29 states have enacted some form of constitutional carry — allowing individuals who are otherwise legally permitted to carry a firearm to do so without a permit. In these states, whether your out-of-state permit is "recognized" is a different question than whether you can carry.
+
+Generally: in constitutional carry states, any person who could legally obtain that state's permit may carry without a permit. If you're from another state and you meet the residency, age, and eligibility requirements to carry in that state, you typically may carry without any permit in a constitutional carry state. But the specific legal framework varies by state — some constitutional carry states still technically have a permit recognition framework; others don't.
+
+---
+
+## The Carry Law Applies to Where You Are, Not Where You're From
+
+This is the most important rule of traveling with a firearm: **you are subject to the laws of the state you're in, not your home state.**
+
+This applies to:
+- **Where you can carry:** Some states prohibit carry in restaurants that serve alcohol; others allow it. Some prohibit carry in church; some don't.
+- **Vehicle carry:** How the firearm must be stored, whether a loaded magazine can be in the vehicle with the firearm, and whether the firearm must be unloaded vary significantly.
+- **Disclosure obligation:** Whether you must tell a police officer you're carrying when stopped for a traffic violation varies by state.
+
+Know the laws of every state in your route before traveling, not just the destination state.
+
+---
+
+## How to Check Current Reciprocity
+
+Several resources track current reciprocity:
+
+- **USCCA's reciprocity map:** usconcealedcarry.com maintains an updated interactive map
+- **USACarry.com:** State-by-state carry law summaries and reciprocity tables
+- **State attorney general websites:** Official and authoritative but vary in how current they are
+
+Verify the current status any time you plan to travel. Reciprocity agreements change when states update their laws, and a permit that was recognized last year may not be recognized today.
+
+---
+
+*This article is for informational purposes only and does not constitute legal advice. Carry laws change frequently. Always verify current requirements for every state you plan to carry in before travel.*`,
+  },
 
 ];
 
