@@ -754,6 +754,18 @@ export const faqData: FaqEntry[] = [
     ],
   },
 
+  // ── Gun Laws (2026-08-09 additions) ────────────────────────────
+  {
+    id: "initial-aggressor-rule",
+    question: "If I start a fight, can I still claim self-defense later in the encounter?",
+    answer:
+      "Generally no — initial aggressors typically forfeit self-defense rights, and neither stand-your-ground nor castle doctrine changes this. A narrow exception exists: if the initial aggressor withdraws from the confrontation in good faith and clearly communicates that withdrawal, and the other party then escalates to deadly force, the former aggressor may regain self-defense rights. This exception is narrow, fact-specific, and evaluated by juries. The practical takeaway: if you're the one who started it, no self-defense doctrine protects you. For the full legal framework, see our guide to castle doctrine and stand your ground.",
+    keywords: ["initial aggressor", "self-defense", "stand your ground", "castle doctrine", "start fight"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Castle Doctrine and Stand Your Ground: Full Guide", href: "/blog/castle-doctrine-stand-your-ground" },
+    ],
+  },
   // ── Self-Defense Insurance ──────────────────────────────────
   {
     id: "ccw-insurance-coverage",
@@ -874,6 +886,31 @@ export const faqData: FaqEntry[] = [
     ],
   },
 
+  // ── Buying Your First Firearm (2026-08-09 additions) ──────────
+  {
+    id: "women-first-handgun",
+    question: "What's the most important thing women should know when buying a first handgun?",
+    answer:
+      "Trigger reach — the distance from the back of the grip to the trigger face — is the most important ergonomic factor. If you have to shift your grip to reach the trigger, you'll sacrifice accuracy and control. Test multiple pistols before buying: hold each one with a proper two-handed grip and check whether your index finger naturally contacts the trigger at the pad without curling or stretching. Pistols with adjustable backstraps (Glock Gen5, S&W M&P, SIG P320) let you customize the fit. Slim-frame 9mm options like the SIG P365, Springfield Hellcat, and S&W Shield Plus tend to fit smaller hands. Don't let a gun shop steer you toward a smaller or lighter caliber just because you're a woman — a manageable 9mm beats an uncomfortable .380 in every practical respect.",
+    keywords: ["women", "handgun", "first gun", "trigger reach", "ergonomics", "smaller hands", "grip"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "Women and Firearms: Practical Buying Guide", href: "/blog/women-firearms-guide" },
+      { label: "First Handgun Guide", href: "/blog/first-handgun-guide" },
+    ],
+  },
+  {
+    id: "women-concealed-carry",
+    question: "What carry methods work for women who can't use a standard IWB holster?",
+    answer:
+      "Standard IWB holsters designed for male body geometry often don't work for female anatomy. Practical alternatives include: AIWB holsters with angled clips designed for curved midsections, belly bands worn under clothing for gym wear and dresses, purpose-built bra holsters (require diligent practice for a safe draw), and high-ride OWB holsters under a cover garment. Purse carry is widely practiced but carries specific risks — children accessing the bag, purse theft, and draw speed. If you carry off-body, it must be in a purpose-built firearm purse with a dedicated locked compartment, not a gun floating in a regular handbag.",
+    keywords: ["women carry", "IWB", "belly band", "bra holster", "purse carry", "appendix", "concealed carry women"],
+    category: "Concealed Carry",
+    relatedLinks: [
+      { label: "Women and Firearms: Carry Guide", href: "/blog/women-firearms-guide" },
+      { label: "State Carry Laws", href: "/carry-laws" },
+    ],
+  },
   // ── Buying Your First Firearm (2026-06-30 rifle additions) ──
   {
     id: "first-rifle-home-defense",
