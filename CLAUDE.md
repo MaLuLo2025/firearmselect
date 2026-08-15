@@ -117,7 +117,7 @@ All generated files for this project go to `~/Claude Files/firearmselect/` — n
 ## Current State
 - [x] Project scaffolded with Broadsheet theme
 - [x] 50 state + DC gun law pages (all with detailed multi-section statutory content)
-- [x] 19 blog articles (constitutional carry, Bruen, first-time buyer, brandishing, storage laws, carry laws, hunting series, buying guides, flying with firearms, instructor selection, gun shows)
+- [x] 22 blog articles (constitutional carry, Bruen, first-time buyer, brandishing, storage laws, carry laws, hunting series, buying guides, flying with firearms, instructor selection, gun shows, CCW legal insurance, castle doctrine/SYG, first rifle guide)
 - [x] 50 cities from top US MSAs (1.5M+ population) with SEO pages
 - [x] 502 dealer listings across all 50 cities (Tier 1: 15 per city, Tier 2: 10, Tier 3: 8)
 - [x] City pages with "coming soon" placeholder when no dealers listed
@@ -129,7 +129,7 @@ All generated files for this project go to `~/Claude Files/firearmselect/` — n
 - [x] Separate state dropdown for gun law lookup on homepage
 - [x] Homepage layout: hero → search dropdowns → category cards → CTA bar → law section
 - [x] Legal pages (privacy, terms, cookies)
-- [x] Cookie consent banner
+- [x] Cookie consent: banner + Manage preferences panel (Essential/Analytics), footer re-entry link
 - [x] Dynamic sitemap and robots.txt (all cities + dealers included)
 - [x] Full 50-state coverage
 - [x] All internal links audited and verified (law links → gun-laws, dealer links → /dealers/)
@@ -138,7 +138,7 @@ All generated files for this project go to `~/Claude Files/firearmselect/` — n
 - [x] /reciprocity/ page (interstate travel, FOPA, flying, vehicle storage)
 - [x] /safety/ page (four rules, secure storage, children, maintenance)
 - [x] /red-flag-laws/ page (ERPO process, 21 states detailed, federal legislation)
-- [x] Google Analytics integration (G-5PMR8Q3KDL, consent-aware — only loads after cookie accept)
+- [x] Google Analytics integration (G-5PMR8Q3KDL) under Google Consent Mode v2: analytics_storage defaults to denied before gtag.js loads; accepting via the banner or preferences panel issues a runtime consent update (no reload needed); withdrawing analytics consent actively deletes existing _ga/_ga_* cookies rather than just suppressing future writes
 - [x] Google Search Console (verified via GA)
 - [x] Outbound links to authoritative sources on all law/safety pages
 - [x] State gun law pages: ATF, state legislature, and state police .gov links for all 50 states
@@ -150,7 +150,7 @@ All generated files for this project go to `~/Claude Files/firearmselect/` — n
 - [x] state-law-details.ts with detailed statutory content for all 50 states + DC
 - [x] DC added to states.ts, state-resources.ts, and gun-laws routing
 - [x] Video Hub page (/resources/videos) with 12 curated educational videos
-- [x] FAQ Hub page (/resources/faq) with 58 entries and Fuse.js fuzzy search
+- [x] FAQ Hub page (/resources/faq) with 66 entries and Fuse.js fuzzy search (Self-Defense Insurance category added 2026-06-30)
 - [x] FAQ accordion with category filters and cross-links to videos/blog/state laws
 - [x] Schema.org FAQPage structured data on FAQ page
 - [x] Resources dropdown in nav (Blog, Video Library, FAQ)

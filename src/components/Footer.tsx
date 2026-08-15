@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { states } from "@/lib/states";
 import { categories } from "@/lib/categories";
+import CookiePreferencesLink from "./CookiePreferencesLink";
 
 export default function Footer() {
   return (
@@ -59,6 +60,7 @@ export default function Footer() {
               <li><Link href="/privacy" className="text-sm text-ink-300 hover:text-steel-300 transition-colors">Privacy Policy</Link></li>
               <li><Link href="/terms" className="text-sm text-ink-300 hover:text-steel-300 transition-colors">Terms of Service</Link></li>
               <li><Link href="/cookies" className="text-sm text-ink-300 hover:text-steel-300 transition-colors">Cookie Policy</Link></li>
+              <li><CookiePreferencesLink /></li>
             </ul>
           </div>
         </div>

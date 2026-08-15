@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import CookieConsent from "@/components/CookieConsent";
+import ConsentDefaults from "@/components/ConsentDefaults";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import "@/styles/globals.css";
 
@@ -48,6 +49,7 @@ export default function RootLayout({
         <main className="flex-1">{children}</main>
         <Footer />
         <CookieConsent />
+        <ConsentDefaults />
         <GoogleAnalytics />
       </body>
     </html>
