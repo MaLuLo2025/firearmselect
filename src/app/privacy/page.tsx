@@ -28,7 +28,8 @@ export default function PrivacyPolicyPage() {
             <h2 className="font-serif text-lg text-ink-900 mb-3">Information we collect</h2>
             <p className="text-sm text-ink-400 leading-relaxed mb-3"><strong className="text-ink-600">Personal data.</strong> Personally identifiable information that you voluntarily provide when you fill out a form or otherwise interact with the Site.</p>
             <p className="text-sm text-ink-400 leading-relaxed mb-3"><strong className="text-ink-600">Derivative data.</strong> Information our servers automatically collect when you access the Site, such as your IP address, browser type, operating system, access times, and the pages you have viewed.</p>
-            <p className="text-sm text-ink-400 leading-relaxed"><strong className="text-ink-600">Analytics data.</strong> We may use third-party analytics tools (such as Google Analytics) that collect information about your use of the Site in aggregate form.</p>
+            <p className="text-sm text-ink-400 leading-relaxed mb-3"><strong className="text-ink-600">Analytics data.</strong> We may use third-party analytics tools (such as Google Analytics) that collect information about your use of the Site in aggregate form.</p>
+            <p className="text-sm text-ink-400 leading-relaxed"><strong className="text-ink-600">Interaction data.</strong> We collect anonymous interaction data — such as which listings you click on and which categories or locations you browse — to understand how visitors use the site and improve the directory. This data is sent to our own first-party analytics infrastructure, not to any third-party service. No cookies are set by this system, and no advertising or personal profile is built from it. As part of standard server processing, your IP address and browser information may be logged.</p>
           </div>
           <div>
             <h2 className="font-serif text-lg text-ink-900 mb-3">How we use your information</h2>
