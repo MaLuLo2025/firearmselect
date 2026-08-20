@@ -37,7 +37,7 @@ export default function TermsPage() {
           </div>
           <div>
             <h2 className="font-serif text-lg text-ink-900 mb-3">Governing law and dispute resolution</h2>
-            <p className="text-sm text-ink-400 leading-relaxed">These Terms shall be governed by the laws of the State of Colorado. Any dispute arising from these Terms or your use of the Site shall be resolved by binding arbitration administered in Durango, La Plata County, Colorado. You agree to waive any right to participate in a class action lawsuit or class-wide arbitration.</p>
+            <p className="text-sm text-ink-400 leading-relaxed">These Terms shall be governed by the laws of the State of Florida. Any dispute arising from these Terms or your use of the Site shall be resolved by binding arbitration administered in Volusia County, Florida. You agree to waive any right to participate in a class action lawsuit or class-wide arbitration.</p>
           </div>
           <div>
             <h2 className="font-serif text-lg text-ink-900 mb-3">Changes to these terms</h2>
