@@ -3502,6 +3502,138 @@ Verify the current status any time you plan to travel. Reciprocity agreements ch
 *This article is for informational purposes only and does not constitute legal advice. Carry laws change frequently. Always verify current requirements for every state you plan to carry in before travel.*`,
   },
 
+  {
+    slug: "nfa-ruling-august-2026-what-it-means",
+    title: "The August 2026 NFA Ruling: What It Actually Changes for Gun Owners",
+    excerpt: "A federal judge struck down NFA registration requirements for suppressors, SBRs, and SBSs. Here's what it means, what it doesn't, and what's still uncertain.",
+    metaDescription: "A federal judge struck down NFA registration requirements for suppressors, SBRs, and SBSs. Here's what it means, what it doesn't, and what's still uncertain.",
+    category: "Legal Update",
+    categorySlug: "legal-update",
+    publishedAt: "2026-08-25",
+    readTime: "4 min read",
+    content: `On August 5, 2026, Judge Wesley Hendrix of the U.S. District Court for the Northern District of Texas issued a ruling that gun rights organizations are calling one of the most significant firearms decisions in decades. The court held that the National Firearms Act's registration and approval requirements for suppressors, short-barreled rifles (SBRs), and short-barreled shotguns (SBSs) exceed Congress's constitutional authority — now that Congress has eliminated the NFA's transfer and making taxes on those items.
+
+The logic is worth understanding, because the ruling's reach depends on it. The NFA was enacted in 1934 as an exercise of Congress's taxing power. Its regulatory framework — registration, applications, ATF approval, fingerprinting, photographs, and associated criminal penalties — was constitutionally permissible because it supported the collection of the NFA's $200 tax. When Congress eliminated that tax for suppressors, SBRs, and SBSs through the One Big Beautiful Bill Act in 2025, the court concluded that the constitutional basis for the regulatory requirements disappeared along with it.
+
+The Trump administration did not immediately appeal the ruling.
+
+## What has actually changed
+
+As of mid-August 2026, the ruling lifts NFA registration and approval requirements for suppressors, SBRs, and SBSs — but only in the jurisdictions covered by the Northern District of Texas. The practical effect is narrower than the headlines suggest. ATF has not announced a nationwide policy change in response to the ruling, and the regulatory status of these items in other jurisdictions remains what it was before the decision.
+
+Individuals in the affected jurisdiction can acquire suppressors, SBRs, and SBSs without completing an ATF Form 4, waiting for ATF approval, or paying the (now-eliminated) tax. They must still comply with all other applicable federal and state laws, including passing a background check through an FFL.
+
+## What has not changed
+
+Machine guns, destructive devices, and "any other weapons" (AOWs) under the NFA are unaffected — the OBBBA did not eliminate taxes on those categories, and the NFA's full regulatory framework continues to apply to them.
+
+State laws remain independently enforceable. States that have their own restrictions on suppressors, SBRs, or SBSs — including California, New York, New Jersey, Massachusetts, Illinois, and several others — continue to enforce those restrictions regardless of the federal ruling. A federal court decision that the NFA's regulatory requirements exceed congressional authority does not preempt a state's independent decision to regulate the same items under its own police power.
+
+Background check requirements through an FFL remain in place for all firearms purchases from licensed dealers, including NFA items. The ruling removed the NFA's regulatory layer; it did not remove the items from the Gun Control Act's framework.
+
+## What's still uncertain
+
+The ruling is from a single district court. It has not been appealed as of mid-August, but the absence of an appeal this early does not guarantee the ruling will stand permanently. A challenge could come from a different administration, from intervening parties, or through related litigation in other circuits.
+
+ATF's response has been cautious. The agency has not issued formal guidance acknowledging a nationwide change, and its position on whether the ruling applies beyond the Northern District of Texas has not been publicly clarified. Until ATF issues clear guidance or the ruling is affirmed at a higher level, gun owners outside the affected jurisdiction should not assume the NFA's regulatory requirements have been lifted for them.
+
+The ruling also raises questions about items already registered under the NFA. Existing registrants paid taxes and completed regulatory requirements that the court has now held were constitutionally unauthorized. Whether this creates any basis for relief — tax refunds, removal from the registry, or other remedies — is unaddressed by the current decision.
+
+## What to do right now
+
+If you're considering acquiring a suppressor, SBR, or SBS, the prudent approach is to confirm the current regulatory status in your specific state and jurisdiction before purchasing. Do not rely solely on media coverage of the ruling — consult your state's firearms laws independently, and if you're uncertain, consult a firearms attorney in your jurisdiction.
+
+If you're an FFL, monitor ATF's official communications for guidance on how to handle transactions involving these items going forward. The regulatory environment is in flux, and the conservative approach — maintaining compliance with existing requirements until formal guidance says otherwise — protects both you and your customers.
+
+The ruling is significant. It may prove to be a watershed moment in NFA regulation. But the gap between what a district court holds and what gun owners can safely rely on in practice is real, and it's the gap where consequences live.`,
+  },
+
+  {
+    slug: "colorado-permit-to-purchase-semiauto-2026",
+    title: "Colorado's New Permit-to-Purchase for Semi-Automatic Firearms: What Buyers Need to Know",
+    excerpt: "Colorado's SB25-003 requires a Firearms Safety Course Eligibility Card to purchase most semi-automatic firearms starting August 1, 2026. Here's how it works.",
+    metaDescription: "Colorado's SB25-003 requires a Firearms Safety Course Eligibility Card to purchase most semi-automatic firearms starting August 1, 2026. Here's how it works.",
+    category: "State Laws",
+    categorySlug: "state-laws",
+    publishedAt: "2026-08-25",
+    readTime: "3 min read",
+    content: `Starting August 1, 2026, Colorado requires a Firearms Safety Course Eligibility Card before purchasing most specified semi-automatic firearms. Senate Bill 25-003 creates what is functionally a permit-to-purchase system for a defined category of firearms — making Colorado one of a small number of states to impose this type of requirement.
+
+The law applies to semi-automatic firearms with detachable magazines, including certain rifles and certain handguns meeting the statutory definition. It does not apply to all firearms, and the specific definitions matter for determining which purchases require the card and which do not.
+
+## How the eligibility card works
+
+To obtain a Firearms Safety Course Eligibility Card, an applicant must complete two steps: pass a background check and complete a state-approved firearms safety course. The course must be offered by an approved instructor and cover the topics specified by the state. Once both requirements are met, the applicant receives the card, which then serves as a prerequisite for purchasing any covered semi-automatic firearm from a licensed dealer.
+
+The card is not a substitute for the point-of-sale background check — that requirement continues to apply independently. The card is an additional prerequisite that must be completed before the dealer can proceed with the transaction.
+
+## What firearms are covered
+
+The law defines "specified semi-automatic firearms" based on action type and magazine configuration. The trigger is a semi-automatic firearm — whether rifle, pistol, or shotgun — with a detachable magazine meeting the statutory definition. Not every semi-automatic firearm is covered; fixed-magazine firearms and those not meeting the specific definition are excluded.
+
+If you're uncertain whether a particular firearm falls within the law's scope, the safest approach is to check the statutory language or consult your FFL before attempting a purchase. Dealers have been adjusting their processes to accommodate the new requirement and should be able to tell you whether a specific model requires the card.
+
+## What this means for Colorado gun owners
+
+For buyers, the practical impact is a new step before purchasing certain firearms. The safety course requirement means planning ahead — you cannot walk into a store and buy a covered semi-automatic firearm the same day you decide to buy one unless you already hold the card. For buyers who already hold a concealed carry permit that required a safety course, it's worth checking whether that course satisfies the SB25-003 requirement or whether a separate course is needed.
+
+For FFLs, the law adds a verification step to the sales process and requires maintaining records of eligibility card validation. Dealers who have not yet updated their processes should do so — the law is in effect, and sales of covered firearms without card verification expose the dealer to liability.
+
+## The legal landscape
+
+SB25-003 is part of a broader package of firearms legislation Colorado enacted in 2025 and 2026, which also includes new requirements for retail ammunition sales (HB25-1133) and restrictions on 3D-printed firearms and components (HB26-1144). Colorado's firearms regulatory environment is among the most active in the country, and the cumulative effect of these laws means that buyers and dealers need to stay current rather than relying on knowledge that predates the latest legislative session.
+
+Legal challenges are possible. Permit-to-purchase requirements for firearms have faced Second Amendment scrutiny in other states, and the post-Bruen legal framework has introduced new uncertainty about which regulatory requirements survive constitutional analysis. Whether SB25-003 faces a challenge, and how it would fare, remains to be seen.
+
+## The bottom line
+
+If you're buying a semi-automatic firearm with a detachable magazine in Colorado after August 1, 2026, you need the eligibility card first. The safety course and background check requirements mean planning ahead rather than making an impulse purchase. Check the specific statutory definitions, get the card, and work with your FFL to ensure compliance on both sides of the transaction.`,
+  },
+
+  {
+    slug: "usps-handgun-shipping-2026",
+    title: "USPS Handgun Shipping: What the DOJ's Reversal Means for Gun Owners",
+    excerpt: "The DOJ's Office of Legal Counsel has concluded that the decades-old ban on shipping handguns through USPS is unconstitutional. Here's what that means in practice.",
+    metaDescription: "The DOJ's Office of Legal Counsel has concluded that the decades-old ban on shipping handguns through USPS is unconstitutional. Here's what that means in practice.",
+    category: "Legal Update",
+    categorySlug: "legal-update",
+    publishedAt: "2026-08-25",
+    readTime: "4 min read",
+    content: `For decades, federal law and United States Postal Service regulations prohibited shipping handguns through the mail. The rule turned the most ordinary logistics option in American life into a federally restricted channel for pistol owners — forcing them to use UPS or FedEx for warranty repairs, gunsmith services, moves across state lines, or private sales to FFLs.
+
+In 2026, the Department of Justice's Office of Legal Counsel concluded that this ban is unconstitutional. If upheld, the shift would allow law-abiding gun owners to use USPS for shipping handguns for lawful purposes — repairs, interstate transfers through FFLs, and similar transactions.
+
+## What the ban was
+
+Title 18 U.S.C. § 1715 has long prohibited mailing pistols and revolvers, with limited exceptions for government agencies, manufacturers, and licensed dealers. Private individuals — even those shipping a lawfully owned handgun to a licensed dealer or manufacturer for a legitimate purpose — could not use USPS. The only available shipping options were private carriers, which charge commercial rates, impose their own restrictions, and in some cases have made it increasingly difficult for individual gun owners to ship firearms.
+
+The practical burden fell disproportionately on gun owners in rural areas, where UPS and FedEx drop-off locations may be distant and USPS is the most accessible shipping option. It also affected anyone needing warranty service — sending a handgun to the manufacturer for repair meant navigating private carrier restrictions rather than using the postal system.
+
+## What the OLC concluded
+
+The Office of Legal Counsel concluded that the mailing ban cannot be constitutionally applied to law-abiding citizens shipping handguns for lawful purposes. The analysis relies on the same Second Amendment framework the Supreme Court established in Bruen — evaluating the regulation against the historical tradition of firearms regulation in America.
+
+The OLC opinion does not itself change the law. It's an internal executive branch legal opinion that advises the DOJ and, by extension, USPS on how to interpret the statute. USPS would need to update its regulations and internal policies to permit handgun shipments, and Congress could choose to amend the statute. The practical implementation timeline is uncertain.
+
+## What it would mean in practice
+
+If USPS implements the change, gun owners would be able to ship handguns through the mail for lawful purposes — subject to whatever packaging, labeling, and procedural requirements USPS establishes. Likely requirements would include declarations of contents (consistent with existing USPS rules for shipping long guns, which is already permitted), adult signature on delivery, and compliance with all applicable federal and state laws regarding the transfer.
+
+Shipping a handgun through USPS would still require that the shipment comply with the Gun Control Act. A private individual shipping a handgun to anyone other than themselves (at a different address) or a licensed dealer/manufacturer would still need to use an FFL as the receiving party. The OLC opinion changes the carrier option, not the substantive transfer rules.
+
+## What hasn't changed yet
+
+As of mid-August 2026, USPS has not formally updated its regulations to permit handgun shipping. The OLC opinion establishes the legal basis for the change, but the operational implementation is separate. Until USPS publishes updated shipping rules, attempting to ship a handgun through the mail could still result in the package being refused or intercepted — even if the underlying legal authority supports the shipment.
+
+Gun owners should wait for formal USPS guidance before attempting to ship handguns through the postal system. The legal opinion is favorable; the operational reality hasn't caught up.
+
+## Why it matters beyond convenience
+
+The significance extends beyond shipping convenience. USPS rates are substantially lower than private carrier rates for comparable packages, and USPS pickup service reaches addresses that private carriers sometimes don't serve daily. For rural gun owners, for people sending handguns to manufacturers for warranty work, and for anyone who has dealt with the increasing difficulty of shipping firearms through private carriers — some of which have quietly tightened their firearms policies in recent years — postal service availability would be a meaningful practical improvement.
+
+The change also has a symbolic dimension. The postal system is a public service; private carriers are commercial businesses that can set their own policies. Restoring the ability to use the public postal system for a constitutionally protected activity aligns the service's policies with the legal framework that governs it.`,
+  },
+
 ];
 
 export const getPostBySlug = (slug: string): BlogPost | undefined =>

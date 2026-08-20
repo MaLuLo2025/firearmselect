@@ -802,6 +802,7 @@ export const faqData: FaqEntry[] = [
     category: "Gun Laws",
     relatedLinks: [
       { label: "Suppressors After the OBBBA: Full Article", href: "/blog/suppressors-obbba-changes" },
+      { label: "The August 2026 NFA Ruling: What It Actually Changes", href: "/blog/nfa-ruling-august-2026-what-it-means" },
     ],
   },
   {
@@ -814,6 +815,7 @@ export const faqData: FaqEntry[] = [
     relatedLinks: [
       { label: "Colorado's 2026 Gun Purchase Requirements", href: "/blog/colorado-gun-laws-2026" },
       { label: "Colorado Gun Laws", href: "/colorado/gun-laws" },
+      { label: "Colorado's Permit-to-Purchase Eligibility Card, Explained", href: "/blog/colorado-permit-to-purchase-semiauto-2026" },
     ],
   },
   {
@@ -945,6 +947,19 @@ export const faqData: FaqEntry[] = [
     relatedLinks: [
       { label: "First Rifle Guide: AR-15 vs. Bolt-Action vs. Lever-Action", href: "/blog/first-rifle-guide" },
       { label: "Blog: First-Time Buyer's Guide", href: "/blog/first-time-gun-buyer-guide" },
+    ],
+  },
+
+  // ── Gun Laws (2026-08-25 addition) ──
+  {
+    id: "usps-handgun-shipping",
+    question: "Can I ship a handgun through USPS?",
+    answer:
+      "Not yet, as of mid-August 2026. Federal law and USPS regulations have long banned mailing handguns, and that ban is still formally in effect. In 2026, the DOJ's Office of Legal Counsel concluded the ban is unconstitutional as applied to law-abiding citizens shipping handguns for lawful purposes, but that opinion doesn't change the law by itself — USPS still needs to update its own regulations before handgun shipments are actually permitted. Until USPS publishes updated rules, use a private carrier like UPS or FedEx for handgun shipments, following their firearms policies and all applicable federal and state transfer requirements.",
+    keywords: ["USPS", "mail", "shipping", "handgun", "postal service", "DOJ", "OLC"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "USPS Handgun Shipping: What the DOJ's Reversal Means", href: "/blog/usps-handgun-shipping-2026" },
     ],
   },
 ];
