@@ -8,6 +8,11 @@ Authoritative shared conventions for all Select properties live at
 or details. Do not duplicate shared conventions here; update
 `CONVENTIONS.md` instead and propagate as needed.
 
+`deploy.sh` was updated 2026-08-24 to `../CONVENTIONS.md`'s deploy-script
+standard (explicit-stage-only, branch check, blocklist guard,
+fetch-and-verify push guard — AestheticSelect's implementation, reused
+verbatim). No property-specific override.
+
 ## What This Project Is
 FirearmSelect.com is an informational firearms directory connecting buyers with trusted local gun shops, shooting ranges, FFL dealers, and certified instructors. Provides state-by-state gun law guides and factual, non-partisan firearms education. Part of the Select Sites portfolio alongside AestheticSelect.com.
 
