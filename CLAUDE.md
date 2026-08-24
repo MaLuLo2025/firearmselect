@@ -2,6 +2,12 @@
 
 # FirearmSelect — Project Memory (CLAUDE.md)
 
+## Shared Conventions
+Authoritative shared conventions for all Select properties live at
+`../CONVENTIONS.md`. This file documents only property-specific overrides
+or details. Do not duplicate shared conventions here; update
+`CONVENTIONS.md` instead and propagate as needed.
+
 ## What This Project Is
 FirearmSelect.com is an informational firearms directory connecting buyers with trusted local gun shops, shooting ranges, FFL dealers, and certified instructors. Provides state-by-state gun law guides and factual, non-partisan firearms education. Part of the Select Sites portfolio alongside AestheticSelect.com.
 
@@ -34,17 +40,10 @@ All generated files for this project go to `~/Claude Files/firearmselect/` — n
 
 ## ECC Workflow
 
-- `/plan` before any non-trivial change
-- `/security-scan` before deploying any new endpoint or data change
-- `/code-review` before every deploy
-- Log any mistakes to the Deployment Gotchas section of this file
-- Run `/learn` at session end
-
-## Working Practices
-
-**Debugging discipline.** After three failed hypotheses on the same problem, stop and explicitly state a comparison: estimated cost of continued debugging vs. estimated cost of a clean rebuild of the affected component. State the comparison before proceeding either way. Favor rebuild when the component is small enough to rewrite in under an hour, when you understand why the current version fails but not why it ever worked, or when each fix reveals another layer.
-
-**Verification tooling.** For timing-sensitive or click-sensitive browser verification, use Playwright with element-handle clicks rather than the Chrome extension. Fixed-coordinate and ref-based clicks through the extension have produced phantom failures that Playwright could not reproduce (documented during the August 2026 consent banner work). The extension remains fine for rendering and content checks.
+Base checklist and debugging/verification discipline are in
+`../CONVENTIONS.md`. Property-specific override: log mistakes to the
+Deployment Gotchas section of *this* file, not a separate `gotchas.md` —
+kept in one place alongside the URL-verification incident history below.
 
 ## Connected Projects
 - **GoldSilverSelect** (`~/Projects/goldsilverselect`) — sister Select Sites directory, reference implementation for UX patterns
@@ -100,14 +99,11 @@ All generated files for this project go to `~/Claude Files/firearmselect/` — n
 - Dealer listings (names, ratings, descriptions) ONLY render on /dealers/ pages — never on gun-laws, blog, or other pages
 
 ## External Link Verification (Non-Negotiable)
-- Every external URL must be verified (curl, WebFetch, or browser) before deploying
-- State .gov sites restructure frequently — never trust a URL from memory
-- Run link verification as a separate step before any deploy that includes outbound links
-- If a URL redirects to a generic/homepage rather than the specific page intended:
-  - Do NOT use that link — it will confuse users
-  - Instead, link to the agency's main site and add helper text: "Search for '[specific topic]' on the [Agency Name] website"
-  - Example: if the PA Game Commission hunting seasons page redirects to the generic agency homepage, link to the homepage and add: "Search for 'hunting seasons and bag limits' on the Pennsylvania Game Commission website"
-- This applies to ALL outbound links on ALL Select Sites
+This protocol — originally written here after the 2026-03-31 incident below
+— is now the shared standard for all Select properties, documented in
+`../CONVENTIONS.md` (Content Standards). No property-specific override;
+follow the shared version. Kept in this file only as the origin reference
+for the Deployment Gotchas entry below.
 
 ## Content Standards
 - Never use superlative claims in dealer descriptions
