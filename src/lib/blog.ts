@@ -3256,6 +3256,12 @@ Virginia's semi-auto sales ban is now law, its scope is specific rather than cat
 
 ];
 
+const slugs = blogPosts.map((p) => p.slug);
+const dupes = slugs.filter((s, i) => slugs.indexOf(s) !== i);
+if (dupes.length > 0) {
+  throw new Error(`Duplicate blog slugs found: ${dupes.join(", ")}`);
+}
+
 export const getPostBySlug = (slug: string): BlogPost | undefined =>
   blogPosts.find((p) => p.slug === slug);
 
