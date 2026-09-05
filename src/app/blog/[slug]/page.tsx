@@ -55,6 +55,8 @@ function renderTextWithLinks(text: string) {
   });
 }
 
+const BASE = "https://www.firearmselect.com";
+
 export default function BlogPostPage({ params }: { params: { slug: string } }) {
   const post = getPostBySlug(params.slug);
   if (!post) notFound();
@@ -65,8 +67,25 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
     return { heading: lines[0].trim(), body: lines.slice(1).join("\n").trim() };
   });
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: post.title,
+    description: post.metaDescription ?? post.excerpt,
+    datePublished: post.publishedAt,
+    dateModified: post.publishedAt,
+    author: { "@type": "Organization", name: "FirearmSelect", url: BASE },
+    publisher: { "@type": "Organization", name: "FirearmSelect", url: BASE },
+    mainEntityOfPage: { "@type": "WebPage", "@id": `${BASE}/blog/${post.slug}` },
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
       <section className="py-12 sm:py-16 border-b border-ink-100">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
           <nav className="mb-6">
