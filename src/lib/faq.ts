@@ -962,6 +962,32 @@ export const faqData: FaqEntry[] = [
       { label: "USPS Handgun Shipping: What the DOJ's Reversal Means", href: "/blog/usps-handgun-shipping-2026" },
     ],
   },
+
+  // ── Gun Laws (2026-09-08 additions) ──
+  {
+    id: "federal-firearms-rights-restoration",
+    question: "Can I get my federal firearms rights restored if I have a felony conviction?",
+    answer:
+      "It depends on whether your disqualifying conviction is federal or state, and starting in late 2026, there's a new formal pathway for federal cases. The DOJ's Federal Firearms Rights Restoration Program opens an initial invited-applicant pool on September 26, 2026, followed by a general-public application window on November 4, 2026 (capped at 5,000 applications in the first wave). It only addresses federal firearms prohibitions — a state conviction requires that state's own rights-restoration process, which varies widely and in some states doesn't exist. Restoration is discretionary, not automatic, even for eligible applicants.",
+    keywords: ["rights restoration", "felony", "firearms rights", "DOJ", "federal conviction", "restore rights", "2026"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "The Federal Firearms Rights Restoration Program: Full Guide", href: "/blog/federal-firearms-rights-restoration-program-2026" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  {
+    id: "virginia-semi-auto-sales-ban",
+    question: "What does Virginia's semi-automatic firearms ban actually prohibit?",
+    answer:
+      "Virginia's ban, which took effect July 1, 2026, prohibits the sale, transfer, and manufacture of semi-automatic center-fire rifles and pistols that accept detachable magazines and have one or more specified features, such as threaded barrels, folding/telescoping stocks, or pistol grips on rifles. It does not ban possession — Virginians who already own an affected firearm may keep it. A rifle with a fixed magazine, or one with none of the specified features, is not covered. At least 14 commonwealth's attorneys have said they won't enforce the law, but the statutory prohibition applies statewide regardless of local enforcement posture.",
+    keywords: ["Virginia", "semi-automatic ban", "AR-15", "sales ban", "assault weapon", "2026", "commonwealth's attorney"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Virginia's Semi-Auto Sales Ban: Full Guide", href: "/blog/virginia-ar15-sales-ban-2026" },
+      { label: "Virginia Gun Laws", href: "/virginia/gun-laws" },
+    ],
+  },
 ];
 
 export function getFaqsByCategory(category: string): FaqEntry[] {

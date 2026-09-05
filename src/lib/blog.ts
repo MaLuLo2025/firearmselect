@@ -3634,6 +3634,142 @@ The significance extends beyond shipping convenience. USPS rates are substantial
 The change also has a symbolic dimension. The postal system is a public service; private carriers are commercial businesses that can set their own policies. Restoring the ability to use the public postal system for a constitutionally protected activity aligns the service's policies with the legal framework that governs it.`,
   },
 
+  {
+    slug: "federal-firearms-rights-restoration-program-2026",
+    title: "The Federal Firearms Rights Restoration Program: What You Need to Know Before September 26",
+    excerpt: "The DOJ is launching a new program to restore firearms rights for eligible individuals. Applications open September 26. Here's how it works.",
+    metaDescription: "The DOJ is launching a new program to restore firearms rights for eligible individuals. Applications open September 26. Here's how it works.",
+    category: "Legal Update",
+    categorySlug: "legal-update",
+    publishedAt: "2026-09-08",
+    readTime: "4 min read",
+    content: `On August 22, 2026, the Department of Justice announced a new Federal Firearms Rights Restoration Program — the first operational program of its kind in decades. Applications open on September 26, 2026, with an initial "invited" pool, followed by a general-public application window beginning November 4, 2026.
+
+The program allows certain individuals who have lost their firearms rights due to a federal conviction to apply for restoration of those rights. It's a significant development for the firearms community because the federal system has not had a functioning mechanism for rights restoration through the executive branch in practical terms since Congress defunded the ATF's ability to process such applications in 1992.
+
+## Who is eligible
+
+The program's eligibility criteria have not been fully detailed in public materials as of early September 2026, but the framework is based on existing federal statutory authority that permits the Attorney General to restore firearms rights to individuals who are not likely to act in a manner dangerous to public safety and whose restoration would not be contrary to the public interest.
+
+Generally, federal firearms rights restoration has historically been available to individuals whose disqualifying conviction was federal (not state), who have completed their sentence including supervised release, and who can demonstrate rehabilitation. State convictions that result in a firearms prohibition are typically addressed through state-level rights restoration processes, which vary significantly by state.
+
+The "invited" application pool opening September 26 suggests the DOJ will begin with a defined set of eligible individuals — likely those whose cases meet specific criteria identified through federal records — before opening the general application window on November 4.
+
+## How the program works
+
+The final rule establishing the program provides for a structured application process. Applicants submit documentation establishing their identity, their conviction history, their completion of sentence and any supervised release, and evidence of rehabilitation. The DOJ evaluates each application individually against the statutory standard.
+
+The initial round is limited: 5,000 applications from the general public will be accepted beginning November 4, 2026. This cap suggests the DOJ is anticipating significant demand and managing the administrative workload of individual evaluations.
+
+If an application is approved, the individual's federal firearms rights are restored — meaning the federal prohibition on possessing, receiving, or transporting firearms is lifted. This does not automatically override state-level prohibitions, which operate independently. An individual whose firearms rights are restored at the federal level must still comply with their state's firearm laws, and some states maintain their own prohibitions that are unaffected by a federal restoration.
+
+## What this doesn't do
+
+Several limitations are worth understanding clearly.
+
+This is a federal program for federal prohibitions. If your firearms disability is based on a state conviction, this program does not address it. State-level rights restoration is a separate process governed by each state's laws, and the pathways vary dramatically — some states have formal restoration processes, others require a pardon from the governor, and some offer no mechanism at all.
+
+Restoration is discretionary, not automatic. Meeting the eligibility criteria doesn't guarantee approval. The Attorney General retains discretion to deny an application if the circumstances don't support a finding that restoration is appropriate.
+
+The program's initial capacity is limited. With 5,000 general-public applications in the first wave, not everyone who applies will have their application processed promptly.
+
+## What to do if you're interested
+
+If you believe you may be eligible, the practical steps between now and September 26 are to gather your documentation — conviction records, proof of sentence completion, evidence of rehabilitation — and to understand whether your specific circumstances fall under federal or state jurisdiction. If your firearms disability is state-based, the federal program isn't the right path, and pursuing it would waste time and potentially the limited application slots.
+
+If your conviction is federal and you've completed your sentence, monitor the DOJ's official announcements as September 26 approaches. The details of the application process, required documentation, and specific eligibility criteria will be published in advance of the application window opening.
+
+## The bottom line
+
+The Federal Firearms Rights Restoration Program reopens a pathway that has been functionally closed for over 30 years. For eligible individuals, it provides a formal, structured process for addressing a federal firearms prohibition — something that has previously required either a presidential pardon or legislative intervention on a case-by-case basis. The program's launch is significant, but its initial scope is limited, and understanding the boundaries — federal only, discretionary, capacity-constrained — is essential before applying.`,
+  },
+
+  {
+    slug: "2026-national-firearms-survey-findings",
+    title: "The 2026 National Firearms Survey: What 88 Million Gun Owners Look Like",
+    excerpt: "A new Georgetown University survey finds 32.7% of American adults own firearms — and the demographics are more diverse than most people assume.",
+    metaDescription: "A new Georgetown University survey finds 32.7% of American adults own firearms — and the demographics are more diverse than most people assume.",
+    category: "Industry Data",
+    categorySlug: "industry-data",
+    publishedAt: "2026-09-08",
+    readTime: "4 min read",
+    content: `The 2026 National Firearms Survey, conducted by Dr. William English of Georgetown University, provides the most comprehensive recent snapshot of firearm ownership in the United States. The topline finding — 32.7% of American adults, approximately 88 million people, own firearms — confirms that gun ownership remains one of the most widespread civilian activities in the country. But the more revealing findings are in the demographic detail.
+
+## Who owns firearms in 2026
+
+The survey documents a continuing diversification of the gun-owning population. Firearm ownership has increased significantly among racial minorities, women, and younger adults over the past several years — a trend that accelerated during the pandemic-era surge of 2020-2021 and has continued since.
+
+This finding has implications beyond demographics. A more diverse gun-owning population changes the political dynamics around firearms policy, affects what products manufacturers develop and dealers stock, and shifts who walks into a gun shop or range for the first time. Dealers and ranges that still design their business around a narrow demographic profile are increasingly misaligned with their actual and potential customer base.
+
+## Defensive gun use
+
+The survey's data on defensive gun use has generated the most discussion. The research found that defensive gun uses — instances where a firearm owner used or displayed a firearm in a defensive context — occur far more frequently than many policy analyses have assumed. The specific frequency estimates are debated methodologically (survey-based DGU estimates have been contested in the academic literature for decades), but the direction is consistent with prior research: defensive uses substantially outnumber criminal uses in the survey data.
+
+For gun owners, this data point reinforces what many consider the primary reason for ownership. For the broader policy discussion, it complicates narratives that focus exclusively on firearms as sources of harm without accounting for defensive utility. Regardless of where one falls on that spectrum, the data exists and is worth understanding on its own terms.
+
+## Common use and constitutional implications
+
+The survey's finding that approximately 40 million AR-15 platform rifles are in private hands in the United States has direct legal significance. The Supreme Court's test in District of Columbia v. Heller (2008) asks whether a type of arm is "in common use" for lawful purposes — a standard that subsequent decisions, including New York State Rifle & Pistol Association v. Bruen (2022), have reinforced as central to Second Amendment analysis.
+
+Forty million units in private hands is unambiguously "common use" by any numerical standard, which is why this data point has appeared in federal court filings challenging state-level restrictions on AR-15 platform rifles and similar firearms. The Firearms Policy Coalition, in a September 2026 brief to the Supreme Court seeking to end state-level assault weapon bans, cited exactly this figure.
+
+## What the survey means for gun owners
+
+For individual gun owners, the survey provides useful context for conversations that often lack it. It quantifies the scale and diversity of ownership, provides data on defensive use, and establishes the factual foundation for legal arguments about common use. None of it tells you what to buy, how to store it, or what laws apply in your state — but it provides the statistical landscape within which those individual decisions are made.
+
+For dealers and ranges, the data underscores an ongoing shift: the customer base is broadening, and businesses that adapt their product offerings, training programs, and marketing to reflect the actual demographics of gun ownership — rather than the demographics of gun ownership twenty years ago — are better positioned for the market as it exists.
+
+## The bottom line
+
+The 2026 National Firearms Survey confirms that gun ownership in the United States is broad, growing, and diversifying. The 88 million figure establishes scale. The demographic detail establishes breadth. And the common-use data provides the factual foundation for legal challenges to restrictions on widely owned firearm types. The data is useful regardless of one's policy position — it describes what is, not what ought to be.`,
+  },
+
+  {
+    slug: "virginia-ar15-sales-ban-2026",
+    title: "Virginia's Semi-Auto Sales Ban Takes Effect: What Gun Owners Need to Know",
+    excerpt: "Virginia's ban on the sale of certain semi-automatic firearms took effect July 1, 2026. Here's what's actually prohibited, what's exempt, and what the enforcement picture looks like.",
+    metaDescription: "Virginia's ban on the sale of certain semi-automatic firearms took effect July 1, 2026. Here's what's actually prohibited, what's exempt, and what the enforcement picture looks like.",
+    category: "State Laws",
+    categorySlug: "state-laws",
+    publishedAt: "2026-09-08",
+    readTime: "4 min read",
+    content: `On July 1, 2026, Virginia's ban on the sale of specified semi-automatic firearms took effect, making the Commonwealth one of a small number of states to enact such restrictions. The law prohibits the sale, transfer, and manufacture of certain semi-automatic firearms within Virginia — but not possession. Virginians who already own affected firearms may keep them.
+
+The law's practical impact is shaped by two unusual features: its scope, which targets specific configurations rather than broad categories, and the enforcement landscape, which has fractured along jurisdictional lines.
+
+## What the law covers
+
+Virginia's ban applies to the sale and transfer of semi-automatic center-fire rifles and pistols that can accept detachable magazines and have one or more specified features — a structure modeled on similar laws in California, New York, and other states. The specified features include threaded barrels, folding or telescoping stocks, pistol grips on rifles, and similar configuration elements.
+
+The critical detail is in the feature test. A semi-automatic rifle that accepts detachable magazines but has none of the specified features is not covered. A rifle with a fixed magazine is not covered. Bolt-action, lever-action, and pump-action firearms of any configuration are not covered. The law targets a specific intersection of action type, magazine type, and physical features — and the boundaries of that intersection matter for determining which products are affected.
+
+Manufacturers and dealers have responded by offering compliant configurations of popular platforms — featureless builds that accept detachable magazines but lack the specified features, or fixed-magazine configurations that render the feature test moot. Whether this approach satisfies the law's intent or merely its letter is a question that will likely be addressed through enforcement and litigation.
+
+## The enforcement fracture
+
+In the period before the law took effect, at least 14 commonwealth's attorneys publicly stated they would not enforce it. Their objections range from constitutional concerns to resource allocation to disagreement with the law's policy objectives. This creates a geographic patchwork within the state where the same conduct may be prosecuted in one jurisdiction and ignored in another.
+
+For gun owners and FFLs, this creates genuine uncertainty. A dealer in a jurisdiction whose commonwealth's attorney has declined to enforce the ban faces a different practical risk profile than a dealer in a jurisdiction that intends to prosecute. But the law is the law statewide — a commonwealth's attorney's exercise of prosecutorial discretion does not change the statutory prohibition or create a legal safe harbor.
+
+Virginia gun sales more than doubled year-over-year in May 2026 as buyers purchased affected firearms before the July 1 effective date. That demand surge reflects both the law's direct impact on availability and the broader uncertainty about future restrictions.
+
+## Legal challenges
+
+The law is expected to face Second Amendment challenges under the framework established by Bruen. The question of whether a state can constitutionally prohibit the sale of firearms that are in common use — and AR-15 platform rifles are unambiguously in common use per the 2026 National Firearms Survey's finding of approximately 40 million in private hands — is one of the defining legal questions in firearms law right now. The Firearms Policy Coalition's September 2026 Supreme Court brief on assault weapon bans directly addresses this question, and Virginia's law may become part of the litigation landscape.
+
+## What Virginia gun owners should know
+
+If you already own an affected firearm, the law does not require you to sell, surrender, or register it. Possession of lawfully owned firearms is not prohibited.
+
+If you're considering purchasing a semi-automatic firearm in Virginia, verify whether the specific configuration is affected by the ban. Consult with your FFL — Virginia dealers have been adjusting their inventory and can tell you which configurations are compliant and which are not.
+
+If you're an FFL in Virginia, the enforcement landscape requires careful attention. Regardless of your local commonwealth's attorney's stated position, the statutory prohibition exists, and enforcement postures can change with personnel. Operating within the law's boundaries — even in a jurisdiction that currently declines to enforce — is the conservative and defensible approach.
+
+## The bottom line
+
+Virginia's semi-auto sales ban is now law, its scope is specific rather than categorical, and its enforcement is fractured rather than uniform. Understanding the exact boundaries of what's prohibited, maintaining compliance regardless of local enforcement posture, and monitoring the legal challenges that will test the law's constitutionality are the practical steps for Virginia gun owners and dealers navigating the new landscape.`,
+  },
+
 ];
 
 export const getPostBySlug = (slug: string): BlogPost | undefined =>
