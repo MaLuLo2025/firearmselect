@@ -988,6 +988,80 @@ export const faqData: FaqEntry[] = [
       { label: "Virginia Gun Laws", href: "/virginia/gun-laws" },
     ],
   },
+
+  // ── Gun Laws / State Laws (weekly cycle 2026-09-14 additions) ──
+  {
+    id: "inherit-firearm-ffl-out-of-state",
+    question: "Do I need an FFL to inherit my father's rifle if he lived out of state?",
+    answer:
+      "Federal law permits direct interstate inheritance transfers without an FFL, but state law can require one. Some states impose their own requirements on any firearm entering the state, regardless of whether it's inherited. The safest default: route the transfer through an FFL in your state. It's $25–$75, generates the paperwork, and eliminates ambiguity. See our [inheritance guide](/blog/how-to-inherit-a-firearm-legally-2026) for the full state-level breakdown.",
+    keywords: ["inheritance", "FFL", "estate", "out of state", "interstate transfer", "executor", "beneficiary"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "How to Inherit a Firearm Legally: Full Guide", href: "/blog/how-to-inherit-a-firearm-legally-2026" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  {
+    id: "nfa-item-death-form5",
+    question: "What happens to a suppressor or short-barreled rifle when the owner dies?",
+    answer:
+      "The item stays in the estate until the ATF approves a Form 5 tax-exempt transfer to the lawful heir. Processing typically takes 6–12 months, during which the executor holds the item — the inheritor cannot legally take possession before approval. The $200 transfer tax is waived under the death exception.",
+    keywords: ["NFA", "suppressor", "short-barreled rifle", "Form 5", "inheritance", "estate", "tax exempt"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "How to Inherit a Firearm Legally: Full Guide", href: "/blog/how-to-inherit-a-firearm-legally-2026" },
+    ],
+  },
+  {
+    id: "magazine-capacity-states-2026",
+    question: "Which states restrict magazine capacity in 2026?",
+    answer:
+      "Twelve states plus DC: California, Colorado (some categories), Connecticut, Delaware, DC, Hawaii, Illinois, Maryland (certain categories), Massachusetts, New Jersey, New York, Oregon, Vermont (long guns only), and Washington. Most set the limit at 10 rounds. Laws and active court injunctions change frequently — always verify the current statute. Our [full magazine capacity guide](/blog/magazine-capacity-limits-by-state-2026) covers grandfather rules and transport specifics.",
+    keywords: ["magazine capacity", "state laws", "restricted states", "2026", "10 round limit", "grandfathered"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Magazine Capacity Limits by State: Full Guide", href: "/blog/magazine-capacity-limits-by-state-2026" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  {
+    id: "federal-safe-passage-magazines",
+    question: "Does federal safe-passage law cover magazines the way it covers firearms?",
+    answer:
+      "Only partially, and less than most travelers assume. 18 U.S.C. § 926A protects transportation of unloaded firearms in locked containers separate from ammunition through restrictive states — but courts have been more restrictive in extending that protection to magazines specifically. Transport prohibited-capacity magazines the same way as the firearm (locked, empty, separate) and minimize stops.",
+    keywords: ["safe passage", "926A", "FOPA", "magazine", "transport", "restrictive state", "travel"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Magazine Capacity Limits by State: Full Guide", href: "/blog/magazine-capacity-limits-by-state-2026" },
+      { label: "Reciprocity & Interstate Travel", href: "/reciprocity" },
+    ],
+  },
+
+  // ── Buying Your First Firearm (weekly cycle 2026-09-14 additions) ──
+  {
+    id: "gunsmith-red-dot-install",
+    question: "Do I need a gunsmith to install a red dot sight on my pistol?",
+    answer:
+      "Usually no, if the pistol has a factory optics cut. Installation requires only a Torx driver, correct thread locker, and a torque specification available from the manufacturer. A gunsmith is needed if the pistol lacks a factory optics cut and needs slide milling. Our [gunsmith guide](/blog/how-to-find-a-good-gunsmith) covers what actually requires a gunsmith versus owner-level work.",
+    keywords: ["gunsmith", "red dot", "optics", "pistol", "install", "slide milling"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "How to Find a Good Gunsmith: Full Guide", href: "/blog/how-to-find-a-good-gunsmith" },
+    ],
+  },
+  {
+    id: "gunsmith-service-costs-2026",
+    question: "How much should basic gunsmith services cost in 2026?",
+    answer:
+      "Rough guidance: sight installation, $40–$80; 1911 trigger job, $150–$400; barrel threading, $150–$300; Cerakote finish, $200–$500; headspacing, $40–$80. Prices well below these ranges warrant explanation.",
+    keywords: ["gunsmith", "cost", "price", "2026", "trigger job", "cerakote", "headspacing"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "How to Find a Good Gunsmith: Full Guide", href: "/blog/how-to-find-a-good-gunsmith" },
+      { label: "Find Local Dealers", href: "/dealers" },
+    ],
+  },
 ];
 
 export function getFaqsByCategory(category: string): FaqEntry[] {

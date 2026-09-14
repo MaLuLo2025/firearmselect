@@ -3254,6 +3254,356 @@ If you're an FFL in Virginia, the enforcement landscape requires careful attenti
 Virginia's semi-auto sales ban is now law, its scope is specific rather than categorical, and its enforcement is fractured rather than uniform. Understanding the exact boundaries of what's prohibited, maintaining compliance regardless of local enforcement posture, and monitoring the legal challenges that will test the law's constitutionality are the practical steps for Virginia gun owners and dealers navigating the new landscape.`,
   },
 
+  {
+    slug: "how-to-inherit-a-firearm-legally-2026",
+    title: "How to Inherit a Firearm Legally: A 2026 Guide for Executors and Beneficiaries",
+    excerpt: "Federal law permits direct interstate inheritance without an FFL — but state law often requires one, and NFA items follow their own six-to-twelve-month Form 5 process. A plain-language guide to the estate transfer rules that keep executors and heirs on the right side of the law.",
+    metaDescription: "A 2026 guide to inheriting firearms across state lines: direct-transfer rules by state, Form 5 tax-exempt NFA transfers, prohibited-person handling, and when a gun trust prevents the mess entirely.",
+    category: "Legal Guides",
+    categorySlug: "legal-guides",
+    publishedAt: "2026-09-14",
+    readTime: "9 min read",
+    content: `Your father's gun cabinet has three rifles, a shotgun, a couple of handguns, and — in the safe underneath — a suppressor and a short-barreled rifle he registered in the 1990s. He lived in Wyoming. You live in New Jersey. He passed last month, and the estate attorney has just asked you what you'd like to do with the firearms.
+
+The wrong answer is "have them shipped to me and figure it out." Depending on which items are in that cabinet, "figuring it out" as a New Jersey resident can be the difference between a lawful estate transfer and a felony.
+
+This is a plain-language guide to how firearms actually transfer at death. It is general information, not legal advice — the specific rules depend on the type of firearm, the deceased's state, the inheritor's state, and whether the inheritor is legally allowed to possess firearms at all. Get an estate attorney involved before anything crosses a state line.
+
+## The first question: what kind of firearms are in the estate
+
+The rules split cleanly into two categories, and mixing them up is the most common mistake.
+
+**Title I firearms** are ordinary rifles, shotguns, and handguns. These are what most estates contain.
+
+**Title II / NFA firearms** are the items regulated under the National Firearms Act — suppressors (silencers), short-barreled rifles, short-barreled shotguns, machine guns, destructive devices, and "any other weapons" (AOWs). These have their own registration with the ATF and their own transfer process. Every NFA item in the estate has a registration document (Form 1 or Form 4) tied to it. If you can't find the paperwork, the item is a problem before it's an asset.
+
+## Title I firearms: the interstate transfer rules
+
+The federal rule under [18 U.S.C. § 922(a)(3)](https://www.law.cornell.edu/uscode/text/18/922) generally prohibits a person from receiving a firearm in interstate commerce. But there's a specific carveout for inheritance: a direct transfer by bequest or intestate succession from a decedent in one state to a beneficiary in another does not require a Federal Firearms License (FFL) at the federal level.
+
+That's the federal rule. State law is the second layer, and often the harder one.
+
+- **Some states permit direct interstate inheritance** with no state paperwork beyond ordinary estate administration.
+- **Some states require the transfer to go through an FFL** in the inheritor's state — meaning the executor ships the firearm to a dealer, the inheritor completes a Form 4473, and a background check is run before pickup.
+- **Some states impose additional restrictions on specific firearms** the inheritor can legally own — assault weapons, magazine capacities, and specific handgun rosters vary. An inherited firearm that is legal in the deceased's state may be prohibited in the inheritor's state, requiring the item to be sold within the state, sold out of state, or turned over to law enforcement.
+
+The correct workflow: identify the inheritor's state, look up that state's inheritance rules for firearms, and determine which items on the list can lawfully be received there. Only then do you make shipping decisions.
+
+## The FFL-transfer default
+
+When in doubt, route the transfer through an FFL in the inheritor's state. It costs $25–$75. It generates a paper trail. It runs a background check on the inheritor. It confirms the inheritor is not a prohibited person under federal law. For most estates in most situations, this is the cheapest form of legal insurance available.
+
+The exception is the very small subset of intrastate transfers where the deceased and the inheritor lived in the same state, and the state permits direct family transfer without an FFL. Even then, a written bill of sale or transfer document signed by the executor is worth having.
+
+## NFA items: Form 5, tax-free, but slow
+
+Suppressors, short-barreled rifles, short-barreled shotguns, machine guns, and other NFA items transfer to a lawful heir on an ATF Form 5 (Application for Tax-Exempt Transfer). This is different from every other NFA transfer in one important way: the transfer tax (normally $200) is waived when the transfer is to a lawful heir under a will or intestate succession.
+
+The process:
+
+1. The executor identifies each NFA item and locates its existing Form 1 or Form 4 registration.
+2. The executor files a Form 5 with the ATF for each item, naming the inheritor as the transferee.
+3. The item stays in the estate — the executor holds it, and the inheritor cannot take possession — until the ATF approves the Form 5.
+4. Processing typically takes 6–12 months.
+5. Once approved, the inheritor is the new registered owner.
+
+If the estate needs to distribute other assets before the Form 5 clears, the NFA item can be handled separately — it doesn't need to hold up the rest of probate.
+
+## When the inheritor is a prohibited person
+
+If the intended inheritor is legally prohibited from possessing firearms — a felony conviction, an active restraining order, certain other disqualifiers — the firearms cannot be delivered to them, full stop. The estate's options: sell the firearms and distribute the proceeds, transfer them to another eligible heir, donate them to law enforcement, or liquidate through a firearms auction house. An executor who knowingly delivers firearms to a known prohibited person can face federal charges.
+
+## Should you use a gun trust instead?
+
+A gun trust, established before death, holds title to the firearms directly rather than having them pass through the estate. For NFA items specifically, this avoids the Form 5 process entirely at the original owner's death if structured correctly, and can simplify passing the collection to multiple beneficiaries later. The catch: the trust has to exist and hold the firearms before death. You cannot retroactively create a trust to avoid the individual-transfer process for an estate that's already open. What you can do after the fact is create your own gun trust and move the inherited firearms into it — but for NFA items, that's a new Form 4 transfer with its own $200 tax per item, not a shortcut.
+
+## What executors should do first
+
+1. **Inventory every firearm**, separating Title I from NFA items and locating registration paperwork for anything regulated.
+2. **Identify the inheritor's state of residence** and that state's rules on receiving firearms by inheritance.
+3. **Check whether the inheritor is a prohibited person** before making any transfer plans.
+4. **Route Title I transfers through an FFL** in the inheritor's state unless you've confirmed direct transfer is legal and appropriate.
+5. **File Form 5 applications early** for any NFA items — the 6–12 month timeline means this should start as soon as the paperwork is located.
+6. **Consult an estate attorney** familiar with firearms law in both the decedent's and inheritor's states before shipping anything.
+
+## Frequently Asked Questions
+
+### Do I need an FFL to inherit my father's rifle if he lived out of state?
+
+Federal law permits direct interstate inheritance transfers without an FFL, but state law can require one. Some states impose their own requirements on any firearm entering the state, regardless of whether it's inherited. The safest default: route the transfer through an FFL in your state. It's $25–$75, generates the paperwork, and eliminates ambiguity.
+
+### What happens to a suppressor or short-barreled rifle when the owner dies?
+
+The item stays in the estate until the ATF approves a Form 5 tax-exempt transfer to the lawful heir. Processing typically takes 6–12 months. During that time, the executor holds the item in the estate — the inheritor cannot legally take possession before approval. Once approved, the inheritor is the new registered owner, and the $200 transfer tax is waived because of the death exception.
+
+### What if the inheritor is a prohibited person and can't own firearms?
+
+The firearms can't be delivered to them. The estate can sell the firearms and distribute the proceeds, transfer them to another eligible heir, donate them to law enforcement, or liquidate through a firearms auction house. Attempting to deliver to a known prohibited person can expose the executor to federal charges.
+
+### Can I keep my dad's collection intact by putting it in a trust after he dies?
+
+Not through the estate — a trust has to exist and hold the firearms before death to avoid the individual-transfer process. What you can do after death is establish your own gun trust and then transfer the inherited firearms into it. For NFA items, that requires a new Form 4 transfer with the $200 tax per item, so it's not a workaround for the estate transfer itself.
+
+### Do I need to notify anyone when I inherit ordinary rifles or shotguns?
+
+Federal law doesn't require notification. State laws vary — some states with permit-to-purchase requirements or registration systems require the inheritor to update state records. Check your state's rules before assuming no notification is needed.
+
+---
+
+*This article is general information only and does not constitute legal advice. Estate transfers involving firearms — particularly NFA items or transfers across state lines — should be handled with a qualified estate attorney who understands your state's specific rules.*`,
+  },
+
+  {
+    slug: "how-to-find-a-good-gunsmith",
+    title: "How to Find a Good Gunsmith (And Avoid the Backyard Ones)",
+    excerpt: "What actually requires a gunsmith versus what you can do yourself, the FFL question most owners misunderstand, seven questions to ask before handing over a firearm, and the red flags that end the conversation.",
+    metaDescription: "A practical guide to finding a real gunsmith: what work actually needs one, the FFL rules that separate legitimate shops from backyard operators, seven vetting questions, and cost expectations for common services.",
+    category: "Buying Guides",
+    categorySlug: "buying-guides",
+    publishedAt: "2026-09-14",
+    readTime: "9 min read",
+    content: `There's a specific kind of horror story that circulates in every online firearms community: someone drops off a rifle for a "quick trigger job," never hears back for four months, finally gets it home and finds the internals have been mangled, and discovers the guy operating out of his garage doesn't carry insurance and doesn't answer phone calls. Sometimes the firearm is gone entirely.
+
+Real gunsmiths still exist, and they're worth what they charge. Backyard gunsmiths — who often aren't gunsmiths at all — cost far more than they save. This guide covers how to tell the difference before you hand over a firearm, and what actually requires a gunsmith versus what you can competently handle yourself.
+
+## What actually requires a gunsmith
+
+Not everything sold as "gunsmithing" needs a trained gunsmith. Knowing the split saves money and prevents unnecessary risk.
+
+**Owner-level tasks (no gunsmith needed):**
+- Basic cleaning, lubrication, and detail-stripping most modern firearms
+- Optics mounting on rails with proper torque values (Torx driver, torque wrench, correct thread locker)
+- Drop-in trigger installations on Glocks, AR-15s, and similar platforms designed for them
+- Sight installation using appropriate sight-pusher tools
+- Sling and accessory attachment
+- Stock and grip changes on modular platforms
+- Magazine spring and follower replacement
+
+**Genuine gunsmith work:**
+- Headspacing a rifle, particularly after barrel replacement
+- Trigger work on firearms without drop-in trigger kits — 1911s, Rugers, bolt-action rifles
+- Barrel threading for suppressor use
+- Chambering, rechambering, and barrel fitting
+- Diagnosing malfunctions the owner can't reproduce or isolate
+- Refinishing (Cerakote, Duracoat, bluing) done properly
+- Custom fitting — trigger jobs on classic revolvers, action tuning on precision rifles, stock inletting
+- Repair or replacement of internal parts on older or discontinued firearms
+- Anything on an NFA item
+
+If a task on the second list is the reason you're looking for help, you need an actual gunsmith. If it's on the first list, watch a manufacturer video, buy the right tool, and do it yourself. A shop that quotes you $80 to install a drop-in trigger you could install in 15 minutes is trading on your uncertainty, not their skill.
+
+## The FFL question — and why it matters
+
+Some gunsmithing work requires the gunsmith to hold a Federal Firearms License. Some doesn't. The line is not always obvious.
+
+- A gunsmith **repairing your firearm and returning it to you** does not need an FFL for the return transfer — you already own the firearm, and the return isn't a new transfer.
+- A gunsmith who **retains possession overnight** for a repair generally doesn't need an FFL for that either, though state law varies.
+- A gunsmith who **holds firearms owned by other people** while working on them at any scale typically does need an FFL — federal law treats this as being "engaged in the business" once it moves beyond casual assistance to friends.
+- A gunsmith performing **manufacturing operations** — barrel threading, chambering, or building AR-15 lowers into complete rifles for sale — needs a Type 07 FFL.
+
+A gunsmith operating out of a residence with no FFL and no visible business structure is a red flag. The gunsmith isn't necessarily doing anything illegal in that moment, but if something goes wrong — the firearm is stolen, damaged, or lost — you have no dealer's insurance to fall back on and no regulatory record of the transaction.
+
+## How to vet a gunsmith before you hand over a firearm
+
+Seven questions to work through, either on the phone or at first visit:
+
+**1. Do you carry business insurance covering firearms in your custody?**
+The right answer is yes, and the gunsmith can name the coverage type. Reputable shops carry commercial general liability plus specific firearm-inventory coverage. If your $2,500 rifle is stolen during a shop burglary, insurance is what makes you whole.
+
+**2. Do you provide a written estimate before starting work?**
+The right answer is yes. A written estimate with parts, labor, and expected turnaround protects both parties. "We'll figure it out when it's done" is the beginning of most gunsmith horror stories.
+
+**3. What's your realistic turnaround for this specific job?**
+Reputable shops give honest turnaround estimates — often longer than you want to hear. A trigger job that's genuinely backed up 12 weeks isn't a bad gunsmith; it's an honest one. A shop that promises next-week turnaround on complex work and then holds the firearm for six months has a business problem you're paying for.
+
+**4. Can I see examples of your previous work in this specific area?**
+Photos, physical samples, or a customer reference on the same type of work. Someone who does excellent AR-15 work may have never touched a Colt Python; a smith who does beautiful revolver actions may not touch semiautos. Match the shop to the job.
+
+**5. What's your policy if I'm not satisfied with the finished work?**
+The correct answer is a specific policy — a rework guarantee, a defined refund policy, or a documented complaint process. "You'll be happy with it" is not a policy.
+
+**6. Are you licensed as a Type 01 FFL or Type 07 depending on what you do?**
+Not every task requires an FFL, but a gunsmith who does volume work should hold one. A gunsmith without an FFL who takes in dozens of firearms per month should raise questions.
+
+**7. Can I get a written work order with itemized costs, my name, the firearm's serial number, and your business information — with a copy for me?**
+This isn't optional. If the shop resists paperwork, don't leave the firearm.
+
+## Red flags that end the conversation
+
+- No physical business location; strictly a residence with no signage
+- Won't provide business name, license number, or insurance information in writing
+- Cash only, with no receipt
+- Takes possession of the firearm indefinitely without a written work order
+- Refuses to give an estimate before work begins
+- Promises to do work that requires an FFL when they don't hold one (barrel threading for a suppressor is the most common example)
+- Prior customer complaints reference lost firearms, damaged internals, or unreachable communication
+- Pressures you to authorize additional work not on the original estimate without a revised written estimate
+
+Any one of these is disqualifying. Two or more, and you're looking at the setup for a bad outcome.
+
+## Finding a good gunsmith
+
+Referrals from local firearms instructors, competitive shooters, and long-time range members are the most reliable source. Your local range likely has a list of gunsmiths that customers actually use — as opposed to a list of anyone with a business card. Manufacturer-authorized gunsmith networks (Ruger, Ruger, Sig, and many others maintain them) filter for factory-trained work on their own products.
+
+Online forums specific to your firearm type are useful for reputation checks — someone who has botched work in your area will have complaints on record. Google reviews are less reliable but worth a scan.
+
+If you're within reasonable driving distance of a well-regarded independent shop, driving further to a known-good gunsmith is almost always worth it over dropping off with someone local you can't verify.
+
+## Frequently Asked Questions
+
+### Do I need a gunsmith to install a red dot sight on my pistol?
+
+Usually no, if the pistol has a factory optics cut. Modern optics-ready pistols use standard plate systems (Trijicon RMR footprint, Aimpoint ACRO, Docter, and others), and installation requires only a Torx driver, correct thread locker (blue Loctite for most applications), and a torque specification available from the manufacturer. A gunsmith is needed if the pistol lacks a factory optics cut and needs slide milling.
+
+### How much should basic gunsmith services cost?
+
+Rough guidance for common work in 2026: sight installation with pusher tool, $40–$80; trigger job on a 1911, $150–$400 depending on the work; barrel threading, $150–$300; Cerakote on a complete firearm, $200–$500 depending on complexity; headspacing, $40–$80. Custom or precision work runs significantly higher. Prices well below these ranges warrant explanation; prices well above should be justified by the gunsmith's specific expertise.
+
+### How long should I expect a gunsmith to keep my firearm?
+
+Depends heavily on the work and shop backlog. Sight installation is often same-day if scheduled. A trigger job might be 2–6 weeks. Complex custom work — a full precision rifle build, extensive refinishing — can run 3–6 months. What matters is honest estimation upfront and periodic updates, not the specific number. A shop that gives a 2-week estimate and takes 4 months without communication is not a shop to use again.
+
+### Should I use a factory-authorized gunsmith or an independent?
+
+Factory-authorized work is often the right choice for warranty repairs, proprietary parts, and specific manufacturer training. Independent gunsmiths are frequently better for custom work, older firearms, cross-platform expertise, and situations where factory turnaround is unacceptable. A well-regarded independent gunsmith with experience in your specific platform is often the best of both worlds.
+
+### What if I've already had bad work done and the firearm is damaged?
+
+Document the condition immediately — photographs, the original work order, any correspondence. Contact the shop first in writing, requesting either rework or refund. If the shop won't make it right, options include state consumer protection complaints (attorney general or department of consumer affairs), small claims court for repair costs, and — if the firearm was substantially damaged — potentially a civil claim against the shop's insurance. Firearm-specific expert witnesses exist for cases that go to court.
+
+---
+
+*Looking for a gunsmith or a shop that offers gunsmithing services? Browse our verified directory to find dealers by location, service, and specialty.*`,
+  },
+
+  {
+    slug: "magazine-capacity-limits-by-state-2026",
+    title: "Magazine Capacity Limits by State: A 2026 Guide for Travelers, Movers, and Owners",
+    excerpt: "Twelve states plus DC restrict magazine capacity — and federal safe-passage law protects less than most travelers think. A state-by-state 2026 breakdown of restrictions, grandfathering rules, and the transport traps that turn legal magazines into felony contraband at the state line.",
+    metaDescription: "2026 state-by-state guide to magazine capacity restrictions: which 12 states plus DC restrict them, why federal safe-passage law only partially protects travelers, and what to do before you move.",
+    category: "State Laws",
+    categorySlug: "state-laws",
+    publishedAt: "2026-09-14",
+    readTime: "9 min read",
+    content: `Magazine capacity restrictions are the most quietly enforced firearm laws in the country. Most gun owners understand which states restrict handguns, "assault weapons," and concealed carry permits. Fewer understand which states restrict magazine capacity — and among those, fewer still understand what happens when they travel with, transport through, or move into a restrictive state carrying magazines that were legal where they bought them.
+
+The stakes are real: possessing a standard-capacity magazine in the wrong state can be a felony. Not a fine, not a citation — a felony carrying prison time in several jurisdictions. This guide covers the 2026 landscape, the transport rules, and what changes when you cross a state line.
+
+## The states with magazine capacity restrictions
+
+As of 2026, twelve states plus the District of Columbia impose some form of magazine capacity limit on ordinary rifles and handguns:
+
+**10-round limit:**
+California, Connecticut, Delaware, District of Columbia, Hawaii, Illinois, Maryland (some categories), Massachusetts, New Jersey, New York, Oregon, Vermont (long guns only), Washington
+
+**15-round limit:**
+Colorado (with some categories at 10)
+
+State laws have moved substantially in the past several years, both in the direction of new restrictions and, through federal court rulings, in the direction of striking down existing ones. Illinois' Protect Illinois Communities Act has been the subject of extended Seventh Circuit litigation. California's magazine ban has cycled through Ninth Circuit rulings. Washington and Delaware are newer additions.
+
+The practical implication: always verify current law before traveling with or transporting magazines through any of these jurisdictions. This article reflects the general landscape as of 2026, but statutes and injunctions change.
+
+## Grandfathered vs. prohibited: the two-tier problem
+
+Most magazine restriction laws distinguish between magazines lawfully owned before the effective date (often "grandfathered" and legal to keep) and magazines acquired after (prohibited). This creates a two-tier system that is confusing at the state line and dangerous at the traffic stop.
+
+- **Grandfathered possession** typically means the magazine was owned in-state before the law took effect. Bringing a magazine into the state that would be grandfathered if you'd lived there is not the same thing.
+- **Acquired after the effective date** is generally prohibited regardless of where or when purchased.
+- **Newly moving into the state** with previously legal magazines — some states permit them under grandfather rules, some require registration within a defined window, some require surrender or out-of-state removal.
+
+The consequence: a resident of Nevada with a 30-round AR-15 magazine, who moves to California, does not automatically get grandfathered rights. That magazine may need to be surrendered, sold out of state, permanently modified, or removed from California before the move.
+
+## Traveling through restrictive states — and why safe-passage law doesn't fully protect you
+
+The federal Firearm Owners Protection Act at [18 U.S.C. § 926A](https://www.law.cornell.edu/uscode/text/18/926A) provides limited safe-passage protection for firearms transported through states that would otherwise prohibit their possession. That protection covers the firearm — unloaded, in a locked container, separate from ammunition, being transported between two places where possession is legal.
+
+Critically, § 926A has been read narrowly on magazine capacity. Courts have generally held that:
+
+- The safe-passage protection applies to firearms, not necessarily to their component parts and accessories in the same clean-cut way.
+- A traveler stopped in a restrictive state with prohibited-capacity magazines separate from the firearm may still face state charges on the magazines themselves.
+- The protection requires no unnecessary stops in the restrictive state. Overnight hotel stays, extended detours, and stops at anything other than fuel/food/rest have been used to argue the transport was not truly "in progress."
+
+The practical implication for interstate travel with standard-capacity magazines:
+
+- If your route can avoid restrictive states, avoid them
+- If it can't, transport magazines locked, empty, and separate from the firearm — same treatment as the firearm itself
+- Don't make overnight stops in restrictive states while carrying prohibited-capacity magazines
+- Understand that the safe-passage argument on magazines specifically is weaker than the argument on the firearm itself
+
+## Moving into a restrictive state
+
+The move scenario is where most well-meaning owners get in trouble. A resident of a permissive state accepts a job offer in a restrictive state, packs the moving truck, and doesn't think about the box of AR-15 magazines and Glock 19 magazines in the safe. Then the state DMV registration and mail-forward creates a record of the move, and the magazines are in the wrong state.
+
+Your options before the move:
+
+- **Verify the destination state's grandfather rules** — some permit continued possession of previously acquired magazines by new residents; many do not.
+- **Sell out of state before moving**, either privately in your current state or through a firearms auction house that ships to buyers in other permissive states.
+- **Convert or permanently modify** where the state's statute allows — this is limited and technical; check state guidance.
+- **Store out of state** with a friend or family member in a permissive state, or in a commercial firearms storage facility.
+- **Surrender** to law enforcement in the destination state if the magazines cannot be lawfully brought in.
+
+Waiting until after the move to figure this out is the wrong sequence. The magazines are contraband the moment residence changes, and moving-truck records, utility hookups, and DMV updates all establish that date on paper.
+
+## Handguns, rifles, shotguns, and shotgun tube extensions
+
+Not all magazine capacity restrictions apply uniformly across firearm types. Common variations:
+
+- Some states restrict rifle magazines but not handgun magazines, or vice versa
+- Some states specifically address tube-fed shotgun capacity through separate statutes
+- "Fixed" vs. "detachable" magazine distinctions matter in some states (California's featureless/fixed-magazine builds are one example)
+- Compliance-parts markets exist for restrictive states (10-round Magpul PMAGs, blocked Glock magazines) — but the compliance market for one state is often noncompliant in another
+
+Read the specific statute for the specific firearm you're transporting. Do not assume the rifle rule applies to the handgun rule or vice versa.
+
+## The court rulings that keep changing the landscape
+
+Several federal appellate cases in 2024-2026 have addressed magazine capacity restrictions post-Bruen:
+
+- The Ninth Circuit's *Duncan v. Bonta* proceedings on California's magazine ban have run through multiple opinions and en banc reviews.
+- The Seventh Circuit has reviewed the Illinois Protect Illinois Communities Act, including its magazine limits.
+- Several district courts have entered and lifted preliminary injunctions on state laws pending appeal.
+
+The consequence for owners and travelers: what was blocked six months ago may not be blocked today, and vice versa. Never rely on old news coverage or a friend's understanding of the current state of the law. Check the current statute and any active injunctions before transporting.
+
+## What to do before crossing any restrictive state line
+
+Five concrete steps:
+
+1. **Identify every magazine you're transporting** and its capacity. Standard-capacity for one firearm may be over-capacity for another.
+2. **Check the destination state and every state you'll transit** for current magazine restrictions.
+3. **Locate the specific statute**, not a summary — state legislature websites and state attorney general publications are authoritative.
+4. **Plan the route to avoid restrictive states** where possible. When it's not possible, plan to minimize stops.
+5. **Transport prohibited-capacity magazines the same way you transport the firearm** — unloaded, locked, separated from ammunition — even though the safe-passage law's protection is weaker on magazines.
+
+A traveler who does all five will almost never be the one charged. A traveler who assumes federal law fully protects them across state lines is the one who gets a lesson in state supremacy on possession offenses.
+
+## Frequently Asked Questions
+
+### Which states have magazine capacity limits in 2026?
+
+Twelve states plus the District of Columbia currently impose magazine capacity restrictions on ordinary rifles and handguns: California, Colorado, Connecticut, Delaware, DC, Hawaii, Illinois, Maryland (certain categories), Massachusetts, New Jersey, New York, Oregon, Vermont (long guns only), and Washington. Most set the limit at 10 rounds; Colorado uses 15 for some categories. Laws and active injunctions change — always verify the current statute before relying on this list.
+
+### Does federal safe-passage law protect me if I'm transporting standard-capacity magazines through a restrictive state?
+
+Only partially, and less than most travelers assume. 18 U.S.C. § 926A protects transportation of an unloaded firearm in a locked container, separate from ammunition, through a restrictive state — but courts have been more restrictive in extending that protection to magazines separately from the firearm. Travelers stopped with prohibited-capacity magazines in transit have faced state charges. Transport magazines the same way you transport the firearm, and minimize any stops.
+
+### What happens if I move to California with 30-round AR-15 magazines that were legal in my old state?
+
+Those magazines are generally prohibited to possess in California under the state's magazine ban, and moving into the state does not create a grandfather right — the grandfather rights typically apply only to magazines owned in California before the effective date. Before the move: sell out of state, permanently modify where the statute permits, store with a friend or family member in a permissive state, or surrender to law enforcement in California. Bringing them in and then figuring it out is contraband possession.
+
+### Are 10-round or reduced-capacity magazines legal to buy nationally?
+
+Yes. Compliance-market magazines (10-round PMAGs, blocked or pinned magazines) are sold nationally and are legal in every state that restricts capacity. A traveler moving between a permissive and a restrictive state can maintain compliant magazines specifically for use in the restrictive state.
+
+### If I'm moving out of a restrictive state, can I take my grandfathered magazines with me?
+
+Once you cross into a permissive state, the destination state's law governs. Grandfathered magazines you owned lawfully in-state generally become fully legal in a permissive destination state. The restrictive-state grandfather status becomes irrelevant once you're no longer subject to that state's law. Sale, purchase, and possession are then governed by the new state's rules.
+
+---
+
+*This article is general information only, not legal advice. Firearm and magazine laws change frequently and vary by jurisdiction. Before transporting firearms or magazines across state lines, verify current law with the destination state's attorney general or a licensed attorney.*`,
+  },
+
 ];
 
 const slugs = blogPosts.map((p) => p.slug);
