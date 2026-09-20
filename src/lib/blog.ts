@@ -2226,8 +2226,6 @@ Used handguns from reputable dealers are usually a good value. Modern handguns a
 
 This article cuts through the marketing to explain what these programs actually are, what they typically cover, where the gaps are, and what distinguishes one provider from another.
 
----
-
 ## What These Programs Actually Are
 
 Despite being called "insurance," most self-defense legal protection plans are not insurance in the regulatory sense. Most are membership organizations or service contracts that provide legal representation, bail funding, and related services as a benefit of membership. A smaller number operate as true insurance products licensed in the states where they sell.
@@ -2238,8 +2236,6 @@ The distinction matters because:
 - True insurance products are subject to state regulation, which provides some protection against adverse changes to terms
 
 The practical implication: read the actual contract, not the marketing summary.
-
----
 
 ## What Typical Plans Cover
 
@@ -2257,8 +2253,6 @@ Most plans from established providers include some combination of:
 
 **Incident-related expenses.** Lost wages from missed work, firearm replacement if your firearm is confiscated, psychological counseling. These vary considerably by plan.
 
----
-
 ## Critical Coverage Distinctions
 
 **Upfront payment vs. reimbursement.** Some plans pay your attorney directly and in advance — they advance funds as your case proceeds. Others reimburse you after the fact. The difference matters: many criminal defense attorneys require retainers upfront and won't work on a reimbursement model. Confirm before you rely on a plan.
@@ -2273,8 +2267,6 @@ Most plans from established providers include some combination of:
 
 **Constitutional carry states.** If you carry without a permit under your state's constitutional carry law, confirm that the plan covers you without a permit. Some plans at lower tiers require a valid carry permit to be in effect.
 
----
-
 ## Current Major Providers (Mid-2026)
 
 The landscape has shifted. Recent changes include:
@@ -2286,8 +2278,6 @@ The landscape has shifted. Recent changes include:
 
 Costs run roughly $11 to $60 per month depending on provider and tier. Price shouldn't be the primary filter — coverage terms matter more. A $15/month plan with reimbursement-only and caps may not help you when it matters.
 
----
-
 ## What These Plans Don't Cover
 
 Read exclusions carefully. Common exclusions include:
@@ -2297,8 +2287,6 @@ Read exclusions carefully. Common exclusions include:
 - Incidents in locations where carry is prohibited (bars, government buildings, etc.)
 - Criminal acts beyond self-defense framing (if a prosecutor succeeds in arguing the use of force wasn't justified, some plans may not continue defending)
 - Improper storage situations that led to a prohibited person accessing the firearm
-
----
 
 ## The Decision Framework
 
@@ -2321,8 +2309,6 @@ Whatever you choose, verify the plan with the provider directly, read the contra
 
 This guide covers the three most common categories a first-time rifle buyer typically considers, with honest trade-offs for each.
 
----
-
 ## Before Picking a Platform: What's the Primary Use?
 
 Answer this before reading further. It determines almost everything.
@@ -2333,8 +2319,6 @@ Answer this before reading further. It determines almost everything.
 - **Competitive shooting:** Depends entirely on the competition format
 
 No single platform is optimal for all uses. Someone who primarily hunts whitetail in wooded terrain and occasionally wants a range gun has different needs than someone buying purely for home defense.
-
----
 
 ## AR-15 / Modern Sporting Rifle
 
@@ -2356,8 +2340,6 @@ The AR-15 is the best-selling rifle platform in the United States and for most p
 
 **Who it fits:** First-time rifle buyers who want a general-purpose platform, plan to use it for home defense, live in a state without semi-automatic restrictions, and want to invest in a platform with a long useful life and strong resale value.
 
----
-
 ## Bolt-Action Rifle
 
 The bolt-action requires the shooter to manually cycle the action after each shot — lift the bolt handle, pull it back, push it forward, push the handle down. This is slower than semi-automatic but has distinct advantages.
@@ -2377,8 +2359,6 @@ The bolt-action requires the shooter to manually cycle the action after each sho
 **Who it fits:** Hunters, especially those pursuing medium to large game where caliber selection matters. Buyers who prioritize precision shooting and accuracy development. Those in states with semi-automatic restrictions. Buyers who want a simple, reliable, no-fuss platform.
 
 Entry-level bolt-actions in strong calibers are available from Ruger, Savage, Mossberg, and others at relatively accessible price points. A Ruger American or Savage Axis in .308 or 6.5 Creedmoor is a capable hunting and target rifle that won't break the budget.
-
----
 
 ## Lever-Action Rifle
 
@@ -2401,8 +2381,6 @@ Lever-action rifles occupy a specific and somewhat underrated niche. The lever m
 **Who it fits:** Buyers in restrictive states. Those who want to pair a rifle with a revolver in the same caliber. Buyers who find the ergonomics and aesthetic appealing. Good option for home defense in areas where AR-format rifles are restricted.
 
 Popular options include the Henry Big Boy and various Winchester and Marlin models. The Henry lineup is particularly worth examining for first-time buyers due to build quality and availability.
-
----
 
 ## The Decision Framework
 
@@ -2730,15 +2708,11 @@ Gun owners who want to understand the law they're operating under need to know w
 
 *This article provides legal information, not legal advice. Laws vary by state and are subject to change and constitutional challenge.*
 
----
-
 ## What an ERPO Is
 
 An Extreme Risk Protection Order is a court order that temporarily prohibits a specific person from possessing firearms, and may require the surrender of any firearms currently in their possession, when a court finds they pose a significant risk of harm to themselves or others.
 
 ERPOs are civil court orders, not criminal convictions. This is an important distinction: being subject to an ERPO does not result in a criminal record in the same way a conviction does, though it does result in a firearms prohibition while the order is in effect.
-
----
 
 ## How the Process Works
 
@@ -2754,8 +2728,6 @@ The process varies by state but follows a general structure:
 
 **Duration:** If extended, ERPOs typically last up to one year and can be renewed. They can also be terminated if circumstances change.
 
----
-
 ## Due Process Concerns and Constitutional Status
 
 The ex parte nature of initial ERPO hearings is the primary constitutional concern raised by gun owner organizations. The concern: a court can order seizure of firearms before the gun owner has any opportunity to be heard. The full hearing provides a correction mechanism, but the initial firearms removal can happen with no advance notice.
@@ -2764,19 +2736,13 @@ Courts have addressed this question with varied results. Some have upheld ERPO s
 
 **False petition risk:** Most ERPO statutes include provisions making it a crime to file a knowingly false or malicious petition. Whether these deterrents are adequate is debated; documented cases of ERPOs being misused in domestic disputes and relationship conflicts have raised concerns about abuse of the process.
 
----
-
 ## Firearms Return After an Expired ERPO
 
 When an ERPO expires or is terminated, the respondent's firearms are supposed to be returned. In practice, this can involve delays and complications depending on the state and the agency holding the firearms. Some gun owners who have had ERPOs expire have faced difficulty getting their property returned promptly. If you find yourself in this situation, consulting a firearms attorney is the most efficient path to resolving the return.
 
----
-
 ## Self-Defense Legal Insurance and ERPOs
 
 Some concealed carry insurance providers — including CCW Safe — explicitly include coverage for legal defense against ERPO proceedings. If you carry and are concerned about ERPO exposure, this is a coverage category worth confirming with your provider.
-
----
 
 ## What to Do If You Receive Notice of an ERPO
 
@@ -2798,15 +2764,11 @@ If you receive notice of a temporary ERPO:
     readTime: "6 min read",
     content: `Waiting periods impose a mandatory delay between the time of purchase and when a buyer can take possession of a firearm. If you've been surprised to learn your purchase won't be ready for several days, or if you're planning a purchase in an unfamiliar state, here's what you need to know.
 
----
-
 ## What Waiting Periods Are and Aren't
 
 A waiting period is a statutory delay — the gun has been sold, the background check has been completed or is in progress, and the buyer simply cannot take possession until a set number of days have elapsed.
 
 Waiting periods are often confused with the NICS check delay (a "delay" response from the background check system, which means the FBI needs more time to research a record). These are different things. A background check delay is an uncertainty; a waiting period is a calendar requirement that applies regardless of the check result.
-
----
 
 ## States with Waiting Period Laws (as of Mid-2026)
 
@@ -2826,8 +2788,6 @@ Several other states have more limited waiting period provisions or permit-to-pu
 
 **No federal waiting period:** Federal law does not impose a waiting period. The NICS system allows dealers to transfer after a "proceed" response is received. The three-business-day default provision (the "Charleston Loophole") allows transfer after three business days if the check hasn't returned a response — but this is separate from state-mandated waiting periods.
 
----
-
 ## The Rationale and the Counterarguments
 
 Proponents of waiting periods argue they create a "cooling off" period that may reduce impulsive acts of violence, particularly suicides and domestic violence incidents. Some research supports a modest association between waiting periods and reduced firearm suicide rates.
@@ -2835,8 +2795,6 @@ Proponents of waiting periods argue they create a "cooling off" period that may 
 Critics argue waiting periods primarily burden law-abiding buyers who want firearms for immediate defensive need, are ineffective against criminals who don't purchase through licensed dealers, and constitute an infringement on the right to keep and bear arms — particularly when they delay a legal purchase by someone who doesn't need a "cooling off" period.
 
 Constitutional challenges to waiting periods have generally not succeeded in federal courts under either pre- or post-Bruen frameworks, though challenges continue.
-
----
 
 ## Practical Implications for Buyers
 
@@ -2861,8 +2819,6 @@ Constitutional challenges to waiting periods have generally not succeeded in fed
 
 Reciprocity varies enormously by state and changes over time. Carrying in a state that doesn't honor your permit is a serious crime — potentially a felony — regardless of whether you're a law-abiding permit holder in your home state.
 
----
-
 ## How Reciprocity Works
 
 Reciprocity isn't a federal right. There is no federal concealed carry reciprocity law as of mid-2026 (federal legislation has been proposed repeatedly but not enacted). Each state decides independently which other states' permits it will recognize.
@@ -2875,15 +2831,11 @@ Most states approach this in one of two ways:
 
 The result: the web of reciprocity varies for every home state. A Utah permit is honored in more states than a California permit. A Virginia permit's reciprocity changed when Virginia changed its permit requirements. What was true last year may not be true today.
 
----
-
 ## States with Broad Reciprocity (Generally Recognized by Many States)
 
 Arizona, Utah, Florida, and Virginia permits are among those honored in the most states, historically. This is partly because these states have substantial training requirements or long-standing reciprocity networks.
 
 The Utah permit is particularly popular among out-of-state applicants because Utah offers non-resident permits and the Utah permit has historically had wide recognition nationally. However, availability and specific recognition should be verified currently — not relied on from any information older than a few months.
-
----
 
 ## Restrictive States with Limited Recognition
 
@@ -2900,15 +2852,11 @@ Carrying in any of these states, even with a valid permit from your home state, 
 
 Illinois honors no other states' permits for regular carry. Illinois residents with FOID cards and CCW licenses can carry; visitors with out-of-state permits cannot.
 
----
-
 ## Constitutional Carry States: A Different Situation
 
 Approximately 29 states have enacted some form of constitutional carry — allowing individuals who are otherwise legally permitted to carry a firearm to do so without a permit. In these states, whether your out-of-state permit is "recognized" is a different question than whether you can carry.
 
 Generally: in constitutional carry states, any person who could legally obtain that state's permit may carry without a permit. If you're from another state and you meet the residency, age, and eligibility requirements to carry in that state, you typically may carry without any permit in a constitutional carry state. But the specific legal framework varies by state — some constitutional carry states still technically have a permit recognition framework; others don't.
-
----
 
 ## The Carry Law Applies to Where You Are, Not Where You're From
 
@@ -2920,8 +2868,6 @@ This applies to:
 - **Disclosure obligation:** Whether you must tell a police officer you're carrying when stopped for a traffic violation varies by state.
 
 Know the laws of every state in your route before traveling, not just the destination state.
-
----
 
 ## How to Check Current Reciprocity
 
