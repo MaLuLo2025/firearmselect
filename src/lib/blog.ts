@@ -114,11 +114,7 @@ If you intend to purchase a covered semi-automatic firearm in Colorado, the sequ
 7. Complete ATF Form 4473 and the NICS background check as normal
 8. Complete the purchase
 
-Dealers may not substitute any other document for the official eligibility card. Arriving at a dealer without the card for a covered firearm will result in the transaction not proceeding.
-
----
-
-**Legal Disclaimer:** This article is for general informational purposes only and does not constitute legal advice. Firearms laws are subject to change, and the specifics of Colorado's 2026 semi-automatic purchase requirements may be amended, interpreted by courts, or clarified by regulatory guidance after the publication date of this article. Consult a licensed attorney familiar with Colorado firearms law before making any purchasing decisions. FirearmSelect does not provide legal counsel.`,
+Dealers may not substitute any other document for the official eligibility card. Arriving at a dealer without the card for a covered firearm will result in the transaction not proceeding.`,
   },
   {
     slug: "concealed-carry-reciprocity-states",
@@ -215,11 +211,7 @@ Maintaining multiple permits requires tracking renewal dates, fees, and any trai
 
 State preemption laws in many states prohibit local governments (cities, counties) from enacting stricter firearms ordinances than state law. However, preemption is not universal, and certain places are typically off-limits for carry regardless of state law — courthouses, federal buildings, schools, and other restricted locations.
 
-Even in states with strong preemption, federal property within a state follows federal law. Carrying on federal property is governed by federal statute, not state reciprocity agreements.
-
----
-
-**Legal Disclaimer:** This article is for general informational purposes only and does not constitute legal advice. Concealed carry laws, reciprocity agreements, and state-specific restrictions change frequently. The information above reflects general principles and is not a substitute for consulting a licensed attorney familiar with firearms law in each state you plan to travel through or to. Carrying a firearm illegally — including in a non-reciprocal state — can result in serious criminal charges. Always verify current law before travel. FirearmSelect does not provide legal counsel.`,
+Even in states with strong preemption, federal property within a state follows federal law. Carrying on federal property is governed by federal statute, not state reciprocity agreements.`,
   },
   {
     slug: "how-to-choose-firearms-instructor",
@@ -317,11 +309,7 @@ These are different disciplines with different instructors and different purpose
 
 **Defensive shooting instruction** covers marksmanship under pressure, drawing from a holster, shooting on the move, low-light scenarios, malfunction clearing, and decision-making. These courses require baseline competency with the firearm before enrollment. An instructor running a defensive shooting course should be vetted more rigorously than one running a basic safety course.
 
-Understand which type of course you are seeking before you search for an instructor. The credential and experience requirements differ.
-
----
-
-**Legal Disclaimer:** This article is for general informational purposes only and does not constitute legal advice or professional training advice. Individual instructor quality varies. FirearmSelect does not endorse, certify, or verify any specific instructor or training program. Verify instructor credentials directly with the issuing organization before booking any course.`,
+Understand which type of course you are seeking before you search for an instructor. The credential and experience requirements differ.`,
   },
   {
     slug: "castle-doctrine-stand-your-ground",
@@ -405,11 +393,7 @@ If you carry concealed and travel across state lines, you move between different
 
 In a duty-to-retreat state, prosecutors may argue that a concealed carrier who could have retreated safely had an obligation to do so before using force. Whether that argument succeeds depends on the specific facts, but the legal exposure is real.
 
-This is one more reason to research the laws of every state you enter when carrying, not just your home state.
-
----
-
-**Legal Disclaimer:** This article is for general informational purposes only and does not constitute legal advice. Self-defense law is highly fact-specific, varies by state, and is interpreted differently by courts across jurisdictions. The legal outcome of any use-of-force incident depends on the specific circumstances, applicable state law at the time of the incident, and the judgment of law enforcement, prosecutors, and courts. Consult a licensed attorney familiar with the self-defense laws of your state before making decisions about use of force. FirearmSelect does not provide legal counsel.`,
+This is one more reason to research the laws of every state you enter when carrying, not just your home state.`,
   },
   {
     slug: "buying-gun-at-gun-show",
@@ -499,11 +483,7 @@ The most straightforward benefit of a gun show for buyers — particularly buyer
 
 Comparing the grip geometry of different handguns, evaluating the trigger reach on multiple pistols, or handling long guns in different stock configurations before committing to a purchase is a genuine advantage. Brick-and-mortar stores carry limited inventory, and online purchases eliminate the ability to handle a firearm before buying.
 
-If you are early in the evaluation process and want to narrow your options before buying, spending time at a gun show to handle inventory from multiple dealers can be a productive step — even if you ultimately make your purchase elsewhere.
-
----
-
-**Legal Disclaimer:** This article is for general informational purposes only and does not constitute legal advice. Federal and state firearms laws governing private sales, background checks, and dealer requirements change over time and vary by state. The information above reflects general principles as of the publication date and may not account for state-level variations in your jurisdiction. Consult a licensed attorney familiar with your state's firearms laws before completing any transaction if you have questions about legal requirements. FirearmSelect does not provide legal counsel.`,
+If you are early in the evaluation process and want to narrow your options before buying, spending time at a gun show to handle inventory from multiple dealers can be a productive step — even if you ultimately make your purchase elsewhere.`,
   },
   {
     slug: "women-firearms-guide",
@@ -597,11 +577,7 @@ When evaluating an instructor for carry-focused training:
 - Ask whether their curriculum addresses holster selection and clothing compatibility for women
 - Look for instructors who are themselves women or who have trained with female-focused programs (organizations like A Girl and a Gun and Well Armed Woman have instructor networks)
 
-A technically competent instructor who has never considered female carry geometry may still provide excellent fundamentals instruction. The curriculum question is about whether the carry-specific content addresses your actual situation.
-
----
-
-**Legal Disclaimer:** This article is for general informational purposes only and does not constitute legal advice or professional training advice. Firearm selection and carry decisions involve legal, safety, and personal factors specific to each individual's situation. Consult applicable state and local laws regarding concealed carry before purchasing or carrying a firearm. FirearmSelect does not endorse any specific brand, model, or training program. Seek instruction from a qualified instructor before carrying a firearm for self-defense.`,
+A technically competent instructor who has never considered female carry geometry may still provide excellent fundamentals instruction. The curriculum question is about whether the carry-specific content addresses your actual situation.`,
   },
   {
     slug: "flying-with-firearms-tsa-rules",
@@ -1853,11 +1829,7 @@ Non-resident permits from Florida, Utah, and Arizona are honored by the most sta
 
 ### Is there a federal concealed carry reciprocity law?
 
-No. A federal reciprocity bill has passed the U.S. House of Representatives multiple times but has not become law. As of 2026, reciprocity remains entirely a matter of state agreements and unilateral state recognition.
-
----
-
-*This article is for informational purposes only and does not constitute legal advice. Firearm laws change frequently. Before carrying a firearm across state lines, verify current law directly with the destination state's attorney general or a licensed attorney.*`
+No. A federal reciprocity bill has passed the U.S. House of Representatives multiple times but has not become law. As of 2026, reciprocity remains entirely a matter of state agreements and unilateral state recognition.`
   },
   {
     slug: "what-to-ask-when-buying-your-first-handgun",
@@ -2334,11 +2306,7 @@ Self-defense legal protection is a risk management decision. The question is whe
 
 For regular carriers, most legal and firearms professionals consider some form of coverage a reasonable part of responsible carry. For occasional carriers or those in states with strong self-defense law and minimal civil litigation risk, the calculus is more personal.
 
-Whatever you choose, verify the plan with the provider directly, read the contract, and confirm specifically how the payment model works before you need it.
-
----
-
-*This article is for informational purposes only and does not constitute legal advice. Consult a licensed attorney in your state for guidance on self-defense law and legal protection options.*`
+Whatever you choose, verify the plan with the provider directly, read the contract, and confirm specifically how the payment model works before you need it.`
   },
   {
     slug: "first-rifle-guide",
@@ -2448,11 +2416,7 @@ A simple way to work through this:
 
 **Are you primarily a range shooter?** Any of these platforms can be enjoyable range options. If budget for ammunition is a concern, consider a .22 LR-chambered version for economical practice.
 
-Whatever you decide, buy your first rifle from a licensed FFL dealer who allows you to handle the rifle before purchase. Fit and ergonomics matter — a rifle that doesn't feel comfortable in your hands won't be used effectively.
-
----
-
-*Always comply with state and federal law regarding firearm purchase, ownership, and storage. This article is informational only.*`
+Whatever you decide, buy your first rifle from a licensed FFL dealer who allows you to handle the rifle before purchase. Fit and ergonomics matter — a rifle that doesn't feel comfortable in your hands won't be used effectively.`
   },
   {
     slug: "trigger-upgrades-worth-it",
@@ -2749,11 +2713,7 @@ This creates practical uncertainty: dealers and buyers want to know exactly what
 
 3. **Get current guidance on the OBBBA process.** An NFA-licensed dealer current on ATF guidance will know what the actual process requires as of your purchase date.
 
-4. **Understand wait times.** Even post-OBBBA, there may still be processing time depending on the regulatory framework that's in place at the time of your purchase.
-
----
-
-*This article reflects the status of the OBBBA suppressor provisions as of mid-2026. ATF rulemaking may change the practical implementation. Verify current requirements with a licensed NFA dealer and an attorney before any purchase.*`
+4. **Understand wait times.** Even post-OBBBA, there may still be processing time depending on the regulatory framework that's in place at the time of your purchase.`
   },
   {
     slug: "red-flag-laws-erpos",
@@ -2825,11 +2785,7 @@ If you receive notice of a temporary ERPO:
 1. **Comply with the order.** Violating an ERPO is a criminal offense in every state that has them.
 2. **Retain a firearms attorney immediately.** The full hearing is your opportunity to contest the order, and preparation matters.
 3. **Document your circumstances.** Any evidence relevant to the claimed risk factors — mental health records, witness statements, documentation that the petition is retaliatory or factually incorrect — should be gathered for the hearing.
-4. **Do not contact the petitioner.** Contact between the respondent and petitioner in ERPO cases can create additional legal exposure.
-
----
-
-*This article is for informational purposes only and does not constitute legal advice. ERPO laws vary significantly by state and are subject to ongoing constitutional challenge. Consult a licensed attorney in your state if you face ERPO proceedings.*`,
+4. **Do not contact the petitioner.** Contact between the respondent and petitioner in ERPO cases can create additional legal exposure.`,
   },
   {
     slug: "firearm-waiting-periods",
@@ -2890,11 +2846,7 @@ Constitutional challenges to waiting periods have generally not succeeded in fed
 
 **Out-of-state purchases:** You cannot purchase a handgun from an FFL in another state and take it back to your home state. Handguns must be transferred through an FFL in your state of residence. Long guns from states bordering your home state can be purchased under certain circumstances — check ATF guidance and your state's law.
 
-**Private transfers:** State waiting period laws typically apply to transfers through licensed dealers. Private sales are governed by your state's specific private sale law, which varies.
-
----
-
-*This article provides general information about waiting period laws as of mid-2026. State laws change frequently. Verify current requirements with your state and your dealer before any purchase. This is not legal advice.*`,
+**Private transfers:** State waiting period laws typically apply to transfers through licensed dealers. Private sales are governed by your state's specific private sale law, which varies.`,
   },
   {
     slug: "ccw-reciprocity-guide",
@@ -2979,11 +2931,7 @@ Several resources track current reciprocity:
 - **USACarry.com:** State-by-state carry law summaries and reciprocity tables
 - **State attorney general websites:** Official and authoritative but vary in how current they are
 
-Verify the current status any time you plan to travel. Reciprocity agreements change when states update their laws, and a permit that was recognized last year may not be recognized today.
-
----
-
-*This article is for informational purposes only and does not constitute legal advice. Carry laws change frequently. Always verify current requirements for every state you plan to carry in before travel.*`,
+Verify the current status any time you plan to travel. Reciprocity agreements change when states update their laws, and a permit that was recognized last year may not be recognized today.`,
   },
 
   {
@@ -3346,11 +3294,7 @@ Not through the estate — a trust has to exist and hold the firearms before dea
 
 ### Do I need to notify anyone when I inherit ordinary rifles or shotguns?
 
-Federal law doesn't require notification. State laws vary — some states with permit-to-purchase requirements or registration systems require the inheritor to update state records. Check your state's rules before assuming no notification is needed.
-
----
-
-*This article is general information only and does not constitute legal advice. Estate transfers involving firearms — particularly NFA items or transfers across state lines — should be handled with a qualified estate attorney who understands your state's specific rules.*`,
+Federal law doesn't require notification. State laws vary — some states with permit-to-purchase requirements or registration systems require the inheritor to update state records. Check your state's rules before assuming no notification is needed.`,
   },
 
   {
@@ -3597,11 +3541,7 @@ Yes. Compliance-market magazines (10-round PMAGs, blocked or pinned magazines) a
 
 ### If I'm moving out of a restrictive state, can I take my grandfathered magazines with me?
 
-Once you cross into a permissive state, the destination state's law governs. Grandfathered magazines you owned lawfully in-state generally become fully legal in a permissive destination state. The restrictive-state grandfather status becomes irrelevant once you're no longer subject to that state's law. Sale, purchase, and possession are then governed by the new state's rules.
-
----
-
-*This article is general information only, not legal advice. Firearm and magazine laws change frequently and vary by jurisdiction. Before transporting firearms or magazines across state lines, verify current law with the destination state's attorney general or a licensed attorney.*`,
+Once you cross into a permissive state, the destination state's law governs. Grandfathered magazines you owned lawfully in-state generally become fully legal in a permissive destination state. The restrictive-state grandfather status becomes irrelevant once you're no longer subject to that state's law. Sale, purchase, and possession are then governed by the new state's rules.`,
   },
 
 ];
