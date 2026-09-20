@@ -1912,7 +1912,7 @@ Yes. Federal law requires dealers to refuse sales if they have reasonable cause 
 
 ---
 
-*Ready to find a dealer in your area? Browse our verified dealer directory to see listings filtered by state and city.*`
+*Ready to find a dealer in your area? Browse [our verified dealer directory](/dealers) to see listings filtered by state and city.*`
   },
   {
     slug: "constitutional-carry-states-for-non-residents-2026",
@@ -2032,7 +2032,7 @@ Usually, but not always. Most constitutional carry states allow both open and co
 
 ---
 
-*Planning a trip? Check the state law page for your destination before you pack. Our state-by-state firearm law coverage is updated as statutes change.*`
+*Planning a trip? Check the state law page for your destination before you pack. Our [state-by-state firearm law coverage](/states) is updated as statutes change.*`
   },
   {
     slug: "stand-your-ground-vs-duty-to-retreat",
@@ -3363,7 +3363,7 @@ Document the condition immediately — photographs, the original work order, any
 
 ---
 
-*Looking for a gunsmith or a shop that offers gunsmithing services? Browse our verified directory to find dealers by location, service, and specialty.*`,
+*Looking for a gunsmith or a shop that offers gunsmithing services? Browse [our verified directory](/dealers) to find dealers by location, service, and specialty.*`,
   },
 
   {
