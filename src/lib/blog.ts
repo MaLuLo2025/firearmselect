@@ -2643,6 +2643,8 @@ Here's what actually changed, who it affects, and what remains the same.
 
 *This article provides general legal information, not legal advice. Suppressor laws are complex and vary by state. Consult a licensed attorney for guidance on your specific situation.*
 
+*This article reflects federal law as of mid-2026. Firearms law and ATF policy change frequently — verify current rules with a licensed NFA dealer or a firearms attorney before relying on this information.*
+
 ## Background: How Suppressors Were Regulated Before
 
 Under the National Firearms Act (NFA) of 1934, suppressors (legally called "silencers" in federal code) were classified as Title II firearms. This meant:
@@ -2763,6 +2765,8 @@ If you receive notice of a temporary ERPO:
     publishedAt: "2026-07-14",
     readTime: "6 min read",
     content: `Waiting periods impose a mandatory delay between the time of purchase and when a buyer can take possession of a firearm. If you've been surprised to learn your purchase won't be ready for several days, or if you're planning a purchase in an unfamiliar state, here's what you need to know.
+
+*This article reflects state waiting-period laws as of mid-2026. State laws change — verify current rules with your state's attorney general or a firearms attorney before relying on this information.*
 
 ## What Waiting Periods Are and Aren't
 
