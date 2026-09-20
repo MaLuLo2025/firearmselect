@@ -44,6 +44,7 @@ export interface BlogPost {
   excerpt: string;
   metaDescription?: string;
   category: string;
+  // Only "hunting" is currently load-bearing; other values are display-only.
   categorySlug: string;
   publishedAt: string;
   readTime: string;
