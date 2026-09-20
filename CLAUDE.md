@@ -220,6 +220,8 @@ for the Deployment Gotchas entry below.
 
 ## Deployment Gotchas (Non-Negotiable)
 
+**Pre-deploy / post-deploy check:** FS has already been bitten by silent renderer gaps (`###` and bold rendering as literal text). Run `~/scripts/check-rendered-markdown.sh firearmselect` after deploy to catch renderer regressions (literal `###`, `**bold**`, `1.` etc. showing up in production posts). Exit 0 = clean; non-zero = look before moving on.
+
 ### 2026-03-31 — Deployed hunting section with 13 broken external URLs
 - **What went wrong:** Deployed 10 state hunting pages without verifying any of the 30 external wildlife agency URLs. 13 of them were 404s or redirected to wrong pages.
 - **Root cause:** Skipped the CLAUDE.md verification step ("Never mark a task complete without proof"). Used training data URLs without checking if state agencies had restructured their websites.
