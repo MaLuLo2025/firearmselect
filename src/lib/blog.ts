@@ -3494,6 +3494,396 @@ Yes. Compliance-market magazines (10-round PMAGs, blocked or pinned magazines) a
 Once you cross into a permissive state, the destination state's law governs. Grandfathered magazines you owned lawfully in-state generally become fully legal in a permissive destination state. The restrictive-state grandfather status becomes irrelevant once you're no longer subject to that state's law. Sale, purchase, and possession are then governed by the new state's rules.`,
   },
 
+  {
+    slug: "private-party-firearm-sales-state-laws-2026",
+    title: "Private-Party Firearm Sales: The State Law Overlay Federal Law Doesn't Cover",
+    excerpt: "Federal law is simple; state law is where private-party sales get sellers and buyers in trouble. A state-by-state 2026 guide covering universal-background-check states, permit-to-purchase states, prohibited-person federal liability, and the interstate transfer wall.",
+    metaDescription: "2026 guide to state private-party firearm sale laws: universal background check states, permit-to-purchase requirements, prohibited-person federal liability under 18 U.S.C. § 922(d), and the interstate transfer rules.",
+    category: "State Laws",
+    categorySlug: "state-laws",
+    publishedAt: "2026-09-21",
+    readTime: "9 min read",
+    content: `Federal law's rule on private-party firearm sales is straightforward and, for most gun owners, familiar: a person who is not "engaged in the business" of dealing firearms can sell to another lawful in-state buyer without running a background check or involving a Federal Firearms Licensee. Under [18 U.S.C. § 922(a)(5)](https://www.law.cornell.edu/uscode/text/18/922), interstate private transfers are prohibited without an FFL, but the intrastate transfer between two residents of the same state is a federal matter of essentially no requirements.
+
+That's the federal layer. The state layer is where sellers and buyers get in trouble.
+
+More than 20 states impose their own requirements on private-party firearm transfers — some requiring background checks, some requiring permits, some requiring documented waiting periods, and some prohibiting private sales of certain firearm types entirely. A seller who assumes "federal law says no check needed" and hands a rifle to a stranger at a swap meet in the wrong state has committed a state offense that carries jail time in several jurisdictions.
+
+This guide is general information, not legal advice. State laws change, and specific transaction facts matter. Consult a firearms attorney in the relevant state before conducting any private sale you're unsure about.
+
+## The four categories of state private-sale law
+
+State approaches fall roughly into four buckets:
+
+**Category 1 — Universal background check states.** Every firearm transfer, private or dealer, requires a background check processed through an FFL. Includes California, Colorado, Connecticut, Delaware, Illinois, Maryland (handguns and assault weapons), Massachusetts, Michigan (handguns), Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Virginia, and Washington. The mechanics: seller and buyer meet at an FFL, the FFL processes the transfer as if it were a dealer sale (Form 4473, NICS check), and typically charges a $25–$75 transfer fee.
+
+**Category 2 — Permit-to-purchase states.** Buyers must hold a state-issued permit (often called a Firearm Owner Identification Card or Purchase Permit) before acquiring any firearm, private sale included. Includes Illinois (FOID card), Massachusetts (Firearms Identification Card / License to Carry), New Jersey (Permit to Purchase for handguns; FID for long guns), and several categories in New York. The seller's obligation is to verify the buyer's permit before transfer.
+
+**Category 3 — Documented-transaction states.** No background check required for private sales, but the seller must retain a written record of the transaction, or file a copy with a state agency. Requirements vary — some states require an ATF Form 4473-equivalent; some just require basic identification data.
+
+**Category 4 — Private-sale-legal states.** No state requirements beyond federal law. The seller may transfer to any lawful in-state buyer with no paperwork required. Includes most of the Southeast, Mountain West, and Great Plains states.
+
+Which category any state falls into can change with a single legislative session. Verify the current statute in the specific state where the transfer will occur.
+
+## The prohibited-person problem
+
+Federal law under [18 U.S.C. § 922(d)](https://www.law.cornell.edu/uscode/text/18/922) makes it a federal offense to sell or transfer a firearm to a person you know or have reasonable cause to believe is a prohibited person — even in a private sale in a category 4 state with no background check requirement.
+
+This creates a specific liability for sellers in permissive states: if the buyer turns out to be a prohibited person and uses the firearm to commit a crime, the seller can face federal charges if there was reasonable cause to believe the buyer was prohibited.
+
+The practical implications:
+
+- **Request identification.** A valid state driver's license or ID confirms identity and state of residence (both required for lawful transfer).
+- **Ask directly.** Some sellers use a simple written attestation the buyer signs: "I am legally permitted to possess firearms under federal and state law." Not a perfect defense, but evidence the seller made reasonable inquiry.
+- **Trust your gut.** If something about the transaction feels wrong — cash-only insistence, refusal to show ID, obvious intoxication, statements about intended use — walk away. No sale is worth a federal charge.
+- **Consider running the sale through an FFL voluntarily.** In any state, the seller and buyer can agree to route the transfer through an FFL for a $25–$75 fee. That transfers the background-check obligation to the FFL and gives the seller full legal cover.
+
+## The stolen-firearm reporting layer
+
+Separate from transfer rules: many states require owners to report stolen firearms within a defined window (typically 24–72 hours) after discovery. Failing to report can create civil or criminal liability if the stolen firearm is later used in a crime, particularly if the delay contributed to inability to recover.
+
+For private sellers, this matters two ways:
+
+1. **Before selling:** if the firearm was previously reported stolen (perhaps years ago, then recovered), records should be clean.
+2. **After selling:** keep a record of the transaction — buyer's name, address, ID number, date, firearm serial number. If the firearm is later used in a crime, the record proves the transfer date and buyer identity, transferring investigative interest away from the original owner.
+
+## Interstate private sales — the federal wall
+
+18 U.S.C. § 922(a)(5) prohibits a non-FFL person from transferring a firearm to a resident of another state. This is a federal rule with no state override.
+
+The exception: transfers between the seller and an FFL in the buyer's state. The seller ships the firearm to an FFL near the buyer, the FFL processes the transfer to the buyer with the standard Form 4473 and background check. Interstate long guns are permitted; interstate handguns are also permitted but must go through the buyer's state FFL.
+
+The specific things that are federal crimes:
+
+- Selling a firearm to a person you know or should know lives in another state, without going through an FFL
+- Shipping a handgun to a non-FFL private buyer (regardless of state)
+- Shipping any firearm across state lines without the receiving FFL
+
+Ignorance of the buyer's state of residence is not a defense if a reasonable person would have known. "The guy said he lived in-state" doesn't help if his driver's license, registration, and stated address all show otherwise.
+
+## Practical workflow for a legal private sale
+
+Six steps for sellers, adjusted per state category:
+
+1. **Verify state category.** Look up current requirements for the state where the transfer will occur.
+2. **Verify buyer's state of residence.** Driver's license or state ID. If out-of-state, transaction goes through FFL in buyer's state — no private-party workaround.
+3. **Verify buyer's permit status where required** (Category 2 states).
+4. **Complete background check where required** (Categories 1 and some 3).
+5. **Document the transaction.** Buyer's name, address, ID number, date, firearm make/model/serial. Both parties sign. Both keep a copy.
+6. **Retain records indefinitely.** No federal record-retention requirement on private sellers, but the record protects you if the firearm is later involved in an investigation.
+
+Same six steps for buyers, with one addition: verify the seller is a lawful owner and the firearm is not reported stolen (most states have a way to check via local law enforcement).
+
+## Frequently Asked Questions
+
+### Do I need a background check to sell my rifle to a friend in the same state?
+
+Depends on the state. In roughly 17 states plus DC, private sales require a background check processed through an FFL — same as a dealer sale. In the remaining states, private sales between residents of the same state don't require a check under state law (federal law also doesn't require one for private intrastate sales). Verify current law in the specific state.
+
+### Can I sell a firearm to someone in another state without an FFL?
+
+No. Federal law under 18 U.S.C. § 922(a)(5) prohibits interstate private transfers. The buyer's residency state governs, and the transfer must go through an FFL in that state. There's no state-law workaround — this is federal.
+
+### What happens if I sell a firearm to someone who turns out to be a prohibited person?
+
+Depends on what you knew or should have known. If you had no reasonable cause to believe the buyer was prohibited (they showed valid ID, no obvious red flags), you're generally protected. If a reasonable person would have suspected the buyer was prohibited — obvious intoxication, statements about intended crime, refusal to identify — you can face federal charges under 18 U.S.C. § 922(d). Documentation of your inquiry protects you.
+
+### Do I have to report a private sale to the ATF?
+
+No. There's no federal reporting requirement on private-party sales. Some states require the seller to file transaction records with a state agency; verify state requirements. Keeping your own transaction record is protective for both parties.
+
+### Is running a private sale through an FFL worth $25–$75?
+
+Almost always yes when there's any uncertainty about the buyer, the state's rules, or the firearm's history. The FFL handles the background check, generates federal paperwork, and provides both parties with a documented lawful transfer. That's cheap insurance for what could otherwise become a federal or state charge.
+
+---
+
+*This article is general information only and does not constitute legal advice. State firearm laws vary significantly and change frequently. Before conducting any private-party firearm sale, verify current requirements for the specific state and consider consulting a firearms attorney.*`,
+  },
+
+  {
+    slug: "suppressor-legal-states-2026",
+    title: "Suppressor Ownership by State After OBBBA: The 2026 Landscape",
+    excerpt: "OBBBA changed federal suppressor law. It did nothing to state prohibitions. 8 states plus DC prohibit civilian ownership; 42 states permit it under NFA process. A 2026 guide to the state layer OBBBA doesn't reach.",
+    metaDescription: "2026 state-by-state guide to suppressor ownership after OBBBA: which 8 states plus DC prohibit civilian ownership, state acquisition requirements in permissive states, transport rules across restrictive jurisdictions.",
+    category: "State Laws",
+    categorySlug: "state-laws",
+    publishedAt: "2026-09-21",
+    readTime: "8 min read",
+    content: `The One Big Beautiful Bill Act (OBBBA) made meaningful changes to federal suppressor law in 2026 — reduced tax on some transfers, streamlined ATF processing, adjustments to the Form 4 process. Our earlier article covered those federal changes.
+
+What OBBBA did not do: preempt state law. State restrictions on suppressor ownership remain fully in effect regardless of federal streamlining, and this creates a specific trap for enthusiasts who see federal loosening and assume it applies uniformly across the country. It doesn't.
+
+Eight states plus the District of Columbia effectively prohibit civilian suppressor ownership. In the remaining 42, ownership is legal under the federal NFA process — but state-level acquisition requirements vary substantially, and transport rules across restrictive states carry federal safe-passage limitations that don't fully protect suppressor owners.
+
+This guide covers the 2026 state landscape, acquisition requirements in permissive states, and the transport rules that matter for suppressor owners crossing state lines.
+
+## The prohibiting states
+
+As of 2026, civilian suppressor ownership is prohibited or heavily restricted in:
+
+**California** — prohibited under state law.
+**Delaware** — prohibited.
+**Hawaii** — prohibited.
+**Illinois** — prohibited.
+**Massachusetts** — prohibited.
+**New Jersey** — prohibited.
+**New York** — prohibited.
+**Rhode Island** — prohibited.
+**District of Columbia** — prohibited.
+
+Some of these states have narrow law-enforcement or specific-license exceptions, but the general civilian ownership prohibition applies.
+
+In these jurisdictions, mere possession of a suppressor — even a federally registered one, even one lawfully acquired in another state — is a state offense. Some are felonies carrying prison time.
+
+## The permissive states — what's required at the state level
+
+The 42 remaining states permit civilian suppressor ownership subject to compliance with the federal National Firearms Act. Beyond the federal process (Form 4 or Form 1, $200 tax stamp historically, fingerprints, photos, ATF background check), most permissive states impose no additional requirements. Some do.
+
+**Additional state requirements in permissive states:**
+
+- Some states require the applicant to notify state law enforcement of the acquisition
+- A few require the suppressor to be registered with a state agency in addition to federal ATF registration
+- Some prohibit suppressor use in certain hunting contexts (hunting-suppressor use is legal in most states but restricted in a few)
+- A very small number impose waiting periods separate from ATF processing time
+
+Verify state-specific requirements before starting the acquisition process. State ATF field offices and state hunting/fish-and-wildlife agencies typically publish the current rules.
+
+## OBBBA's federal changes recap
+
+For context (see our [OBBBA suppressor changes article](/blog/suppressors-obbba-changes) for the full federal picture):
+
+- Certain transfer categories saw tax adjustments
+- Form 4 processing times have generally improved
+- Streamlined trust and individual acquisition workflows
+
+None of these federal changes affect state-level prohibitions or add-on requirements. A California resident cannot lawfully acquire, possess, or transport a suppressor into California regardless of any federal streamlining. An Illinois resident faces the same wall.
+
+## Transporting a suppressor across state lines
+
+This is where owners in permissive states get in trouble.
+
+The federal [Firearm Owners Protection Act at 18 U.S.C. § 926A](https://www.law.cornell.edu/uscode/text/18/926A) provides safe-passage protection for firearms being transported between two places where possession is legal. That protection has historically been read narrowly on NFA items — courts and prosecutors treat NFA-regulated devices with more scrutiny than ordinary firearms.
+
+The practical realities for suppressor transport:
+
+- **Transport rules for suppressors match those for firearms:** unloaded, in a locked container, separate from ammunition, no unnecessary stops.
+- **The safe-passage protection likely covers suppressors** the same way it covers firearms — but the legal analysis has been tested less often, and enforcement has been mixed.
+- **Overnight stops in prohibiting states with a suppressor in the vehicle are risky.** Even with the firearm properly secured, the item's mere presence in a prohibiting state creates state-law exposure.
+- **Federal ATF Form 5320.20** — Application to Transport Interstate — is often required for NFA items being transported to another state, particularly for permanent moves. Verify whether the specific transport situation requires it.
+
+For interstate travel with a suppressor: plan routes that avoid prohibiting states whenever possible. When it's not possible, minimize time in the restrictive jurisdiction, keep the suppressor secured, and understand that the legal protection is weaker than most owners assume.
+
+## Permanent moves to a prohibiting state
+
+The permanent move scenario is the most common way lawful owners find themselves in violation.
+
+A suppressor owner in Texas accepts a job in California. They pack the moving truck. The suppressor is federally registered and lawfully owned in Texas. On arrival in California, it's contraband.
+
+Options for the pre-move planning:
+
+- **Sell out of state** through a Class 3 dealer to a buyer in a permissive state. Requires a Form 4 transfer, tax stamp on the new owner's side, and the destination-state acquisition process.
+- **Transfer to a family member** in a permissive state who can lawfully take possession.
+- **Store with a family member or storage arrangement** in a permissive state — the suppressor legally remains yours but doesn't cross into the prohibiting state.
+- **Abandon to the ATF** — the least attractive option but occasionally the only one on tight timeline.
+
+What does not work: bringing the suppressor to the prohibiting state and "figuring it out." Once in the state, possession is a state offense whether or not you intended to comply.
+
+## Hunting and range-use restrictions in permissive states
+
+Even in states where suppressor ownership is legal, use restrictions exist. Common variations:
+
+- Some states prohibit hunting with a suppressor (most permit it, and hunting-with-suppressor is increasingly common as game noise-management strategy)
+- Some public and private ranges prohibit suppressor use for insurance reasons even in states where use is otherwise legal
+- Federal land use — hunting on National Forest, BLM land, or Wildlife Refuge — follows federal rules and may permit suppressor use even where state rules restrict
+
+Verify local rules before assuming a permissive state permits all uses.
+
+## Gun trusts and multi-user access
+
+A significant reason to establish a gun trust for suppressor ownership: an individually-owned suppressor can only be lawfully possessed by the individual named on the Form 4. A suppressor owned by a properly-drafted gun trust can be lawfully possessed by any named trustee.
+
+For families with multiple shooters, this is meaningful. Without a trust, the suppressor owner is the only person who can legally handle it (with narrow exceptions for shared range use under owner supervision). With a trust, spouse, adult children, and other named trustees can lawfully use it independently.
+
+Trust setup runs $500–$1,500 depending on complexity. For anyone accumulating more than one NFA item, a trust is typically the right ownership vehicle.
+
+## Frequently Asked Questions
+
+### Which states prohibit civilian suppressor ownership in 2026?
+
+Eight states plus the District of Columbia: California, Delaware, Hawaii, Illinois, Massachusetts, New Jersey, New York, Rhode Island, and DC. Some have narrow law-enforcement or specific-license exceptions, but general civilian ownership is prohibited. The remaining 42 states permit ownership subject to federal NFA process compliance.
+
+### Did OBBBA change state suppressor prohibitions?
+
+No. OBBBA made federal-level changes to the NFA process (tax adjustments, streamlined processing), but did not preempt state law. State prohibitions remain fully in effect regardless of any federal loosening. Federal streamlining doesn't help a California resident acquire a suppressor.
+
+### Can I transport my legally-owned suppressor through a prohibiting state?
+
+Federal safe-passage law under 18 U.S.C. § 926A likely covers suppressors the same way it covers firearms — unloaded, locked, separate from ammunition, transport in progress. But the protection has been tested less often for NFA items and enforcement varies. Minimize time in prohibiting states, avoid overnight stops, and understand the legal cover is weaker than most owners assume.
+
+### What happens if I move from a permissive state to a prohibiting state with my suppressor?
+
+You've created contraband the moment residence changes. Before the move: sell through a Class 3 dealer to a buyer in a permissive state, transfer to a family member in a permissive state, store with someone in a permissive state, or abandon to the ATF. Bringing the suppressor across and figuring it out afterward is a state offense.
+
+### Can multiple family members use one legally-owned suppressor?
+
+Individually-owned suppressors can only be legally possessed by the person named on the Form 4 (with narrow exceptions for shared range use under owner supervision). A properly-drafted gun trust permits any named trustee to lawfully possess and use the suppressor. Trust setup is $500–$1,500 — worth it for multi-shooter households or anyone acquiring more than one NFA item.
+
+---
+
+*This article is general information only and does not constitute legal advice. NFA laws and state suppressor regulations are complex and change frequently. Before acquiring, transporting, or moving with any NFA item, consult a firearms attorney familiar with the specific states involved.*`,
+  },
+
+  {
+    slug: "self-defense-insurance-comparison-2026",
+    title: "Self-Defense Insurance in 2026: What These Policies Actually Cover",
+    excerpt: "USCCA, US Law Shield, CCW Safe, ACLDN, Right to Bear — a framework for comparing what any self-defense insurance policy actually delivers versus what its marketing promises. Five things every policy either does or doesn't.",
+    metaDescription: "2026 self-defense insurance comparison framework: pre-charge attorney access, civil defense coverage, reimbursement vs pay-directly, coverage limits, exclusions, state validity.",
+    category: "Legal Guides",
+    categorySlug: "legal-guides",
+    publishedAt: "2026-09-21",
+    readTime: "9 min read",
+    content: `Self-defense legal insurance is a market that grew from a niche product to a mainstream firearms-community purchase in the last decade. USCCA, US Law Shield, CCW Safe, Armed Citizens Legal Defense Network, Right to Bear, and several smaller providers all sell some version of the same core promise: pay a monthly premium, and if you're ever involved in a self-defense incident, the provider covers your legal defense.
+
+The catch: what "covers your legal defense" actually means varies enormously between providers, and most buyers select on price without reading the coverage details. When the worst week of their lives arrives, they discover their policy doesn't cover what they assumed it did.
+
+This guide is not a ranking or a recommendation of any specific provider. It's a framework for comparing what any policy actually delivers, so buyers can make an informed choice based on their specific situation.
+
+## The five things any policy either does or doesn't do
+
+Every self-defense insurance policy either includes or excludes each of the following. Buyers should be able to answer each question for any policy they're considering.
+
+### 1. Pre-charge attorney access
+
+Some policies provide immediate attorney access from the moment of the incident — the "1-800 lawyer" that answers the phone at 2am. Others require you to first be charged or arrested before coverage kicks in.
+
+The difference matters enormously. The most valuable legal work in a self-defense case often happens in the first 24-48 hours: what you say to responding officers, whether you consent to interviews, what evidence is preserved, what statements are recorded. A policy that only kicks in after charge means you handle that critical window on your own.
+
+**Question to ask:** "Does my policy include immediate attorney access from the moment of the incident, before any charges are filed?"
+
+### 2. Civil defense coverage
+
+Criminal charges are one exposure. Civil lawsuits from the deceased's family or a wounded party's estate are another, and civil cases can proceed even after a criminal acquittal. Damages in civil suits regularly exceed $1 million.
+
+Some policies cover only criminal defense. Others cover both criminal and civil defense. A few also cover civil damages awards up to a stated limit.
+
+**Question to ask:** "Does my policy cover civil defense in addition to criminal? Does it cover civil damages awards? What's the cap?"
+
+### 3. Payment mechanics: reimbursement vs. pay-directly
+
+The most misunderstood policy dimension. Two models:
+
+- **Reimbursement:** You pay legal fees yourself as they accrue. The policy reimburses you after the case concludes — and typically only if you're not convicted.
+- **Pay-directly:** The policy pays attorneys directly during the case, with no advance payment from you.
+
+The reimbursement model creates two problems. First, you need cash flow to pay attorneys at $300-$800/hour while the case is pending — often months or years. Second, if you're convicted (even of a lesser charge), you may get no reimbursement at all.
+
+**Question to ask:** "Does my policy pay attorneys directly, or reimburse me after the case concludes? What conditions must be met for reimbursement?"
+
+### 4. Coverage limits
+
+Every policy has a cap. Typical structures:
+
+- Fixed annual limit ($150,000, $500,000, $1,000,000+)
+- Per-incident limit
+- Separate criminal and civil defense caps
+- Lifetime aggregate limits
+
+A serious self-defense case can consume $250,000-$1,000,000+ in legal fees. Policies with low caps or per-incident limits can leave you personally exposed for anything above the cap.
+
+**Question to ask:** "What's the maximum coverage for a single incident? Are criminal and civil defense separately capped? Is there a lifetime aggregate?"
+
+### 5. Exclusions
+
+Every policy excludes certain incidents. Common exclusion categories:
+
+- Incidents involving alcohol or controlled substances above stated limits
+- Incidents outside the home when the insured did not have a lawful carry permit
+- Incidents involving illegal-to-possess firearms (unlawful modifications, prohibited-person status)
+- Incidents that occurred during commission of another crime by the insured
+- Intentional acts that a reasonable person would not consider self-defense
+- Incidents in states with which the provider has no legal representation network
+
+Read the exclusions section carefully. The exclusion that eliminates your coverage in a real incident is the one you didn't notice.
+
+**Question to ask:** "What specific incidents does this policy exclude? Under what circumstances would coverage be denied?"
+
+## Attorney selection: your choice or theirs
+
+Two models:
+
+- **Provider-selected attorneys:** The policy assigns an attorney from its approved panel. You have limited or no choice.
+- **Free attorney choice:** You select any qualified defense attorney; the policy pays according to its schedule.
+
+Provider-selected panels can be excellent when the panel is deep and includes experienced firearms attorneys in your jurisdiction. They can also be limiting when the panel is thin, or when the assigned attorney lacks specific self-defense case experience.
+
+Free-choice policies typically pay only up to their standard rate schedule — if your preferred attorney charges $600/hour and the schedule pays $400, you cover the difference.
+
+## State-by-state coverage validity
+
+Self-defense insurance is not universally legal in all states. A few states classify these products as insurance products requiring state insurance department approval, which some providers have and some don't.
+
+- **New York, New Jersey, Washington** have raised regulatory questions about these products; specific providers have withdrawn from some states or restructured their offerings.
+- **Providers often list "not available in [states]"** on their websites — check the current list against your state of residence and any states where you regularly carry.
+
+A policy that isn't valid in the state where the incident occurs provides no coverage.
+
+## The specific-provider landscape (as of 2026)
+
+Not a ranking; a starting point for comparison. Each provider offers multiple tiers, so verify the specific tier's terms — the differences within a provider can be as significant as between providers.
+
+**USCCA (US Concealed Carry Association):** Largest membership. Multiple tiers. Historically pay-directly for criminal defense, with civil coverage on higher tiers.
+
+**US Law Shield:** Program structured differently from typical insurance — pays for attorney access from moment of incident. Coverage varies by state.
+
+**CCW Safe:** Multiple tiers including "Ultimate" with high caps. Pays defense costs directly, no cap on legal fees on top tier.
+
+**Armed Citizens Legal Defense Network (ACLDN):** Nonprofit member organization structure rather than insurance product. Different coverage model — grants and legal assistance rather than insurance payouts.
+
+**Right to Bear:** Newer entrant with varying tiers.
+
+Every one of these providers has terms that would surprise a buyer who only read the marketing. Read the actual policy document, not the sales page.
+
+## The single most important question
+
+Before purchasing any policy, get answers to these six questions in writing:
+
+1. Does coverage begin at the moment of incident, or only after arrest/charge?
+2. Are attorneys paid directly, or is this reimbursement after the case concludes?
+3. What's the maximum coverage for a single incident? Any per-day, per-week, or per-year caps?
+4. Is civil defense covered? Are civil damages covered? Any caps?
+5. What incidents are excluded?
+6. Do I select the attorney, or does the provider assign one?
+
+A provider that won't answer these in writing is a provider whose actual coverage differs from its marketing. Move on.
+
+## Frequently Asked Questions
+
+### Is self-defense insurance worth it?
+
+Depends on the specific policy and your specific situation. For someone who regularly carries, the potential downside of a self-defense incident (six-figure legal fees at minimum, seven-figure civil exposure possible) makes some form of coverage prudent. But a poorly-selected policy that excludes the specific incident you face is worse than no policy — because you paid premiums and get nothing when it matters.
+
+### How much do these policies cost?
+
+Range is roughly $10-$40/month for basic coverage, up to $100-$300/month for top-tier coverage with high caps and immediate attorney access. Cost varies by provider, tier, and state.
+
+### Does my homeowner's insurance cover self-defense legal costs?
+
+Generally no. Standard homeowner's policies exclude intentional acts — and self-defense actions, though justified, are intentional. Some homeowners' policies cover accidental discharge or negligence in firearm storage, but not defensive use. A specific self-defense insurance product is a separate purchase.
+
+### What if I have a self-defense incident in a state where my policy isn't valid?
+
+You have no coverage. Some providers cover you nationwide as long as you're where your carry permit is valid; others only cover you in states where the provider is authorized. Verify before you travel with a carried firearm — your policy's state validity list should be on your provider's website.
+
+### Can I change providers if my needs change?
+
+Yes, though pre-existing incidents may not be covered by a new provider. Coverage generally applies from the date of policy purchase forward. If you're changing coverage in response to a specific incident that's already occurred, that incident is not covered by the new policy.
+
+---
+
+*This article is general information only and does not constitute legal or financial advice. Self-defense insurance products have complex terms that vary significantly between providers and change over time. Before purchasing, request and read the actual policy document, and consider consulting a firearms attorney about coverage adequacy for your specific circumstances.*`,
+  },
+
 ];
 
 const slugs = blogPosts.map((p) => p.slug);
