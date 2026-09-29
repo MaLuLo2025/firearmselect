@@ -3884,6 +3884,292 @@ Yes, though pre-existing incidents may not be covered by a new provider. Coverag
 *This article is general information only and does not constitute legal or financial advice. Self-defense insurance products have complex terms that vary significantly between providers and change over time. Before purchasing, request and read the actual policy document, and consider consulting a firearms attorney about coverage adequacy for your specific circumstances.*`,
   },
 
+  {
+    slug: "interstate-firearm-purchases-ffl-transfer-2026",
+    title: "Interstate Firearm Purchases: What the FFL Transfer Actually Requires in 2026",
+    excerpt: "You found the rifle you want on a website based in another state. Federal law and your state's law both have something to say about how that firearm actually gets into your hands. Here is how the FFL transfer process works, what varies state to state in 2026, and where the newest changes have landed.",
+    category: "Buying Guides",
+    categorySlug: "buying-guides",
+    publishedAt: "2026-09-28",
+    readTime: "9 min read",
+    content: `*This article reflects federal and state firearm transfer rules as of publication in September 2026. State laws in this area shift frequently. Confirm current requirements with your local FFL and your state's licensing authority before completing a purchase.*
+
+You found the rifle you want. It is at a good price. The seller is on the other side of the country. You know that you cannot just have it shipped to your house, because interstate transfers between unlicensed people are not how it works. But past that, the rules can feel like a maze — and the maze got a few new walls in 2026.
+
+This guide covers the actual mechanics of an interstate firearm purchase in 2026: what federal law requires, what the FFL on your end will do, where state variations layer on top, and what changed this year that might affect your next purchase.
+
+## The federal rule that starts everything
+
+Under the Gun Control Act of 1968, codified at 18 U.S.C. § 922, an unlicensed person cannot receive a firearm across state lines from another unlicensed person. If the seller is not a federally licensed dealer, and you are not either, the firearm has to go through a licensed intermediary. That intermediary is the FFL — the Federal Firearms Licensee — in your state of residence.
+
+The rule differs slightly for long guns and handguns. **Handguns** must be purchased in your state of residence, which effectively means the transfer has to go through an FFL in your state. **Long guns** — rifles and shotguns — can be purchased in a contiguous state at a licensed dealer's premises if the sale complies with the laws of both states, but for interstate mail-order purchases (which is what most online sales are), the same FFL-in-your-state rule applies.
+
+The mechanics are consistent across the country. The out-of-state seller ships the firearm to your local FFL. Your FFL receives it into their bound book. You go to the FFL's premises, complete ATF Form 4473, submit to a NICS background check, and if you clear, you take the firearm home. The FFL charges a transfer fee for this service, usually between $25 and $75 depending on the market.
+
+## What the FFL will actually ask you
+
+When you walk into your local FFL to pick up an incoming firearm, you will complete ATF Form 4473. The form asks for your name, address, date of birth, and a series of yes/no questions about eligibility — whether you have a felony conviction, whether you are a fugitive, whether you have been dishonorably discharged, whether you have a domestic violence restraining order, and so on. You certify the answers under penalty of perjury.
+
+The FFL then submits your information to the FBI's National Instant Criminal Background Check System (NICS). NICS returns one of three responses: proceed, delayed, or denied. If you clear immediately, you take the firearm home that day. If you are delayed, the FFL can transfer after three business days in most states even if NICS has not returned a final answer, though many FFLs choose to wait for a definitive response. If you are denied, the FFL cannot transfer the firearm under any circumstances, retains your 4473 for at least five years, and returns any payment you made.
+
+Some states run the check through their own state agency rather than directly through NICS, which changes the timing and sometimes the process. California, for example, requires all transfers to go through a licensed dealer and imposes a ten-day waiting period. Colorado requires background checks for private transfers, typically conducted by FFLs. Illinois requires the seller to see the buyer's Firearms Owner's Identification (FOID) card. The federal transfer rule is a floor, not a ceiling.
+
+## State variations that matter
+
+The federal rule requires an FFL transfer for interstate purchases. Individual states layer additional requirements on top, and the layer varies significantly from state to state. As of September 2026, 18 states plus DC require background checks for all firearm sales, and 22 states plus DC extend background check requirements beyond federal law in some form.
+
+**California** is one of the most restrictive. All firearms transfers must go through a licensed dealer under the Dealer's Record of Sale process, with a ten-day waiting period, a Firearms Safety Certificate requirement, and separate roster requirements for handguns. Interstate purchases route through a California FFL like any other transfer, and California-specific compliance layers on top.
+
+**Colorado** requires background checks for all private transfers through an FFL and imposes a three-day waiting period.
+
+**Connecticut** requires a permit to purchase any firearm. Both FFL and private-party transfers go through the permit system.
+
+**Illinois** requires a FOID card for possession and a separate concealed carry license for carrying. FFL transfers verify FOID validity.
+
+**New Jersey** requires a Firearms Purchaser Identification Card for long guns and a Permit to Purchase for handguns. Both must be presented at the FFL for transfer.
+
+**Virginia** deserves particular attention for 2026. Virginia's Universal Background Check requirement originally took effect in 2020, was struck down by a Virginia court in October 2025, and was **reinstated on July 1, 2026** by HB 1525. As of July 1, 2026, any private-party sale in Virginia — including sales between two Virginia residents that would not have required FFL involvement in early 2026 — must be processed through a licensed dealer with a Virginia State Police background check. Virginia also raised the minimum age to purchase a handgun to 21 under the same 2026 legislation. If you are a Virginia resident buying interstate, your FFL transfer proceeds as normal, but if you are also doing private-party sales in Virginia, the rules changed under you this summer.
+
+Permitless carry states — Idaho, West Virginia, Arizona, and about twenty-five others — do not affect the interstate transfer requirement. Permitless carry addresses what you can do with a firearm once you own it; it does not change how you buy one across state lines.
+
+## What you cannot do
+
+A few common questions come up regularly and the answers are all the same: no.
+
+**You cannot have an out-of-state seller ship a handgun directly to your home,** regardless of your state's laws. Federal law requires FFL involvement for interstate handgun transfers.
+
+**You cannot pick up a handgun in a state where you do not reside**, even if that state has less restrictive laws than yours. The federal in-state residence rule for handgun purchases is not waived by traveling to a friendlier state.
+
+**You cannot use a family member's address in another state to circumvent the residence requirement.** Straw purchases and false statements on a 4473 are federal felonies.
+
+**You cannot skip the FFL by having the seller mail you the firearm as a "gift" across state lines.** The interstate transfer rule applies regardless of whether money changed hands, with narrow exceptions for inheritance and certain intra-family transfers that require their own FFL processing.
+
+## The moving parts in 2026
+
+The federal FFL transfer framework has not changed in 2026. What changed is the state layer, and Virginia is the clearest example — a universal background check requirement reinstated in the middle of the year, a new minimum age for handgun purchases, and continuing litigation that could shift the picture again. Other states have introduced or considered legislation that would affect either the state-layer requirements or the population of prohibited persons. If you are buying interstate in 2026, check both your state of residence and any state you are physically traveling through for pickup.
+
+The most reliable single check is your local FFL. FFLs deal with transfer regulations every day and know the current state rules better than most attorneys. When you initiate an interstate purchase, call your local FFL first, get their transfer fee, tell them what you are buying and where it is coming from, and ask whether there is anything state-specific you should know before you pay the out-of-state seller. A twenty-minute phone call before you send money saves the alternative — which is finding out at pickup that your state has a roster restriction, a waiting period, or a permit requirement you did not know about.
+
+## Choosing an FFL for your transfer
+
+Not every FFL accepts transfers from other dealers, and among those that do, quality and service vary widely. The considerations that matter for choosing a transfer FFL:
+
+**Willingness to accept transfers.** Some FFLs prioritize their own retail sales and either refuse transfers or discourage them with high fees. Others make transfers a significant part of their business and welcome the work.
+
+**Transfer fee.** Range is typically $25 to $75 per firearm, sometimes with additional fees for handguns or for firearms that require additional processing (NFA items, black powder, etc.).
+
+**Communication.** A good transfer FFL will notify you promptly when your firearm arrives, provide a clear timeline for pickup, and answer questions about state-specific requirements before you buy.
+
+**Location and hours.** You will need to physically visit the FFL to complete the 4473 and background check. Choose one you can actually get to during their business hours.
+
+**State-specific expertise.** In heavily regulated states, an FFL who deals with your state's rules regularly is worth more than one who processes transfers occasionally. In California, an FFL familiar with roster compliance and Dealer's Record of Sale specifics is not optional.
+
+Some FFLs list themselves in transfer directories maintained by online retailers. If you are buying from a specific website, the retailer often has a list of preferred FFLs in your area. That can be a useful starting point, though the retailer's list is not a substitute for calling the FFL yourself.
+
+## When something goes wrong
+
+Occasionally an interstate transfer hits a problem. The most common are:
+
+**The firearm arrives at the FFL and you fail the NICS check.** If the denial is a false positive — which does happen — you can file a NICS appeal with the FBI. The process takes weeks to months. In the meantime, the firearm sits at the FFL. Your options are to wait out the appeal, arrange for the firearm to be transferred to another eligible person, or arrange for the out-of-state seller to take it back (which they may or may not agree to).
+
+**The firearm is not eligible for sale in your state.** Some firearms legal in the state of the seller are not legal in the state of the buyer — high-capacity magazines in California, certain semi-automatic rifles in Illinois or New York, suppressors in any state that prohibits them. A responsible seller will check the buyer's state before shipping, but not every seller does. If a non-compliant firearm arrives at your FFL, the FFL cannot transfer it to you. You will need to arrange return shipping to the seller or transfer to an eligible party.
+
+**The FFL's transfer fee is higher than you expected.** Always confirm the fee before initiating the purchase. Some FFLs list their fees publicly. Others quote per transaction.
+
+**Documentation errors.** The most common issue on the buyer's side is an ID that does not match the address on Form 4473, or a name change that has not been updated with your state's licensing authority. Bring documentation that reconciles any discrepancies.
+
+---
+
+*Looking to complete an FFL transfer soon? Browse [our verified dealer directory](/dealers) to find FFLs by location who handle transfers and know your state's requirements.*`,
+  },
+  {
+    slug: "firearm-storage-laws-state-2026",
+    title: "State Storage Laws That Trigger Liability: What Changed for Firearm Owners in 2026",
+    excerpt: "California's SB 53 took effect January 1, 2026, requiring every firearm in every California home to be locked whenever not being carried or under direct control — regardless of whether children are present. Virginia and Illinois enacted parallel expansions. Here is what changed, what the penalties actually are, and where the strictest rules now apply.",
+    category: "State Laws",
+    categorySlug: "state-laws",
+    publishedAt: "2026-09-28",
+    readTime: "9 min read",
+    content: `*This article reflects state firearm storage laws as of publication in September 2026. State storage requirements have expanded materially in 2025-2026 and continue to shift. Confirm current requirements with your state's Attorney General or Department of Justice, or Giffords Law Center, before relying on this information.*
+
+Storage requirements for firearms in the home used to be a footnote in most state gun laws. The federal rule required a "secure gun storage or safety device" to be sold with new handguns; state laws were mostly limited to child access prevention statutes that imposed liability only if a minor actually gained access and something happened. In the last two years, a group of states rewrote that baseline. California's SB 53, effective January 1, 2026, is the most aggressive expansion in the country: every firearm in every California home must be locked whenever it is not being carried or under the owner's direct control. No incident required. No child in the home required.
+
+If you own firearms in California, Virginia, Illinois, Massachusetts, or several other states, the rules that apply in your home in 2026 are stricter than they were a year ago. This piece walks through what changed, what the penalties are, and how to actually comply.
+
+## California SB 53: the model for aggressive expansion
+
+California enacted SB 53 in 2024. It took effect **January 1, 2026**, and it is codified in Penal Code § 25135 with related sections. The expansion is significant: prior California law imposed criminal liability if a person kept a loaded firearm within premises under their custody or control, knew or reasonably should have known a child was likely to gain access, and the child obtained access. SB 53 removes the child element entirely for the storage duty itself. Under the new rule, all firearm owners must securely store their firearms in their residences whenever the firearms are not being carried or readily controlled by the owner or another lawful authorized user.
+
+"Secure storage" under SB 53 means one of two things: the firearm is kept in a Department of Justice-certified firearm safety device such as a hard-sided lockbox or safe, or the firearm is secured with a DOJ-approved locking device such as a cable or trigger lock. Either satisfies the statute. The Attorney General sets minimum safety standards for both categories.
+
+Penalties for a first or second violation are infractions carrying fines up to $500. Repeated or aggravated violations can escalate. Separately, California's Child Access Prevention statute continues to impose civil liability on parents and guardians when a minor accesses an unsecured firearm — damages capped at $30,000 per victim and $60,000 total.
+
+California offers a state tax credit of up to $300 toward the purchase of a qualifying gun safe or firearm safety device, which offsets a meaningful share of the compliance cost for a household with a few firearms.
+
+The exemptions under SB 53 are narrow. Storage requirements do not apply if the firearm is being carried by or under the direct control of a lawful owner or authorized user, if the person is a peace officer or military member and the child obtained the firearm during or incidental to the person's duties, or if the child obtained the firearm in a lawful act of self-defense or defense of another. Practically, the exemptions matter only in the narrow situations they describe. For the day-to-day question of how you store the shotgun you keep behind the bedroom door, the answer under SB 53 is: locked, unless you are actively carrying it.
+
+## The parallel expansions
+
+California is not alone. Two other states expanded their storage rules in 2026.
+
+**Illinois** strengthened its child access prevention framework effective January 1, 2026. A general violation of the storage requirement carries a civil fine of up to $500. If a minor or prohibited person gains access to the firearm, the fine rises to $1,000. If the person causes injury, death, or commits a crime with the firearm, penalties can reach $10,000 in civil fines, in addition to any criminal charges.
+
+**Virginia** enacted a new storage requirement in 2026 requiring any person who possesses a firearm in a residence where they know a minor or prohibited person is present to either store the firearm in a locked container, compartment, or cabinet inaccessible to the minor or prohibited person, or render the firearm incapable of being fired by use of a gun locking device. The Virginia rule is narrower than California's — it is triggered by the presence of a minor or prohibited person rather than applying at all times — but it is a real expansion from the prior Virginia framework, which was largely limited to reckless-leaving provisions.
+
+Beyond these three, the storage landscape as of 2026 has thirty-five states plus DC with some form of child access prevention or safe storage law. The most stringent rules currently sit in California, Massachusetts, Maryland, and Minnesota — states that impose criminal liability when a minor is merely likely to gain access to a negligently stored firearm, without requiring proof of actual access or injury.
+
+**Massachusetts** requires all firearms to be stored in a locked container or equipped with a tamper-resistant safety device when not carried by or under the immediate control of the owner. A violation can result in fines up to $5,000 and up to two and a half years imprisonment for the most serious cases.
+
+**Maryland** requires all firearms to be stored unloaded and in a locked container or with a locking device, or otherwise inaccessible, whenever an unsupervised minor is present.
+
+**Minnesota** requires firearms to be stored in a locked container when not on the person of the owner, in the presence of an unsupervised minor.
+
+**New York** strengthened its safe storage law in 2022, requiring storage in a safe storage depository or with a gun locking device when the person resides with a minor or someone otherwise prohibited from firearm possession.
+
+## Tax credits for compliance
+
+Several states now offset the cost of safe storage compliance with tax credits.
+
+**Virginia** offers a nonrefundable income tax credit of up to $300 for qualifying firearm safety devices.
+
+**Colorado** and **Georgia** offer similar tax credits up to $300 for qualifying gun safes, lockboxes, and trigger locks.
+
+**California** offers a state tax credit of up to $300 toward the purchase of a qualifying safe or safety device under SB 53.
+
+For a household with multiple firearms coming into compliance in a single year, these credits can be worth the paperwork to claim.
+
+## The insurance angle worth understanding
+
+Storage law compliance is not just a criminal or civil liability question. It increasingly affects homeowners insurance. Some carriers now ask about storage practices in the application. Some deny claims for stolen firearms when the firearms were not securely stored per state law. Claim denials on that basis have been reported in California and other stricter states as the insurance market catches up to the new legal environment.
+
+If you have firearms and homeowners coverage, three questions to ask your carrier: does my policy cover firearms, and up to what limit; does my policy require a certain type of storage as a condition of coverage; and does my policy exclude claims for firearms stored in violation of applicable state law? The answers vary by carrier and state, and they matter more in 2026 than they did in 2024.
+
+## Compliance in a household with multiple firearms
+
+For a household with more than one or two firearms, "locked storage for every firearm at all times except when carried" is a real logistical exercise. The workable approaches:
+
+**A single large gun safe** that holds all long guns and most handguns, kept in a location accessible to lawful users but not to visitors, guests, or children. Look for safes with pry resistance, fire rating appropriate to your area, and either a mechanical dial or a high-quality electronic lock with a mechanical override.
+
+**Individual quick-access handgun safes** for firearms kept for home defense. Biometric or keypad access is common. The point of these is that a firearm can be accessed by a lawful user in seconds but is locked otherwise. Under California SB 53, this satisfies the "readily controlled by the person" carve-out because the lock is a DOJ-certified device.
+
+**Trigger locks or cable locks** for firearms that are stored longer-term and do not need quick access. These are the cheapest compliant option and are often provided with new firearms.
+
+**A gun room or dedicated locked closet** for households with substantial collections. The whole room can qualify as secure storage if it is constructed as such and access is controlled.
+
+The common failure mode is a firearm left in a nightstand drawer or on top of a dresser, unlocked, when the owner leaves the house. That is a clear violation of California SB 53 regardless of whether anyone is home, whether the door is locked, or whether children are in the household.
+
+## What to check for your state
+
+The compliance question is state-specific. Three sources are worth checking directly:
+
+**Your state Attorney General's office** typically publishes guidance on state firearm storage requirements, penalties, and exemptions.
+
+**Giffords Law Center** (giffords.org/lawcenter) maintains a state-by-state summary of child access prevention and safe storage laws, updated as changes take effect. This is the fastest way to check the current status of any specific state.
+
+**Your homeowners insurance carrier** for the intersection of storage requirements and coverage.
+
+If you have moved between states recently, or if you have firearms stored at a second residence in a different state, check the rules for both. Storage law compliance is measured at the location of the firearm, not the residence of the owner.
+
+## The trajectory
+
+The trend line in state firearm storage law is toward broader requirements, more universal applicability, and stiffer penalties. California SB 53 is the most aggressive current example, but the model — universal storage requirement not conditional on the presence of children, backed by fines and civil liability — is likely to be replicated in other states that follow California's regulatory lead. If your state does not currently require universal locked storage, the odds are non-trivial that it will within the next three to five years.
+
+The compliance investment is not huge. A gun safe with capacity for a small collection runs a few hundred dollars. A biometric handgun safe runs $150 to $400. Trigger locks are $10 to $30. State tax credits offset some of that. The alternative — a $500 California fine for the first violation, a homeowners claim denial for stolen firearms, or worse — is meaningfully more expensive. Get the storage right once, and it works.
+
+---
+
+*Need help evaluating your state's storage requirements or finding compliant storage options? Browse [our verified dealer directory](/dealers) to find dealers near you.*`,
+  },
+  {
+    slug: "bump-stocks-forced-reset-triggers-cargill-2026",
+    title: "Bump Stocks and Forced Reset Triggers After Cargill: What's Actually Legal in 2026",
+    excerpt: "The Supreme Court decided Cargill in June 2024. The ATF formally revised its bump stock rule in May 2026. The DOJ settled with Rare Breed Triggers in 2025, ending federal enforcement against forced reset triggers. Here is what all of that actually means for what you can buy, own, and use in 2026 — and the state-level bans that still apply regardless.",
+    category: "State Laws",
+    categorySlug: "state-laws",
+    publishedAt: "2026-09-28",
+    readTime: "9 min read",
+    content: `*This article reflects federal and state law on bump stocks and forced reset triggers as of publication in September 2026. Federal law on these products has settled significantly since 2024, but state law continues to shift. Verify state law with your state's Attorney General or a firearms attorney before purchasing.*
+
+For four years the legality of bump stocks and forced reset triggers was one of the most confused topics in firearms law. The ATF classified both as machine guns under the National Firearms Act. Federal district courts split. Circuit courts split. The Supreme Court took up the bump stock question and reversed the ATF. A separate district court ruling reached the same result for forced reset triggers, and the government settled rather than appeal. In 2026 the ATF formally revised its own bump stock rule to conform to the Supreme Court's ruling.
+
+The federal picture is now largely settled. What is not settled is the state picture. This article walks through where the federal rules landed, what the ATF actually did in May 2026, what remains ambiguous, and which state bans continue to apply regardless of the federal outcome.
+
+## Cargill: what the Supreme Court actually held
+
+On June 14, 2024, the Supreme Court decided *Garland v. Cargill*, 144 S.Ct. 222 (2024), by a 6-3 vote. The Court held that a semiautomatic rifle equipped with a bump stock does not meet the definition of "machinegun" under 26 U.S.C. § 5845(b) of the National Firearms Act. Justice Thomas wrote for the majority.
+
+The statutory definition of machine gun requires that the firearm fire "automatically more than one shot ... by a single function of the trigger." The Court parsed each of those elements. A "single function of the trigger" refers to the mechanical act of the trigger itself — not what the shooter's finger does. A semiautomatic rifle with a bump stock still requires a separate function of the trigger for each shot. The stock accelerates the shooter's ability to trigger the firearm rapidly, but it does not change what the trigger itself does. And even if it did, the Court said, a bump stock does not cause the firearm to fire "automatically" in the statutory sense — the shooter is still doing the work of maintaining forward pressure and each shot requires a distinct action.
+
+The Court's reasoning matters more than the specific bump stock holding, because the same logic applies to any device whose effect on rate of fire operates through the shooter's action rather than through changing what the trigger mechanically does. That is exactly the argument that had been made for forced reset triggers, and it is exactly the argument that succeeded shortly after.
+
+## The FRT chain: from ATF classification to DOJ settlement
+
+Forced reset triggers replace a firearm's standard trigger with an aftermarket component that uses the energy of the bolt carrier group to mechanically reset the trigger after each shot. The trigger still requires a separate pull for each round fired. The pull is faster because the reset is mechanical rather than requiring the shooter to release the trigger past a spring, but each round is a separate function of the trigger.
+
+**March 2022:** ATF published an Open Letter to all Federal Firearms Licensees officially reclassifying forced reset triggers as machine guns under the NFA. Under the ATF's reading, an FRT allowed a firearm to expel more than one shot with a single, continuous pull of the trigger. Possession became a federal felony on paper overnight.
+
+**2023:** DOJ obtained a preliminary injunction against Rare Breed Triggers, the largest FRT manufacturer, temporarily halting sales. Multiple parallel lawsuits proceeded across different federal circuits.
+
+**January 2023:** The Fifth Circuit Court of Appeals, sitting en banc, ruled in *Cargill v. United States* that bump stocks are not machine guns. The reasoning was that a bump stock does not cause the weapon to fire more than one shot "by a single function of the trigger." This was a bump stock case, but the logic transferred directly to FRTs.
+
+**June 14, 2024:** The Supreme Court affirmed the Fifth Circuit's Cargill reasoning, establishing that "single function of the trigger" refers to the mechanical act of the trigger itself.
+
+**July 24, 2024:** Judge Reed O'Connor of the Northern District of Texas vacated the ATF's FRT classification, applying Cargill's reasoning to the FRT context. That district court ruling is the one that actually dealt with FRTs. (You will occasionally see articles claiming that a federal appellate court ruled on forced reset triggers. It did not — the Fifth Circuit appeal, docket 24-10707, was never decided because the government settled first.)
+
+**May 2025:** The Department of Justice formally settled with Rare Breed Triggers and other claimants. Under the settlement, DOJ conceded that FRTs are not machine guns under federal law, dismissed pending enforcement actions, and returned seized FRTs to owners in states where they remain legal. The settlement includes one operational limit — Rare Breed will not produce or market FRTs for any handgun where the magazine loads into the trigger-hand grip. For rifle-platform FRTs (the vast majority of the market), federal legality is now confirmed.
+
+**May 6, 2026:** ATF published a formal revision to its machine gun rule in the Federal Register, effective the same day. The rule removes the two sentences added by the 2018 bump stock rule that had classified bump stocks as machine guns. This is the ATF's formal implementation of the Cargill decision — nearly two years after the Court ruled, and about a year after the FRT settlement, the agency's own regulations now conform.
+
+## What is federally legal in 2026
+
+Under federal law as it stands in September 2026:
+
+**Bump stocks** are not machine guns under the NFA. Cargill remains binding Supreme Court precedent. The 2018 ATF rule that had classified them as machine guns is no longer in effect after the May 6, 2026 formal revision. Manufacture, sale, purchase, and possession of bump stocks are federally legal.
+
+**Forced reset triggers** are not machine guns under federal law. The DOJ settlement in May 2025 concedes the point. The one limitation is that Rare Breed will not produce FRTs designed for handguns with magazine-in-grip designs. Rifle-platform FRTs are legal to manufacture, sell, purchase, and possess federally.
+
+**Binary triggers** — which fire one round on trigger pull and one round on trigger release — occupy a similar space. Each function of the trigger produces a single shot, which satisfies the Cargill standard for not being a machine gun. The ATF has not formally acted against binary triggers post-Cargill; they have long been treated as legal at the federal level and remain so.
+
+**Machine gun conversion devices** — auto sears, "Glock switches," and similar devices that actually cause a firearm to fire multiple rounds per single function of the trigger — remain illegal machine guns under federal law. Cargill did not touch these. Possession without proper NFA registration is a federal felony, and enforcement against these devices has intensified as they have been linked to a rising share of violent crimes.
+
+## State bans that still apply
+
+Federal legality does not mean 50-state legality. Several states have enacted bans that apply regardless of the federal outcome. As of 2026, the states with laws specifically banning or restricting FRTs, bump stocks, or "multi-burst trigger activator" devices include:
+
+**California** bans bump stocks and any "multiburst trigger activator" under state law, which reaches FRTs, binary triggers, and similar devices.
+
+**New York** bans bump stocks under the SAFE Act framework and has expanded restrictions on rapid-fire devices.
+
+**New Jersey** bans bump stocks and similar rapid-fire devices.
+
+**Connecticut, Delaware, Florida, Hawaii, Maryland, Massachusetts, Minnesota, Rhode Island, Vermont, Washington,** and **the District of Columbia** all have some form of bump stock or rapid-fire device ban that survived the Cargill decision, because state authority over firearms accessories is separate from federal NFA authority.
+
+**Colorado** bans "multi-burst trigger activators" — a category that catches FRTs, binary triggers, and bump stocks in a single statutory definition.
+
+If you live in one of these states, or you are traveling through with a firearm equipped with any of these devices, the federal legality does not protect you. State law enforcement can and does prosecute under state statute regardless of whether the ATF has withdrawn its federal classification.
+
+## The practical question: can I buy one, and where can I use it?
+
+For most of the country, the answer is yes. In the roughly 38 to 40 states without a specific ban on these devices, FRTs and bump stocks are federally legal and state legal. You can purchase from a manufacturer or dealer, install on your firearm, and use the firearm at ranges that permit rapid fire. Note that many public ranges have their own rules against rapid-fire devices, independent of state law.
+
+In the 10 to 12 states with bans, the answer is no. State law overrides the federal legality for possession within the state, and the ban typically covers manufacture, sale, transport, and use as well as simple possession.
+
+Interstate travel with these devices is where the picture gets complicated. If you own an FRT legally in Texas and drive through New Mexico, you are fine — New Mexico does not ban FRTs. If you drive through Colorado, you have committed a state offense the moment you cross the state line. The Firearm Owners Protection Act of 1986 provides some interstate transport protection for firearms lawfully possessed at the origin and destination, but the protection is narrow and does not universally extend to accessories that are contraband in the transit state.
+
+Before traveling with a firearm equipped with an FRT, binary trigger, or bump stock, check each state you will physically enter. This is the same class of research required for high-capacity magazines and certain semi-automatic rifle features — the state-by-state variance is real and the consequences of a mistake are criminal.
+
+## What to expect going forward
+
+Federal enforcement against these devices is unlikely to resume in the near term. The DOJ settlement and the formal ATF rule revision represent institutional acceptance of the Cargill framework. Absent a new Supreme Court case, a statutory amendment by Congress, or a substantial change in DOJ position, the federal picture is stable.
+
+State law is where the action continues. Some states with existing bans have considered strengthening penalties or expanding definitions. Some states without bans have introduced legislation to add them. The overall trajectory in state law tracks the broader partisan and geographic pattern of firearm regulation — states inclined toward stricter firearm laws are the states most likely to enact or expand these device restrictions.
+
+For an owner in a state without a ban, the practical position is straightforward: these devices are federally legal, state legal, and can be purchased, owned, and used within your state. The main constraints are range rules, safety practice, and the interstate travel considerations noted above.
+
+---
+
+*Looking to purchase an FRT, binary trigger, or similar device? Browse [our verified dealer directory](/dealers) to find dealers who can confirm what's legal to sell and ship to your state.*`,
+  },
 ];
 
 const slugs = blogPosts.map((p) => p.slug);
