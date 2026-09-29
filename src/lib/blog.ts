@@ -1912,7 +1912,7 @@ Yes. Federal law requires dealers to refuse sales if they have reasonable cause 
 
 ---
 
-*Ready to find a dealer in your area? Browse [our verified dealer directory](/dealers) to see listings filtered by state and city.*`
+*Ready to find a dealer in your area? Browse [our dealer directory](/dealers) to see listings filtered by state and city.*`
   },
   {
     slug: "constitutional-carry-states-for-non-residents-2026",
@@ -3367,7 +3367,7 @@ Document the condition immediately — photographs, the original work order, any
 
 ---
 
-*Looking for a gunsmith or a shop that offers gunsmithing services? Browse [our verified directory](/dealers) to find dealers by location, service, and specialty.*`,
+*Looking for a gunsmith or a shop that offers gunsmithing services? Browse [our dealer directory](/dealers) to find dealers by location, service, and specialty.*`,
   },
 
   {
@@ -3980,7 +3980,7 @@ Occasionally an interstate transfer hits a problem. The most common are:
 
 ---
 
-*Looking to complete an FFL transfer soon? Browse [our verified dealer directory](/dealers) to find FFLs by location who handle transfers and know your state's requirements.*`,
+*Looking to complete an FFL transfer soon? Browse [our dealer directory](/dealers) to find FFLs near you.*`,
   },
   {
     slug: "firearm-storage-laws-state-2026",
@@ -4078,7 +4078,7 @@ The compliance investment is not huge. A gun safe with capacity for a small coll
 
 ---
 
-*Need help evaluating your state's storage requirements or finding compliant storage options? Browse [our verified dealer directory](/dealers) to find dealers near you.*`,
+*Need help evaluating your state's storage requirements or finding compliant storage options? Browse [our dealer directory](/dealers) to find dealers near you.*`,
   },
   {
     slug: "bump-stocks-forced-reset-triggers-cargill-2026",
@@ -4168,7 +4168,7 @@ For an owner in a state without a ban, the practical position is straightforward
 
 ---
 
-*Looking to purchase an FRT, binary trigger, or similar device? Browse [our verified dealer directory](/dealers) to find dealers who can confirm what's legal to sell and ship to your state.*`,
+*Looking to purchase an FRT, binary trigger, or similar device? Browse [our dealer directory](/dealers) to find dealers near you.*`,
   },
 ];
 

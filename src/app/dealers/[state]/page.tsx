@@ -120,7 +120,7 @@ export default function StateDealersPage({ params }: { params: { state: string }
                 ) : (
                   <div className="border border-ink-100 p-5">
                     <p className="text-xs text-ink-400">
-                      Verified listings for {city.name} coming soon.{" "}
+                      Listings for {city.name} coming soon.{" "}
                       <Link href={`/dealers/${state.slug}/${city.slug}`} className="text-steel-500 hover:text-ink-900 transition-colors">
                         View {city.name} page &rarr;
                       </Link>

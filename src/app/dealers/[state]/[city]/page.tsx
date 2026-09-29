@@ -122,7 +122,7 @@ export default function CityDealersPage({ params }: { params: { state: string; c
                 Gun shops, ranges &amp; instructors in {city.name} coming soon
               </p>
               <p className="font-sans text-xs text-ink-400 mb-6 max-w-sm mx-auto">
-                We&apos;re adding verified listings for {city.name}, {state.abbr}. Check back soon or browse other locations.
+                We&apos;re adding listings for {city.name}, {state.abbr}. Check back soon or browse other locations.
               </p>
               <div className="flex justify-center gap-4">
                 <Link href={`/dealers/${state.slug}`}
