@@ -3505,19 +3505,19 @@ Individually-owned suppressors can only be legally possessed by the person named
   {
     slug: "self-defense-insurance-comparison-2026",
     title: "Self-Defense Insurance in 2026: What These Policies Actually Cover",
-    excerpt: "USCCA, US Law Shield, CCW Safe, Right to Bear — a framework for comparing what any self-defense insurance policy actually delivers versus what its marketing promises. Five things every policy either does or doesn't.",
+    excerpt: "USCCA, US Law Shield, CCW Safe, Right to Bear — a framework for comparing what any self-defense insurance policy actually delivers versus what its marketing promises. Four things every policy either does or doesn't.",
     metaDescription: "2026 self-defense insurance comparison framework: pre-charge attorney access, civil defense coverage, reimbursement vs pay-directly, coverage limits, exclusions, state validity.",
     category: "Legal Guides",
     categorySlug: "legal-guides",
     publishedAt: "2026-09-21",
-    readTime: "13 min read",
+    readTime: "12 min read",
     content: `Self-defense legal insurance is a market that grew from a niche product to a mainstream firearms-community purchase in the last decade. USCCA, US Law Shield, CCW Safe, Right to Bear, and several smaller providers all sell some version of the same core promise: pay a monthly premium, and if you're ever involved in a self-defense incident, the provider covers your legal defense.
 
 The catch: what "covers your legal defense" actually means varies enormously between providers, and most buyers select on price without reading the coverage details. When the worst week of their lives arrives, they discover their policy doesn't cover what they assumed it did.
 
 This guide is not a ranking or a recommendation of any specific provider. It's a framework for comparing what any policy actually delivers, so buyers can make an informed choice based on their specific situation.
 
-## The five things any policy either does or doesn't do
+## The four things any policy either does or doesn't do
 
 Every self-defense insurance policy either includes or excludes each of the following. Buyers should be able to answer each question for any policy they're considering.
 
@@ -3531,7 +3531,7 @@ The difference matters enormously. The most valuable legal work in a self-defens
 
 ### 2. Civil defense coverage
 
-Criminal charges are one exposure. Civil lawsuits from the deceased's family or a wounded party's estate are another, and civil cases can proceed even after a criminal acquittal. Damages in civil suits regularly exceed $1 million.
+Criminal charges are one exposure. Civil lawsuits from the deceased's family or a wounded party's estate are another, and civil cases can proceed even after a criminal acquittal. Civil damages can be substantial.
 
 Some policies cover only criminal defense. Others cover both criminal and civil defense. A few also cover civil damages awards up to a stated limit.
 
@@ -3544,7 +3544,7 @@ The most misunderstood policy dimension. Two models:
 - **Reimbursement:** You pay legal fees yourself as they accrue. The policy reimburses you after the case concludes — and typically only if you're not convicted.
 - **Pay-directly:** The policy pays attorneys directly during the case, with no advance payment from you.
 
-The reimbursement model creates two problems. First, you need cash flow to pay attorneys at $300-$800/hour while the case is pending — often months or years. Second, if you're convicted (even of a lesser charge), you may get no reimbursement at all.
+The reimbursement model creates two problems. First, you need cash flow to pay attorneys' hourly fees while the case is pending — often months or years. Second, if you're convicted (even of a lesser charge), you may get no reimbursement at all.
 
 **Question to ask:** "Does my policy pay attorneys directly, or reimburse me after the case concludes? What conditions must be met for reimbursement?"
 
@@ -3552,22 +3552,14 @@ The reimbursement model creates two problems. First, you need cash flow to pay a
 
 Every policy has a cap. Typical structures:
 
-- Fixed annual limit ($150,000, $500,000, $1,000,000+)
+- Fixed annual limit
 - Per-incident limit
 - Separate criminal and civil defense caps
 - Lifetime aggregate limits
 
-A serious self-defense case can consume $250,000-$1,000,000+ in legal fees. Policies with low caps or per-incident limits can leave you personally exposed for anything above the cap.
+A serious self-defense case can consume substantial legal fees. Plan prices and limits change often; compare current terms on each provider's site. Policies with low caps or per-incident limits can leave you personally exposed for anything above the cap.
 
 **Question to ask:** "What's the maximum coverage for a single incident? Are criminal and civil defense separately capped? Is there a lifetime aggregate?"
-
-### 5. Exclusions
-
-Every policy excludes certain incidents, and the list differs by plan. The most common categories are covered in the "Common exclusions" section below.
-
-Read the exclusions section carefully. The exclusion that eliminates your coverage in a real incident is the one you didn't notice.
-
-**Question to ask:** "What specific incidents does this policy exclude? Under what circumstances would coverage be denied?"
 
 ## Attorney selection: your choice or theirs
 
@@ -3578,7 +3570,7 @@ Two models:
 
 Provider-selected panels can be excellent when the panel is deep and includes experienced firearms attorneys in your jurisdiction. They can also be limiting when the panel is thin, or when the assigned attorney lacks specific self-defense case experience.
 
-Free-choice policies typically pay only up to their standard rate schedule — if your preferred attorney charges $600/hour and the schedule pays $400, you cover the difference.
+Free-choice policies typically pay only up to their standard rate schedule — if your preferred attorney charges more than the schedule pays, you cover the difference.
 
 ## State-by-state coverage validity
 
@@ -3655,11 +3647,11 @@ Read the exclusions section of the actual contract. The marketing page summarize
 
 Not a ranking; a starting point for comparison. Each provider offers multiple tiers, so verify the specific tier's terms — the differences within a provider can be as significant as between providers.
 
-**USCCA (US Concealed Carry Association):** Largest membership. Multiple tiers. Historically pay-directly for criminal defense, with civil coverage on higher tiers.
+**USCCA (US Concealed Carry Association):** Multiple tiers. Historically pay-directly for criminal defense, with civil coverage on higher tiers.
 
 **US Law Shield:** Program structured differently from typical insurance — pays for attorney access from moment of incident. Coverage varies by state.
 
-**CCW Safe:** Multiple tiers including "Ultimate" with high caps. Pays defense costs directly, no cap on legal fees on top tier. CCW Safe acquired the Armed Citizens' Legal Defense Network (ACLDN) in July 2025, and former ACLDN members are now CCW Safe members.
+**CCW Safe:** Multiple tiers, with limits that differ by tier. CCW Safe acquired the Armed Citizens' Legal Defense Network (ACLDN) in July 2025, and former ACLDN members are now CCW Safe members.
 
 **Right to Bear:** Newer entrant with varying tiers.
 
@@ -3703,11 +3695,11 @@ A provider that won't answer these in writing is a provider whose actual coverag
 
 ### Is self-defense insurance worth it?
 
-Depends on the specific policy and your specific situation. For someone who regularly carries, the potential downside of a self-defense incident (six-figure legal fees at minimum, seven-figure civil exposure possible) makes some form of coverage prudent. But a poorly-selected policy that excludes the specific incident you face is worse than no policy — because you paid premiums and get nothing when it matters.
+Depends on the specific policy and your specific situation. For someone who regularly carries, the potential downside of a self-defense incident (substantial legal fees and significant civil exposure) makes some form of coverage prudent. But a poorly-selected policy that excludes the specific incident you face is worse than no policy — because you paid premiums and get nothing when it matters.
 
 ### How much do these policies cost?
 
-Range is roughly $10-$40/month for basic coverage, up to $100-$300/month for top-tier coverage with high caps and immediate attorney access. Cost varies by provider, tier, and state.
+Plan prices and limits change often; compare current terms on each provider's site. Cost varies by provider, tier, and state.
 
 ### Does my homeowner's insurance cover self-defense legal costs?
 
@@ -3914,7 +3906,7 @@ If you have moved between states recently, or if you have firearms stored at a s
 
 ## The three kinds of storage laws
 
-State storage laws fall into three broad groups, depending on *when* the duty to lock up a firearm applies. The groupings below come from two national trackers, the [Giffords Law Center](https://giffords.org/lawcenter/gun-laws/policy-areas/child-consumer-safety/child-access-prevention-and-safe-storage/) (page updated September 30, 2026) and [Everytown Research](https://everytownresearch.org/rankings/law/secure-storage-required/) (updated January 14, 2026), cross-checked against state statutes where we could reach them. Both trackers count **26 states** with some form of secure-storage or child-access-prevention (CAP) law. Giffords also counts the District of Columbia. As of October 2026, the remaining 24 states have no general statewide storage statute.
+State storage laws fall into three broad groups, depending on *when* the duty to lock up a firearm applies. The groupings below come from two national trackers, the [Giffords Law Center](https://giffords.org/lawcenter/gun-laws/policy-areas/child-consumer-safety/child-access-prevention-and-safe-storage/) (page updated September 30, 2026) and [Everytown Research](https://everytownresearch.org/rankings/law/secure-storage-required/) (updated January 14, 2026), with statute citations given where available. Both trackers count **26 states** with some form of secure-storage or child-access-prevention (CAP) law. Giffords also counts the District of Columbia. As of October 2026, the remaining 24 states have no general statewide storage statute.
 
 **1. All-times (or "unattended") storage.** The firearm must be locked up or disabled whenever it isn't being carried or kept under the owner's immediate control, whether or not anyone else is around. Both trackers list the same six states: **California, Connecticut, Hawaii, Massachusetts, Oregon, and Rhode Island.** California joined this group when SB 53 took effect on January 1, 2026.
 
@@ -3922,7 +3914,7 @@ State storage laws fall into three broad groups, depending on *when* the duty to
 
 **3. Access-triggered child-access-prevention.** Criminal liability attaches only after a child actually gets the gun, and in many of these states only after the child carries, displays, or uses it. Storing a gun carelessly is not, by itself, a crime. Both trackers place these states here: **Delaware, Florida, Iowa, Maine, Michigan, New Hampshire, New Jersey, New Mexico, North Carolina, Texas, Washington, and Wisconsin.** Within this group the trigger varies. In Texas, the child gaining access is enough. In Florida, Iowa, and Wisconsin, the child generally must display or use the firearm, or someone must be hurt.
 
-**Where the sources disagree.** Two states are classified differently by the two trackers, so we've left them out of the lists above:
+**Where the sources disagree.** Two states are classified differently by the two trackers, so they are not placed in the lists above:
 
 - **Maryland.** Everytown treats it as triggered when a child "may or is likely to" gain access. Giffords treats it as triggered when a child gains access. The statute (Md. Crim. Law § 4-104) prohibits leaving a loaded firearm where the owner "knew or should have known that an unsupervised minor has access to the firearm," and that wording can support either reading.
 - **Vermont.** Giffords lists Vermont with the "likely to gain access" states. Everytown lists it as access-triggered. [The statute itself (13 V.S.A. § 4024)](https://legislature.vermont.gov/statutes/section/13/085/04024) requires that a child or prohibited person actually gain access *and* either use the gun in a crime, display it threateningly, or cause death or serious injury. On that text, it operates as an access-and-use law.
@@ -3941,11 +3933,11 @@ Some state laws apply only to *loaded* firearms (Iowa's and Maryland's CAP provi
 
 ## How old is a "child" under these laws
 
-The age cutoff decides whether a teenager's access triggers the law, and it isn't always 18. Based on Giffords's age table, cross-checked against statutes where noted:
+The age cutoff decides whether a teenager's access triggers the law, and it isn't always 18. Based on Giffords's age table, with statute citations where given:
 
-- **Under 18:** California, Delaware, District of Columbia, Hawaii, Illinois (raised to all minors under the 2026 law), Maryland, Michigan, Minnesota, Nevada, New Mexico, North Carolina, Rhode Island, Vermont (confirmed in 13 V.S.A. § 4024), and Washington. Massachusetts's enhanced penalties apply when a person under 18 without a firearms ID card could get access (confirmed in § 131L).
+- **Under 18:** California, Delaware, District of Columbia, Hawaii, Illinois (raised to all minors under the 2026 law), Maryland, Michigan, Minnesota, Nevada, New Mexico, North Carolina, Rhode Island, Vermont (per 13 V.S.A. § 4024), and Washington. Massachusetts's enhanced penalties apply when a person under 18 without a firearms ID card could get access (per § 131L).
 - **Under 17:** Texas. [Texas Penal Code § 46.13](https://law.justia.com/codes/texas/penal-code/title-10/chapter-46/section-46-13/) defines a "child" as a person younger than 17.
-- **Under 16:** Florida (confirmed in § 790.174), Maine, New Hampshire, and New Jersey.
+- **Under 16:** Florida (per § 790.174), Maine, New Hampshire, and New Jersey.
 - **Under 14:** Iowa ([Iowa Code § 724.22](https://law.justia.com/codes/iowa/title-xvi/chapter-724/section-724-22/), "a minor under the age of fourteen years") and Wisconsin (Wis. Stat. § 948.55, a person who has not reached age 14).
 
 Virginia has two rules with different ages. Its older law, Va. Code § 18.2-56.2, covers recklessly leaving a loaded, unsecured firearm where it endangers a child under 14. Its 2026 storage law applies to minors present in the residence. A few states without general storage laws (Giffords lists Kentucky, Mississippi, Tennessee, and Utah) use under-18 definitions in narrower laws about providing firearms to minors.
