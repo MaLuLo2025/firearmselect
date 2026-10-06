@@ -3505,13 +3505,13 @@ Individually-owned suppressors can only be legally possessed by the person named
   {
     slug: "self-defense-insurance-comparison-2026",
     title: "Self-Defense Insurance in 2026: What These Policies Actually Cover",
-    excerpt: "USCCA, US Law Shield, CCW Safe, ACLDN, Right to Bear — a framework for comparing what any self-defense insurance policy actually delivers versus what its marketing promises. Five things every policy either does or doesn't.",
+    excerpt: "USCCA, US Law Shield, CCW Safe, Right to Bear — a framework for comparing what any self-defense insurance policy actually delivers versus what its marketing promises. Five things every policy either does or doesn't.",
     metaDescription: "2026 self-defense insurance comparison framework: pre-charge attorney access, civil defense coverage, reimbursement vs pay-directly, coverage limits, exclusions, state validity.",
     category: "Legal Guides",
     categorySlug: "legal-guides",
     publishedAt: "2026-09-21",
     readTime: "9 min read",
-    content: `Self-defense legal insurance is a market that grew from a niche product to a mainstream firearms-community purchase in the last decade. USCCA, US Law Shield, CCW Safe, Armed Citizens Legal Defense Network, Right to Bear, and several smaller providers all sell some version of the same core promise: pay a monthly premium, and if you're ever involved in a self-defense incident, the provider covers your legal defense.
+    content: `Self-defense legal insurance is a market that grew from a niche product to a mainstream firearms-community purchase in the last decade. USCCA, US Law Shield, CCW Safe, Right to Bear, and several smaller providers all sell some version of the same core promise: pay a monthly premium, and if you're ever involved in a self-defense incident, the provider covers your legal defense.
 
 The catch: what "covers your legal defense" actually means varies enormously between providers, and most buyers select on price without reading the coverage details. When the worst week of their lives arrives, they discover their policy doesn't cover what they assumed it did.
 
@@ -3604,9 +3604,7 @@ Not a ranking; a starting point for comparison. Each provider offers multiple ti
 
 **US Law Shield:** Program structured differently from typical insurance — pays for attorney access from moment of incident. Coverage varies by state.
 
-**CCW Safe:** Multiple tiers including "Ultimate" with high caps. Pays defense costs directly, no cap on legal fees on top tier.
-
-**Armed Citizens Legal Defense Network (ACLDN):** Nonprofit member organization structure rather than insurance product. Different coverage model — grants and legal assistance rather than insurance payouts.
+**CCW Safe:** Multiple tiers including "Ultimate" with high caps. Pays defense costs directly, no cap on legal fees on top tier. CCW Safe acquired the Armed Citizens' Legal Defense Network (ACLDN) in July 2025, and former ACLDN members are now CCW Safe members.
 
 **Right to Bear:** Newer entrant with varying tiers.
 
