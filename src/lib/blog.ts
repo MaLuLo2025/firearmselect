@@ -358,12 +358,10 @@ What stand your ground removes is only the procedural requirement to attempt esc
 
 The practical difference is geography:
 
-| | Castle Doctrine | Stand Your Ground |
-|---|---|---|
-| Home | No duty to retreat | No duty to retreat |
-| Vehicle (varies by state) | Often covered | Covered |
-| Workplace (varies by state) | Sometimes covered | Covered |
-| Public spaces | Duty to retreat may still apply | No duty to retreat |
+- Home: no duty to retreat under either doctrine.
+- Vehicle (varies by state): castle doctrine often covers it; stand your ground covers it.
+- Workplace (varies by state): castle doctrine sometimes covers it; stand your ground covers it.
+- Public spaces: under castle doctrine a duty to retreat may still apply; under stand your ground there is no duty to retreat.
 
 In a state with castle doctrine but without stand your ground, a person involved in a confrontation in a public place may still have a legal duty to attempt retreat before using deadly force, if retreat can be accomplished safely.
 

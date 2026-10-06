@@ -1,0 +1,14 @@
+[
+  {
+    "file": "src/lib/blog.ts",
+    "pattern": "self-claim",
+    "contains": "An instructor running a defensive shooting course should be vetted more rigorously",
+    "reason": "Consumer advice on how a reader should evaluate an instructor; not a claim about this directory's vetting."
+  },
+  {
+    "file": "src/lib/blog.ts",
+    "pattern": "price",
+    "contains": "The app costs approximately $30 per year for a single state or $100 for all states.",
+    "reason": "PENDING BACKLOG: onX Hunt subscription price is unverified and undated; verify against onxmaps.com or remove."
+  }
+]
