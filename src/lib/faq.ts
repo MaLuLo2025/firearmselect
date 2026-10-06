@@ -230,7 +230,7 @@ export const faqData: FaqEntry[] = [
     keywords: ["storage", "lock", "state law", "CAP", "child access prevention", "secure storage", "required"],
     category: "Safety & Storage",
     relatedLinks: [
-      { label: "Firearm Storage Laws by State", href: "/blog/firearm-storage-laws-by-state" },
+      { label: "State Storage Laws That Trigger Liability in 2026", href: "/blog/firearm-storage-laws-state-2026" },
       { label: "Safety & Storage Guide", href: "/safety" },
     ],
   },
@@ -242,7 +242,7 @@ export const faqData: FaqEntry[] = [
     keywords: ["secure storage", "locked container", "trigger lock", "cable lock", "biometric safe", "gun safe"],
     category: "Safety & Storage",
     relatedLinks: [
-      { label: "Firearm Storage Laws by State", href: "/blog/firearm-storage-laws-by-state" },
+      { label: "State Storage Laws That Trigger Liability in 2026", href: "/blog/firearm-storage-laws-state-2026" },
       { label: "Safety & Storage Guide", href: "/safety" },
     ],
   },
@@ -254,7 +254,7 @@ export const faqData: FaqEntry[] = [
     keywords: ["child", "minor", "age", "storage", "CAP", "threshold", "teenager"],
     category: "Safety & Storage",
     relatedLinks: [
-      { label: "Firearm Storage Laws by State", href: "/blog/firearm-storage-laws-by-state" },
+      { label: "State Storage Laws That Trigger Liability in 2026", href: "/blog/firearm-storage-laws-state-2026" },
       { label: "Safety & Storage Guide", href: "/safety" },
     ],
   },
@@ -775,7 +775,7 @@ export const faqData: FaqEntry[] = [
     keywords: ["self-defense insurance", "CCW insurance", "legal protection", "coverage", "USCCA", "CCW Safe"],
     category: "Self-Defense Insurance",
     relatedLinks: [
-      { label: "Self-Defense Legal Insurance: Full Guide", href: "/blog/self-defense-legal-insurance" },
+      { label: "Self-Defense Insurance in 2026: What These Policies Cover", href: "/blog/self-defense-insurance-comparison-2026" },
       { label: "State Carry Laws", href: "/carry-laws" },
     ],
   },
@@ -787,7 +787,7 @@ export const faqData: FaqEntry[] = [
     keywords: ["CCW insurance", "carry permit", "constitutional carry", "permitless carry", "coverage requirement"],
     category: "Self-Defense Insurance",
     relatedLinks: [
-      { label: "Self-Defense Legal Insurance: Full Guide", href: "/blog/self-defense-legal-insurance" },
+      { label: "Self-Defense Insurance in 2026: What These Policies Cover", href: "/blog/self-defense-insurance-comparison-2026" },
       { label: "Constitutional Carry States", href: "/carry-laws" },
     ],
   },

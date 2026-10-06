@@ -23,6 +23,21 @@ const securityHeaders = [
 
 const nextConfig = {
   reactStrictMode: true,
+  // 301s for consolidated near-duplicate posts (older slug -> newer survivor).
+  async redirects() {
+    return [
+      {
+        source: '/blog/firearm-storage-laws-by-state',
+        destination: '/blog/firearm-storage-laws-state-2026',
+        statusCode: 301,
+      },
+      {
+        source: '/blog/self-defense-legal-insurance',
+        destination: '/blog/self-defense-insurance-comparison-2026',
+        statusCode: 301,
+      },
+    ];
+  },
   async headers() {
     return [
       {
