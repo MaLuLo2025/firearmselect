@@ -3936,9 +3936,9 @@ Some state laws apply only to *loaded* firearms (Iowa's and Maryland's CAP provi
 The age cutoff decides whether a teenager's access triggers the law, and it isn't always 18. Based on Giffords's age table, with statute citations where given:
 
 - **Under 18:** California, Delaware, District of Columbia, Hawaii, Illinois (raised to all minors under the 2026 law), Maryland, Michigan, Minnesota, Nevada, New Mexico, North Carolina, Rhode Island, Vermont (per 13 V.S.A. § 4024), and Washington. Massachusetts's enhanced penalties apply when a person under 18 without a firearms ID card could get access (per § 131L).
-- **Under 17:** Texas. [Texas Penal Code § 46.13](https://law.justia.com/codes/texas/penal-code/title-10/chapter-46/section-46-13/) defines a "child" as a person younger than 17.
+- **Under 17:** Texas. [Texas Penal Code § 46.13](https://statutes.capitol.texas.gov/Docs/PE/htm/PE.46.htm#46.13) defines a "child" as a person younger than 17.
 - **Under 16:** Florida (per § 790.174), Maine, New Hampshire, and New Jersey.
-- **Under 14:** Iowa ([Iowa Code § 724.22](https://law.justia.com/codes/iowa/title-xvi/chapter-724/section-724-22/), "a minor under the age of fourteen years") and Wisconsin (Wis. Stat. § 948.55, a person who has not reached age 14).
+- **Under 14:** Iowa ([Iowa Code § 724.22](https://www.legis.iowa.gov/docs/code/724.22.pdf), "a minor under the age of fourteen years") and Wisconsin (Wis. Stat. § 948.55, a person who has not reached age 14).
 
 Virginia has two rules with different ages. Its older law, Va. Code § 18.2-56.2, covers recklessly leaving a loaded, unsecured firearm where it endangers a child under 14. Its 2026 storage law applies to minors present in the residence. A few states without general storage laws (Giffords lists Kentucky, Mississippi, Tennessee, and Utah) use under-18 definitions in narrower laws about providing firearms to minors.
 
@@ -3998,7 +3998,7 @@ Across all three groups, the legal question comes down to access: whether a chil
 
 The trend line in state firearm storage law is toward broader requirements, more universal applicability, and stiffer penalties. California SB 53 is the most aggressive current example, but the model — universal storage requirement not conditional on the presence of children, backed by fines and civil liability — is likely to be replicated in other states that follow California's regulatory lead. If your state does not currently require universal locked storage, the odds are non-trivial that it will within the next three to five years.
 
-The compliance investment is not huge. A gun safe with capacity for a small collection runs a few hundred dollars. A biometric handgun safe runs $150 to $400. Trigger locks are $10 to $30. State tax credits offset some of that. The alternative — a California fine of up to $250 for a first violation, a homeowners claim denial for stolen firearms, or worse — is meaningfully more expensive. Get the storage right once, and it works.
+The compliance investment is modest next to the exposure. A safe sized for the collection, a quick-access handgun safe, or cable and trigger locks cover most households, and state tax credits offset some of the cost. The alternative — a California fine of up to $250 for a first violation, a homeowners claim denial for stolen firearms, or worse — can cost considerably more. Get the storage right once, and it works.
 
 ---
 
@@ -4173,7 +4173,7 @@ A violation is a Class C misdemeanor punishable by a fine of up to $200. It beco
 
 ### States where the sign alone is not a crime: Indiana as an example
 
-Many states have no statute giving posted signs criminal effect for carry. Indiana is an example: we found no Indiana statute that makes carrying past a "no weapons" sign a crime in itself. What Indiana does have is a general criminal trespass law. Under [Ind. Code § 35-43-2-2](https://law.justia.com/codes/indiana/title-35/article-43/chapter-2/section-35-43-2-2/), knowingly or intentionally refusing to leave someone's property after being asked to leave by the owner or the owner's agent is a Class A misdemeanor. Practically, a sign tells you the owner's wishes, and the legal exposure starts if you're asked to go and don't.
+Many states have no statute giving posted signs criminal effect for carry. Indiana is an example: as of October 2026, no Indiana statute makes carrying past a "no weapons" sign a crime in itself. What Indiana does have is a general criminal trespass law. Under [Ind. Code § 35-43-2-2](https://law.justia.com/codes/indiana/title-35/article-43/chapter-2/section-35-43-2-2/), knowingly or intentionally refusing to leave someone's property after being asked to leave by the owner or the owner's agent is a Class A misdemeanor. Practically, a sign tells you the owner's wishes, and the legal exposure starts if you're asked to go and don't.
 
 Between those two models sits a wide middle: states that give signs force only if they meet certain size or placement rules, states that make it a minor infraction, and states that treat signs as one form of trespass notice. Because the details vary so much, read your own state's statute (state police or attorney general websites often summarize it) rather than relying on a national chart.
 
@@ -4257,7 +4257,7 @@ Everything else, including adult-use (recreational) marijuana and unlicensed mar
 
 Not automatically, and this is where people get into trouble. Schedule III substances are still controlled substances. The rescheduling rule regulates registrants (growers, dispensaries, practitioners) and does not say anything about firearms or § 922(g)(3). Whether a state medical patient is now a *lawful* user under federal law depends on questions the rule doesn't answer directly, such as how a patient's purchase fits within federal prescription and registration requirements. The statute itself has not been amended.
 
-ATF appears to be moving toward treating state-licensed medical use differently. In May 2026 it published a draft revision of Form 4473 that, according to [NORML](https://norml.org/blog/2026/05/12/atf-posts-draft-document-acknowledging-medical-cannabis-scheduling-change/) and other reporting, drops the warning that medical marijuana use is unlawful and keeps a warning that federal law does not permit recreational use. Comment periods on ATF's May 2026 Form 4473 proposals ran into July and August 2026. As of this writing we could not confirm that a revised form has been finalized or put into use.
+ATF appears to be moving toward treating state-licensed medical use differently. In May 2026 it published a draft revision of Form 4473 that, according to [NORML](https://norml.org/blog/2026/05/12/atf-posts-draft-document-acknowledging-medical-cannabis-scheduling-change/) and other reporting, drops the warning that medical marijuana use is unlawful and keeps a warning that federal law does not permit recreational use. Comment periods on ATF's May 2026 Form 4473 proposals ran into July and August 2026. As of October 2026, no revised form had been confirmed as finalized or in use.
 
 ## What Form 4473 asks today
 
@@ -4287,7 +4287,7 @@ None of the following is permission. It is a description of where the risk sits 
 
 **If you use adult-use (recreational) marijuana regularly**, that marijuana is still Schedule I, the current form still asks, and § 922(g)(3) is still enforceable in cases the government can distinguish from Hemani. Answering "no" on Form 4473 while using regularly creates false-statement exposure regardless of Hemani.
 
-**If you are a state medical-marijuana patient**, your marijuana may now be Schedule III, and ATF's draft form suggests a policy shift. But the statute is unchanged, the current form still treats medical use as unlawful, and we found no announcement withdrawing the 2011 open letter.
+**If you are a state medical-marijuana patient**, your marijuana may now be Schedule III, and ATF's draft form suggests a policy shift. But the statute is unchanged, the current form still treats medical use as unlawful, and, as of October 2026, no announcement withdrawing the 2011 open letter had been published.
 
 **If you used once or occasionally in the past**, ATF's January 2026 definition says isolated or sporadic use does not make you an unlawful user. Even so, the form asks about your status *now*, and how "regular" and "recent" apply to your history is a legal judgment.
 
