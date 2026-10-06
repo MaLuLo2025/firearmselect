@@ -78,10 +78,11 @@ export const faqData: FaqEntry[] = [
     id: "background-check",
     question: "What happens during a background check when I buy a gun?",
     answer:
-      "When you purchase a firearm from a licensed dealer (FFL), you fill out ATF Form 4473 and present government-issued ID. The dealer contacts the FBI's National Instant Criminal Background Check System (NICS), which checks your information against databases of prohibited persons. Results come back as Proceed, Delayed, or Denied. Delays are resolved within three business days in most cases. Private sales between individuals may or may not require a background check depending on state law.",
+      "When you purchase a firearm from a licensed dealer (FFL), you fill out ATF Form 4473 and present government-issued ID. The dealer contacts the FBI's National Instant Criminal Background Check System (NICS), which checks your information against databases of prohibited persons. Results come back as Proceed, Delayed, or Denied. Form 4473 also asks whether you are an unlawful user of, or addicted to, marijuana or other controlled substances, and a false answer is a separate federal offense. See our article on [marijuana use and gun ownership](/blog/marijuana-users-gun-ownership-hemani-2026). Delays are resolved within three business days in most cases. Private sales between individuals may or may not require a background check depending on state law.",
     keywords: ["background check", "NICS", "4473", "form", "FBI", "dealer", "FFL", "private sale"],
     category: "Gun Laws",
     relatedLinks: [
+      { label: "Marijuana Use and Gun Ownership After Hemani", href: "/blog/marijuana-users-gun-ownership-hemani-2026" },
       { label: "State Gun Law Guides", href: "/states" },
     ],
   },
@@ -125,10 +126,11 @@ export const faqData: FaqEntry[] = [
     id: "restricted-locations",
     question: "Where can't I legally carry a firearm?",
     answer:
-      "Federal law prohibits firearms in certain locations regardless of state law, including federal buildings, post offices, and schools (with limited state-law exceptions). Most states add their own restricted locations such as courthouses, bars, polling places, hospitals, and places of worship. Private businesses may also prohibit firearms on their premises. Penalties for carrying in restricted areas can range from misdemeanors to felonies. Always know the specific prohibited locations in your state.",
-    keywords: ["prohibited", "restricted", "carry", "location", "school", "federal building", "church", "bar"],
+      "Federal law prohibits firearms in certain locations regardless of state law, including federal buildings, post offices, and schools (with limited state-law exceptions). Most states add their own restricted locations such as courthouses, bars, polling places, hospitals, and places of worship. Private business owners can also exclude people who are carrying, and how a \"no guns\" sign is treated varies by state. In June 2026 the Supreme Court struck down Hawaii's rule that barred permit holders from carrying onto private property open to the public without the owner's permission, but that ruling left owners' right to prohibit carry and states' sensitive-place lists in place. Penalties for carrying in restricted areas can range from misdemeanors to felonies. Always know the specific prohibited locations in your state. For more, see our article on [Wolford v. Lopez and private property](/blog/wolford-v-lopez-carry-private-property-2026).",
+    keywords: ["prohibited", "restricted", "carry", "location", "school", "federal building", "church", "bar", "private property", "no guns sign"],
     category: "Gun Laws",
     relatedLinks: [
+      { label: "After Wolford: Carrying Into Stores and Restaurants", href: "/blog/wolford-v-lopez-carry-private-property-2026" },
       { label: "State Gun Law Guides", href: "/states" },
       { label: "State Carry Laws", href: "/carry-laws" },
     ],
@@ -226,7 +228,7 @@ export const faqData: FaqEntry[] = [
     id: "state-storage-laws",
     question: "Does my state require me to lock up my guns?",
     answer:
-      "Twenty-six states plus DC have secure storage or child access prevention (CAP) laws. Two states (Massachusetts, Oregon) require all firearms to be locked when not in use. Thirteen states require secure storage only when minors or prohibited persons are present. Eleven states plus DC only impose liability if someone actually gains access to an unsecured firearm. For state-specific requirements, see our article on [storage laws by state](/blog/firearm-storage-laws-state-2026).",
+      "Twenty-six states have secure storage or child access prevention (CAP) laws, and Giffords Law Center also counts DC. Six states (California, Connecticut, Hawaii, Massachusetts, Oregon, and Rhode Island) require firearms to be locked whenever they are not being carried or under your immediate control. Others require secure storage when a child or prohibited person is likely to be able to reach the firearm, and the rest impose liability only after a child actually gets access. Maryland and Vermont are classified differently by the two national trackers; the article explains why. Twenty-four states have no general statewide storage statute. For how each group works, see our article on [storage laws by state](/blog/firearm-storage-laws-state-2026).",
     keywords: ["storage", "lock", "state law", "CAP", "child access prevention", "secure storage", "required"],
     category: "Safety & Storage",
     relatedLinks: [
@@ -238,7 +240,7 @@ export const faqData: FaqEntry[] = [
     id: "secure-storage-definition",
     question: "What counts as \"secure storage\" under state law?",
     answer:
-      "Common requirements include locked containers (gun safes, lockboxes), trigger locks or cable locks, and sometimes storing firearms unloaded with ammunition kept separately. Some states specify minimum lock standards; others accept any lock. Quick-access biometric safes satisfy all state requirements while preserving rapid access for home defense. The specific definition varies by state. See our [storage laws guide](/blog/firearm-storage-laws-state-2026) for details.",
+      "Common requirements include locked containers (gun safes, lockboxes), trigger locks or cable locks, and sometimes storing firearms unloaded with ammunition kept separately. Some states specify minimum lock standards; others accept any lock. Quick-access keypad, combination, or biometric safes are designed to preserve rapid access, but whether a particular device satisfies your state's rule depends on that state's wording (California, for example, requires a DOJ-certified device). The specific definition varies by state. See our [storage laws guide](/blog/firearm-storage-laws-state-2026) for details.",
     keywords: ["secure storage", "locked container", "trigger lock", "cable lock", "biometric safe", "gun safe"],
     category: "Safety & Storage",
     relatedLinks: [
@@ -250,7 +252,7 @@ export const faqData: FaqEntry[] = [
     id: "child-age-storage-law",
     question: "At what age does a child trigger storage requirements?",
     answer:
-      "It varies. Twelve states (including California, Massachusetts, Colorado) define a child as anyone under 18. Florida, New Hampshire, and Texas use age 16. Illinois and Iowa use age 14. The age threshold determines when secure storage laws apply and affects liability if a minor accesses an unsecured firearm. For state-specific age thresholds, see our [storage laws article](/blog/firearm-storage-laws-state-2026).",
+      "It varies. Many storage laws define a child as anyone under 18, including California, Illinois (under its 2026 law), Maryland, and Michigan. Texas uses under 17; Florida, Maine, New Hampshire, and New Jersey use under 16; and Iowa and Wisconsin use under 14. The age threshold determines when secure storage laws apply and affects liability if a minor accesses an unsecured firearm. For state-specific age thresholds, see our [storage laws article](/blog/firearm-storage-laws-state-2026).",
     keywords: ["child", "minor", "age", "storage", "CAP", "threshold", "teenager"],
     category: "Safety & Storage",
     relatedLinks: [
@@ -1060,6 +1062,30 @@ export const faqData: FaqEntry[] = [
     relatedLinks: [
       { label: "How to Find a Good Gunsmith: Full Guide", href: "/blog/how-to-find-a-good-gunsmith" },
       { label: "Find Local Dealers", href: "/dealers" },
+    ],
+  },
+  {
+    id: "marijuana-use-gun-ownership",
+    question: "Can I own or buy a gun if I use marijuana?",
+    answer:
+      "Federal law bars an \"unlawful user\" of a controlled substance from possessing firearms, and marijuana is still a controlled substance under federal law even where a state has legalized it. In June 2026 the Supreme Court held in United States v. Hemani that the ban could not be applied to one regular marijuana user who was not shown to be dangerous, but it did not strike the law down. Form 4473 still asks about marijuana use, and a false answer is a separate crime. This is general information, not legal advice; talk to a lawyer licensed in your state before you buy. See our article on [Hemani and marijuana users](/blog/marijuana-users-gun-ownership-hemani-2026).",
+    keywords: ["marijuana", "cannabis", "unlawful user", "Hemani", "4473", "922(g)(3)", "medical marijuana", "drug"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Marijuana Use and Gun Ownership After Hemani", href: "/blog/marijuana-users-gun-ownership-hemani-2026" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  {
+    id: "private-property-no-guns-signs",
+    question: "Can I carry into a store or restaurant that has a \"no guns\" sign?",
+    answer:
+      "It depends on your state. Property owners can generally exclude people who are carrying, and in some states, such as Texas, a sign meeting statutory requirements carries criminal penalties. In others, a sign is not a crime by itself, but refusing to leave after being asked can be criminal trespass. If an owner or employee asks you to leave, leave. The Supreme Court's June 2026 decision in Wolford v. Lopez struck down Hawaii's rule requiring owners' express permission for permit holders to carry onto property open to the public; it did not remove owners' right to exclude. See our article on [Wolford v. Lopez](/blog/wolford-v-lopez-carry-private-property-2026).",
+    keywords: ["no guns sign", "private property", "Wolford", "store", "restaurant", "trespass", "30.06", "posted"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "After Wolford: Carrying Into Stores and Restaurants", href: "/blog/wolford-v-lopez-carry-private-property-2026" },
+      { label: "State Carry Laws", href: "/carry-laws" },
     ],
   },
 ];

@@ -3510,7 +3510,7 @@ Individually-owned suppressors can only be legally possessed by the person named
     category: "Legal Guides",
     categorySlug: "legal-guides",
     publishedAt: "2026-09-21",
-    readTime: "9 min read",
+    readTime: "13 min read",
     content: `Self-defense legal insurance is a market that grew from a niche product to a mainstream firearms-community purchase in the last decade. USCCA, US Law Shield, CCW Safe, Right to Bear, and several smaller providers all sell some version of the same core promise: pay a monthly premium, and if you're ever involved in a self-defense incident, the provider covers your legal defense.
 
 The catch: what "covers your legal defense" actually means varies enormously between providers, and most buyers select on price without reading the coverage details. When the worst week of their lives arrives, they discover their policy doesn't cover what they assumed it did.
@@ -3563,14 +3563,7 @@ A serious self-defense case can consume $250,000-$1,000,000+ in legal fees. Poli
 
 ### 5. Exclusions
 
-Every policy excludes certain incidents. Common exclusion categories:
-
-- Incidents involving alcohol or controlled substances above stated limits
-- Incidents outside the home when the insured did not have a lawful carry permit
-- Incidents involving illegal-to-possess firearms (unlawful modifications, prohibited-person status)
-- Incidents that occurred during commission of another crime by the insured
-- Intentional acts that a reasonable person would not consider self-defense
-- Incidents in states with which the provider has no legal representation network
+Every policy excludes certain incidents, and the list differs by plan. The most common categories are covered in the "Common exclusions" section below.
 
 Read the exclusions section carefully. The exclusion that eliminates your coverage in a real incident is the one you didn't notice.
 
@@ -3596,6 +3589,68 @@ Self-defense insurance is not universally legal in all states. A few states clas
 
 A policy that isn't valid in the state where the incident occurs provides no coverage.
 
+## What these plans actually are
+
+"Concealed carry insurance" is a marketing term. The products sold under that name fall into two broad legal categories, and many buyers don't realize which one they have.
+
+**Membership or prepaid legal-services plans.** You pay a membership fee, and the organization agrees to provide, or pay for, legal representation and related services if you're involved in a self-defense incident. Some of these are structured as prepaid legal services in which attorneys or a law firm provide the coverage directly. Others are membership organizations that pay for a member's defense out of their own funds.
+
+**Licensed insurance.** An insurance company admitted in your state issues a policy, often through a membership organization that markets it. In that case the policy is regulated by your state's insurance department, and the insurer has to follow state rules on policy forms, claims handling, and solvency.
+
+**Why the difference matters:**
+
+- **Regulatory protection.** Insurance policies are reviewed and supervised by state regulators, and you can complain to your state insurance department. Membership contracts usually aren't, so your protection is mostly the contract itself and the organization's reputation and finances.
+- **What the law allows to be covered.** Some states restrict insurance for intentional acts or criminal defense. The Washington Insurance Commissioner [fined the USCCA $100,000 in 2019](https://www.kiro7.com/news/local/insurance-commissioner-fines-us-concealed-carry-association-100-000/999906742/) after finding it had sold unauthorized insurance in the state, including coverage for criminal defense costs. The USCCA had already stopped sales there and agreed to pay. In 2020, New York's Department of Financial Services [reached a $2.5 million settlement with the NRA](https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202011181) over its former Carry Guard program, stating that "under New York law, intentional acts cannot be insured." The Washington regulator also [fined the Armed Citizens' Legal Defense Network](https://insurance.wa.gov/news/superior-court-lewis-county-upholds-kreidlers-fine-orders-against-armed-citizens-legal-defense) for acting as an unauthorized insurer, and a state court upheld that order. These are older actions, and programs have restructured since, but they show why a plan may be offered differently, or not at all, in some states.
+- **Discretion.** Some membership plans reserve discretion over whether to fund a defense, or condition funding on a review of the incident. A licensed policy has its own exclusions, but its terms are fixed in a filed form.
+
+The practical takeaway: read the actual contract or policy, not the marketing summary, and check how the plan is offered in *your* state.
+
+## What coverage typically includes
+
+Plans bundle some combination of the following. Limits, conditions, and whether each item is included at all vary widely by provider and tier.
+
+- **Criminal defense.** Attorney fees if you're charged after using force in self-defense. This is the core of most plans, and some tiers cap it while others don't.
+- **Civil defense.** Defense costs if you're sued by the person you used force against or their family. A civil suit can follow even when no criminal charges are filed, or after an acquittal.
+- **Civil damages or liability coverage.** Some plans also pay a judgment or settlement, not just defense costs. Many don't. Insurance-based plans are more likely to include this.
+- **Bail.** Funding or a bond for bail, often with a separate cap and sometimes with conditions on how quickly it's available.
+- **24/7 attorney or incident hotline.** Immediate access to someone who can advise you right after an incident, including on what to say to police.
+- **Expert witnesses and investigators.** Self-defense trials often depend on use-of-force experts, forensic analysis, and investigation. Some plans cover these inside the legal-fee limit, and some cover them separately.
+- **Incident-related expenses.** Depending on the plan, this can include compensation for time in court, crime-scene cleanup, replacement of a firearm held as evidence, or counseling.
+
+## Distinctions that matter when you compare
+
+Two plans with similar headline limits can behave very differently when you need them. These are the questions worth asking each provider in writing:
+
+**Up-front payment or reimbursement?** Does the plan pay your lawyer as the case proceeds, or reimburse you after it ends (and sometimes only if you're acquitted)? Many criminal defense lawyers require a retainer up front, and reimbursement doesn't help with that.
+
+**Separate criminal and civil limits.** Is there one combined limit or separate limits for criminal defense, civil defense, and civil damages? A large criminal case can use up a combined limit before a civil suit even starts.
+
+**Plea agreements.** What happens if you accept a plea, especially to a lesser or non-violent charge? Some plans have treated a plea as a conviction that ends or claws back coverage. Ask specifically.
+
+**Choice of attorney.** Can you use a lawyer you choose, or only one from the plan's network? If you can choose, is there a cap on hourly rates?
+
+**Extreme Risk Protection Orders (ERPOs).** If you live in a state with a "red flag" law, does the plan cover representation in an ERPO proceeding, which isn't a self-defense incident at all?
+
+**Permitless carry.** If you carry without a permit under your state's permitless carry law, does the plan require a valid carry permit? Does it cover you when you travel to a state where you need one?
+
+**Weapons and locations.** Does coverage extend to firearms other than handguns, to non-firearm weapons, and to incidents at home, in a vehicle, or at work? Are some locations excluded?
+
+**Who decides.** Does the plan decide whether your use of force was justified before it funds your defense? What happens to coverage if a prosecutor charges you?
+
+## Common exclusions
+
+Exclusions vary by plan, but these come up often:
+
+- **Incidents involving alcohol or drugs**, sometimes defined by a specific blood-alcohol level.
+- **Use of force while committing another crime**, or force that wasn't self-defense (an accident, a negligent discharge, or an incident the plan concludes was intentional aggression).
+- **Carrying where it's prohibited**, such as places where state or federal law bars firearms. A violation can void coverage for an incident there.
+- **Incidents before you joined**, or during a waiting period after enrollment.
+- **Family or household disputes**, which some plans exclude or limit.
+- **Non-defense legal matters**, such as storage violations, transport violations, or administrative license actions, unless the plan specifically adds them.
+- **Conviction or plea clawbacks**, where the plan can recover what it paid if you're found guilty or plead guilty.
+
+Read the exclusions section of the actual contract. The marketing page summarizes benefits, and the contract is what sets the limits.
+
 ## The specific-provider landscape (as of 2026)
 
 Not a ranking; a starting point for comparison. Each provider offers multiple tiers, so verify the specific tier's terms — the differences within a provider can be as significant as between providers.
@@ -3609,6 +3664,27 @@ Not a ranking; a starting point for comparison. Each provider offers multiple ti
 **Right to Bear:** Newer entrant with varying tiers.
 
 Every one of these providers has terms that would surprise a buyer who only read the marketing. Read the actual policy document, not the sales page.
+
+## Deciding whether you need it
+
+There's no single right answer. It's a risk-management decision, much like deciding how much umbrella liability coverage to carry.
+
+**Factors that point toward getting coverage:**
+
+- You carry often, in public, in places where a confrontation is more likely.
+- Your state's self-defense law or prosecutorial climate makes charges after a defensive shooting more likely.
+- You couldn't afford a retainer for a serious felony defense, or a civil suit, out of savings.
+- You value immediate access to an attorney after an incident.
+
+**Factors that may point the other way:**
+
+- You rarely carry, or keep a firearm only at home.
+- You already have a relationship with a criminal defense lawyer and the means to pay a retainer.
+- The plans offered in your state exclude situations that matter most to you.
+
+**If you decide to buy, check three things before you pay:** how the plan pays (up front or by reimbursement), how it handles pleas and conviction clawbacks, and whether it's offered as insurance or as a membership in your state. Then keep the plan's hotline number with your carry permit or on your phone. The plan does you little good if you can't reach it right after an incident.
+
+None of these plans replaces knowing your state's self-defense law, including when force is justified, when you have a duty to retreat, and what to do and say afterward.
 
 ## The single most important question
 
@@ -3755,7 +3831,7 @@ Occasionally an interstate transfer hits a problem. The most common are:
     category: "State Laws",
     categorySlug: "state-laws",
     publishedAt: "2026-09-28",
-    readTime: "9 min read",
+    readTime: "17 min read",
     content: `*This article reflects state firearm storage laws as of publication in September 2026. State storage requirements have expanded materially in 2025-2026 and continue to shift. Confirm current requirements with your state's Attorney General or Department of Justice, or Giffords Law Center, before relying on this information.*
 
 Storage requirements for firearms in the home used to be a footnote in most state gun laws. The federal rule required a "secure gun storage or safety device" to be sold with new handguns; state laws were mostly limited to child access prevention statutes that imposed liability only if a minor actually gained access and something happened. In the last two years, a group of states rewrote that baseline. California's SB 53, effective January 1, 2026, is the most aggressive expansion in the country: every firearm in every California home must be locked whenever it is not being carried or under the owner's direct control. No incident required. No child in the home required.
@@ -3768,7 +3844,7 @@ California enacted SB 53 in 2024. It took effect **January 1, 2026**, and it is 
 
 "Secure storage" under SB 53 means one of two things: the firearm is kept in a Department of Justice-certified firearm safety device such as a hard-sided lockbox or safe, or the firearm is secured with a DOJ-approved locking device such as a cable or trigger lock. Either satisfies the statute. The Attorney General sets minimum safety standards for both categories.
 
-Penalties for a first or second violation are infractions carrying fines up to $500. Repeated or aggravated violations can escalate. Separately, California's Child Access Prevention statute continues to impose civil liability on parents and guardians when a minor accesses an unsecured firearm — damages capped at $30,000 per victim and $60,000 total.
+California's penalty tiers are listed in the penalties section below. Separately, California's Child Access Prevention statute continues to impose civil liability on parents and guardians when a minor accesses an unsecured firearm — damages capped at $30,000 per victim and $60,000 total.
 
 California offers a state tax credit of up to $300 toward the purchase of a qualifying gun safe or firearm safety device, which offsets a meaningful share of the compliance cost for a household with a few firearms.
 
@@ -3778,17 +3854,17 @@ The exemptions under SB 53 are narrow. Storage requirements do not apply if the 
 
 California is not alone. Two other states expanded their storage rules in 2026.
 
-**Illinois** strengthened its child access prevention framework effective January 1, 2026. A general violation of the storage requirement carries a civil fine of up to $500. If a minor or prohibited person gains access to the firearm, the fine rises to $1,000. If the person causes injury, death, or commits a crime with the firearm, penalties can reach $10,000 in civil fines, in addition to any criminal charges.
+**Illinois** strengthened its child access prevention framework effective January 1, 2026. Its penalty tiers are listed in the penalties section below.
 
 **Virginia** enacted a new storage requirement in 2026 requiring any person who possesses a firearm in a residence where they know a minor or prohibited person is present to either store the firearm in a locked container, compartment, or cabinet inaccessible to the minor or prohibited person, or render the firearm incapable of being fired by use of a gun locking device. The Virginia rule is narrower than California's — it is triggered by the presence of a minor or prohibited person rather than applying at all times — but it is a real expansion from the prior Virginia framework, which was largely limited to reckless-leaving provisions.
 
-Beyond these three, the storage landscape as of 2026 has thirty-five states plus DC with some form of child access prevention or safe storage law. The most stringent rules currently sit in California, Massachusetts, Maryland, and Minnesota — states that impose criminal liability when a minor is merely likely to gain access to a negligently stored firearm, without requiring proof of actual access or injury.
+Beyond these three, 26 states have some form of child access prevention or safe storage law, and Giffords Law Center also counts the District of Columbia. The next section sorts them by when the duty to lock up a firearm applies. Several states with long-standing rules are summarized here.
 
-**Massachusetts** requires all firearms to be stored in a locked container or equipped with a tamper-resistant safety device when not carried by or under the immediate control of the owner. A violation can result in fines up to $5,000 and up to two and a half years imprisonment for the most serious cases.
+**Massachusetts** requires all firearms to be stored in a locked container or equipped with a tamper-resistant safety device when not carried by or under the immediate control of the owner.
 
-**Maryland** requires all firearms to be stored unloaded and in a locked container or with a locking device, or otherwise inaccessible, whenever an unsupervised minor is present.
+**Maryland**'s child-access provision (Md. Crim. Law § 4-104) applies where the owner knew or should have known that an unsupervised minor has access to a loaded firearm. The two national trackers classify it differently, as explained below.
 
-**Minnesota** requires firearms to be stored in a locked container when not on the person of the owner, in the presence of an unsupervised minor.
+**Minnesota** is classified by both trackers as a state where liability can attach when a child is likely to gain access to a firearm.
 
 **New York** strengthened its safe storage law in 2022, requiring storage in a safe storage depository or with a gun locking device when the person resides with a minor or someone otherwise prohibited from firearm possession.
 
@@ -3816,7 +3892,7 @@ For a household with more than one or two firearms, "locked storage for every fi
 
 **A single large gun safe** that holds all long guns and most handguns, kept in a location accessible to lawful users but not to visitors, guests, or children. Look for safes with pry resistance, fire rating appropriate to your area, and either a mechanical dial or a high-quality electronic lock with a mechanical override.
 
-**Individual quick-access handgun safes** for firearms kept for home defense. Biometric or keypad access is common. The point of these is that a firearm can be accessed by a lawful user in seconds but is locked otherwise. Under California SB 53, this satisfies the "readily controlled by the person" carve-out because the lock is a DOJ-certified device.
+**Individual quick-access handgun safes** for firearms kept for home defense. Biometric or keypad access is common. The point of these is that a firearm can be accessed by a lawful user in seconds but is locked otherwise. Under California SB 53, this satisfies the storage duty when the safe is a DOJ-certified device.
 
 **Trigger locks or cable locks** for firearms that are stored longer-term and do not need quick access. These are the cheapest compliant option and are often provided with new firearms.
 
@@ -3836,11 +3912,101 @@ The compliance question is state-specific. Three sources are worth checking dire
 
 If you have moved between states recently, or if you have firearms stored at a second residence in a different state, check the rules for both. Storage law compliance is measured at the location of the firearm, not the residence of the owner.
 
+## The three kinds of storage laws
+
+State storage laws fall into three broad groups, depending on *when* the duty to lock up a firearm applies. The groupings below come from two national trackers, the [Giffords Law Center](https://giffords.org/lawcenter/gun-laws/policy-areas/child-consumer-safety/child-access-prevention-and-safe-storage/) (page updated September 30, 2026) and [Everytown Research](https://everytownresearch.org/rankings/law/secure-storage-required/) (updated January 14, 2026), cross-checked against state statutes where we could reach them. Both trackers count **26 states** with some form of secure-storage or child-access-prevention (CAP) law. Giffords also counts the District of Columbia. As of October 2026, the remaining 24 states have no general statewide storage statute.
+
+**1. All-times (or "unattended") storage.** The firearm must be locked up or disabled whenever it isn't being carried or kept under the owner's immediate control, whether or not anyone else is around. Both trackers list the same six states: **California, Connecticut, Hawaii, Massachusetts, Oregon, and Rhode Island.** California joined this group when SB 53 took effect on January 1, 2026.
+
+**2. Presence- or knowledge-triggered storage.** The duty kicks in when you know, or reasonably should know, that a child (and in some states a prohibited or at-risk person) is likely to be able to get to the gun. You can violate these laws even if nobody actually touches the firearm. Both trackers place **Colorado, Illinois, New York, and Virginia** here. Everytown also lists **Minnesota and Nevada** in this group, and Giffords classifies both as states where liability attaches when a child "is likely to" (Minnesota) or "may" (Nevada) gain access. Illinois's version took effect January 1, 2026 ([Public Act 104-0031](https://www.ilga.gov/ftp/legislation/104/BillStatus/HTML/10400SB0008.html)). Virginia's took effect July 1, 2026 and applies when the owner knows a minor or prohibited person is present in the residence.
+
+**3. Access-triggered child-access-prevention.** Criminal liability attaches only after a child actually gets the gun, and in many of these states only after the child carries, displays, or uses it. Storing a gun carelessly is not, by itself, a crime. Both trackers place these states here: **Delaware, Florida, Iowa, Maine, Michigan, New Hampshire, New Jersey, New Mexico, North Carolina, Texas, Washington, and Wisconsin.** Within this group the trigger varies. In Texas, the child gaining access is enough. In Florida, Iowa, and Wisconsin, the child generally must display or use the firearm, or someone must be hurt.
+
+**Where the sources disagree.** Two states are classified differently by the two trackers, so we've left them out of the lists above:
+
+- **Maryland.** Everytown treats it as triggered when a child "may or is likely to" gain access. Giffords treats it as triggered when a child gains access. The statute (Md. Crim. Law § 4-104) prohibits leaving a loaded firearm where the owner "knew or should have known that an unsupervised minor has access to the firearm," and that wording can support either reading.
+- **Vermont.** Giffords lists Vermont with the "likely to gain access" states. Everytown lists it as access-triggered. [The statute itself (13 V.S.A. § 4024)](https://legislature.vermont.gov/statutes/section/13/085/04024) requires that a child or prohibited person actually gain access *and* either use the gun in a crime, display it threateningly, or cause death or serious injury. On that text, it operates as an access-and-use law.
+
+Giffords lists Hawaii in both the all-times group and its access-triggered child-access list, while Everytown lists it only as all-times. Giffords's age table also includes several states without a general storage law (see the next section), reflecting narrower laws about providing firearms to minors that neither tracker counts as a storage law.
+
+## What "secure storage" usually means
+
+Most statutes accept one of a few methods, and the details are set by each state:
+
+- **A locked container.** This means a safe, lockbox, or similar container that only the owner or another authorized person can open. Florida's statute, for example, accepts "a securely locked box or container or ... a location which a reasonable person would believe to be secure" ([Fla. Stat. § 790.174](https://www.flsenate.gov/Laws/Statutes/2025/790.174)).
+- **A locking device on the gun itself.** Massachusetts accepts a "tamper-resistant mechanical lock or other safety device, properly engaged so as to render such firearm inoperable" by anyone but the owner or an authorized user ([M.G.L. c. 140, § 131L](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140/Section131L)). Iowa's law accepts a trigger lock.
+- **Certified devices.** California requires the firearm to be kept in, locked by, or disabled with a California DOJ-certified firearm safety device or a secure gun safe.
+
+Some state laws apply only to *loaded* firearms (Iowa's and Maryland's CAP provisions are written that way). Others apply to any firearm. Virginia's 2026 law says that if a loaded firearm is stored, it must be kept in a container with a combination, coded, or biometric lock that a minor can't get into. If you keep a defensive firearm loaded, check whether your state treats loaded and unloaded storage differently.
+
+## How old is a "child" under these laws
+
+The age cutoff decides whether a teenager's access triggers the law, and it isn't always 18. Based on Giffords's age table, cross-checked against statutes where noted:
+
+- **Under 18:** California, Delaware, District of Columbia, Hawaii, Illinois (raised to all minors under the 2026 law), Maryland, Michigan, Minnesota, Nevada, New Mexico, North Carolina, Rhode Island, Vermont (confirmed in 13 V.S.A. § 4024), and Washington. Massachusetts's enhanced penalties apply when a person under 18 without a firearms ID card could get access (confirmed in § 131L).
+- **Under 17:** Texas. [Texas Penal Code § 46.13](https://law.justia.com/codes/texas/penal-code/title-10/chapter-46/section-46-13/) defines a "child" as a person younger than 17.
+- **Under 16:** Florida (confirmed in § 790.174), Maine, New Hampshire, and New Jersey.
+- **Under 14:** Iowa ([Iowa Code § 724.22](https://law.justia.com/codes/iowa/title-xvi/chapter-724/section-724-22/), "a minor under the age of fourteen years") and Wisconsin (Wis. Stat. § 948.55, a person who has not reached age 14).
+
+Virginia has two rules with different ages. Its older law, Va. Code § 18.2-56.2, covers recklessly leaving a loaded, unsecured firearm where it endangers a child under 14. Its 2026 storage law applies to minors present in the residence. A few states without general storage laws (Giffords lists Kentucky, Mississippi, Tennessee, and Utah) use under-18 definitions in narrower laws about providing firearms to minors.
+
+## Penalties and civil exposure
+
+Penalties range from a civil fine to a felony-level sentence, and they usually climb if a child is hurt. Some examples, taken from the statutes and the summaries cited above:
+
+- **California (all-times storage):** up to $250 for a first violation, $500 for a second, and a misdemeanor for a third or later violation. Separately, California's "criminal storage" offenses (Penal Code § 25100) are graded in three degrees depending on whether a child gained access and whether anyone was injured.
+- **Massachusetts:** a fine of $1,000 to $7,500 and/or up to 1½ years for an ordinary firearm, with higher ranges for large-capacity weapons and when a minor could gain access.
+- **Illinois (2026):** up to $500, up to $1,000 if an unauthorized person obtains the firearm, and up to $10,000 if it is used to injure, kill, or commit a crime.
+- **Vermont:** up to 1 year and/or $1,000, or up to 5 years and/or $5,000 if someone is killed or seriously injured.
+- **Texas:** a Class C misdemeanor, rising to Class A if the child discharges the firearm and causes death or serious bodily injury.
+- **Florida:** a second-degree misdemeanor.
+- **Maryland:** a misdemeanor with a fine of up to $1,000, according to a 2026 legislative fiscal note. A 2026 bill proposed adding jail time, so current law may differ.
+
+In states without a storage statute, prosecutors may still use general child-endangerment, negligence, or manslaughter laws after a tragedy. Not having a storage law doesn't mean there's no exposure.
+
+**Civil liability** is a separate track. A person injured with your firearm, or their family, may sue for negligence regardless of whether a criminal statute applies. In some states, a storage-law violation can be used as evidence of negligence or recklessness. Massachusetts's statute, for example, says a violation is evidence of wanton or reckless conduct in certain cases.
+
+**Homeowner's or renter's insurance:** Don't assume your policy will cover a storage-related claim. Liability policies commonly exclude intentional or criminal acts, and how an insurer treats a negligent-storage claim depends on the policy language and state law. Read your policy, and ask your agent directly if it matters to you.
+
+## The "immediate control" exception
+
+Every all-times law, and most of the others, has an exception for a firearm you are carrying or that is close enough for you to control. The wording varies:
+
+- **California** exempts firearms that are carried or "readily controlled," meaning the owner or authorized user is "within close enough proximity to the firearm to readily prevent unauthorized users from gaining access."
+- **Massachusetts** exempts a firearm "carried by or under the control of" the owner or another lawfully authorized user.
+- **Vermont** exempts a firearm "carried by or within such close proximity that it can be readily retrieved and used by the owner or another authorized user."
+
+These standards depend on the facts. A firearm in your holster is plainly under your control. A pistol on the nightstand while you sleep, or a rifle in a room you've left, is the kind of situation where a prosecutor and a defense lawyer could reasonably disagree. A firearm on your person or in a quick-access container is the clearest case under these exceptions.
+
+## Visitors, vehicles, and other edge cases
+
+**Visitors.** In presence-triggered states, the question is whether you know or should know that a child or prohibited person is likely to be able to reach the gun. A visit from grandchildren, a teenager's friends sleeping over, or a relative who can't legally possess firearms can create a duty that doesn't exist on an ordinary day. Virginia's 2026 law is written around who is present in the residence. In all-times states, visitors don't change anything because the duty already applies.
+
+**Vehicles: California.** [Penal Code § 25140](https://california.public.law/codes/penal_code_section_25140) requires anyone leaving a handgun in an unattended vehicle to lock it in the trunk, in a locked container placed out of plain view, in a locked container permanently fixed to the vehicle and out of plain view, or in a locked toolbox or utility box. A glove compartment or utility compartment does not count as a "locked container." A violation is an infraction with a fine of up to $1,000.
+
+**Vehicles: Massachusetts.** The rules are structured differently. A licensed carrier with a loaded firearm in a vehicle must keep it under their "direct control," and a large-capacity rifle or shotgun in a vehicle must be unloaded and "secured in a locked container" ([M.G.L. c. 140, § 131C](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140/Section131C)). Unlike California's, Massachusetts's definition of a secured locked container includes, in an unoccupied vehicle, "a locked trunk not accessible from the passenger compartment, a locked console or locked glovebox" ([§ 121](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140/Section121)). For non-large-capacity rifles and shotguns left in an unattended vehicle, local police guidance says the gun must be locked in a case or the trunk, or fitted with a locking device.
+
+**Vehicles: elsewhere.** Oregon's storage legislation treats a handgun left unattended in a vehicle and visible from outside as *not* secured. Many states have no vehicle storage rule at all, but a gun stolen from a car can still lead to civil claims and, in some states, reporting duties.
+
+**Lost and stolen firearms.** Some storage laws come paired with theft-reporting deadlines. Illinois's Safe Gun Storage Act, for example, includes a requirement to report a lost or stolen firearm to local law enforcement within 48 hours.
+
+## Practical compliance
+
+A few approaches satisfy the law in nearly every state while keeping a defensive firearm reasonably accessible:
+
+- **A quick-access container for the one gun you want close.** Keypad, combination, or biometric safes sized for a single handgun are designed for this. If you choose a biometric model, also make sure it has a reliable backup (code or key) and that you've practiced opening it.
+- **A larger locked safe or cabinet for everything else.** Keeping long guns and firearms you aren't using in a single locked container makes compliance simple.
+- **Locks for firearms that stay out.** A cable or trigger lock satisfies many statutes when it's properly engaged. In California, use a DOJ-certified device.
+- **A plan for the car.** If you carry, decide in advance where the firearm goes when you have to leave it in the vehicle, and make sure that method meets your state's rule. Remember that California doesn't accept a glovebox.
+- **A plan for guests.** In presence-triggered states, think about who is coming over (children, teens, anyone who can't legally possess firearms) and lock up before they arrive.
+
+Across all three groups, the legal question comes down to access: whether a child or a person barred from having firearms could reach the gun.
+
 ## The trajectory
 
 The trend line in state firearm storage law is toward broader requirements, more universal applicability, and stiffer penalties. California SB 53 is the most aggressive current example, but the model — universal storage requirement not conditional on the presence of children, backed by fines and civil liability — is likely to be replicated in other states that follow California's regulatory lead. If your state does not currently require universal locked storage, the odds are non-trivial that it will within the next three to five years.
 
-The compliance investment is not huge. A gun safe with capacity for a small collection runs a few hundred dollars. A biometric handgun safe runs $150 to $400. Trigger locks are $10 to $30. State tax credits offset some of that. The alternative — a $500 California fine for the first violation, a homeowners claim denial for stolen firearms, or worse — is meaningfully more expensive. Get the storage right once, and it works.
+The compliance investment is not huge. A gun safe with capacity for a small collection runs a few hundred dollars. A biometric handgun safe runs $150 to $400. Trigger locks are $10 to $30. State tax credits offset some of that. The alternative — a California fine of up to $250 for a first violation, a homeowners claim denial for stolen firearms, or worse — is meaningfully more expensive. Get the storage right once, and it works.
 
 ---
 
@@ -3935,6 +4101,218 @@ For an owner in a state without a ban, the practical position is straightforward
 ---
 
 *Looking to purchase an FRT, binary trigger, or similar device? Browse [our dealer directory](/dealers) to find dealers near you.*`,
+  },
+  {
+    slug: "wolford-v-lopez-carry-private-property-2026",
+    title: "After Wolford: Can You Carry Into a Store, Restaurant, or Gas Station?",
+    excerpt: "The Supreme Court struck down Hawaii's rule that barred permit holders from carrying on private property open to the public unless the owner said yes. Here's what Wolford v. Lopez changed, what it left alone, and how 'no guns' signs work in practice.",
+    metaDescription: "Wolford v. Lopez struck down Hawaii's no-carry default for businesses open to the public. What changed, what didn't, and how no-guns signs work.",
+    category: "Legal Update",
+    categorySlug: "legal-update",
+    publishedAt: "2026-10-05",
+    readTime: "8 min read",
+    content: `*This article reflects federal and state law as of October 2026. Laws in this area change frequently; verify current law in your state before relying on it. This is general information, not legal advice.*
+
+If you hold a carry permit in Hawaii, the answer to "can I walk into the gas station with my handgun?" changed on June 25, 2026. For permit holders everywhere else, the more useful question is what the Supreme Court's reasoning means for the handful of states that wrote similar rules, and what it does not change about signs, property owners, and the long lists of places where carry is still off-limits.
+
+## What Wolford v. Lopez decided
+
+In [Wolford v. Lopez](https://www.supremecourt.gov/opinions/25pdf/609us1r58_a8cf.pdf) (No. 24-1046), argued January 20, 2026 and decided June 25, 2026, the Court held 6–3 that "Hawaii's law prohibiting licensed concealed-carry permit holders from carrying handguns on private property open to the public without the property owner's express authorization violates the Second and Fourteenth Amendments."
+
+Justice Alito wrote for the majority, joined by Chief Justice Roberts and Justices Thomas, Gorsuch, Kavanaugh, and Barrett. Justice Barrett also wrote a concurrence, joined in part by Justices Thomas and Gorsuch. Justice Kagan dissented, and Justice Jackson dissented in an opinion joined by Justice Sotomayor. The Court reversed the Ninth Circuit and sent the case back for further proceedings.
+
+### The rule that was struck down
+
+Hawaii's 2023 law (Act 52, now codified as Haw. Rev. Stat. § 134-9.5) flipped the traditional default. Under the common-law rule the Court described, opening a business to the public carries an implied license for people to enter unless the owner gives notice otherwise. Hawaii's law said the opposite for licensed carriers: you could not enter or remain on another person's private property while carrying unless the owner gave **express authorization**, either through "clear and conspicuous signage" or unambiguous written or verbal permission. Violating it was a misdemeanor.
+
+The practical effect was that a permit holder running errands needed an affirmative "yes" at every store, restaurant, and gas station, and the majority noted that many owners would be reluctant to post a pro-carry sign for fear of alienating customers. The majority concluded that this default had no adequate historical analogue under the test from [New York State Rifle & Pistol Ass'n v. Bruen](https://www.supremecourt.gov/opinions/21pdf/20-843_7j80.pdf), which our [overview of the Second Amendment after Bruen](/blog/second-amendment-after-bruen) walks through.
+
+### The dissents' view
+
+The dissents saw the case differently. Justice Kagan pointed to colonial-era laws that protected landowners against armed trespassers. Justice Jackson characterized Hawaii's rule as a property-law default rather than a gun regulation, and argued the state was entitled to strike that balance. Those views did not carry the day, but they help explain why the Court's holding is drawn narrowly: it addresses the *default rule*, not a property owner's right to say no.
+
+## What Wolford did not change
+
+This is the part that matters most day to day.
+
+### Property owners can still prohibit carry
+
+The majority said so plainly: "Owners of establishments that are open to the public can admit or exclude persons who are carrying guns for self-defense under either the common-law rule or Hawaii's law." Wolford moves the *starting presumption* back to "allowed unless the owner says otherwise." It does not create a right to carry onto someone's property over the owner's objection.
+
+Advocates on both sides agree on this point. [Everytown's explainer](https://www.everytown.org/wolford-v-lopez-second-amendment-scotus-decision-explained/) notes that Hawaii's law still applies to private property that is not open to the public, and that nobody has a right to bring a gun into your home without permission.
+
+### Sensitive-places laws are a separate question
+
+Wolford did not rule on "sensitive places" lists, such as schools, government buildings, polling places, hospitals, or parks. Hawaii has its own list of prohibited locations that sits alongside the private-property rule, and the Court treated it separately. The majority opinion quotes the familiar line from *District of Columbia v. Heller* that nothing in that case should cast doubt on "laws forbidding the carrying of firearms in sensitive places such as schools and government buildings."
+
+So the patchwork of state sensitive-places laws, and federal rules like [18 U.S.C. § 930](https://www.law.cornell.edu/uscode/text/18/930) (which bars firearms in most federal facilities, meaning buildings where federal employees regularly work), stays in place unless and until a court rules otherwise. Litigation over those lists continues in several circuits, and in August 2026 the U.S. Department of Justice [sued Montgomery County, Maryland](https://www.justice.gov/opa/pr/justice-department-sues-montgomery-county-md-violating-supreme-courts-wolford-decision), alleging that a county carry ordinance violates the Second Amendment as read in Wolford. That suit is an allegation, not a ruling.
+
+### You still need a permit where your state requires one
+
+Wolford concerned *licensed* carriers. The Court described Hawaii's licensing requirements at length and did not strike them down. If your state requires a permit to carry, or if you are traveling and relying on reciprocity, those rules still apply. Our guide to [concealed carry reciprocity](/blog/concealed-carry-reciprocity-states) covers how permits travel, and [open carry vs. concealed carry](/blog/open-carry-vs-concealed-carry-laws) covers the separate rules for how you carry.
+
+## Which other states had similar rules?
+
+The Court noted that after Bruen, several of the states whose licensing laws were singled out in that decision "flipped this default rule." Alongside Hawaii's statute, the opinion cited four others:
+
+- **California** (Penal Code § 26230(a)(26)): In September 2024 the Ninth Circuit concluded the provision was likely unconstitutional, leaving a preliminary injunction against it in place.
+- **New York** (Penal Law § 265.01-d(1)): The Second Circuit held the provision likely unconstitutional as applied to private property open to the public (*Antonyuk* litigation).
+- **Maryland** (Crim. Law § 6-411(d)): The Fourth Circuit struck down the default rule in *Kipke v. Moore* (January 2026), while upholding a number of other location restrictions.
+- **New Jersey** (N.J. Stat. Ann. § 2C:58-4.6(a)(24)): A district court's preliminary injunction against the provision as applied to property open to the public was upheld by a Third Circuit panel. The full Third Circuit then granted rehearing en banc of the broader case, which is pending. Challengers argued in a July 2026 brief that Wolford settles the issue.
+
+In other words, the private-property defaults in California, New York, and Maryland were already blocked or struck down by federal appeals courts before Wolford, and New Jersey's was enjoined while the appeal continued. Wolford gives those rulings a clear Supreme Court foundation. But how each state's statute is formally treated now depends on its own litigation and any legislative response, so check current status in your state rather than assuming. Maryland's Attorney General, for example, [issued a statement](https://oag.maryland.gov/News/Pages/Statement-from-Attorney-General-Brown-on-Supreme-Court-of-the-United-States-Ruling-in-Wolford-v.-Lopez-.aspx) disagreeing with the decision while acknowledging the ruling.
+
+In Hawaii, the Ninth Circuit issued its [decision on remand](https://cdn.ca9.uscourts.gov/datastore/opinions/2026/08/10/23-16164.pdf) on August 10, 2026, affirming in part the preliminary injunction, including as to the private-property provision.
+
+## How "no guns" signs actually work
+
+With the default back to "allowed unless told otherwise," the question becomes: what counts as being told otherwise, and what happens if you ignore it? The answer varies a lot by state.
+
+### States where a compliant sign carries criminal force: Texas as the example
+
+Texas is the most frequently cited example because its signs are spelled out by statute. Under [Texas Penal Code § 30.06](https://statutes.capitol.texas.gov/Docs/PE/htm/PE.30.htm#30.06) (concealed carry) and § 30.07 (open carry), a license holder commits an offense by carrying on another's property after receiving notice that it is prohibited. Notice can be oral, a card, or a posted sign. To count, the sign must:
+
+- use the exact statutory wording,
+- appear in both English and Spanish,
+- use contrasting colors with block letters at least one inch high, and
+- be displayed conspicuously and be clearly visible to the public (for § 30.07, at each entrance).
+
+A violation is a Class C misdemeanor punishable by a fine of up to $200. It becomes a Class A misdemeanor if the license holder was personally given oral notice and then failed to leave. A generic "no guns" sticker without the statutory text is not § 30.06 or § 30.07 notice, although the owner can still tell you to leave.
+
+### States where the sign alone is not a crime: Indiana as an example
+
+Many states have no statute giving posted signs criminal effect for carry. Indiana is an example: we found no Indiana statute that makes carrying past a "no weapons" sign a crime in itself. What Indiana does have is a general criminal trespass law. Under [Ind. Code § 35-43-2-2](https://law.justia.com/codes/indiana/title-35/article-43/chapter-2/section-35-43-2-2/), knowingly or intentionally refusing to leave someone's property after being asked to leave by the owner or the owner's agent is a Class A misdemeanor. Practically, a sign tells you the owner's wishes, and the legal exposure starts if you're asked to go and don't.
+
+Between those two models sits a wide middle: states that give signs force only if they meet certain size or placement rules, states that make it a minor infraction, and states that treat signs as one form of trespass notice. Because the details vary so much, read your own state's statute (state police or attorney general websites often summarize it) rather than relying on a national chart.
+
+## If you're asked to leave
+
+Whatever your state's sign law, the practical rule is the same: if the owner, a manager, or an employee with authority asks you to leave because you're carrying, leave. Arguing the point on the spot rarely helps, and in many states refusing turns a non-issue into a trespass charge. In Texas, staying after oral notice raises the offense from Class C to Class A.
+
+A few habits help:
+
+- **Look for signs at the entrance**, especially in states where signs have legal effect.
+- **Know the difference between a business policy and a statute.** A store's handbook or a website policy isn't necessarily legal notice, but staff can still ask you to leave.
+- **Keep the firearm concealed and holstered** where your state requires it, and don't remove it to secure it in a parking lot unless you can do so safely and legally.
+- **Remember that Wolford protects carrying on property open to the public.** Private homes, offices closed to the public, and other non-public property were never part of the holding.
+
+## The bottom line
+
+Wolford v. Lopez struck down Hawaii's rule that permit holders needed express permission before carrying into private businesses open to the public, and its reasoning undercuts similar rules in California, Maryland, New Jersey, and New York, most of which lower courts had already blocked. It did not take away a property owner's right to exclude armed visitors, did not decide which "sensitive places" a state may protect, and did not change permit requirements. Your day-to-day obligations are still set mostly by your own state's carry, sign, and trespass laws.
+
+---
+
+*Planning your carry setup for everyday errands? Browse [our dealer directory](/dealers) to find dealers near you.*`,
+  },
+
+  {
+    slug: "marijuana-users-gun-ownership-hemani-2026",
+    title: "Can You Own a Gun If You Use Marijuana? What Hemani Changed — and What It Didn't",
+    excerpt: "The Supreme Court ruled that the federal gun ban couldn't be applied to one regular marijuana user who wasn't shown to be dangerous. It did not strike down the law, and Form 4473 still asks the question. Here's where things stand.",
+    metaDescription: "United States v. Hemani limited the federal gun ban for marijuana users but didn't repeal it. What changed, what Form 4473 still asks, and the risks.",
+    category: "Legal Update",
+    categorySlug: "legal-update",
+    publishedAt: "2026-10-05",
+    readTime: "9 min read",
+    content: `*This article reflects federal and state law as of October 2026. Laws in this area change frequently; verify current law in your state before relying on it. This is general information, not legal advice.*
+
+Two things happened in 2026 that have marijuana users who own guns, or want to, asking whether the rules have changed. In April, the federal government moved some marijuana into Schedule III. In June, the Supreme Court decided *United States v. Hemani*. Both are real changes. Neither one makes it legal for every marijuana user to buy or possess a firearm, and reading either one too broadly can lead to a federal felony.
+
+**Short version:** Hemani is a narrow ruling about one prosecution. The federal statute is still on the books, Form 4473 still asks about marijuana, and a false answer on that form is a separate crime. If you use marijuana in any form, talk to a lawyer licensed in your state *before* you buy.
+
+## The law Hemani was about
+
+Federal law makes it a crime for anyone "who is an unlawful user of or addicted to any controlled substance" to possess or receive a firearm ([18 U.S.C. § 922(g)(3)](https://www.law.cornell.edu/uscode/text/18/922)). A companion provision, § 922(d)(3), makes it a crime to sell or give a gun to someone you know or have reasonable cause to believe is an unlawful user. The maximum penalty for violating either is 15 years in prison ([18 U.S.C. § 924(a)(8)](https://www.law.cornell.edu/uscode/text/18/924)).
+
+Marijuana's status under federal law matters because "unlawful user" ties directly to the Controlled Substances Act. For decades, ATF's position has been that state legalization changes nothing. In a September 21, 2011 open letter to licensed dealers, ATF said a marijuana user is an unlawful user "regardless of whether his or her State has passed legislation authorizing marijuana use for medicinal purposes," and that a dealer who knows a buyer holds a state medical-marijuana card has "reasonable cause to believe" the buyer is prohibited. The Ninth Circuit upheld that position against a constitutional challenge in [Wilson v. Lynch](https://case-law.vlex.com/vid/wilson-v-lynch-no-887820200) (2016).
+
+## What the Supreme Court decided in Hemani
+
+[United States v. Hemani](https://www.supremecourt.gov/opinions/25pdf/608us2r51_k4lo.pdf) (No. 24-1234) was argued March 2, 2026 and decided June 18, 2026. The Court affirmed the Fifth Circuit, which had held § 922(g)(3) unconstitutional as applied to Ali Hemani.
+
+### The facts
+
+During a 2022 search of his family's home, Hemani told agents he used marijuana about every other day. He surrendered a handgun and pointed agents to marijuana in the house. Agents also found cocaine, which he said was his but which he said he had not used recently. He was charged under § 922(g)(3) based on his marijuana use. The government did not allege that he was intoxicated while possessing the gun, that he had misused it, or that he was dangerous. Its theory was that regular unlawful use alone was enough.
+
+### The holding and the vote
+
+No Justice dissented. Justice Gorsuch wrote the majority opinion, joined by Chief Justice Roberts and Justices Thomas, Sotomayor, Kavanaugh, Barrett, and Jackson. Justice Alito, joined by Justice Kagan, concurred only in the judgment, which means they agreed with the outcome but not the majority's reasoning. Justice Thomas and Justice Jackson (joined by Justice Sotomayor) wrote separate concurrences. So the result was unanimous, and the majority opinion was 7–2.
+
+Applying the history-and-tradition test from *Bruen* (see our [Second Amendment after Bruen](/blog/second-amendment-after-bruen) overview), the majority rejected the government's main historical analogy, which was older laws dealing with "habitual drunkards." Those laws targeted people so impaired they were practically unable to manage their own affairs, served different purposes (promoting work, protecting the drunkard's family and finances, and public morals), and generally required a court proceeding first. Section 922(g)(3), as the government read it, disarms anyone who regularly uses any amount of any controlled substance, automatically and with no process. The Court held that prosecuting Hemani on that basis was inconsistent with the Second Amendment.
+
+### What the Court expressly did not decide
+
+This is the part that is easiest to miss. The majority listed what it was *not* addressing: "We do not address efforts to ban addicts … or those presently intoxicated, from possessing a firearm. We do not address other prophylactic laws Congress might adopt after determining that users of a particular drug pose a special risk of misusing firearms. … We do not even address whether the government could bring a prosecution under § 922(g)(3) accompanied by individualized proof that the defendant's use of marijuana (or any other drug) renders him a danger to himself or others."
+
+The Court also said nothing in its opinion should cast doubt on the felon-in-possession ban or the ban on people adjudicated mentally incompetent.
+
+So § 922(g)(3) was **not struck down**. It was held unconstitutional *as applied* to one person, on the facts the government chose to charge. Prosecutors can still bring cases involving addiction, intoxication while armed, or individualized evidence of danger, and courts will now be sorting out where the line is.
+
+### What happened to similar cases
+
+On June 29, 2026, the Court [granted, vacated, and remanded](https://www.supremecourt.gov/orders/courtorders/062926zor_1bn2.pdf) *Harris v. United States* (No. 25-372), a Third Circuit § 922(g)(3) case, "for further consideration in light of United States v. Hemani." That means the Third Circuit must look at the case again, not that Harris won. Expect more of these as lower courts apply Hemani to defendants with different facts.
+
+## The rescheduling piece: what actually moved to Schedule III
+
+Effective April 28, 2026, a [final rule published at 91 Fed. Reg. 22714](https://govinfo.gov/content/pkg/FR-2026-04-28/html/2026-08176.htm) placed two categories of marijuana in Schedule III:
+
+- marijuana in an FDA-approved drug product, and
+- marijuana "subject to a state medical marijuana license."
+
+Everything else, including adult-use (recreational) marijuana and unlicensed marijuana, **remains in Schedule I**. The DEA held a separate administrative hearing from June 29 through July 15, 2026 on whether to move the rest of marijuana to Schedule III. As of late September 2026, the administrative law judge's recommended decision had not been issued, and the DEA Administrator will make the final call ([Morgan Lewis summary](https://www.morganlewis.com/pubs/2026/09/high-time-for-a-change-post-dea-hearing-broader-marijuana-rescheduling-questions-remain)).
+
+### Does Schedule III make a medical user a "lawful" user?
+
+Not automatically, and this is where people get into trouble. Schedule III substances are still controlled substances. The rescheduling rule regulates registrants (growers, dispensaries, practitioners) and does not say anything about firearms or § 922(g)(3). Whether a state medical patient is now a *lawful* user under federal law depends on questions the rule doesn't answer directly, such as how a patient's purchase fits within federal prescription and registration requirements. The statute itself has not been amended.
+
+ATF appears to be moving toward treating state-licensed medical use differently. In May 2026 it published a draft revision of Form 4473 that, according to [NORML](https://norml.org/blog/2026/05/12/atf-posts-draft-document-acknowledging-medical-cannabis-scheduling-change/) and other reporting, drops the warning that medical marijuana use is unlawful and keeps a warning that federal law does not permit recreational use. Comment periods on ATF's May 2026 Form 4473 proposals ran into July and August 2026. As of this writing we could not confirm that a revised form has been finalized or put into use.
+
+## What Form 4473 asks today
+
+The current [Form 4473](https://www.atf.gov/firearms/docs/4473-part-1-firearms-transaction-record-over-counter-atf-form-53009/download) (revised August 2023) asks at question 21.f: "Are you an unlawful user of, or addicted to, marijuana or any depressant, stimulant, narcotic drug, or any other controlled substance?" It carries this warning: "The use or possession of marijuana remains unlawful under Federal law regardless of whether it has been legalized or decriminalized for medicinal or recreational purposes in the state where you reside."
+
+Until a new form is approved and in use, that is the question you will answer at the counter.
+
+### ATF's January 2026 definition change
+
+Separately, ATF changed the regulatory definition of "unlawful user" itself. An [interim final rule effective January 22, 2026](https://www.govinfo.gov/content/pkg/FR-2026-01-22/html/2026-01141.htm) (91 Fed. Reg. 2698) defines an unlawful user as someone who "regularly uses a controlled substance over an extended period of time continuing into the present," and states that a person is *not* an unlawful user if their use is "isolated or sporadic." It removed older examples that let a single failed drug test or a single drug arrest within the past year support an inference of unlawful use.
+
+That narrows the definition for occasional users. It does not help someone who uses regularly. Hemani himself used about every other day.
+
+## Lying on the form is its own crime
+
+Hemani addressed possession. It did not touch the false-statement laws, and those are often the bigger risk.
+
+Making a knowingly false statement to a dealer about a fact material to the lawfulness of the sale violates [18 U.S.C. § 922(a)(6)](https://www.law.cornell.edu/uscode/text/18/922), punishable by up to 10 years. A false statement in records a dealer must keep is a separate offense under § 924(a)(1), punishable by up to 5 years. These charges don't depend on whether you could constitutionally have been barred from owning the gun. The crime is the lie.
+
+The federal prosecution of Hunter Biden shows how this works. In June 2024 a federal jury convicted him of three counts: two false-statement counts tied to the firearm purchase and one count of possession by an unlawful user under § 922(g)(3). He was pardoned on December 1, 2024 and the case was dismissed days later ([CBS News](https://www.cbsnews.com/news/hunter-biden-federal-gun-case-dismissed-after-being-pardoned-by-father/)). His case predates Hemani and ended in a pardon, not a ruling on § 922(g)(3). The point here is narrower: two of the three counts were about what he wrote on the form.
+
+The *Harris* case the Court sent back also involved a buyer who answered "no" to the drug-use question on federal forms.
+
+## What this means if you use marijuana
+
+None of the following is permission. It is a description of where the risk sits as of October 2026.
+
+**If you use adult-use (recreational) marijuana regularly**, that marijuana is still Schedule I, the current form still asks, and § 922(g)(3) is still enforceable in cases the government can distinguish from Hemani. Answering "no" on Form 4473 while using regularly creates false-statement exposure regardless of Hemani.
+
+**If you are a state medical-marijuana patient**, your marijuana may now be Schedule III, and ATF's draft form suggests a policy shift. But the statute is unchanged, the current form still treats medical use as unlawful, and we found no announcement withdrawing the 2011 open letter.
+
+**If you used once or occasionally in the past**, ATF's January 2026 definition says isolated or sporadic use does not make you an unlawful user. Even so, the form asks about your status *now*, and how "regular" and "recent" apply to your history is a legal judgment.
+
+**If you already own firearms and use marijuana**, Hemani makes a possession-only prosecution like Hemani's much harder to bring. It does not protect being armed while impaired, and the Court expressly left intoxication cases open.
+
+In every one of these situations the right move is the same: **talk to a lawyer licensed in your state before you buy, and answer every question on Form 4473 truthfully.** If you have a past drug-related conviction, our article on the [federal firearms rights restoration program](/blog/federal-firearms-rights-restoration-program-2026) covers that separate process, and our [first-time gun buyer guide](/blog/first-time-gun-buyer-guide) walks through the purchase process itself.
+
+## What to watch
+
+- **The revised Form 4473**, and whether ATF changes question 21.f and its warning.
+- **The DEA's decision on full rescheduling** after the summer 2026 hearing.
+- **Lower-court rulings on remand**, including *Harris* in the Third Circuit, which will show how courts apply Hemani to people with different facts.
+- **Any congressional response.** The Court left room for Congress to write narrower, evidence-based restrictions.
+
+---
+
+*Thinking about a first purchase and want to understand the paperwork? Browse [our dealer directory](/dealers) to find dealers near you.*`,
   },
 ];
 
