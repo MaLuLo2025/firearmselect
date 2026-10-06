@@ -226,7 +226,7 @@ export const faqData: FaqEntry[] = [
     id: "state-storage-laws",
     question: "Does my state require me to lock up my guns?",
     answer:
-      "Twenty-six states plus DC have secure storage or child access prevention (CAP) laws. Two states (Massachusetts, Oregon) require all firearms to be locked when not in use. Thirteen states require secure storage only when minors or prohibited persons are present. Eleven states plus DC only impose liability if someone actually gains access to an unsecured firearm. For state-specific requirements, see our article on [storage laws by state](/blog/firearm-storage-laws-by-state).",
+      "Twenty-six states plus DC have secure storage or child access prevention (CAP) laws. Two states (Massachusetts, Oregon) require all firearms to be locked when not in use. Thirteen states require secure storage only when minors or prohibited persons are present. Eleven states plus DC only impose liability if someone actually gains access to an unsecured firearm. For state-specific requirements, see our article on [storage laws by state](/blog/firearm-storage-laws-state-2026).",
     keywords: ["storage", "lock", "state law", "CAP", "child access prevention", "secure storage", "required"],
     category: "Safety & Storage",
     relatedLinks: [
@@ -238,7 +238,7 @@ export const faqData: FaqEntry[] = [
     id: "secure-storage-definition",
     question: "What counts as \"secure storage\" under state law?",
     answer:
-      "Common requirements include locked containers (gun safes, lockboxes), trigger locks or cable locks, and sometimes storing firearms unloaded with ammunition kept separately. Some states specify minimum lock standards; others accept any lock. Quick-access biometric safes satisfy all state requirements while preserving rapid access for home defense. The specific definition varies by state. See our [storage laws guide](/blog/firearm-storage-laws-by-state) for details.",
+      "Common requirements include locked containers (gun safes, lockboxes), trigger locks or cable locks, and sometimes storing firearms unloaded with ammunition kept separately. Some states specify minimum lock standards; others accept any lock. Quick-access biometric safes satisfy all state requirements while preserving rapid access for home defense. The specific definition varies by state. See our [storage laws guide](/blog/firearm-storage-laws-state-2026) for details.",
     keywords: ["secure storage", "locked container", "trigger lock", "cable lock", "biometric safe", "gun safe"],
     category: "Safety & Storage",
     relatedLinks: [
@@ -250,7 +250,7 @@ export const faqData: FaqEntry[] = [
     id: "child-age-storage-law",
     question: "At what age does a child trigger storage requirements?",
     answer:
-      "It varies. Twelve states (including California, Massachusetts, Colorado) define a child as anyone under 18. Florida, New Hampshire, and Texas use age 16. Illinois and Iowa use age 14. The age threshold determines when secure storage laws apply and affects liability if a minor accesses an unsecured firearm. For state-specific age thresholds, see our [storage laws article](/blog/firearm-storage-laws-by-state).",
+      "It varies. Twelve states (including California, Massachusetts, Colorado) define a child as anyone under 18. Florida, New Hampshire, and Texas use age 16. Illinois and Iowa use age 14. The age threshold determines when secure storage laws apply and affects liability if a minor accesses an unsecured firearm. For state-specific age thresholds, see our [storage laws article](/blog/firearm-storage-laws-state-2026).",
     keywords: ["child", "minor", "age", "storage", "CAP", "threshold", "teenager"],
     category: "Safety & Storage",
     relatedLinks: [
