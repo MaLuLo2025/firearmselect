@@ -3535,7 +3535,7 @@ A suppressor owner in Texas accepts a job in California. They pack the moving tr
 Options for the pre-move planning:
 
 - **Sell out of state** through a Class 3 dealer to a buyer in a permissive state. Requires a dealer transfer (Form 4473 and background check in the buyer's state; NFA registration optional) and the destination-state acquisition process.
-- **Transfer to a family member** in a permissive state who can lawfully take possession.
+- **Transfer through an FFL in the recipient's state.** Transfers between residents of different states generally must go through a licensed dealer in the recipient's state ([18 U.S.C. § 922(a)(5)](https://www.law.cornell.edu/uscode/text/18/922)); see our guide to [interstate firearm purchases and FFL transfers](/blog/interstate-firearm-purchases-ffl-transfer-2026).
 - **Store with a family member or storage arrangement** in a permissive state — the suppressor legally remains yours but doesn't cross into the prohibiting state.
 - **Abandon to the ATF** — the least attractive option but occasionally the only one on tight timeline.
 
@@ -3575,7 +3575,7 @@ Federal safe-passage law under 18 U.S.C. § 926A likely covers suppressors the s
 
 ### What happens if I move from a permissive state to a prohibiting state with my suppressor?
 
-You've created contraband the moment residence changes. Before the move: sell through a Class 3 dealer to a buyer in a permissive state, transfer to a family member in a permissive state, store with someone in a permissive state, or abandon to the ATF. Bringing the suppressor across and figuring it out afterward is a state offense.
+You've created contraband the moment residence changes. Before the move: sell through a Class 3 dealer to a buyer in a permissive state, transfer to a person in a permissive state through an FFL in that state (transfers between residents of different states generally must go through an FFL in the recipient's state; see our [interstate transfer guide](/blog/interstate-firearm-purchases-ffl-transfer-2026)), store with someone in a permissive state, or abandon to the ATF. Bringing the suppressor across and figuring it out afterward is a state offense.
 
 ### Can multiple family members use one legally-owned suppressor?
 
