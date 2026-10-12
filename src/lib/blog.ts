@@ -2409,6 +2409,8 @@ Here's what actually changed, who it affects, and what remains the same.
 
 *This article provides general legal information, not legal advice. Suppressor laws are complex and vary by state. Consult a licensed attorney for guidance on your specific situation.*
 
+*Update, October 2026: As of October 9, 2026, ATF has stopped enforcing NFA approval and registration for suppressors nationwide, although state law and the Gun Control Act still apply. See [our updated guide](/blog/nfa-ruling-august-2026-what-it-means).*
+
 *This article reflects federal law as of mid-2026. Firearms law and ATF policy change frequently — verify current rules with a licensed NFA dealer or a firearms attorney before relying on this information.*
 
 ## Background: How Suppressors Were Regulated Before
@@ -2427,9 +2429,9 @@ This regulatory framework applied to all suppressor purchases, regardless of who
 
 The OBBBA provisions removed suppressors from certain NFA regulatory requirements for specific categories of individuals and circumstances. Based on the law as enacted:
 
-**The $200 transfer tax is eliminated** for qualifying individuals under the provisions.
+**The $200 making and transfer tax on suppressors dropped to $0**, effective January 1, 2026.
 
-**The NFA registration requirement** is modified for certain transfers -- the full scope is being interpreted through ATF rulemaking as of mid-2026.
+**The NFA registration requirement:** OBBBA itself left the registration requirement in the statute. After an August 2026 court ruling, ATF announced on October 9, 2026 that it will no longer enforce NFA approval or registration for suppressors; see our updated guide.
 
 **Who the changes benefit most:** The provisions appear most directly targeted at certain categories of law-abiding gun owners. Veterans and active-duty military are among the groups for whom the provisions were specifically discussed. The exact scope of who qualifies under each provision requires attention to the specific statutory language.
 
@@ -2443,11 +2445,11 @@ The OBBBA provisions removed suppressors from certain NFA regulatory requirement
 
 **Inter-state travel with suppressors:** Crossing state lines with a suppressor registered under your name into a state where suppressors are banned remains a federal crime.
 
-**NFA-compliant purchases for those not covered by OBBBA provisions:** If you don't fall within the specific categories addressed by the OBBBA, the prior NFA process with tax stamp and registration may still apply.
+**The full NFA process:** The full NFA process, including the $200 tax and registration, still applies to machine guns and destructive devices.
 
 ## ATF Implementation and Rulemaking
 
-The OBBBA changes require ATF rulemaking to implement -- the agency must update its regulations, processes, and forms to reflect the new statutory framework. As of mid-2026, ATF is still in the process of issuing guidance and regulations implementing the OBBBA suppressor provisions.
+The OBBBA changes require ATF rulemaking to implement -- the agency must update its regulations, processes, and forms to reflect the new statutory framework. ATF issued guidance on October 9, 2026; see our updated guide.
 
 This creates practical uncertainty: dealers and buyers want to know exactly what process applies under the new law, and the ATF is working through that. Check with a licensed NFA dealer for current practical guidance on what the purchase process looks like as of your purchase date.
 
@@ -2459,7 +2461,7 @@ This creates practical uncertainty: dealers and buyers want to know exactly what
 
 3. **Get current guidance on the OBBBA process.** An NFA-licensed dealer current on ATF guidance will know what the actual process requires as of your purchase date.
 
-4. **Understand wait times.** Even post-OBBBA, there may still be processing time depending on the regulatory framework that's in place at the time of your purchase.`
+4. **Understand wait times.** Under ATF's October 2026 guidance, a dealer sale requires a Form 4473 and background check, with no ATF approval wait. State waiting periods, and the time for any voluntary registration, may still apply.`
   },
   {
     slug: "red-flag-laws-erpos",
@@ -2652,48 +2654,130 @@ Verify the current status any time you plan to travel. Reciprocity agreements ch
 
   {
     slug: "nfa-ruling-august-2026-what-it-means",
-    title: "The August 2026 NFA Ruling: What It Actually Changes for Gun Owners",
-    excerpt: "A federal judge struck down NFA registration requirements for suppressors, SBRs, and SBSs. Here's what it means, what it doesn't, and what's still uncertain.",
-    metaDescription: "A federal judge struck down NFA registration requirements for suppressors, SBRs, and SBSs. Here's what it means, what it doesn't, and what's still uncertain.",
+    title: "The NFA Ruling and ATF's October 2026 Guidance: What Changed for Suppressors, SBRs, and SBSs",
+    excerpt: "A Texas federal court struck down NFA registration for $0-tax items in August. On October 9, ATF said it will stop enforcing approval and registration for suppressors, SBRs, SBSs, and AOWs nationwide. Here is what changed, what did not, and what could change back.",
+    metaDescription: "ATF's Oct. 9, 2026 guidance ends NFA approval and registration enforcement for suppressors, SBRs, SBSs, and AOWs nationwide. What changed and what didn't.",
     category: "Legal Update",
     categorySlug: "legal-update",
     publishedAt: "2026-08-25",
-    readTime: "4 min read",
-    content: `On August 5, 2026, Judge Wesley Hendrix of the U.S. District Court for the Northern District of Texas issued a ruling that gun rights organizations are calling one of the most significant firearms decisions in decades. The court held that the National Firearms Act's registration and approval requirements for suppressors, short-barreled rifles (SBRs), and short-barreled shotguns (SBSs) exceed Congress's constitutional authority — now that Congress has eliminated the NFA's transfer and making taxes on those items.
+    readTime: "12 min read",
+    content: `*This article reflects federal and state law as of October 2026. Laws in this area change frequently; verify current law in your state before relying on it. This is general information, not legal advice.*
 
-The logic is worth understanding, because the ruling's reach depends on it. The NFA was enacted in 1934 as an exercise of Congress's taxing power. Its regulatory framework — registration, applications, ATF approval, fingerprinting, photographs, and associated criminal penalties — was constitutionally permissible because it supported the collection of the NFA's $200 tax. When Congress eliminated that tax for suppressors, SBRs, and SBSs through the One Big Beautiful Bill Act in 2025, the court concluded that the constitutional basis for the regulatory requirements disappeared along with it.
+When we first wrote about the August 2026 National Firearms Act ruling, the honest answer to "can I buy a suppressor without a Form 4?" was "only if the court's injunction covers you." That answer is now out of date. On October 9, 2026, ATF published an open letter and a set of FAQs saying it will no longer enforce the NFA's approval and registration requirements for suppressors, short-barreled rifles (SBRs), short-barreled shotguns (SBSs), and "any other weapons" (AOWs), for anyone, anywhere in the country.
 
-The Trump administration did not immediately appeal the ruling.
+That is a large practical change. It is also narrower and more fragile than a lot of the commentary suggests. The statute has not been repealed, machine guns are untouched, the Gun Control Act still governs every dealer sale, and state law is exactly where it was. This guide walks through each piece.
 
-## What has actually changed
+## The short version
 
-As of mid-August 2026, the ruling lifts NFA registration and approval requirements for suppressors, SBRs, and SBSs — but only in the jurisdictions covered by the Northern District of Texas. The practical effect is narrower than the headlines suggest. ATF has not announced a nationwide policy change in response to the ruling, and the regulatory status of these items in other jurisdictions remains what it was before the decision.
+- **What ATF stopped enforcing:** the requirement to get ATF approval before making or transferring a suppressor, SBR, SBS, or AOW; the requirement to register those items in the National Firearms Registration and Transfer Record (NFRTR); the NFA marking requirement; and most of the NFA's criminal prohibitions on unregistered items of those types.
+- **Effective date:** October 9, 2026.
+- **Who it covers:** everyone, not just the plaintiffs in the Texas case. ATF extended the court's reasoning nationwide as a matter of enforcement discretion.
+- **What still applies:** the full NFA for machine guns and destructive devices; special occupational taxes for NFA businesses; the NFA bans on items with obliterated serial numbers or that were illegally imported; Form 4473 and background checks for dealer sales; prohibited-person rules; the federal permission requirement (Form 20) to take an SBR or SBS across state lines; and every state and local law.
+- **Why it could change:** ATF's own FAQs say enforcement could resume if Congress imposes a new tax, the injunction is dissolved or overturned, or the guidance is rescinded.
 
-Individuals in the affected jurisdiction can acquire suppressors, SBRs, and SBSs without completing an ATF Form 4, waiting for ATF approval, or paying the (now-eliminated) tax. They must still comply with all other applicable federal and state laws, including passing a background check through an FFL.
+## How we got here: a $0 tax and a taxing-power case
 
-## What has not changed
+The NFA, enacted in 1934, has always been structured as a tax law. Making or transferring a regulated item required paying a tax (historically $200), and the registration and approval machinery existed to collect it.
 
-Machine guns, destructive devices, and "any other weapons" (AOWs) under the NFA are unaffected — the OBBBA did not eliminate taxes on those categories, and the NFA's full regulatory framework continues to apply to them.
+The One Big Beautiful Bill Act (Pub. L. No. 119-21), signed July 4, 2025, set a $0 making and transfer tax for every NFA category other than machine guns and destructive devices, effective January 1, 2026, according to the [Congressional Research Service](https://www.everycrsreport.com/files/2025-09-24_IF13111_1afc7a1ba1aa6baca6f81a83b27e09c888cd4965.html). ATF's October letter confirms that the $200 tax remains on machine guns and destructive devices.
 
-State laws remain independently enforceable. States that have their own restrictions on suppressors, SBRs, or SBSs — including California, New York, New Jersey, Massachusetts, Illinois, and several others — continue to enforce those restrictions regardless of the federal ruling. A federal court decision that the NFA's regulatory requirements exceed congressional authority does not preempt a state's independent decision to regulate the same items under its own police power.
+Gun-rights groups then argued that once the tax was gone, the registration and approval requirements had nothing left to stand on. On August 5, 2026, U.S. District Judge James Wesley Hendrix of the Northern District of Texas agreed in *Silencer Shop Foundation v. ATF*, No. 6:25-cv-056-H, which was consolidated with *Jensen v. ATF*. As ATF summarizes the ruling in its [October 9 open letter](https://www.atf.gov/media/30961/download), the court held that:
 
-Background check requirements through an FFL remain in place for all firearms purchases from licensed dealers, including NFA items. The ruling removed the NFA's regulatory layer; it did not remove the items from the Gun Control Act's framework.
+- With the tax at $0, the NFA's registration and transfer provisions for those items were "no longer an exercise of Congress's taxing power," because they no longer served to raise revenue.
+- The commerce power could not rescue them, because Congress did not rely on that power when it enacted the NFA in 1934.
 
-## What's still uncertain
+The decision turned on Congress's enumerated powers, not the Second Amendment; the court did not decide the Second Amendment claims. That matters later: it is why a new tax from Congress could, at least in theory, restore the old system.
 
-The ruling is from a single district court. It has not been appealed as of mid-August, but the absence of an appeal this early does not guarantee the ruling will stand permanently. A challenge could come from a different administration, from intervening parties, or through related litigation in other circuits.
+The injunction took effect in mid-August after a seven-day stay expired (ATF dates it to August 12). It protected only the parties: the named plaintiffs, members of the plaintiff organizations, customers of the commercial plaintiffs, and the plaintiff states as governments, according to a [Wiley Rein client alert](https://www.wiley.law/alert-NFA-Court-Ruling-Reshapes-Compliance-Following-Wileys-Successful-Constitutional-Challenge) from the firm that represented plaintiffs. AOWs were covered only for the *Silencer Shop Foundation* plaintiffs, not the *Jensen* plaintiffs. Our original article described that party-limited situation.
 
-ATF's response has been cautious. The agency has not issued formal guidance acknowledging a nationwide change, and its position on whether the ruling applies beyond the Northern District of Texas has not been publicly clarified. Until ATF issues clear guidance or the ruling is affirmed at a higher level, gun owners outside the affected jurisdiction should not assume the NFA's regulatory requirements have been lifted for them.
+## The appeal that did not happen
 
-The ruling also raises questions about items already registered under the NFA. Existing registrants paid taxes and completed regulatory requirements that the court has now held were constitutionally unauthorized. Whether this creates any basis for relief — tax refunds, removal from the registry, or other remedies — is unaddressed by the current decision.
+The government could have appealed to the Fifth Circuit. It did not. Solicitor General D. John Sauer told Senate Judiciary Committee Chairman Chuck Grassley in a letter dated September 24, 2026 that the Department of Justice "has determined not to file an appeal," and that letter was filed with the court on October 1, according to [AmmoLand](https://www.ammoland.com/2026/10/doj-confirms-it-wont-appeal-nfa-ruling-on-suppressors-and-short-barreled-guns/). The deadline to appeal passed on October 5.
 
-## What to do right now
+A district court judgment that is not appealed still binds only the parties to the case. It does not bind other federal courts, and ATF's own FAQs say so. The nationwide change comes from ATF's decision about how to use its enforcement resources, not from the judgment itself.
 
-If you're considering acquiring a suppressor, SBR, or SBS, the prudent approach is to confirm the current regulatory status in your specific state and jurisdiction before purchasing. Do not rely solely on media coverage of the ruling — consult your state's firearms laws independently, and if you're uncertain, consult a firearms attorney in your jurisdiction.
+## What ATF's October 9 guidance says
 
-If you're an FFL, monitor ATF's official communications for guidance on how to handle transactions involving these items going forward. The regulatory environment is in flux, and the conservative approach — maintaining compliance with existing requirements until formal guidance says otherwise — protects both you and your customers.
+ATF Director Robert Cekada signed the open letter, and ATF posted companion FAQs on its [Update to NFA Transfer Guidance](https://www.atf.gov/firearms/update-to-nfa-transfer-guidance) page. The letter notes that the injunction "applies only to the plaintiffs," then extends the same treatment to everyone. Here is what it does.
 
-The ruling is significant. It may prove to be a watershed moment in NFA regulation. But the gap between what a district court holds and what gun owners can safely rely on in practice is real, and it's the gap where consequences live.`,
+**Approval, registration, and marking for $0-tax items.** Individuals no longer need ATF approval before making or transferring an SBR, SBS, suppressor, or AOW (as defined in [26 U.S.C. § 5845](https://www.law.cornell.edu/uscode/text/26/5845)). Those items no longer need to be registered in the NFRTR or carry NFA markings, and businesses no longer need to register newly made items within 24 hours. ATF will still accept Form 1, Form 2, Form 3, and Form 4 filings from anyone who wants to file voluntarily.
+
+**Unregistered-item crimes, with two exceptions.** ATF will not enforce the NFA's prohibitions on making, receiving, transferring, or possessing unregistered items of these types, including the ban in [26 U.S.C. § 5861(j)](https://www.law.cornell.edu/uscode/text/26/5861) on transporting an unregistered NFA firearm in interstate commerce. It will keep enforcing § 5861(h) and (k), which cover NFA firearms with obliterated serial numbers and those imported illegally. Note that the § 5861(j) change is NFA-side only; the Gun Control Act rule for SBRs and SBSs discussed below still applies.
+
+**Dealer sales of SBRs and SBSs.** Under [18 U.S.C. § 922(b)(4)](https://www.law.cornell.edu/uscode/text/18/922), a licensed dealer may not sell an SBR or SBS to anyone "except as specifically authorized by the Attorney General consistent with public safety and necessity." For decades, an approved NFA transfer was that authorization. With approvals no longer required, no other mechanism exists yet. ATF says it is working on new regulations and, in the meantime, "will not enforce the provisions in 18 U.S.C. § 922(b)(4)."
+
+**Business-to-business transfers.** Transfers between special-occupational-taxpayer licensees no longer require an approved Form 3, though Form 3s may still be filed.
+
+## What did not change
+
+This is the part to read twice.
+
+**Machine guns and destructive devices.** These keep the $200 tax and every NFA requirement. In Director Cekada's words, "the injunction does not disturb the NFA's application to machineguns and destructive devices," and "all NFA provisions still apply" to them, as [The Reload](https://thereload.com/atf-gives-go-ahead-for-unregistered-silencer-short-barrel-shotgun-purchases/) also reported. Nothing about machine-gun transfer or possession rules has moved.
+
+**Special occupational taxes.** Anyone in the business of manufacturing, importing, or dealing in NFA items still owes the applicable special occupational tax, and ATF says it will keep enforcing the rule against doing that business without paying it.
+
+**The Gun Control Act, in full.** Suppressors, SBRs, SBSs, and AOWs are still "firearms" under federal law, and ATF's FAQs say "all GCA requirements still apply." In practice that means:
+
+- A dealer selling one of these items to an unlicensed buyer completes a Form 4473 and runs a background check through NICS unless an exemption applies.
+- Dealers keep acquisition and disposition records.
+- Prohibited persons (felons, people under certain restraining orders, and the other categories in 18 U.S.C. § 922(g) and (n)) still may not receive or possess them.
+- With limited exceptions, dealers may sell these items only to residents of the state where the dealer is licensed. For the general out-of-state purchase rules, see our guide to [interstate firearm purchases and FFL transfers](/blog/interstate-firearm-purchases-ffl-transfer-2026).
+
+**Form 20 for SBRs and SBSs crossing state lines.** This is the requirement most likely to trip people up. Separate from the NFA, the Gun Control Act at [18 U.S.C. § 922(a)(4)](https://www.law.cornell.edu/uscode/text/18/922) makes it unlawful for an unlicensed person to transport a destructive device, machine gun, short-barreled shotgun, or short-barreled rifle in interstate commerce except as authorized by the Attorney General. ATF's FAQs state that individuals must still file a Form 20 (ATF Form 5320.20, the [Application to Transport Interstate or to Temporarily Export Certain NFA Firearms](https://atf.gov/file/11361)) before transporting an SBR or SBS across state lines, even if the item is unregistered. Suppressors and AOWs are not listed in § 922(a)(4), so this particular requirement does not reach them.
+
+**State and local law.** ATF's letter states that the injunction and the policy do not change state or local laws, and that dealers still may not transfer a firearm in violation of state or local law under 18 U.S.C. § 922(b)(2). The letter also calls it "unclear" whether state courts will apply the federal safe-passage provision for travelers, 18 U.S.C. § 926A, to someone carrying an unregistered item through a restrictive state, and advises caution.
+
+## State law: where the real risk now sits
+
+For most buyers, the federal question has gotten simpler and the state question has gotten harder. State NFA laws generally fall into three groups.
+
+**States that ban the items outright.** These bans never depended on federal registration and are unaffected by the ruling or the guidance. As commonly tallied, eight states and the District of Columbia prohibit civilian suppressor possession: California, Delaware, Hawaii, Illinois, Massachusetts, New Jersey, New York, and Rhode Island. Short-barreled rifle and shotgun rules vary separately. California, for example, generally makes it a crime to make, sell, or possess an SBR or SBS under [Penal Code § 33215](https://california.public.law/codes/ca_penal_code_section_33215), subject to narrow exceptions. Check SBR and SBS law on its own; do not assume it tracks your state's suppressor law. Our [state-by-state suppressor guide](/blog/suppressor-legal-states-2026) covers the suppressor bans in more detail.
+
+**States whose law ties legality to federal compliance or registration.** This is the group to worry about. Many state statutes make possession of a suppressor or short-barreled firearm a crime unless the item is registered under the NFA, or unless the owner is in compliance with federal law. Two examples:
+
+- Washington's [RCW 9.41.190](https://app.leg.wa.gov/rcw/default.aspx?cite=9.41.190) prohibits possession of short-barreled rifles and shotguns, but exempts short-barreled rifles when "the person is in compliance with applicable federal law." That exception does not extend to short-barreled shotguns. Whether possessing an unregistered SBR under a federal non-enforcement policy counts as "compliance" is a question for Washington authorities and courts, not ATF.
+- Montana Attorney General Austin Knudsen issued [guidance on August 27, 2026](https://dojmt.gov/?p=96926) stating that possession of an unregistered silencer remains a felony under Montana law, that Montana's exemption for short-barreled shotguns depends on a valid federal tax stamp, and that "Montana law still requires suppressors to be registered with the ATF if used for hunting." That guidance predates ATF's October 9 letter. The Montana DOJ notes that bills addressing the issue have been introduced ahead of the 2027 legislative session.
+
+ATF's FAQs put it plainly: ATF cannot say whether an unregistered item is lawful under any particular state's law. Check with your state attorney general's office or a lawyer in your state.
+
+**States with no state-level NFA law.** In these states, a dealer can generally transfer a suppressor on a Form 4473 and a background check, with no Form 4 and no wait beyond the NICS check, subject to any other state requirements such as waiting periods or permits. Dealer SBR and SBS sales depend on the § 922(b)(4) non-enforcement described above, and dealer practices may vary.
+
+## Voluntary registration, removal, and why there is no undo button
+
+You can still register. ATF will maintain the NFRTR and process forms for anyone who files voluntarily. In a state whose law depends on federal registration, voluntary registration may be the only way to stay clearly within the state's exception. That is a judgment to make with a lawyer in your state.
+
+If you already own registered items, ATF says you can ask to have them removed from the registry by writing to NFAFAX@atf.gov. Before you do, read ATF's warning carefully: once an item is removed, it cannot be re-registered unless the Attorney General declares an amnesty. The NFA permits an amnesty period of up to 90 days, but the Attorney General is not required to offer one.
+
+The same logic applies to new, never-registered items. ATF's FAQs say there are "no provisions that would automatically grandfather unregistered NFA firearms." If enforcement resumes, an unregistered NFA firearm is contraband under the NFA, and ATF notes that unregistered possession, transfer, or receipt can carry felony penalties and forfeiture.
+
+Consider a typical scenario: a buyer in a state with no state NFA law picks up a suppressor on a 4473 in October 2026 and does not register it. Two years later, Congress restores a nominal tax and the injunction is dissolved. Whether that buyer can register at that point depends on whether the Attorney General offers an amnesty window. Nothing in current law guarantees one.
+
+## Why this is enforcement policy, not repeal
+
+Every protection described above rests on one of two things: a district court judgment that binds the parties to it, and an agency decision about what to prosecute. Neither changes the text of the NFA. ATF's FAQs list the circumstances that could bring enforcement back:
+
+- **Congress** imposes a new making or transfer tax on these items, which would restore the taxing-power footing the court found missing.
+- **A court** dissolves or overturns the injunction. Separately, other federal courts are not bound by the Texas judgment and could reach a different conclusion in another case.
+- **The Department of Justice** rescinds the guidance. A future administration, or this one, could reverse a discretionary enforcement policy without new legislation.
+
+That does not make the current guidance unreliable for today's purposes. It means a decision to skip registration is a bet on the future that you make now, and the downside if it goes wrong is serious.
+
+Litigation over the injunction's reach is also still moving. As of early October 2026, nine plaintiff states had asked the Texas court to clarify whether the injunction covers all relevant transfers within their borders, and a separate challenge in Missouri federal court (*Brown v. ATF*, consolidated with a suit by Missouri and other states) had a status conference set for October 22, according to [AmmoLand](https://www.ammoland.com/2026/10/doj-opposes-broader-nfa-relief-brown-atf/). In that case, DOJ argues that statewide and nationwide relief would be improper. Those proceedings concern what courts will order; ATF's nationwide policy is a separate, voluntary decision by the agency.
+
+## Practical checklist before you buy
+
+- **Check state law first.** Ban state, registration-tied state, or no state NFA law? That answer controls more than the federal guidance does. Our [suppressor state guide](/blog/suppressor-legal-states-2026) and [OBBBA suppressor article](/blog/suppressors-obbba-changes) give background.
+- **Decide on registration deliberately.** Registering keeps your options open if enforcement resumes and may matter for state-law purposes. Not registering cannot easily be reversed later.
+- **Expect a 4473 and background check** at any dealer sale, and expect dealer policies to vary. Some dealers may continue to process Form 4s by default or decline 4473-only transfers while the rules settle.
+- **SBR or SBS owners:** file a Form 20 before taking it across state lines, registered or not.
+- **Machine guns and destructive devices:** nothing has changed. Do not assume otherwise.
+- **If you are a dealer:** keep paying the special occupational tax, keep your GCA records, and document how you are handling registration and removal requests.
+
+If your situation involves a move between states, a trust or estate, or a state whose law references federal registration, it is worth a consultation with a firearms attorney licensed in your state.
+
+---
+
+*Shopping for a suppressor or short-barreled firearm under the new rules? Browse [our dealer directory](/dealers) to find dealers near you.*`,
   },
 
   {
@@ -3376,7 +3460,9 @@ Almost always yes when there's any uncertainty about the buyer, the state's rule
     categorySlug: "state-laws",
     publishedAt: "2026-09-21",
     readTime: "8 min read",
-    content: `The One Big Beautiful Bill Act (OBBBA) made meaningful changes to federal suppressor law in 2026 — reduced tax on some transfers, streamlined ATF processing, adjustments to the Form 4 process. Our earlier article covered those federal changes.
+    content: `*Update, October 2026: As of October 9, 2026, ATF has stopped enforcing NFA approval and registration for suppressors nationwide. State bans and state laws tied to federal registration still apply. See [our updated guide](/blog/nfa-ruling-august-2026-what-it-means).*
+
+The One Big Beautiful Bill Act (OBBBA) made meaningful changes to federal suppressor law in 2026 — reduced tax on some transfers, streamlined ATF processing, adjustments to the Form 4 process. Our earlier article covered those federal changes.
 
 What OBBBA did not do: preempt state law. State restrictions on suppressor ownership remain fully in effect regardless of federal streamlining, and this creates a specific trap for enthusiasts who see federal loosening and assume it applies uniformly across the country. It doesn't.
 
@@ -3404,12 +3490,12 @@ In these jurisdictions, mere possession of a suppressor — even a federally reg
 
 ## The permissive states — what's required at the state level
 
-The 42 remaining states permit civilian suppressor ownership subject to compliance with the federal National Firearms Act. Beyond the federal process (Form 4 or Form 1, $200 tax stamp historically, fingerprints, photos, ATF background check), most permissive states impose no additional requirements. Some do.
+The 42 remaining states permit civilian suppressor ownership subject to state law, which in some states still requires federal NFA registration. Beyond the federal requirements (as of October 2026, a Form 4473 and NICS background check at the dealer; NFA registration is voluntary), most permissive states impose no additional requirements. Some do.
 
 **Additional state requirements in permissive states:**
 
 - Some states require the applicant to notify state law enforcement of the acquisition
-- A few require the suppressor to be registered with a state agency in addition to federal ATF registration
+- A few require the suppressor to be registered with a state agency, and some still require federal registration under state law
 - Some prohibit suppressor use in certain hunting contexts (hunting-suppressor use is legal in most states but restricted in a few)
 - A very small number impose waiting periods separate from ATF processing time
 
@@ -3420,7 +3506,7 @@ Verify state-specific requirements before starting the acquisition process. Stat
 For context (see our [OBBBA suppressor changes article](/blog/suppressors-obbba-changes) for the full federal picture):
 
 - Certain transfer categories saw tax adjustments
-- Form 4 processing times have generally improved
+- As of October 9, 2026, ATF no longer enforces NFA approval or registration for suppressors; Form 4 filing is voluntary
 - Streamlined trust and individual acquisition workflows
 
 None of these federal changes affect state-level prohibitions or add-on requirements. A California resident cannot lawfully acquire, possess, or transport a suppressor into California regardless of any federal streamlining. An Illinois resident faces the same wall.
@@ -3448,7 +3534,7 @@ A suppressor owner in Texas accepts a job in California. They pack the moving tr
 
 Options for the pre-move planning:
 
-- **Sell out of state** through a Class 3 dealer to a buyer in a permissive state. Requires a Form 4 transfer, tax stamp on the new owner's side, and the destination-state acquisition process.
+- **Sell out of state** through a Class 3 dealer to a buyer in a permissive state. Requires a dealer transfer (Form 4473 and background check in the buyer's state; NFA registration optional) and the destination-state acquisition process.
 - **Transfer to a family member** in a permissive state who can lawfully take possession.
 - **Store with a family member or storage arrangement** in a permissive state — the suppressor legally remains yours but doesn't cross into the prohibiting state.
 - **Abandon to the ATF** — the least attractive option but occasionally the only one on tight timeline.
@@ -3467,7 +3553,7 @@ Verify local rules before assuming a permissive state permits all uses.
 
 ## Gun trusts and multi-user access
 
-A significant reason to establish a gun trust for suppressor ownership: an individually-owned suppressor can only be lawfully possessed by the individual named on the Form 4. A suppressor owned by a properly-drafted gun trust can be lawfully possessed by any named trustee.
+For registered suppressors, and in states that tie legality to federal registration, a gun trust matters: an individually-registered suppressor can only be lawfully possessed by the individual named on the Form 4 (see [our updated guide](/blog/nfa-ruling-august-2026-what-it-means) for how ATF's October 2026 guidance changes the federal picture). A suppressor owned by a properly-drafted gun trust can be lawfully possessed by any named trustee.
 
 For families with multiple shooters, this is meaningful. Without a trust, the suppressor owner is the only person who can legally handle it (with narrow exceptions for shared range use under owner supervision). With a trust, spouse, adult children, and other named trustees can lawfully use it independently.
 
@@ -4303,6 +4389,126 @@ In every one of these situations the right move is the same: **talk to a lawyer 
 ---
 
 *Thinking about a first purchase and want to understand the paperwork? Browse [our dealer directory](/dealers) to find dealers near you.*`,
+  },
+
+  {
+    slug: "can-18-20-year-olds-buy-handgun-2026",
+    title: "Can 18- to 20-Year-Olds Buy a Handgun in 2026? The Federal Rule, the Courts, and DOJ's New Position",
+    excerpt: "Federal law still bars dealers from selling handguns to anyone under 21, but DOJ now says it will not prosecute dealers for those sales. Here is where the courts, the Supreme Court, ATF, and state law stand as of October 2026.",
+    metaDescription: "Can 18-20 year olds buy a handgun from a dealer? The federal statute, Reese and McCoy, the Supreme Court's June 2026 denials, and DOJ's September opinion.",
+    category: "Legal Update",
+    categorySlug: "legal-update",
+    publishedAt: "2026-10-12",
+    readTime: "10 min read",
+    content: `*This article reflects federal and state law as of October 2026. Laws in this area change frequently; verify current law in your state before relying on it. This is general information, not legal advice.*
+
+For more than fifty years the answer was simple: at 18 you could buy a rifle or shotgun from a gun store, but you had to wait until 21 for a handgun. In 2026 that answer got complicated. The statute has not changed. What changed is who is willing to enforce it, and where.
+
+Here is the short answer as of mid-October 2026. The federal ban on dealer handgun sales to 18- to 20-year-olds is still in the U.S. Code. The Department of Justice announced in September that it considers the ban unconstitutional and will not use it to bring criminal charges against dealers. ATF has not yet published written instructions or a revised Form 4473 for these sales. And state law, which can be stricter, is untouched. So whether an 18-year-old can actually buy a handgun at a counter this month depends on the state, the dealer, and how quickly ATF moves.
+
+## The federal rule on the books
+
+The rule lives in [18 U.S.C. § 922(b)(1)](https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap44-sec922.htm). It bars licensed dealers, manufacturers, and importers from selling a firearm or ammunition to anyone they know or have reason to believe is under 18, and, for anything other than a rifle or shotgun (or its ammunition), to anyone under 21. A companion provision, § 922(c)(1), applies the same age line to the rare sales where the buyer does not appear in person.
+
+Two features of the rule matter for everything that follows:
+
+- **It applies only to licensees.** It controls what a federally licensed dealer may sell. It does not, by itself, stop an 18-year-old from owning a handgun or receiving one in a private transaction.
+- **It is a sales rule, not a possession rule.** Federal law draws a different line, at 18, for handgun possession (more on that below).
+
+ATF's own [minimum-age summary](https://www.atf.gov/resource-center/minimum-age-gun-sales-and-transfers) still reflects the traditional rule: dealers may not transfer handguns or handgun ammunition to anyone under 21.
+
+## Two appeals courts, two answers
+
+After *New York State Rifle & Pistol Ass'n v. Bruen* (2022) required gun laws to fit the nation's historical tradition of firearm regulation, challenges to the under-21 rule moved quickly.
+
+**The Fifth Circuit struck it down.** In *Reese v. ATF* ([opinion](https://law.justia.com/cases/federal/appellate-courts/ca5/23-30033/23-30033-2025-01-30.html)), decided January 30, 2025, a unanimous panel (opinion by Judge Edith Jones) held §§ 922(b)(1) and (c)(1) and their implementing regulations unconstitutional as applied to 18- to 20-year-olds. The court concluded that "the text of the Second Amendment includes eighteen-to-twenty-year-old individuals among 'the people'" and that the government had not identified a sufficient historical tradition supporting the ban. The Fifth Circuit covers Texas, Louisiana, and Mississippi. The government did not seek Supreme Court review.
+
+The relief that followed was narrower than the opinion. On remand, the district court in Louisiana limited the injunction to the individual plaintiffs and to members of the plaintiff organizations in the Fifth Circuit, with a membership cutoff date, and, according to the [Firearms Policy Coalition](https://www.firearmspolicy.org/reese), the plaintiffs are back at the Fifth Circuit (No. 26-30154) arguing that the relief is too narrow. On October 5, 2026, the government moved to voluntarily dismiss its own appeal in that round. As of this writing the Fifth Circuit has not ruled.
+
+**The Fourth Circuit upheld it.** In *McCoy v. ATF*, decided June 18, 2025, a divided Fourth Circuit panel reversed a Virginia district court and upheld the rule, reasoning that it is analogous to founding-era common-law rules limiting the contracting capacity of people under 21, according to the government's later [Supreme Court brief](https://www.supremecourt.gov/DocketPDF/25/25-24/379069/20251008120931833_25-24%20--%20McCoy%20v.%20ATF.pdf). Judge Quattlebaum dissented. The Fourth Circuit covers Maryland, Virginia, West Virginia, North Carolina, and South Carolina.
+
+That left a classic circuit split on the constitutionality of the same federal statute.
+
+## The Supreme Court declined to resolve it
+
+Three petitions asking the Supreme Court to take up under-21 restrictions were pending going into 2026:
+
+- *McCoy v. ATF*, [No. 25-24](https://www.supremecourt.gov/docket/docketfiles/html/public/25-24.html), on the federal dealer-sales rule.
+- *West Virginia Citizens Defense League v. ATF*, [No. 25-132](https://www.supremecourt.gov/docket/docketfiles/html/public/25-132.html), a second Fourth Circuit case on the same federal rule.
+- *NRA v. Glass*, [No. 24-1185](https://www.supremecourt.gov/docket/docketfiles/html/public/24-1185.html), on Florida's state law barring anyone under 21 from buying any firearm.
+
+The government's response in *McCoy* did not defend the statute on the merits. It argued the case was a poor vehicle because the plaintiffs were aging out, and asked the Court to hold the petition while it decided other Second Amendment cases.
+
+On June 30, 2026, the Court denied all three. Justice Thomas noted that he would have granted review in *West Virginia Citizens Defense League*. A denial is not a ruling on the merits. It leaves each lower-court decision in place: *Reese* still governs in the Fifth Circuit, *McCoy* still governs in the Fourth, and Florida's law still stands.
+
+## DOJ's September 2026 opinion
+
+On September 18, 2026, the Justice Department [announced](https://www.justice.gov/opa/pr/justice-department-concludes-federal-ban-handgun-sales-18-20-year-olds-unconstitutional-and) a 49-page [Office of Legal Counsel opinion](https://www.justice.gov/olc/media/1461811/dl) dated September 17. Its core conclusion: §§ 922(b)(1) and (c)(1) "may not be enforced to impose criminal penalties on dealers" who sell handguns to otherwise law-abiding adults aged 18 to 20.
+
+The reasoning tracks *Reese*. OLC concluded that 18- to 20-year-olds are among "the people" the Second Amendment protects, that the rule burdens acquisition of commonly used arms, and that the government cannot show a founding-era tradition of barring legal adults from buying firearms. It pointed to militia laws of the period, which generally enrolled men at 18 and required them to supply their own arms, and it relied in part on the Supreme Court's 2026 decisions in *Wolford v. Lopez* and *United States v. Hemani*.
+
+What the opinion is, and is not:
+
+- **It is executive-branch policy.** It tells federal prosecutors not to bring these cases. It does not repeal the statute, and it does not bind federal courts.
+- **It is about criminal prosecution of dealers selling handguns.** The opinion frames its question around handguns; it does not separately resolve handgun-ammunition-only sales. It also notes that willful violations of the statute have historically risked loss of a dealer's license, and it does not itself change ATF's regulations or forms.
+- **It does not touch state law.** Any state age limit, permit requirement, or waiting period still applies, and a dealer still may not make a sale that violates state law under [18 U.S.C. § 922(b)(2)](https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap44-sec922.htm).
+- **It does not change background checks.** Buyers under 21 remain subject to the enhanced NICS review added by the Bipartisan Safer Communities Act, signed June 25, 2022. According to the [FBI](https://le.fbi.gov/cjis-division/cjis-link/expanding-nics-firearm-checks-for-individuals-under-age-21-with-the-bipartisan-safer-communities-act), that review includes outreach to state juvenile-justice and juvenile mental-health record holders and local law enforcement, and can extend the check to as many as 10 business days.
+
+## So can an 18-year-old buy a handgun at a gun store today?
+
+Possibly, but not everywhere, and probably not smoothly yet.
+
+**ATF's paperwork has not caught up.** As of early October 2026, ATF had not published written instructions telling dealers how to process these sales, and its public minimum-age materials still state the under-21 rule. Industry compliance counsel [FFLGuard](https://www.fflguard.com/firearms-action-alert-doj-says-federal-under-21-handgun-sales-ban-is-unconstitutional-and-cannot-be-criminally-enforced/) has flagged open questions about how age and firearm type are recorded on Form 4473, how NICS handles the transaction, and how inspectors will treat these sales. Trade press reported that ATF's chief counsel told a dealer compliance conference in late September that ATF is building systems to allow these transfers and expects to issue guidance, and that a revised Form 4473 is not expected until after the holiday season. Those were reported conference remarks, not published guidance.
+
+**Dealers decide whether to sell.** Nothing in federal law requires a dealer to make a sale it is uncomfortable with. Expect some dealers to wait for written ATF guidance and others to move sooner where state law permits.
+
+**Covered members of the *Reese* plaintiff groups have a court order.** Individuals covered by the *Reese* injunction stand on firmer ground than everyone else, because a court judgment, not just an enforcement policy, protects their purchases.
+
+**Your state may say no regardless.** If your state sets 21 as the minimum for handgun purchase or licensing, the DOJ opinion does not help you.
+
+## Private sales: what federal law allows
+
+Federal law has always treated private, unlicensed sales differently. Under [18 U.S.C. § 922(x)](https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap44-sec922.htm), an unlicensed person may not transfer a handgun or handgun-only ammunition to anyone under 18, subject to narrow exceptions. There is no federal 21 line for private sales. As a matter of federal law, an unlicensed adult in your state may generally sell a handgun to an 18-year-old resident of the same state who is not otherwise prohibited.
+
+Two federal limits still apply:
+
+- **Same-state only.** Under § 922(a)(3) and (a)(5), unlicensed people generally may not transfer firearms to, or acquire them from, residents of other states, apart from inheritance and temporary sporting loans. An interstate handgun transfer has to go through a dealer in the buyer's state, which brings the dealer age question back.
+- **Prohibited persons.** No one may knowingly transfer a firearm to someone prohibited under § 922(g) or (n).
+
+Many states layer on universal background checks, permit-to-purchase systems, or their own age rules that apply to private sales too. Our guide to [private-party firearm sales](/blog/private-party-firearm-sales-state-laws-2026) covers that state overlay.
+
+## Possession is a separate question
+
+Federal law sets 18 as the minimum age to possess a handgun. Section 922(x)(2) bars juveniles under 18 from possessing a handgun, with exceptions for activities such as target practice, hunting, safety courses, and ranching or farm work, generally with a parent's written consent. Once you turn 18, federal law does not bar you from owning a handgun you lawfully acquired, whether by private purchase, gift, or inheritance.
+
+State law can draw the line higher, and some states regulate possession through licensing:
+
+- **New York** requires a license to possess a pistol or revolver, and [Penal Law § 400.00](https://www.nysenate.gov/legislation/laws/PEN/400.00) generally limits licenses to applicants "twenty-one years of age or older," with an exception for honorably discharged members of the military and the New York National Guard.
+- **Florida**, under [§ 790.065(13), Florida Statutes](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0790/Sections/0790.065.html), provides that "a person younger than 21 years of age may not purchase a firearm," with exceptions for certain law enforcement and correctional officers and servicemembers buying rifles or shotguns. That covers any firearm, not just handguns, and it applies to purchases in general, not only to dealer sales. The Supreme Court's June 2026 denial in *NRA v. Glass* left the Eleventh Circuit's decision upholding this law in place.
+
+These are examples, not a complete list. Check your own state's purchase, licensing, and possession rules before you rely on a federal change.
+
+## Carry permits: 18 in some states, 21 in others
+
+Buying a handgun and carrying it in public are different legal questions, and the DOJ opinion does not address carry at all. States set their own carry ages, and they vary widely. Two contrasting examples:
+
+- **Idaho** allows a U.S. citizen or service member "over eighteen (18) years of age" who is not otherwise disqualified to carry a concealed weapon without a license, under [Idaho Code § 18-3302](https://legislature.idaho.gov/statutesrules/idstat/title18/t18ch33/sect18-3302/). Licenses are generally limited to those 21 and older, with a separate license for ages 18 to 21.
+- **Ohio** allows permitless concealed carry only for a "qualifying adult," which [Ohio Revised Code § 2923.111](https://codes.ohio.gov/ohio-revised-code/section-2923.111) defines to include being "twenty-one years of age or older."
+
+Carrying across state lines adds another layer, because a state that honors other states' permits may still apply its own age minimum. See our guide to [concealed carry reciprocity](/blog/concealed-carry-reciprocity-states) before you travel.
+
+## What to watch
+
+- **Written ATF guidance and a revised Form 4473.** Until these arrive, many dealers are likely to treat under-21 handgun sales cautiously.
+- **The Fifth Circuit's decision on the scope of the *Reese* injunction.**
+- **A new Supreme Court petition.** The Court passed on three vehicles in June. With DOJ now agreeing the federal rule is unconstitutional, a future federal case may lack a party defending the statute, which could make Supreme Court review of the federal rule less likely in the near term. State-law cases are another route.
+- **Congress or a future administration.** The OLC opinion is a policy position. A later administration could withdraw it, and the statute would be enforceable again.
+
+If you are 18 to 20 and planning a first handgun purchase, start with your state's rules, then call a dealer and ask how it is handling these sales. Our [first-time gun buyer guide](/blog/first-time-gun-buyer-guide) walks through the 4473 process, and our [first handgun guide](/blog/first-handgun-guide) covers choosing one.
+
+---
+
+*Shopping for a first handgun? Browse [our dealer directory](/dealers) to find dealers near you.*`,
   },
 ];
 

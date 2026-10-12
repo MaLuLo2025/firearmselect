@@ -594,6 +594,7 @@ export const faqData: FaqEntry[] = [
     category: "Buying Your First Firearm",
     relatedLinks: [
       { label: "First Handgun Guide", href: "/blog/first-handgun-guide" },
+      { label: "Can 18- to 20-Year-Olds Buy a Handgun in 2026?", href: "/blog/can-18-20-year-olds-buy-handgun-2026" },
     ],
   },
   {
@@ -799,12 +800,12 @@ export const faqData: FaqEntry[] = [
     id: "obbba-suppressor-changes",
     question: "Did the One Big Beautiful Bill Act change suppressor laws?",
     answer:
-      "Yes, significantly. The OBBBA (passed in 2025, effective on signing) removed suppressors from certain NFA regulatory requirements — including the $200 transfer tax — for qualifying individuals. The full scope is still being implemented through ATF rulemaking as of mid-2026. State laws are unaffected: suppressors remain banned in approximately 8 states regardless of the federal change. The practical purchase process depends on ATF's current implementation guidance — check with an NFA-licensed dealer for the latest.",
+      "Yes. The OBBBA reduced the $200 making and transfer tax on suppressors to $0, effective January 1, 2026. After an August 2026 court ruling, ATF announced on October 9, 2026 that it will no longer enforce NFA approval or registration for suppressors, so a dealer sale now requires a Form 4473 and background check. State laws are unaffected: suppressors remain banned in approximately 8 states, and some states tie legality to federal registration. Check your state's law before buying.",
     keywords: ["OBBBA", "suppressor", "silencer", "NFA", "transfer tax", "ATF", "One Big Beautiful Bill Act"],
     category: "Gun Laws",
     relatedLinks: [
       { label: "Suppressors After the OBBBA: Full Article", href: "/blog/suppressors-obbba-changes" },
-      { label: "The August 2026 NFA Ruling: What It Actually Changes", href: "/blog/nfa-ruling-august-2026-what-it-means" },
+      { label: "The NFA Ruling and ATF's October 2026 Guidance", href: "/blog/nfa-ruling-august-2026-what-it-means" },
     ],
   },
   {
@@ -887,6 +888,7 @@ export const faqData: FaqEntry[] = [
     relatedLinks: [
       { label: "State Gun Law Guides", href: "/states" },
       { label: "Colorado's 2026 Gun Purchase Requirements", href: "/blog/colorado-gun-laws-2026" },
+      { label: "Can 18- to 20-Year-Olds Buy a Handgun in 2026?", href: "/blog/can-18-20-year-olds-buy-handgun-2026" },
     ],
   },
 
@@ -1008,11 +1010,12 @@ export const faqData: FaqEntry[] = [
     id: "nfa-item-death-form5",
     question: "What happens to a suppressor or short-barreled rifle when the owner dies?",
     answer:
-      "The item stays in the estate until the ATF approves a Form 5 tax-exempt transfer to the lawful heir. Processing typically takes 6–12 months, during which the executor holds the item — the inheritor cannot legally take possession before approval. The $200 transfer tax is waived under the death exception.",
+      "For machine guns and destructive devices, the item stays in the estate until the ATF approves a Form 5 tax-exempt transfer to the lawful heir, and the inheritor cannot legally take possession before approval. As of October 9, 2026, ATF no longer enforces NFA approval or registration for suppressors, short-barreled rifles, short-barreled shotguns, and AOWs, though state law may still require registration, and ATF has said enforcement could resume. Check your state's law and consult an attorney before transferring an item.",
     keywords: ["NFA", "suppressor", "short-barreled rifle", "Form 5", "inheritance", "estate", "tax exempt"],
     category: "Gun Laws",
     relatedLinks: [
       { label: "How to Inherit a Firearm Legally: Full Guide", href: "/blog/how-to-inherit-a-firearm-legally-2026" },
+      { label: "The NFA Ruling and ATF's October 2026 Guidance", href: "/blog/nfa-ruling-august-2026-what-it-means" },
     ],
   },
   {

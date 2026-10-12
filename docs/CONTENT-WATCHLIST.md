@@ -6,3 +6,9 @@ Time-sensitive claims to re-verify each audit.
 | 2026-10-06 | wolford-v-lopez-carry-private-property-2026 | Third Circuit en banc ruling on New Jersey's default rule; Ninth Circuit remand details for Hawaii | Court dockets / opinions | — | seed |
 | 2026-10-06 | firearm-storage-laws-state-2026 | Maryland and Vermont classification (Giffords and Everytown trackers disagree); Maryland's 2026 penalty bill; Oregon's vehicle visibility provision as enacted | Giffords and Everytown trackers, state legislature sites | — | seed |
 | 2026-10-06 | self-defense-insurance-comparison-2026 | Provider structures (CCW Safe / ACLDN); no prices are published, keep it that way | Provider websites | — | seed |
+| 2026-10-12 | nfa-ruling-august-2026-what-it-means | ATF Oct 9 guidance or rescission; any § 922(b)(4) rulemaking | atf.gov/firearms/update-to-nfa-transfer-guidance | — | new |
+| 2026-10-12 | nfa-ruling-august-2026-what-it-means | Brown v. ATF (E.D. Mo.) Oct 22 status conference; Texas clarification motion | AmmoLand, CourtListener dockets | — | new |
+| 2026-10-12 | nfa-ruling-august-2026-what-it-means | Montana DOJ updated guidance; state AG responses in registration-tied states | dojmt.gov | — | new |
+| 2026-10-12 | can-18-20-year-olds-buy-handgun-2026 | ATF written guidance and revised Form 4473 for 18-20 handgun sales | atf.gov (minimum-age page, FFL newsletters) | — | new |
+| 2026-10-12 | can-18-20-year-olds-buy-handgun-2026 | Fifth Circuit No. 26-30154 (FPC v. ATF / Reese relief scope) and the Oct 5 dismissal motion | firearmspolicy.org/reese | — | new |
+| 2026-10-12 | can-18-20-year-olds-buy-handgun-2026 | Any new cert petition on under-21 purchase restrictions | supremecourt.gov dockets / SCOTUSblog | — | new |
