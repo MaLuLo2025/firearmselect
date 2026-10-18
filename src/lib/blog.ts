@@ -2958,16 +2958,18 @@ The 2026 National Firearms Survey confirms that gun ownership in the United Stat
 
   {
     slug: "virginia-ar15-sales-ban-2026",
-    title: "Virginia's Semi-Auto Sales Ban Takes Effect: What Gun Owners Need to Know",
-    excerpt: "Virginia's ban on the sale of certain semi-automatic firearms took effect July 1, 2026. Here's what's actually prohibited, what's exempt, and what the enforcement picture looks like.",
-    metaDescription: "Virginia's ban on the sale of certain semi-automatic firearms took effect July 1, 2026. Here's what's actually prohibited, what's exempt, and what the enforcement picture looks like.",
+    title: "Virginia's Semi-Auto Sales Ban: What It Covers and Where It Stands",
+    excerpt: "Virginia's ban on the sale of certain semi-automatic firearms was scheduled to take effect July 1, 2026, but a statewide state-court injunction has blocked its enforcement since July 21, 2026. Here's what the law covers, what is exempt, and where the litigation stands.",
+    metaDescription: "Virginia's semi-auto sales ban was set for July 1, 2026, but a statewide injunction has blocked enforcement since July 21. What it covers, what's exempt, and the carry provision's 2027 date.",
     category: "State Laws",
     categorySlug: "state-laws",
     publishedAt: "2026-09-08",
     readTime: "4 min read",
-    content: `On July 1, 2026, Virginia's ban on the sale of specified semi-automatic firearms took effect, making the Commonwealth one of a small number of states to enact such restrictions. The law prohibits the sale, transfer, and manufacture of certain semi-automatic firearms within Virginia — but not possession. Virginians who already own affected firearms may keep them.
+    content: `*As of October 2026: the sales restrictions described below are blocked by a statewide state-court injunction and are not currently being enforced. The status can change; check the current court record before relying on it. This is general information, not legal advice.*
 
-The law's practical impact is shaped by two unusual features: its scope, which targets specific configurations rather than broad categories, and the enforcement landscape, which has fractured along jurisdictional lines.
+Virginia's ban on the sale of specified semi-automatic firearms was scheduled to take effect on July 1, 2026, making the Commonwealth one of a small number of states to enact such restrictions. The law prohibits the sale, transfer, and manufacture of certain semi-automatic firearms within Virginia — but not possession. Virginians who already own affected firearms may keep them.
+
+The law's practical impact is shaped by three things: its scope, which targets specific configurations rather than broad categories; the court injunctions that have blocked its enforcement; and an enforcement landscape that had already fractured along jurisdictional lines.
 
 ## What the law covers
 
@@ -2977,29 +2979,37 @@ The critical detail is in the feature test. A semi-automatic rifle that accepts 
 
 Manufacturers and dealers have responded by offering compliant configurations of popular platforms — featureless builds that accept detachable magazines but lack the specified features, or fixed-magazine configurations that render the feature test moot. Whether this approach satisfies the law's intent or merely its letter is a question that will likely be addressed through enforcement and litigation.
 
+## Where the law stands: statewide injunction
+
+Two Virginia circuit courts issued preliminary injunctions against the sales provisions (SB 749/HB 217) before the July 1 date. On July 7, 2026, the Washington County Circuit Court expanded its preliminary injunction to apply statewide, barring all law enforcement agencies, law enforcement officers, and commonwealth's attorneys from enforcing the challenged provisions. The statewide order took effect July 21, 2026, according to the [Hanover County Commonwealth's Attorney's status page](https://www.hanovercounty.gov/1739/Assault-Weapon-Legislation-Status), and that office says it will not pursue enforcement of these provisions while the injunction stands. News reports from June and July 2026 describe the same orders; this article does not rely on a court document, so check the court record for the current text and duration.
+
+A separate provision restricting the public carry and transport of "assault firearms" (SB 727/HB 1524) is not in effect. A budget amendment approved June 29, 2026 delayed its effective date to July 1, 2027.
+
+A preliminary injunction is not a final ruling, and it can be modified, stayed, or ended by the court. The U.S. Supreme Court has agreed to hear challenges to bans on AR-15-style rifles in other jurisdictions; see [The Supreme Court's AR-15 Ban Case](/blog/supreme-court-ar15-ban-case-2026) for what the Court will decide and when.
+
 ## The enforcement fracture
 
-In the period before the law took effect, at least 14 commonwealth's attorneys publicly stated they would not enforce it. Their objections range from constitutional concerns to resource allocation to disagreement with the law's policy objectives. This creates a geographic patchwork within the state where the same conduct may be prosecuted in one jurisdiction and ignored in another.
+In the period before the law's scheduled start date, at least 14 commonwealth's attorneys publicly stated they would not enforce it. Their objections range from constitutional concerns to resource allocation to disagreement with the law's policy objectives. This creates a geographic patchwork within the state where the same conduct may be prosecuted in one jurisdiction and ignored in another.
 
-For gun owners and FFLs, this creates genuine uncertainty. A dealer in a jurisdiction whose commonwealth's attorney has declined to enforce the ban faces a different practical risk profile than a dealer in a jurisdiction that intends to prosecute. But the law is the law statewide — a commonwealth's attorney's exercise of prosecutorial discretion does not change the statutory prohibition or create a legal safe harbor.
+For gun owners and FFLs, this creates genuine uncertainty. A dealer in a jurisdiction whose commonwealth's attorney has declined to enforce the ban faces a different practical risk profile than a dealer in a jurisdiction that intends to prosecute. Before the statewide injunction, a commonwealth's attorney's exercise of prosecutorial discretion did not change the statutory prohibition or create a legal safe harbor. The injunction now bars enforcement statewide, but it is preliminary and the statute remains on the books.
 
-Virginia gun sales more than doubled year-over-year in May 2026 as buyers purchased affected firearms before the July 1 effective date. That demand surge reflects both the law's direct impact on availability and the broader uncertainty about future restrictions.
+Virginia gun sales more than doubled year-over-year in May 2026 as buyers purchased affected firearms before the July 1 scheduled date. That demand surge reflects both the law's direct impact on availability and the broader uncertainty about future restrictions.
 
 ## Legal challenges
 
-The law is expected to face Second Amendment challenges under the framework established by Bruen. The question of whether a state can constitutionally prohibit the sale of firearms that are in common use — and AR-15 platform rifles are unambiguously in common use per the 2026 National Firearms Survey's finding of approximately 40 million in private hands — is one of the defining legal questions in firearms law right now. The Firearms Policy Coalition's September 2026 Supreme Court brief on assault weapon bans directly addresses this question, and Virginia's law may become part of the litigation landscape.
+The law is facing Second Amendment challenges in state court, where the challenges brought so far have produced the injunctions described above, under the framework established by Bruen. The question of whether a state can constitutionally prohibit the sale of firearms that are in common use — and AR-15 platform rifles are unambiguously in common use per the 2026 National Firearms Survey's finding of approximately 40 million in private hands — is one of the defining legal questions in firearms law right now. The Firearms Policy Coalition's September 2026 Supreme Court brief on assault weapon bans directly addresses this question, and Virginia's law may become part of the litigation landscape.
 
 ## What Virginia gun owners should know
 
 If you already own an affected firearm, the law does not require you to sell, surrender, or register it. Possession of lawfully owned firearms is not prohibited.
 
-If you're considering purchasing a semi-automatic firearm in Virginia, verify whether the specific configuration is affected by the ban. Consult with your FFL — Virginia dealers have been adjusting their inventory and can tell you which configurations are compliant and which are not.
+If you're considering purchasing a semi-automatic firearm in Virginia, check the current status of the injunction and whether the specific configuration is affected by the law. Consult with your FFL — Virginia dealers can tell you how they are handling the affected configurations while the injunction is in place.
 
-If you're an FFL in Virginia, the enforcement landscape requires careful attention. Regardless of your local commonwealth's attorney's stated position, the statutory prohibition exists, and enforcement postures can change with personnel. Operating within the law's boundaries — even in a jurisdiction that currently declines to enforce — is the conservative and defensible approach.
+If you're an FFL in Virginia, the legal picture requires careful attention. The statewide injunction currently bars enforcement, but it is preliminary, the statute remains on the books, and the court's orders can change. Consult an attorney familiar with Virginia firearms law about how the injunction applies to your business.
 
 ## The bottom line
 
-Virginia's semi-auto sales ban is now law, its scope is specific rather than categorical, and its enforcement is fractured rather than uniform. Understanding the exact boundaries of what's prohibited, maintaining compliance regardless of local enforcement posture, and monitoring the legal challenges that will test the law's constitutionality are the practical steps for Virginia gun owners and dealers navigating the new landscape.`,
+Virginia's semi-auto sales ban is enacted law, but as of October 2026 a statewide injunction blocks its enforcement and the related carry provision does not take effect until July 1, 2027. The law's scope is specific rather than categorical. Understanding the exact boundaries of what's covered and monitoring the court record, including the U.S. Supreme Court's pending AR-15 case, are the practical steps for Virginia gun owners and dealers.`,
   },
 
   {
@@ -4509,6 +4519,253 @@ If you are 18 to 20 and planning a first handgun purchase, start with your state
 ---
 
 *Shopping for a first handgun? Browse [our dealer directory](/dealers) to find dealers near you.*`,
+  },
+
+  {
+    slug: "supreme-court-ar15-ban-case-2026",
+    title: "The Supreme Court's AR-15 Ban Case: What's at Stake and When",
+    excerpt: "The Supreme Court will hear argument on December 2, 2026, in two consolidated challenges to bans on AR-15-style rifles. Here is what the Court agreed to decide, which laws could be affected, the legal test it will apply, and what stays the same while the case is pending.",
+    metaDescription: "Viramontes v. Cook County and Grant v. Higgins: the question presented, the December 2, 2026 argument, the Bruen/Rahimi test, and which bans could be affected.",
+    category: "Legal Update",
+    categorySlug: "legal-update",
+    publishedAt: "2026-10-19",
+    readTime: "9 min read",
+    content: `*This article reflects the case docket and state law as of October 2026. The case is pending and the facts below will change; check the current docket and your state's law before relying on it. This is general information, not legal advice.*
+
+For years, the most common question in Second Amendment law was whether the Supreme Court would ever take an AR-15 case. That question is answered. On June 30, 2026, the Court agreed to hear two consolidated challenges to bans on AR-15-style rifles, and it has set argument for Wednesday, December 2, 2026.
+
+What the Court has not done is decide anything. Every ban on the books today is still the law in the places that have one. This article covers what the Court agreed to decide, which laws are in play, the legal test the justices will apply, the realistic range of outcomes, and the dates to watch.
+
+## The two cases
+
+The Court granted review in two cases and consolidated them for a single one-hour argument:
+
+- **Viramontes v. Cook County, Illinois, No. 25-238.** The challengers are contesting Cook County's ordinance banning "assault weapons," including AR-15-style rifles. The U.S. Court of Appeals for the Seventh Circuit ruled for the county on June 2, 2025 (Seventh Circuit No. 24-1437). [Supreme Court docket](https://www.supremecourt.gov/docket/docketfiles/html/public/25-238.html).
+- **Grant v. Higgins, No. 25-566.** The challengers are contesting Connecticut's state assault weapons law. The Second Circuit upheld the law on August 22, 2025 (Second Circuit No. 23-1344). [Supreme Court docket](https://www.supremecourt.gov/docket/docketfiles/html/public/25-566.html).
+
+Neither petition was granted quickly. Both dockets show the cases were distributed for the justices' private conference again and again through the first half of 2026 before the grant on the last day of June.
+
+Two details on the grant matter:
+
+- **The Court took the Viramontes question, not two questions.** It granted the Connecticut petition only "as to the question presented by the petition in No. 25-238." So both cases will be decided on one question.
+- **The Viramontes docket is now the main docket.** The Court directed that future filings in both cases appear on No. 25-238.
+
+## The question the Court will answer
+
+Here is the question presented, verbatim from the [Court's question-presented sheet](https://www.supremecourt.gov/qp/25-00238qp.pdf):
+
+> "Whether the Second and Fourteenth Amendments guarantee the right to possess AR-15 platform and similar semiautomatic rifles."
+
+Three things follow from that wording.
+
+**It is about rifles.** The question says nothing about magazines. Connecticut also limits magazine capacity, but that limit is not part of the question the Court agreed to decide. Magazine limits have their own litigation track; our guide to [magazine capacity limits by state](/blog/magazine-capacity-limits-by-state-2026) covers where those stand.
+
+**It is about possession.** The question asks whether there is a right to *possess* these rifles. Some laws ban possession outright; others focus on sale, manufacture, or transfer, or grandfather rifles owned before a cutoff date. How a ruling on possession carries over to a sales-only or registration-based law is likely to be argued in later cases, whichever way this one comes out.
+
+**It is about a category.** The question asks about "AR-15 platform and similar semiautomatic rifles," not about any one feature. State laws define "assault weapon" in different ways, some by model name, some by features such as a pistol grip or adjustable stock, and some by both. A decision could speak broadly or leave room for argument about how it applies to a particular state's definition.
+
+## Who is arguing what
+
+The challengers in both cases argue that AR-15-style rifles are arms in common use for lawful purposes and that a categorical ban on possessing them cannot stand. Cook County and Connecticut defend their laws as consistent with the nation's historical tradition of regulating weapons they consider unusually dangerous. The Second Circuit accepted Connecticut's framing, and the Seventh Circuit ruled for Cook County.
+
+The federal government is on the challengers' side. The Solicitor General filed an amicus brief supporting the petitioners and, on September 9, 2026, asked for argument time. According to the [motion](https://www.supremecourt.gov/DocketPDF/25/25-238/423604/20260909144515105_25-238%20Viramontes%20Divided%20Argument%20Motion.pdf), "The United States has filed a brief as amicus curiae supporting petitioners, arguing that such a ban is unconstitutional." The motion proposes 20 minutes for the petitioners, 10 for the United States, and 30 for the respondents. As of the latest docket entry we reviewed (September 21, 2026), the docket does not show a ruling on that request.
+
+Dozens of other amicus briefs have been filed, including by states, members of Congress, law enforcement groups, industry and advocacy organizations, and academics. The county's and Connecticut's merits briefs are due October 21, 2026, and briefs supporting them will follow.
+
+## The legal test: Heller, Bruen, and Rahimi
+
+The Court will not be writing on a blank slate. Three earlier decisions set the frame.
+
+**Heller (2008)** held that the Second Amendment protects an individual right and described the protected arms in terms of weapons "in common use," while recognizing a historical tradition of prohibiting "dangerous and unusual weapons." Both phrases are at the center of the AR-15 debate. Challengers point to the number of AR-15s in circulation; defenders argue that popularity alone does not settle whether a weapon falls within the right.
+
+**Bruen (2022)** replaced the balancing tests many lower courts had used. In [New York State Rifle & Pistol Ass'n v. Bruen](https://www.supremecourt.gov/opinions/21pdf/20-843_7j80.pdf), decided June 23, 2022, Justice Thomas wrote for the Court: "When the Second Amendment's plain text covers an individual's conduct, the Constitution presumptively protects that conduct." The government then has to show that its regulation is consistent with the nation's historical tradition of firearm regulation. An interest in public safety, standing alone, is not enough. Our explainer on [the Second Amendment after Bruen](/blog/second-amendment-after-bruen) walks through the method.
+
+**Rahimi (2024)** clarified how strict that historical comparison has to be. In [United States v. Rahimi](https://www.supremecourt.gov/opinions/23pdf/22-915_8o6b.pdf), decided 8–1 on June 21, 2024, Chief Justice Roberts wrote that the question is whether a law "is consistent with the principles that underpin our regulatory tradition," and that a historical analogue "need not be a 'dead ringer' or a 'historical twin.'" Rahimi upheld the federal ban on gun possession by people subject to certain domestic-violence restraining orders.
+
+Applied to this case, the questions the justices are likely to work through include:
+
+- **Step one:** Are AR-15-style rifles "arms" covered by the Second Amendment's text at all, and does "common use" belong in this step or the next?
+- **Step two:** If they are covered, is there a historical tradition, measured by principles rather than identical laws, of banning a category of weapons like this one?
+- **What counts as "dangerous and unusual":** whether that phrase describes a weapon's lethality, its rarity, or both.
+
+## The Court signaled interest a year earlier
+
+The grant was not a surprise to people following the docket. On June 2, 2025, the Court declined to hear *Snope v. Brown*, a challenge to Maryland's assault weapons ban. Justice Thomas [dissented from that denial](https://www.law.cornell.edu/supremecourt/text/24-203), and Justices Alito and Gorsuch would have granted review. Justice Kavanaugh agreed with the denial but wrote separately that "this Court should and presumably will address the AR-15 issue soon, in the next Term or two." He estimated that Americans possess 20 to 30 million AR-15s. Four justices are needed to grant review.
+
+## Which laws could be affected
+
+A Supreme Court ruling on the Constitution binds every court in the country, so its effect would reach beyond Cook County and Connecticut. According to [Giffords Law Center's tally](https://giffords.org/lawcenter/gun-laws/policy-areas/hardware-ammunition/assault-weapons/), twelve states and the District of Columbia have laws that generally ban the sale, manufacture, and transfer of assault weapons: California, Connecticut, Delaware, Hawaii (assault pistols only), Illinois, Maryland, Massachusetts, New Jersey, New York, Rhode Island, Virginia, and Washington, plus D.C. The same source lists Colorado and Minnesota as regulating these weapons without a general ban. Local ordinances, such as Cook County's, add another layer.
+
+These laws differ in ways that could matter after a decision:
+
+- **Possession vs. sale.** Some laws ban possession; others mainly restrict sale or transfer and allow existing owners to keep registered rifles. Virginia's law, for example, targets sales and is currently enjoined (see below). See our article on [Virginia's AR-15 sales ban](/blog/virginia-ar15-sales-ban-2026).
+- **Definitions.** Feature-based, list-based, and hybrid definitions may not all be treated the same way.
+- **Other requirements.** Colorado's permit-to-purchase rule for certain semiautomatics works differently from a ban; our [Colorado permit-to-purchase guide](/blog/colorado-permit-to-purchase-semiauto-2026) explains it.
+
+## Possible outcomes
+
+The Court could go several directions, and this article does not predict which. The realistic range:
+
+- **A holding that the bans are unconstitutional.** The Court could hold that AR-15-style rifles are protected and that a categorical possession ban fails the historical test. Other jurisdictions' laws would not vanish automatically, but challengers would bring the ruling into pending and new cases, and courts would have to apply it.
+- **A holding that the bans are constitutional.** The Court could hold that these rifles fall outside the right or that a sufficient historical tradition supports banning them. That would leave existing laws in place and could encourage other jurisdictions to consider similar laws.
+- **A narrower ruling.** The Court could clarify the test, for example where "common use" fits in the analysis, and send the cases back to the lower courts to apply it. A ruling like that could leave many specific questions open for years.
+
+Whatever the result, the opinion's reasoning may matter as much as the bottom line, because lower courts will apply it to magazine limits, feature definitions, and sales restrictions.
+
+## What does not change while the case is pending
+
+**Current bans remain enforceable.** Agreeing to hear a case does not suspend the laws being challenged. Cook County's ordinance, Connecticut's law, and every similar law remain in force unless a court has separately blocked a particular law. If you live in a ban jurisdiction, the law that applies to you today is the law on the books today.
+
+**Separate state-court cases are a different matter.** Some laws are tied up in their own litigation. Virginia is an example: according to a [Hanover County notice](https://www.hanovercounty.gov/1739/Assault-Weapon-Legislation-Status), two Virginia circuit courts issued preliminary injunctions against the state's new sales restrictions, and one was expanded statewide effective July 21, 2026. Those orders come from state courts applying their own cases, not from the Supreme Court's grant, and they can change. Check the current status where you live.
+
+**Your own plans.** If you are weighing whether to buy now or wait, the decision is yours, but base it on current law, not on a forecast. A purchase that is illegal in your jurisdiction today does not become legal because the Supreme Court might rule a certain way next year. Nothing about the pending case changes background checks, waiting periods, or the rules for [buying from a dealer in another state](/blog/interstate-firearm-purchases-ffl-transfer-2026).
+
+## Key dates
+
+- **June 30, 2026:** Certiorari granted; cases consolidated, one hour of argument allotted.
+- **August 28, 2026:** Petitioners' merits brief and joint appendix filed.
+- **September 4, 2026:** Case set for argument.
+- **September 9, 2026:** Solicitor General's motion to participate in argument filed.
+- **October 21, 2026:** Cook County's and Connecticut's merits briefs due.
+- **Wednesday, December 2, 2026:** Oral argument.
+- **By the end of the Term:** The Court usually issues opinions in argued cases by the end of June or the first days of July. For a December argument, a decision could come at any point before then, but high-profile cases are often among the last released.
+
+The Court posts argument transcripts on its [argument transcripts page](https://www.supremecourt.gov/oral_arguments/argument_transcript/2026) the same day an argument is heard. Reading the transcript shows what the justices focused on, without anyone else's spin.
+
+## What to watch
+
+- **The respondents' briefs (October 21)** and the amicus briefs filed in their support.
+- **The Court's ruling on the Solicitor General's request for argument time.**
+- **The December 2 argument**, especially questions about "common use," "dangerous and unusual," and how a ruling would apply to sales-only laws and magazine limits.
+- **Related cases.** Other petitions on assault weapons and magazines may be held pending this decision and then sent back to lower courts in light of it.
+
+We will update this article after the argument and again when the Court rules.
+
+---
+
+*Looking for a licensed dealer near you? Browse [our dealer directory](/dealers) to find dealers by location.*`,
+  },
+
+  {
+    slug: "buying-gun-as-gift-legal-2026",
+    title: "Can You Buy a Gun as a Gift? Straw Purchases, Form 4473, and the Rules That Trip People Up",
+    excerpt: "Federal law allows you to buy a firearm as a genuine gift, but the line between a gift and a straw purchase is narrower than many buyers think. Here is how Form 4473 question 21.a works, what Abramski and the 2022 straw-purchasing law mean, and how age, residence, and state law change the answer.",
+    metaDescription: "Buying a gun as a gift: Form 4473 question 21.a, bona fide gifts vs straw purchases, Abramski, 18 U.S.C. 932 penalties, under-21 and out-of-state recipients.",
+    category: "Buying Guides",
+    categorySlug: "buying-guides",
+    publishedAt: "2026-10-19",
+    readTime: "9 min read",
+    content: `*This article reflects federal law and ATF forms as of October 2026. State law varies and changes often; check the rules in your state and the recipient's state before you buy. This is general information, not legal advice.*
+
+Holiday shoppers regularly want to buy a rifle for a spouse, a shotgun for a son, or a handgun for a parent three states away. Federal law allows a genuine gift. But the line between a gift and an illegal straw purchase turns on details people often get wrong, and getting it wrong can mean a felony.
+
+Here are the federal rules in the order you will meet them, then the age, residency, and state-law issues that can turn a simple gift into a problem.
+
+## The question that decides it: Form 4473, question 21.a
+
+When you buy a firearm from a licensed dealer, you fill out ATF Form 4473, the Firearms Transaction Record. The current version is the one ATF labels "Revised August 2023," which became mandatory on February 1, 2024, according to [ATF's notice on the revised form](https://www.atf.gov/firearms/tools-and-services-firearms-industry/current-licensees/updated-atf-form-4473-firearms-transaction-record-august-2023-revisions).
+
+Question 21.a asks: "Are you the actual transferee/buyer of all of the firearm(s) listed on this form and any continuation sheet(s) (ATF Form 5300.9A)?" The form warns that you are not the actual buyer "if you are acquiring any of the firearm(s) on behalf of another person."
+
+The instructions for question 21.a, printed on the [form itself](https://www.atf.gov/firearms/docs/4473-part-1-firearms-transaction-record-over-counter-atf-form-53009/download), are where gifts come in. They say a person is the actual transferee/buyer if he or she is buying the firearm for himself or herself, and that "A person is also the actual transferee/buyer if he/she is legitimately purchasing the firearm as a bona fide gift for a third party."
+
+Then comes the limit: "A gift is not bona fide if another person offered or gave the person completing this form money, service(s), or item(s) of value to acquire the firearm for him/her, or if the other person is prohibited by law from receiving or possessing the firearm."
+
+The form gives two examples:
+
+- **The straw purchase.** "Mr. Smith asks Mr. Jones to purchase a firearm for Mr. Smith (who may or may not be prohibited). Mr. Smith gives Mr. Jones the money for the firearm." Mr. Jones is not the actual buyer, must answer "no," and the dealer may not transfer the gun to him.
+- **The gift.** If "Mr. Brown buys the firearm with his own money to give to Mr. Black as a gift (with no service or tangible thing of value provided by Mr. Black)," the form says Mr. Brown is the actual transferee/buyer and should answer "yes" to question 21.a.
+
+### What that means in practice
+
+A bona fide gift has three features:
+
+- **It is your money.** You pay for it, and you are not being paid back in cash, services, or anything else of value.
+- **It is your decision.** You are buying it to give, not filling an order someone placed with you.
+- **The recipient can legally have it.** If the recipient is prohibited, it is not a bona fide gift no matter who paid.
+
+Here's a typical scenario that crosses the line. Your brother sends you money by payment app and asks you to pick up a rifle for him because he works late. That is not a gift, and the fact that he could legally buy it himself does not help, as the next section explains.
+
+Compare: you decide to buy your brother a rifle for his birthday and pay for it yourself. Under the form's wording, the test is whether he offered or gave you money, services, or items of value to acquire it for him. A side agreement that he will pay you back later defeats the gift.
+
+## Abramski: lying about the buyer is a crime even if the real buyer is eligible
+
+People sometimes assume a straw purchase only matters if the real buyer is a felon. The Supreme Court rejected that view in [Abramski v. United States](https://www.law.cornell.edu/supremecourt/text/12-1493), decided 5–4 on June 16, 2014.
+
+Bruce Abramski offered to buy a Glock 19 handgun for his uncle, who sent him $400 for it. Abramski bought the gun from a dealer, answered "yes" to the actual-buyer question on the version of Form 4473 then in use, and later transferred the gun to his uncle. He was convicted under 18 U.S.C. § 922(a)(6), which makes it a crime to knowingly make a false statement to a dealer about a fact material to the lawfulness of a sale.
+
+Justice Kagan's majority opinion held that the false answer was material even though the uncle could have bought the gun legally himself, because the dealer could not lawfully have made the sale had it known Abramski was only a straw buyer. Who the actual buyer is matters, whether or not the person behind the purchase is prohibited.
+
+## The 2022 straw-purchasing statute: 18 U.S.C. § 932
+
+The Bipartisan Safer Communities Act, signed June 25, 2022, added a standalone straw-purchasing offense at [18 U.S.C. § 932](https://www.law.cornell.edu/uscode/text/18/932).
+
+Under § 932(b), it is unlawful to knowingly buy, or conspire to buy, a firearm for or on behalf of another person, or at another person's request or demand, knowing or having reasonable cause to believe that the other person:
+
+- is prohibited from receiving or possessing firearms under the categories in 18 U.S.C. § 922(d);
+- intends to use, carry, possess, or sell the firearm in furtherance of a felony, a federal crime of terrorism, or a drug trafficking crime; or
+- intends to sell or otherwise transfer the firearm to someone in either of those groups.
+
+The penalties under § 932(c):
+
+- **Up to 15 years** in prison, a fine, or both, for a violation.
+- **Up to 25 years** if the person acted knowing or having reasonable cause to believe the firearm would be used to commit a felony, a federal crime of terrorism, or a drug trafficking crime.
+
+So there are two tracks. Section 932 targets purchases for prohibited or dangerous people; the false-statement rules from *Abramski* reach straw purchases even for eligible people. Form 4473 itself warns that "making any false oral or written statement" on the form "is a crime punishable as a felony under Federal law."
+
+## Giving a gun to someone who is prohibited
+
+This is the hard stop. A gift to a prohibited person is not bona fide under the 4473 instructions, and a separate statute applies to everyone, not just dealers. Under [18 U.S.C. § 922(d)](https://www.law.cornell.edu/uscode/text/18/922), it is unlawful for "any person" to sell or otherwise dispose of a firearm or ammunition to someone the person knows or has reasonable cause to believe falls into a prohibited category. The categories include, among others, people under indictment for or convicted of a crime punishable by more than one year, unlawful drug users, and people with certain domestic-violence orders or convictions. You do not have to know for certain: "reasonable cause to believe" is enough, even in a private transfer with no form.
+
+## The simplest alternative: a gift card or gift certificate
+
+If you are uneasy about the paperwork, or unsure whether the recipient is eligible, give a dealer gift card or gift certificate, or go shopping together and let the recipient buy. The recipient then fills out Form 4473 and goes through the background check in his or her own name, so there is no question about who the actual buyer is, and age, residency, and state rules are applied at the counter to the person who will own the gun. Check the dealer's terms for its gift cards.
+
+## Gifts to people under 21
+
+Age rules depend on the type of firearm, who is transferring it, and the recipient's state.
+
+**Under 18.** Federal law, in [18 U.S.C. § 922(x)](https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap44-sec922.htm), makes it unlawful to transfer a handgun or handgun-only ammunition to anyone you know or have reasonable cause to believe is under 18, and generally bars juveniles from possessing handguns. The exceptions are narrow: temporary transfer and possession for activities such as employment, ranching or farming, target practice, hunting, or a firearms safety course, with the parent's or guardian's prior written consent, which the juvenile must carry, and in compliance with state and local law. There is also an exception for "transfer by inheritance of title (but not possession)." Long guns are treated differently under federal law, but state law may still restrict them.
+
+So a parent generally cannot give a 16-year-old a handgun to keep, though the parent can keep it and allow use under those exceptions where state law permits.
+
+**18 to 20.** Federal law has no 21 line for private transfers. An unlicensed adult may generally give a handgun to an 18- to 20-year-old who lives in the same state and is not prohibited, as a matter of federal law. Dealer sales are different: the federal statute bars dealers from selling handguns to anyone under 21. In September 2026, the Justice Department [announced](https://www.justice.gov/opa/pr/justice-department-concludes-federal-ban-handgun-sales-18-20-year-olds-unconstitutional-and) an opinion concluding that the provision "may not be enforced to impose criminal penalties on dealers who sell handguns" to law-abiding adults aged 18 to 20, but the statute remains on the books. Our guide on [whether 18- to 20-year-olds can buy a handgun](/blog/can-18-20-year-olds-buy-handgun-2026) covers how that is playing out.
+
+When you buy a handgun at a dealer as a gift for an 18-year-old, you are the actual buyer, so the dealer age limit applies to you, not the recipient. The transfer from you to the recipient is then a private transfer, governed by federal law's 18 line for handguns and by your state's rules, which may be stricter. Many states set higher minimum ages.
+
+## Gifts across state lines
+
+If you are not a licensee, federal law generally does not let you hand a firearm directly to a resident of another state.
+
+Under [18 U.S.C. § 922(a)(5)](https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap44-sec922.htm), an unlicensed person may not "transfer, sell, trade, give, transport, or deliver" a firearm to someone the transferor knows or has reasonable cause to believe does not reside in the transferor's state. The word "give" is in the statute. The only exceptions are transfers to carry out a bequest or intestate succession, and temporary loans or rentals for lawful sporting purposes. A companion provision, § 922(a)(3), generally bars the recipient from bringing into or receiving in his or her home state a firearm obtained outside it, with a matching inheritance exception.
+
+That applies to rifles and shotguns too, not just handguns. The practical route for any interstate gift from an unlicensed person is to ship or deliver the firearm to a licensed dealer in the recipient's state, who then completes the transfer with a Form 4473 and background check.
+
+Dealers have their own residency rules. Under § 922(b)(3), a dealer may not sell a firearm to someone who does not reside in the dealer's state, except that a rifle or shotgun may be sold to an out-of-state resident who meets the dealer in person, if the sale complies with the laws of both states. A dealer may not sell a handgun to a nonresident at all.
+
+Consider a Texas resident who wants to give his father in Ohio a handgun. He can buy it at a Texas dealer as the actual buyer, but he cannot then hand it to his father. It has to go to an Ohio dealer, where his father completes the transfer. Our guide to [interstate firearm purchases and FFL transfers](/blog/interstate-firearm-purchases-ffl-transfer-2026) explains how transfers through a dealer work. Check the destination state's rules first: some states have permit, registration, or roster requirements that apply when the recipient takes possession.
+
+Inheritances are treated differently from gifts. If the transfer is part of an estate, see our guide on [how to inherit a firearm legally](/blog/how-to-inherit-a-firearm-legally-2026).
+
+## State law: when a gift still needs a background check
+
+Federal law does not require a background check for a private, same-state transfer between unlicensed people who are not prohibited. Many states do, so a private gift may have to go through a dealer or a state check unless it fits an exemption. Some states exempt certain family members; others do not, or define "family" narrowly. Permit-to-purchase and registration states add their own steps.
+
+Our guide to [private-party firearm sales by state](/blog/private-party-firearm-sales-state-laws-2026) covers the state overlay. Check both your own state's law and, for an interstate gift, the recipient's.
+
+## Before you buy
+
+- **Your money, nothing coming back?** If not, it is not a gift.
+- **Recipient legally eligible?** If you have reason to doubt it, do not make the gift.
+- **Recipient's age?** Handguns to anyone under 18 are generally prohibited outside narrow exceptions; check state age rules for everyone under 21.
+- **Recipient's state?** If it differs from yours, plan on a dealer in that state.
+- **Your state's private-transfer rules?** Plan any required background check before the holiday.
+
+If you are unsure, ask the dealer before you fill out the form, not after; a dealer with doubts about who the actual buyer is may refuse the sale. For complicated situations, such as a recipient with a past criminal case, consider a consultation with a lawyer who practices firearms law in your state. For the basics of the purchase process, see our [first-time gun buyer guide](/blog/first-time-gun-buyer-guide).
+
+---
+
+*Planning a holiday purchase? Browse [our dealer directory](/dealers) to find dealers near you.*`,
   },
 ];
 

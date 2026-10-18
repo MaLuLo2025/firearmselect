@@ -680,6 +680,7 @@ export const faqData: FaqEntry[] = [
     category: "Buying Your First Firearm",
     relatedLinks: [
       { label: "Buying at a Gun Show: Full Guide", href: "/blog/buying-gun-at-gun-show" },
+      { label: "Buying a Gun as a Gift: Straw Purchases and Form 4473", href: "/blog/buying-gun-as-gift-legal-2026" },
       { label: "State Gun Law Guides", href: "/states" },
     ],
   },
@@ -927,6 +928,7 @@ export const faqData: FaqEntry[] = [
     category: "Buying Your First Firearm",
     relatedLinks: [
       { label: "First Rifle Guide: AR-15 vs. Bolt-Action vs. Lever-Action", href: "/blog/first-rifle-guide" },
+      { label: "The Supreme Court's AR-15 Ban Case", href: "/blog/supreme-court-ar15-ban-case-2026" },
       { label: "State Gun Law Guides", href: "/states" },
     ],
   },
@@ -939,6 +941,7 @@ export const faqData: FaqEntry[] = [
     category: "Buying Your First Firearm",
     relatedLinks: [
       { label: "First Rifle Guide: AR-15 vs. Bolt-Action vs. Lever-Action", href: "/blog/first-rifle-guide" },
+      { label: "The Supreme Court's AR-15 Ban Case", href: "/blog/supreme-court-ar15-ban-case-2026" },
     ],
   },
   {
@@ -984,11 +987,12 @@ export const faqData: FaqEntry[] = [
     id: "virginia-semi-auto-sales-ban",
     question: "What does Virginia's semi-automatic firearms ban actually prohibit?",
     answer:
-      "Virginia's ban, which took effect July 1, 2026, prohibits the sale, transfer, and manufacture of semi-automatic center-fire rifles and pistols that accept detachable magazines and have one or more specified features, such as threaded barrels, folding/telescoping stocks, or pistol grips on rifles. It does not ban possession — Virginians who already own an affected firearm may keep it. A rifle with a fixed magazine, or one with none of the specified features, is not covered. At least 14 commonwealth's attorneys have said they won't enforce the law, but the statutory prohibition applies statewide regardless of local enforcement posture.",
+      "Virginia's law, enacted with a July 1, 2026 effective date, prohibits the sale, transfer, and manufacture of semi-automatic center-fire rifles and pistols that accept detachable magazines and have one or more specified features, such as threaded barrels, folding/telescoping stocks, or pistol grips on rifles. It does not ban possession — Virginians who already own an affected firearm may keep it. A rifle with a fixed magazine, or one with none of the specified features, is not covered. As of October 2026, a statewide state-court injunction (in effect since July 21, 2026, per the Hanover County Commonwealth's Attorney's office) bars enforcement of the sales provisions. It is preliminary, and the statute remains on the books. A separate carry and transport provision was delayed to July 1, 2027.",
     keywords: ["Virginia", "semi-automatic ban", "AR-15", "sales ban", "assault weapon", "2026", "commonwealth's attorney"],
     category: "Gun Laws",
     relatedLinks: [
       { label: "Virginia's Semi-Auto Sales Ban: Full Guide", href: "/blog/virginia-ar15-sales-ban-2026" },
+      { label: "The Supreme Court's AR-15 Ban Case", href: "/blog/supreme-court-ar15-ban-case-2026" },
       { label: "Virginia Gun Laws", href: "/virginia/gun-laws" },
     ],
   },
@@ -1089,6 +1093,34 @@ export const faqData: FaqEntry[] = [
     relatedLinks: [
       { label: "After Wolford: Carrying Into Stores and Restaurants", href: "/blog/wolford-v-lopez-carry-private-property-2026" },
       { label: "State Carry Laws", href: "/carry-laws" },
+    ],
+  },
+
+  // ── Legal Update / Buying (weekly cycle 2026-10-19 additions) ──
+  {
+    id: "buy-gun-as-gift",
+    question: "Can I buy a gun as a gift for someone else?",
+    answer:
+      "Federal law allows a bona fide gift, but not a straw purchase. On ATF Form 4473, question 21.a asks whether you are the actual buyer. Per the form's instructions, you may answer yes when buying a firearm as a gift for another person, but a gift is not bona fide if the recipient gave you money or other items of value to buy it, or if the recipient is prohibited from having the firearm. If the recipient lives in another state, federal law generally requires the gift to go through a licensed dealer in the recipient's state (18 U.S.C. § 922(a)(5)). Age limits and state law can also change the answer. See the full guide for how these rules interact.",
+    keywords: ["gift", "straw purchase", "Form 4473", "21.a", "buying for someone else", "holiday", "actual buyer"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "Buying a Gun as a Gift: Straw Purchases and Form 4473", href: "/blog/buying-gun-as-gift-legal-2026" },
+      { label: "Interstate Firearm Purchases: FFL Transfers", href: "/blog/interstate-firearm-purchases-ffl-transfer-2026" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  {
+    id: "supreme-court-ar15-case",
+    question: "Is the Supreme Court deciding whether AR-15 bans are constitutional?",
+    answer:
+      "The Court has agreed to hear Viramontes v. Cook County (No. 25-238) and Grant v. Higgins (No. 25-566), consolidated challenges to bans on AR-15-style rifles. Argument is set for December 2, 2026. The Court has not ruled, and laws currently in force remain in force unless a court has separately blocked them. The Court usually issues opinions by the end of its term in late June or early July.",
+    keywords: ["Supreme Court", "AR-15", "assault weapons ban", "Viramontes", "Grant v. Higgins", "oral argument", "December 2"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "The Supreme Court's AR-15 Ban Case", href: "/blog/supreme-court-ar15-ban-case-2026" },
+      { label: "Virginia's Semi-Auto Sales Ban: Full Guide", href: "/blog/virginia-ar15-sales-ban-2026" },
+      { label: "State Gun Law Guides", href: "/states" },
     ],
   },
 ];

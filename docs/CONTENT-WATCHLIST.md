@@ -12,3 +12,7 @@ Time-sensitive claims to re-verify each audit.
 | 2026-10-12 | can-18-20-year-olds-buy-handgun-2026 | ATF written guidance and revised Form 4473 for 18-20 handgun sales | atf.gov (minimum-age page, FFL newsletters) | — | new |
 | 2026-10-12 | can-18-20-year-olds-buy-handgun-2026 | Fifth Circuit No. 26-30154 (FPC v. ATF / Reese relief scope) and the Oct 5 dismissal motion | firearmspolicy.org/reese | — | new |
 | 2026-10-12 | can-18-20-year-olds-buy-handgun-2026 | Any new cert petition on under-21 purchase restrictions | supremecourt.gov dockets / SCOTUSblog | — | new |
+| 2026-10-19 | supreme-court-ar15-ban-case-2026 | SG divided-argument motion ruling; respondents' briefs due Oct 21; argument Dec 2; decision | supremecourt.gov/docket/docketfiles/html/public/25-238.html | 2026-10-19 | new (no ruling on SG motion as of docket's Sept 21 entry) |
+| 2026-10-19 | virginia-ar15-sales-ban-2026 | Statewide injunction status (Washington County, in effect since 2026-07-21); carry provision delayed to 2027-07-01; Supreme Court stay/timing | hanovercounty.gov/1739/Assault-Weapon-Legislation-Status, Virginia court records | 2026-10-19 | new |
+| 2026-10-19 | buying-gun-as-gift-legal-2026 | Any new Form 4473 revision, especially for under-21 handgun sales | atf.gov (Form 4473 revisions page) | — | new |
+| 2026-10-19 | buying-gun-as-gift-legal-2026 | DOJ/ATF under-21 dealer handgun position | justice.gov, atf.gov minimum-age page | — | new |
