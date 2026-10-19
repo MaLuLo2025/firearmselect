@@ -293,7 +293,7 @@ These apply to ALL projects. No exceptions without explicit owner approval.
 
 ## Content operations (adopted 2026-10-06)
 
-- Weekly blog cycle scope is new articles only. Anything else found during a cycle goes to `docs/CONTENT-BACKLOG.md`, not fixed, unless it is a live factual or legal-risk error in published content (fix that same day, in one prompt, and log it).
+- Known errors are fixed in the next deploy: if published content is factually or legally wrong and we know it, fix it in the next deploy session (including a weekly-cycle deploy) and log it. Gaps, improvements and judgment calls go to docs/CONTENT-BACKLOG.md for the audit. (Revised 2026-10-17.)
 - Standing authority: during any deploy session, fix mechanical issues yourself without asking: broken or moved links (same-site current URL first, then an equivalent authoritative source), renderer conversions, banned-phrase rewrites, lint failures. Report judgment calls only.
 - Report format: at the end of every session, one short report: commit SHA, what shipped, mechanical fixes (one line each), judgment calls (numbered, each with your recommended option), and anything logged to the backlog. No narration of steps.
 - The content lint (`scripts/content-lint.mjs`, run from `prebuild`) must pass. Never edit `content-lint.allow.json` to get a build through without a reason that would satisfy a reviewer.
