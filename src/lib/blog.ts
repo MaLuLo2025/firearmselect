@@ -1564,7 +1564,7 @@ State forests and state parks sometimes permit hunting in designated areas durin
 
 ## How to find public land
 
-The single most useful tool is the onX Hunt app (onxmaps.com), which overlays public and private land boundaries on satellite imagery. It shows federal, state, and county land ownership color-coded by type. This eliminates the guesswork about whether the land you are looking at is public or private. The app costs approximately $30 per year for a single state or $100 for all states.
+The single most useful tool is the onX Hunt app (onxmaps.com), which overlays public and private land boundaries on satellite imagery. It shows federal, state, and county land ownership color-coded by type. This eliminates the guesswork about whether the land you are looking at is public or private. As of October 2026, onX lists Premium for a single state at $34.99 per year and Elite for nationwide maps at $99.99 per year; check [onxmaps.com](https://www.onxmaps.com/hunt/app/pricing) for current pricing.
 
 State wildlife agency websites publish maps of their WMAs, game lands, and public access areas. These are free but often less detailed than onX.
 
@@ -2397,21 +2397,21 @@ For precision work, a chronograph at your range will give you actual muzzle velo
   {
     slug: "suppressors-obbba-changes",
     title: "Suppressors After the One Big Beautiful Bill Act: What Changed",
-    excerpt: "The One Big Beautiful Bill Act changed the federal regulatory treatment of suppressors for certain individuals. Here's what actually changed, who it affects, and what remains the same.",
-    metaDescription: "How the One Big Beautiful Bill Act (OBBBA) changed suppressor regulations: the $200 tax elimination, NFA changes, state law status, and ATF implementation as of mid-2026.",
+    excerpt: "The One Big Beautiful Bill Act set the federal making and transfer tax on suppressors to $0. Here's what changed, what it covers, and what remains the same.",
+    metaDescription: "How the One Big Beautiful Bill Act (OBBBA) changed suppressor regulations: the $200 tax elimination, NFA changes, state law status, and ATF implementation as of October 2026.",
     category: "Gun Laws",
     categorySlug: "gun-laws",
     publishedAt: "2026-07-07",
     readTime: "9 min read",
-    content: `The One Big Beautiful Bill Act (OBBBA), passed by Congress and signed in 2025, included provisions that meaningfully changed the federal regulatory treatment of suppressors for certain individuals. This is the most significant federal change to suppressor law since they were included in the National Firearms Act in 1934.
+    content: `The One Big Beautiful Bill Act (OBBBA), passed by Congress and signed in 2025, included provisions that changed the federal regulatory treatment of suppressors, most directly by setting the making and transfer tax to $0. This is the most significant federal change to suppressor law since they were included in the National Firearms Act in 1934.
 
-Here's what actually changed, who it affects, and what remains the same.
+Here's what changed, what it covers, and what remains the same.
 
 *This article provides general legal information, not legal advice. Suppressor laws are complex and vary by state. Consult a licensed attorney for guidance on your specific situation.*
 
 *Update, October 2026: As of October 9, 2026, ATF has stopped enforcing NFA approval and registration for suppressors nationwide, although state law and the Gun Control Act still apply. See [our updated guide](/blog/nfa-ruling-august-2026-what-it-means).*
 
-*This article reflects federal law as of mid-2026. Firearms law and ATF policy change frequently — verify current rules with a licensed NFA dealer or a firearms attorney before relying on this information.*
+*This article reflects federal law as of October 2026. Firearms law and ATF policy change frequently — verify current rules with a licensed NFA dealer or a firearms attorney before relying on this information.*
 
 ## Background: How Suppressors Were Regulated Before
 
@@ -2427,13 +2427,13 @@ This regulatory framework applied to all suppressor purchases, regardless of who
 
 ## What the OBBBA Changed
 
-The OBBBA provisions removed suppressors from certain NFA regulatory requirements for specific categories of individuals and circumstances. Based on the law as enacted:
+The OBBBA set the federal making and transfer tax to $0 for suppressors and for the other NFA categories except machine guns and destructive devices. Based on the law as enacted:
 
-**The $200 making and transfer tax on suppressors dropped to $0**, effective January 1, 2026.
+**The $200 making and transfer tax on suppressors dropped to $0**, effective January 1, 2026. The change applies to every suppressor making or transfer, not to particular categories of buyers.
 
 **The NFA registration requirement:** OBBBA itself left the registration requirement in the statute. After an August 2026 court ruling, ATF announced on October 9, 2026 that it will no longer enforce NFA approval or registration for suppressors; see our updated guide.
 
-**Who the changes benefit most:** The provisions appear most directly targeted at certain categories of law-abiding gun owners. Veterans and active-duty military are among the groups for whom the provisions were specifically discussed. The exact scope of who qualifies under each provision requires attention to the specific statutory language.
+**Who the change applies to:** The $0 tax is not limited to any category of buyer. It applies to every suppressor making or transfer, including purchases by veterans and active-duty military and by everyone else, according to the [Congressional Research Service](https://www.everycrsreport.com/files/2025-09-24_IF13111_1afc7a1ba1aa6baca6f81a83b27e09c888cd4965.html). Buyers must still be legally eligible to own a firearm and comply with state law.
 
 **State laws are unaffected:** The OBBBA provisions address federal NFA requirements. States that have their own suppressor restrictions -- or that ban suppressors entirely -- are not overridden by this federal change. Currently, approximately 42 states permit suppressor ownership; about 8 states (California, Delaware, Hawaii, Illinois, Massachusetts, New Jersey, New York, Rhode Island) prohibit civilian suppressor ownership or have severe restrictions. None of these state laws changed.
 
@@ -2965,9 +2965,9 @@ The 2026 National Firearms Survey confirms that gun ownership in the United Stat
     categorySlug: "state-laws",
     publishedAt: "2026-09-08",
     readTime: "4 min read",
-    content: `*As of October 2026: the sales restrictions described below are blocked by a statewide state-court injunction and are not currently being enforced. The status can change; check the current court record before relying on it. This is general information, not legal advice.*
+    content: `*As of October 2026: the sales and magazine restrictions described below are blocked by a statewide state-court injunction and are not currently being enforced. The status can change; check the current court record before relying on it. This is general information, not legal advice.*
 
-Virginia's ban on the sale of specified semi-automatic firearms was scheduled to take effect on July 1, 2026, making the Commonwealth one of a small number of states to enact such restrictions. The law prohibits the sale, transfer, and manufacture of certain semi-automatic firearms within Virginia — but not possession. Virginians who already own affected firearms may keep them.
+Virginia's ban on the sale of specified semi-automatic firearms (in the same legislation as a limit on magazines holding more than 15 rounds) was scheduled to take effect on July 1, 2026, making the Commonwealth one of a small number of states to enact such restrictions. The law prohibits the sale, transfer, and manufacture of certain semi-automatic firearms within Virginia — but not possession. Virginians who already own affected firearms may keep them.
 
 The law's practical impact is shaped by three things: its scope, which targets specific configurations rather than broad categories; the court injunctions that have blocked its enforcement; and an enforcement landscape that had already fractured along jurisdictional lines.
 
@@ -2981,7 +2981,7 @@ Manufacturers and dealers have responded by offering compliant configurations of
 
 ## Where the law stands: statewide injunction
 
-Two Virginia circuit courts issued preliminary injunctions against the sales provisions (SB 749/HB 217) before the July 1 date. On July 7, 2026, the Washington County Circuit Court expanded its preliminary injunction to apply statewide, barring all law enforcement agencies, law enforcement officers, and commonwealth's attorneys from enforcing the challenged provisions. The statewide order took effect July 21, 2026, according to the [Hanover County Commonwealth's Attorney's status page](https://www.hanovercounty.gov/1739/Assault-Weapon-Legislation-Status), and that office says it will not pursue enforcement of these provisions while the injunction stands. News reports from June and July 2026 describe the same orders; this article does not rely on a court document, so check the court record for the current text and duration.
+Two Virginia circuit courts issued preliminary injunctions against the assault firearm and large-capacity magazine (over 15 rounds) provisions of SB 749/HB 217 before the July 1 date. In a [July 7, 2026 letter opinion](https://johnpierceesq.com/wp-content/uploads/2026/07/Washington-County-Statewide-070726.pdf) in *Santolla v. Katz* (Washington County Circuit Court, No. CL26-1139; copy hosted by the plaintiffs' counsel), the court extended its preliminary injunction statewide. It enjoins all law enforcement agencies of the Commonwealth and its localities, law enforcement officers as defined in Va. Code § 9.1-101, and commonwealth's attorneys from enforcing the challenged provisions, and it sets the start date at July 21, 2026 so that notice can reach those offices. The order states that the injunction continues on the same terms and conditions as the court's earlier June 29 letter opinion, which this article does not quote; news reports of those terms differ, so check the court record for the duration. Press reports also describe the case as stayed by agreement in late July pending the Supreme Court's decision, with the injunction left in place; confirm that against the docket.
 
 A separate provision restricting the public carry and transport of "assault firearms" (SB 727/HB 1524) is not in effect. A budget amendment approved June 29, 2026 delayed its effective date to July 1, 2027.
 
@@ -2997,7 +2997,7 @@ Virginia gun sales more than doubled year-over-year in May 2026 as buyers purcha
 
 ## Legal challenges
 
-The law is facing Second Amendment challenges in state court, where the challenges brought so far have produced the injunctions described above, under the framework established by Bruen. The question of whether a state can constitutionally prohibit the sale of firearms that are in common use — and AR-15 platform rifles are unambiguously in common use per the 2026 National Firearms Survey's finding of approximately 40 million in private hands — is one of the defining legal questions in firearms law right now. The Firearms Policy Coalition's September 2026 Supreme Court brief on assault weapon bans directly addresses this question, and Virginia's law may become part of the litigation landscape.
+The law is facing constitutional challenges in state court, and the challenges brought so far have produced the injunctions described above. The July 7 letter opinion addresses the scope of the injunction rather than the merits. The question of whether a state can constitutionally prohibit the sale of firearms that are in common use — and AR-15 platform rifles are unambiguously in common use per the 2026 National Firearms Survey's finding of approximately 40 million in private hands — is one of the defining legal questions in firearms law right now. The Firearms Policy Coalition's September 2026 Supreme Court brief on assault weapon bans directly addresses this question, and Virginia's law may become part of the litigation landscape.
 
 ## What Virginia gun owners should know
 
@@ -3472,7 +3472,9 @@ Almost always yes when there's any uncertainty about the buyer, the state's rule
     readTime: "8 min read",
     content: `*Update, October 2026: As of October 9, 2026, ATF has stopped enforcing NFA approval and registration for suppressors nationwide. State bans and state laws tied to federal registration still apply. See [our updated guide](/blog/nfa-ruling-august-2026-what-it-means).*
 
-The One Big Beautiful Bill Act (OBBBA) made meaningful changes to federal suppressor law in 2026 — reduced tax on some transfers, streamlined ATF processing, adjustments to the Form 4 process. Our earlier article covered those federal changes.
+*This article reflects federal and state law as of October 2026. Laws in this area change frequently; verify current law in your state before relying on it. This is general information, not legal advice.*
+
+The One Big Beautiful Bill Act (OBBBA) made meaningful changes to federal suppressor law in 2026 — it set the federal making and transfer tax on suppressors to $0 effective January 1, 2026, and ATF has since stopped enforcing NFA approval and registration for them. Our earlier article covered those federal changes.
 
 What OBBBA did not do: preempt state law. State restrictions on suppressor ownership remain fully in effect regardless of federal streamlining, and this creates a specific trap for enthusiasts who see federal loosening and assume it applies uniformly across the country. It doesn't.
 
@@ -3515,9 +3517,8 @@ Verify state-specific requirements before starting the acquisition process. Stat
 
 For context (see our [OBBBA suppressor changes article](/blog/suppressors-obbba-changes) for the full federal picture):
 
-- Certain transfer categories saw tax adjustments
+- The federal making and transfer tax on suppressors is $0
 - As of October 9, 2026, ATF no longer enforces NFA approval or registration for suppressors; Form 4 filing is voluntary
-- Streamlined trust and individual acquisition workflows
 
 None of these federal changes affect state-level prohibitions or add-on requirements. A California resident cannot lawfully acquire, possess, or transport a suppressor into California regardless of any federal streamlining. An Illinois resident faces the same wall.
 
@@ -3532,7 +3533,7 @@ The practical realities for suppressor transport:
 - **Transport rules for suppressors match those for firearms:** unloaded, in a locked container, separate from ammunition, no unnecessary stops.
 - **The safe-passage protection likely covers suppressors** the same way it covers firearms — but the legal analysis has been tested less often, and enforcement has been mixed.
 - **Overnight stops in prohibiting states with a suppressor in the vehicle are risky.** Even with the firearm properly secured, the item's mere presence in a prohibiting state creates state-law exposure.
-- **Federal ATF Form 5320.20** — Application to Transport Interstate — is often required for NFA items being transported to another state, particularly for permanent moves. Verify whether the specific transport situation requires it.
+- **Federal ATF Form 5320.20 (Form 20)** — Application to Transport Interstate — is required under [18 U.S.C. § 922(a)(4)](https://www.law.cornell.edu/uscode/text/18/922) only for short-barreled rifles, short-barreled shotguns, machine guns, and destructive devices. Suppressors are not listed in that provision, so it does not apply to them.
 
 For interstate travel with a suppressor: plan routes that avoid prohibiting states whenever possible. When it's not possible, minimize time in the restrictive jurisdiction, keep the suppressor secured, and understand that the legal protection is weaker than most owners assume.
 
@@ -3563,21 +3564,21 @@ Verify local rules before assuming a permissive state permits all uses.
 
 ## Gun trusts and multi-user access
 
-For registered suppressors, and in states that tie legality to federal registration, a gun trust matters: an individually-registered suppressor can only be lawfully possessed by the individual named on the Form 4 (see [our updated guide](/blog/nfa-ruling-august-2026-what-it-means) for how ATF's October 2026 guidance changes the federal picture). A suppressor owned by a properly-drafted gun trust can be lawfully possessed by any named trustee.
+Gun trusts were developed to let several people lawfully possess an NFA item registered to one owner. Under ATF's October 9, 2026 guidance, ATF no longer enforces federal registration for suppressors, and registering one with ATF is voluntary (see [our updated guide](/blog/nfa-ruling-august-2026-what-it-means)). That changes the federal picture for who may handle a suppressor, but ATF's own FAQs say enforcement could resume if the guidance is rescinded or the court's injunction is overturned.
 
-For families with multiple shooters, this is meaningful. Without a trust, the suppressor owner is the only person who can legally handle it (with narrow exceptions for shared range use under owner supervision). With a trust, spouse, adult children, and other named trustees can lawfully use it independently.
+State law is the other variable. In states whose laws are tied to federal registration, possession may still depend on a registered item, and some states have their own registration or notification rules. Whether a trust or voluntary registration has any benefit in a given state depends on that state's statutes.
 
-Trust setup runs $500–$1,500 depending on complexity. For anyone accumulating more than one NFA item, a trust is typically the right ownership vehicle.
+Before relying on a trust, or on the absence of one, confirm the current rules with a firearms attorney in your state.
 
 ## Frequently Asked Questions
 
 ### Which states prohibit civilian suppressor ownership in 2026?
 
-Eight states plus the District of Columbia: California, Delaware, Hawaii, Illinois, Massachusetts, New Jersey, New York, Rhode Island, and DC. Some have narrow law-enforcement or specific-license exceptions, but general civilian ownership is prohibited. The remaining 42 states permit ownership subject to federal NFA process compliance.
+Eight states plus the District of Columbia: California, Delaware, Hawaii, Illinois, Massachusetts, New Jersey, New York, Rhode Island, and DC. Some have narrow law-enforcement or specific-license exceptions, but general civilian ownership is prohibited. The remaining 42 states permit ownership subject to state law and federal requirements.
 
 ### Did OBBBA change state suppressor prohibitions?
 
-No. OBBBA made federal-level changes to the NFA process (tax adjustments, streamlined processing), but did not preempt state law. State prohibitions remain fully in effect regardless of any federal loosening. Federal streamlining doesn't help a California resident acquire a suppressor.
+No. OBBBA set the federal making and transfer tax on suppressors to $0, and ATF has since stopped enforcing NFA approval and registration for them, but neither change preempts state law. State prohibitions remain fully in effect regardless of any federal loosening. Federal streamlining doesn't help a California resident acquire a suppressor.
 
 ### Can I transport my legally-owned suppressor through a prohibiting state?
 
@@ -3589,7 +3590,7 @@ You've created contraband the moment residence changes. Before the move: sell th
 
 ### Can multiple family members use one legally-owned suppressor?
 
-Individually-owned suppressors can only be legally possessed by the person named on the Form 4 (with narrow exceptions for shared range use under owner supervision). A properly-drafted gun trust permits any named trustee to lawfully possess and use the suppressor. Trust setup is $500–$1,500 — worth it for multi-shooter households or anyone acquiring more than one NFA item.
+Before October 9, 2026, an individually registered suppressor could be lawfully possessed only by the person named on the Form 4, while a gun trust let named trustees possess it. ATF's October 2026 guidance stops enforcing federal registration for suppressors, so the answer now depends on whether the item is voluntarily registered and on your state's law, particularly in states that tie legality to federal registration. Confirm with a firearms attorney in your state before sharing a suppressor.
 
 ---
 
@@ -4568,9 +4569,9 @@ Three things follow from that wording.
 
 The challengers in both cases argue that AR-15-style rifles are arms in common use for lawful purposes and that a categorical ban on possessing them cannot stand. Cook County and Connecticut defend their laws as consistent with the nation's historical tradition of regulating weapons they consider unusually dangerous. The Second Circuit accepted Connecticut's framing, and the Seventh Circuit ruled for Cook County.
 
-The federal government is on the challengers' side. The Solicitor General filed an amicus brief supporting the petitioners and, on September 9, 2026, asked for argument time. According to the [motion](https://www.supremecourt.gov/DocketPDF/25/25-238/423604/20260909144515105_25-238%20Viramontes%20Divided%20Argument%20Motion.pdf), "The United States has filed a brief as amicus curiae supporting petitioners, arguing that such a ban is unconstitutional." The motion proposes 20 minutes for the petitioners, 10 for the United States, and 30 for the respondents. As of the latest docket entry we reviewed (September 21, 2026), the docket does not show a ruling on that request.
+The federal government is on the challengers' side. The Solicitor General filed an amicus brief supporting the petitioners and, on September 9, 2026, asked for argument time. According to the [motion](https://www.supremecourt.gov/DocketPDF/25/25-238/423604/20260909144515105_25-238%20Viramontes%20Divided%20Argument%20Motion.pdf), "The United States has filed a brief as amicus curiae supporting petitioners, arguing that such a ban is unconstitutional." The motion proposes 20 minutes for the petitioners, 10 for the United States, and 30 for the respondents. As of the docket entries through October 21, 2026, the docket does not show a ruling on that request.
 
-Dozens of other amicus briefs have been filed, including by states, members of Congress, law enforcement groups, industry and advocacy organizations, and academics. The county's and Connecticut's merits briefs are due October 21, 2026, and briefs supporting them will follow.
+Dozens of other amicus briefs have been filed, including by states, members of Congress, law enforcement groups, industry and advocacy organizations, and academics. Cook County and Connecticut submitted their merits briefs on October 21, 2026, and briefs supporting them will follow.
 
 ## The legal test: Heller, Bruen, and Rahimi
 
@@ -4594,7 +4595,7 @@ The grant was not a surprise to people following the docket. On June 2, 2025, th
 
 ## Which laws could be affected
 
-A Supreme Court ruling on the Constitution binds every court in the country, so its effect would reach beyond Cook County and Connecticut. According to [Giffords Law Center's tally](https://giffords.org/lawcenter/gun-laws/policy-areas/hardware-ammunition/assault-weapons/), twelve states and the District of Columbia have laws that generally ban the sale, manufacture, and transfer of assault weapons: California, Connecticut, Delaware, Hawaii (assault pistols only), Illinois, Maryland, Massachusetts, New Jersey, New York, Rhode Island, Virginia, and Washington, plus D.C. The same source lists Colorado and Minnesota as regulating these weapons without a general ban. Local ordinances, such as Cook County's, add another layer.
+A Supreme Court ruling on the Constitution binds every court in the country, so its effect would reach beyond Cook County and Connecticut. According to [Giffords Law Center's tally](https://giffords.org/lawcenter/gun-laws/policy-areas/hardware-ammunition/assault-weapons/), twelve states and the District of Columbia have laws that generally ban the sale, manufacture, and transfer of assault weapons: California, Connecticut, Delaware, Hawaii (assault pistols only), Illinois, Maryland, Massachusetts, New Jersey, New York, Rhode Island, Virginia, and Washington, plus D.C. The same source lists Colorado and Minnesota as regulating these weapons without a general ban. A September 2026 [Boston Globe report](https://www.bostonglobe.com/2026/09/20/nation/tracking-assault-weapons-bans-across-country/) (originally from The New York Times) likewise says twelve states and the District of Columbia have passed prohibitions on the sale of assault weapons. Local ordinances, such as Cook County's, add another layer.
 
 These laws differ in ways that could matter after a decision:
 
@@ -4616,7 +4617,7 @@ Whatever the result, the opinion's reasoning may matter as much as the bottom li
 
 **Current bans remain enforceable.** Agreeing to hear a case does not suspend the laws being challenged. Cook County's ordinance, Connecticut's law, and every similar law remain in force unless a court has separately blocked a particular law. If you live in a ban jurisdiction, the law that applies to you today is the law on the books today.
 
-**Separate state-court cases are a different matter.** Some laws are tied up in their own litigation. Virginia is an example: according to a [Hanover County notice](https://www.hanovercounty.gov/1739/Assault-Weapon-Legislation-Status), two Virginia circuit courts issued preliminary injunctions against the state's new sales restrictions, and one was expanded statewide effective July 21, 2026. Those orders come from state courts applying their own cases, not from the Supreme Court's grant, and they can change. Check the current status where you live.
+**Separate state-court cases are a different matter.** Some laws are tied up in their own litigation. Virginia is an example: two Virginia circuit courts issued preliminary injunctions against the state's new sales and magazine restrictions, and the Washington County court extended its injunction statewide, effective July 21, 2026, in a [July 7, 2026 letter opinion](https://johnpierceesq.com/wp-content/uploads/2026/07/Washington-County-Statewide-070726.pdf). Those orders come from state courts applying their own cases, not from the Supreme Court's grant, and they can change. Check the current status where you live.
 
 **Your own plans.** If you are weighing whether to buy now or wait, the decision is yours, but base it on current law, not on a forecast. A purchase that is illegal in your jurisdiction today does not become legal because the Supreme Court might rule a certain way next year. Nothing about the pending case changes background checks, waiting periods, or the rules for [buying from a dealer in another state](/blog/interstate-firearm-purchases-ffl-transfer-2026).
 
@@ -4626,7 +4627,7 @@ Whatever the result, the opinion's reasoning may matter as much as the bottom li
 - **August 28, 2026:** Petitioners' merits brief and joint appendix filed.
 - **September 4, 2026:** Case set for argument.
 - **September 9, 2026:** Solicitor General's motion to participate in argument filed.
-- **October 21, 2026:** Cook County's and Connecticut's merits briefs due.
+- **October 21, 2026:** Cook County's and Connecticut's merits briefs submitted.
 - **Wednesday, December 2, 2026:** Oral argument.
 - **By the end of the Term:** The Court usually issues opinions in argued cases by the end of June or the first days of July. For a December argument, a decision could come at any point before then, but high-profile cases are often among the last released.
 
@@ -4634,7 +4635,7 @@ The Court posts argument transcripts on its [argument transcripts page](https://
 
 ## What to watch
 
-- **The respondents' briefs (October 21)** and the amicus briefs filed in their support.
+- **The amicus briefs filed in support of the respondents**, following their October 21 merits briefs.
 - **The Court's ruling on the Solicitor General's request for argument time.**
 - **The December 2 argument**, especially questions about "common use," "dangerous and unusual," and how a ruling would apply to sales-only laws and magazine limits.
 - **Related cases.** Other petitions on assault weapons and magazines may be held pending this decision and then sent back to lower courts in light of it.
