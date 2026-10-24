@@ -27,7 +27,7 @@ export default function HomePage() {
             The Informed Firearms Directory
           </p>
           <h1 className="font-serif text-display sm:text-display-xl text-ink-900 text-balance">
-            Find trusted dealers, ranges &amp; instructors.{" "}
+            Find local dealers, ranges &amp; instructors.{" "}
             <span className="border-b-3 border-ink-900 pb-0.5">Know your rights.</span>
           </h1>
           <div className="w-12 h-1 bg-ink-900 mx-auto mt-6 mb-5" />
@@ -50,7 +50,7 @@ export default function HomePage() {
               Find local dealers &amp; ranges
             </p>
             <h2 className="font-serif text-display-sm text-ink-900">
-              Trusted shops &amp; ranges near you
+              Local shops &amp; ranges near you
             </h2>
           </div>
 
@@ -220,7 +220,7 @@ export default function HomePage() {
             <p className="font-serif text-base text-ink-900 font-semibold mb-1">Factual. Non-partisan. Cited to primary sources.</p>
             <p className="font-sans text-sm text-ink-500 leading-relaxed">
               Every law links to the actual statute. Every right comes with its responsibility.
-              We connect buyers with trusted shops, ranges, and instructors — and arm everyone with accurate information.
+              We connect buyers with local shops, ranges, and instructors — and arm everyone with accurate information.
             </p>
           </div>
         </div>
@@ -318,7 +318,7 @@ export default function HomePage() {
               Firearms Education
             </h2>
             <p className="text-ink-500 text-base mt-2 max-w-xl mx-auto">
-              Curated educational content from trusted sources. No politics. No opinion. Just knowledge.
+              Curated educational content from named sources. No politics. No opinion. Just knowledge.
             </p>
           </div>
 

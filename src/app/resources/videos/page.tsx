@@ -6,7 +6,7 @@ import VideoHub from "@/components/VideoHub";
 export const metadata: Metadata = {
   title: "Firearms Education Video Library",
   description:
-    "Curated educational firearms videos from trusted sources including NSSF, Project ChildSafe, Lucky Gunner, and Honest Outlaw. Safety, concealed carry, caliber guides, and more.",
+    "Curated educational firearms videos from named sources including NSSF, Project ChildSafe, Lucky Gunner, and Honest Outlaw. Safety, concealed carry, caliber guides, and more.",
   keywords: [
     "firearms education videos",
     "gun safety videos",
@@ -43,7 +43,7 @@ export default function VideosPage() {
           </h1>
           <div className="w-12 h-1 bg-ink-900 mt-6 mb-5" />
           <p className="text-ink-500 text-lg max-w-2xl leading-relaxed">
-            Curated educational content from trusted sources. No politics. No opinion. Just knowledge.
+            Curated educational content from named sources. No politics. No opinion. Just knowledge.
           </p>
         </div>
       </section>

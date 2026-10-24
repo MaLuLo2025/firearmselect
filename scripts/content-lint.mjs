@@ -20,7 +20,7 @@ const RULES = [
   // Price figures: blog content only. Allowlist verified, dated ones with a reason.
   {
     id: "price",
-    re: /\$\d[\d,]*(\s*[–-]\s*\$?\d[\d,]*)?\s*(\/|per )?(month|mo|year|yr|hour)\b/i,
+    re: /\$\d[\d,]*(\.\d+)?(\s*[–-]\s*\$?\d[\d,]*(\.\d+)?)?\s*(\/|per )?(month|mo|year|yr|hour)\b/i,
     only: ["src/lib/blog.ts"],
   },
 ];

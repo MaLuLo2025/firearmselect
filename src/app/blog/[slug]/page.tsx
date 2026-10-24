@@ -165,7 +165,7 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
     headline: post.title,
     description: post.metaDescription ?? post.excerpt,
     datePublished: post.publishedAt,
-    dateModified: post.publishedAt,
+    dateModified: post.dateModified ?? post.publishedAt,
     author: { "@type": "Organization", name: "FirearmSelect", url: BASE },
     publisher: { "@type": "Organization", name: "FirearmSelect", url: BASE },
     mainEntityOfPage: { "@type": "WebPage", "@id": `${BASE}/blog/${post.slug}` },

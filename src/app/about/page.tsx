@@ -2,7 +2,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About FirearmSelect",
-  description: "FirearmSelect is the informed firearms directory — connecting buyers with trusted dealers and providing factual, non-partisan firearms education.",
+  description: "FirearmSelect is the informed firearms directory — connecting buyers with local dealers and providing factual, non-partisan firearms education.",
   alternates: { canonical: "/about" },
 };
 
@@ -27,7 +27,7 @@ export default function AboutPage() {
             <h2 className="font-serif text-heading text-ink-900 mb-4">What we do</h2>
             <div className="space-y-5">
               {[
-                { title: "Connect buyers with trusted dealers", text: "Find local gun shops, FFL dealers, shooting ranges, and certified instructors. Every listing links directly to the dealer's own website — no lead capture, no middlemen." },
+                { title: "Connect buyers with local dealers", text: "Find local gun shops, FFL dealers, shooting ranges, and certified instructors. Every listing links directly to the dealer's own website — no lead capture, no middlemen." },
                 { title: "Explain the law, state by state", text: "Firearms laws are complex and vary dramatically by state. We summarize each state's laws in plain language and link to the actual statutes so you can verify everything yourself." },
                 { title: "Educate without advocating", text: "Our blog covers constitutional law, carry regulations, safety practices, and buying guides. Every article is factual, non-partisan, and cited to primary sources. We present the law as it is, not as we wish it were." },
               ].map((item) => (

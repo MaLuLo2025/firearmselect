@@ -47,6 +47,7 @@ export interface BlogPost {
   // Only "hunting" is currently load-bearing; other values are display-only.
   categorySlug: string;
   publishedAt: string;
+  dateModified?: string;
   readTime: string;
   content: string;
 }

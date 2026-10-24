@@ -398,8 +398,8 @@ This is one more reason to research the laws of every state you enter when carry
     title: "Buying a Gun at a Gun Show: What's Different and What You Need to Know",
     excerpt: "The \"gun show loophole\" is a misleading label. Licensed dealers must run background checks regardless of venue. Here's what's actually different about buying at a gun show.",
     metaDescription: "Buying a gun at a gun show: how background checks work, the private sale rules, what states have universal background check laws, and how to evaluate vendors at a show.",
-    category: "Buying Your First Firearm",
-    categorySlug: "buying",
+    category: "Buying Guides",
+    categorySlug: "buying-guides",
     publishedAt: "2026-08-09",
     readTime: "6 min read",
     content: `Gun shows appear in conversations about firearms regulation more often than they appear in most buyers' actual purchasing experience. The terminology that surrounds them — "loophole," "unregulated," "no background check" — describes a specific scenario that is frequently misrepresented. Understanding what actually happens at a gun show, and what rules apply to different types of transactions, puts you in a better position as a buyer.
@@ -488,8 +488,8 @@ If you are early in the evaluation process and want to narrow your options befor
     title: "Women and Firearms: A Practical Buying and Carry Guide",
     excerpt: "Ergonomics matter more than marketing. The \"best gun for women\" is the one that fits your hand and that you'll train with. Here's the practical framework.",
     metaDescription: "Women and firearms guide: how to evaluate ergonomics, top recommended models for smaller hands, carry options specific to female body geometry, and finding quality instruction.",
-    category: "Buying Your First Firearm",
-    categorySlug: "buying",
+    category: "Buying Guides",
+    categorySlug: "buying-guides",
     publishedAt: "2026-08-09",
     readTime: "7 min read",
     content: `Marketing around firearms and women often focuses on aesthetics — color options, compact size as a feature in itself, and vague claims about ease of use. None of that is a reliable framework for selecting a firearm. The relevant factors are the same for any buyer: does the gun fit your hand, can you operate the controls reliably, and will you train with it enough to use it effectively under pressure? The practical considerations that differ for many women relate to ergonomics and carry geometry, and those are worth addressing directly.
@@ -717,7 +717,7 @@ Our directory includes firearms dealers and attorneys by state who can advise on
     title: "What \"Brandishing a Firearm\" Actually Means\u2014and Why It Can Be a Felony",
     excerpt: "Only five states use the term 'brandishing' in their statutes, but nearly every jurisdiction criminalizes displaying a firearm in a threatening manner. Understand the legal definitions, penalties, and when defensive display crosses the line.",
     metaDescription: "Only five states use 'brandishing' in statutes, but displaying a firearm threateningly is criminal nearly everywhere. Learn definitions, penalties, and defensive display limits.",
-    category: "Legal Definitions",
+    category: "State Laws",
     categorySlug: "state-laws",
     publishedAt: "2026-05-26",
     readTime: "14 min read",
@@ -881,8 +881,8 @@ The gun on your hip is the last resort, not the first response. Act accordingly.
     title: "Open Carry vs Concealed Carry: Where Each Is Legal",
     excerpt: "47 states permit some form of open carry, but carrying a visible firearm across a state line without knowing the rules can mean criminal charges. Understand the three categories of open carry states and concealed carry requirements.",
     metaDescription: "47 states allow open carry but rules vary dramatically. Learn the 3 categories of open carry states, concealed carry requirements, and reciprocity rules.",
-    category: "Carry Laws",
-    categorySlug: "state-laws",
+    category: "Concealed Carry",
+    categorySlug: "concealed-carry",
     publishedAt: "2026-05-26",
     readTime: "11 min read",
     content: `Forty-seven states permit some form of open carry, but if you carry a visible firearm across a state line without knowing that jurisdiction's specific rules, you can face criminal charges that range from misdemeanors to felonies. The distinction between carrying a firearm openly versus concealed isn't just about visibility\u2014it's about fundamentally different legal frameworks that vary by state, by locality within states, and sometimes even by whether the gun is loaded or unloaded.
@@ -1535,6 +1535,7 @@ We have detailed licensing breakdowns for 10 states in our hunting section, with
     category: "Hunting",
     categorySlug: "hunting",
     publishedAt: "2026-03-31",
+    dateModified: "2026-10-24",
     readTime: "7 min read",
     content: `One of the most common barriers for new hunters is access to land. If you did not grow up in a hunting family with private land, it can feel like hunting is a closed club. It is not. The United States has hundreds of millions of acres of public land that are open to hunting, and every state manages additional wildlife management areas specifically for public hunting access.
 
@@ -2402,6 +2403,7 @@ For precision work, a chronograph at your range will give you actual muzzle velo
     category: "Gun Laws",
     categorySlug: "gun-laws",
     publishedAt: "2026-07-07",
+    dateModified: "2026-10-24",
     readTime: "9 min read",
     content: `The One Big Beautiful Bill Act (OBBBA), passed by Congress and signed in 2025, included provisions that changed the federal regulatory treatment of suppressors, most directly by setting the making and transfer tax to $0. This is the most significant federal change to suppressor law since they were included in the National Firearms Act in 1934.
 
@@ -2466,13 +2468,14 @@ This creates practical uncertainty: dealers and buyers want to know exactly what
   {
     slug: "red-flag-laws-erpos",
     title: "Red Flag Laws (ERPOs): What They Are, How They Work, and What Gun Owners Need to Know",
-    excerpt: "About 21 states plus DC have enacted Extreme Risk Protection Orders. Gun owners who want to understand the law they're operating under need to know how these orders work and what the due process structure looks like.",
-    metaDescription: "Red flag laws (ERPOs) explained: how Extreme Risk Protection Orders work, the due process structure, constitutional status as of mid-2026, and what to do if you receive notice of an ERPO.",
+    excerpt: "22 states plus DC had enacted Extreme Risk Protection Orders as of early 2026. Gun owners who want to understand the law they're operating under need to know how these orders work and what the due process structure looks like.",
+    metaDescription: "Red flag laws (ERPOs) explained: how Extreme Risk Protection Orders work, the due process structure, constitutional status as of October 2026, and what to do if you receive notice of an ERPO.",
     category: "Gun Laws",
     categorySlug: "gun-laws",
     publishedAt: "2026-07-14",
+    dateModified: "2026-10-24",
     readTime: "7 min read",
-    content: `Extreme Risk Protection Orders — commonly called red flag laws — are among the most contested policy developments in firearms law of the past decade. About 21 states plus the District of Columbia have enacted them. Maine voters approved one in November 2025. Constitutional challenges are working through the federal court system.
+    content: `Extreme Risk Protection Orders — commonly called red flag laws — are among the most contested policy developments in firearms law of the past decade. According to the Johns Hopkins [National ERPO Resource Center](https://erpo.org/state-by-state/), 22 states plus the District of Columbia had enacted them as of February 2026. Maine voters approved one in November 2025, and it took effect in February 2026. Constitutional challenges continue in the courts.
 
 Gun owners who want to understand the law they're operating under need to know what these orders actually are, how they're obtained, and what protections the due process structure provides.
 
@@ -2502,7 +2505,7 @@ The process varies by state but follows a general structure:
 
 The ex parte nature of initial ERPO hearings is the primary constitutional concern raised by gun owner organizations. The concern: a court can order seizure of firearms before the gun owner has any opportunity to be heard. The full hearing provides a correction mechanism, but the initial firearms removal can happen with no advance notice.
 
-Courts have addressed this question with varied results. Some have upheld ERPO statutes under post-Bruen analysis; others have found constitutional problems with specific provisions. As of mid-2026, the constitutional status of ERPOs is unsettled in the federal courts, with multiple cases pending in different circuit courts. The Supreme Court has not directly ruled on whether ERPOs are consistent with the Second Amendment as interpreted in Bruen.
+Courts have addressed this question with varied results. Some have upheld ERPO statutes under post-Bruen analysis; others have found constitutional problems with specific provisions. As of October 2026, the constitutional status of ERPOs appears unsettled in the federal courts. We have not found a Supreme Court decision on whether ERPOs are consistent with the Second Amendment as interpreted in Bruen; check the current status of any case before relying on this.
 
 **False petition risk:** Most ERPO statutes include provisions making it a crime to file a knowingly false or malicious petition. Whether these deterrents are adequate is debated; documented cases of ERPOs being misused in domestic disputes and relationship conflicts have raised concerns about abuse of the process.
 
@@ -2526,15 +2529,16 @@ If you receive notice of a temporary ERPO:
   {
     slug: "firearm-waiting-periods",
     title: "Firearm Waiting Periods: What They Are, Which States Have Them, and Why",
-    excerpt: "Waiting periods impose a mandatory delay between purchase and possession — separate from the NICS background check process. Here's what buyers need to know about state waiting period laws as of mid-2026.",
+    excerpt: "Waiting periods impose a mandatory delay between purchase and possession — separate from the NICS background check process. Here's what buyers need to know about state waiting period laws as of October 2026.",
     metaDescription: "Firearm waiting periods explained: which states have them, how long they last, the difference between waiting periods and NICS delays, and practical implications for buyers.",
     category: "Gun Laws",
     categorySlug: "gun-laws",
     publishedAt: "2026-07-14",
+    dateModified: "2026-10-24",
     readTime: "6 min read",
     content: `Waiting periods impose a mandatory delay between the time of purchase and when a buyer can take possession of a firearm. If you've been surprised to learn your purchase won't be ready for several days, or if you're planning a purchase in an unfamiliar state, here's what you need to know.
 
-*This article reflects state waiting-period laws as of mid-2026. State laws change — verify current rules with your state's attorney general or a firearms attorney before relying on this information.*
+*This article reflects state waiting-period laws as of October 2026. Sources differ on some details, so confirm each state's period and scope in its statute. State laws change — verify current rules with your state's attorney general or a firearms attorney before relying on this information.*
 
 ## What Waiting Periods Are and Aren't
 
@@ -2542,21 +2546,21 @@ A waiting period is a statutory delay — the gun has been sold, the background 
 
 Waiting periods are often confused with the NICS check delay (a "delay" response from the background check system, which means the FBI needs more time to research a record). These are different things. A background check delay is an uncertainty; a waiting period is a calendar requirement that applies regardless of the check result.
 
-## States with Waiting Period Laws (as of Mid-2026)
+## States with Waiting Period Laws (as of October 2026)
 
 **Hawaii:** 14 days for all firearms
 **California:** 10 days for all firearms
 **New Jersey:** 7 days (permit-based system; the permit process itself creates delay)
 **Florida:** 3 days (or completion of NICS check, whichever is later); certain exceptions
-**Minnesota:** 7 days for handguns (permit to purchase process)
+**Minnesota:** 7 days for handguns (permit to purchase process); sources differ on the period and which firearms it covers
 **Rhode Island:** 7 days for all firearms
-**Washington:** 10 days for all firearms; extended periods in some cases
+**Washington:** 10 business days for all firearms ([RCW 9.41.092](https://app.leg.wa.gov/rcw/default.aspx?cite=9.41.092))
 **Oregon:** Effective with background check delays from 2022 law
 **Maryland:** 7 days for handguns
 **Connecticut:** 14 days for handguns from state database; different process for long guns
-**Illinois:** 3 days for long guns; 72 hours for handguns (FOID card system)
+**Illinois:** 72 hours for handguns, with a shorter period for rifles and shotguns under the FOID card system; some summaries list 72 hours for all firearms, so confirm the current statute
 
-Several other states have more limited waiting period provisions or permit-to-purchase systems that effectively create delays.
+Several other states have more limited waiting period provisions or permit-to-purchase systems that effectively create delays. Recent trackers also list Colorado (3 days), Maine, New Mexico, and Vermont (roughly 3 to 7 days), and the Brady organization counts 22 states with waiting periods. We have not confirmed those four states' details against their statutes, and some state waiting-period laws have been challenged in court, so check the current statute and its status before relying on any figure here.
 
 **No federal waiting period:** Federal law does not impose a waiting period. The NICS system allows dealers to transfer after a "proceed" response is received. The three-business-day default provision (the "Charleston Loophole") allows transfer after three business days if the check hasn't returned a response — but this is separate from state-mandated waiting periods.
 
@@ -2586,6 +2590,7 @@ Constitutional challenges to waiting periods have generally not succeeded in fed
     category: "Gun Laws",
     categorySlug: "gun-laws",
     publishedAt: "2026-07-14",
+    dateModified: "2026-10-24",
     readTime: "7 min read",
     content: `If you have a concealed carry permit from your home state, you don't have to stop carrying when you cross state lines — as long as you're in a state that recognizes your permit. This is called reciprocity: the state you're visiting honors the carry permit issued by your home state.
 
@@ -2593,7 +2598,7 @@ Reciprocity varies enormously by state and changes over time. Carrying in a stat
 
 ## How Reciprocity Works
 
-Reciprocity isn't a federal right. There is no federal concealed carry reciprocity law as of mid-2026 (federal legislation has been proposed repeatedly but not enacted). Each state decides independently which other states' permits it will recognize.
+Reciprocity isn't a federal right. There is no federal concealed carry reciprocity law as of October 2026 (federal legislation has been proposed repeatedly but not enacted; H.R. 38 was reported by the House Judiciary Committee in 2025, and we have not found a floor vote or enactment). Each state decides independently which other states' permits it will recognize.
 
 Most states approach this in one of two ways:
 
@@ -2626,7 +2631,7 @@ Illinois honors no other states' permits for regular carry. Illinois residents w
 
 ## Constitutional Carry States: A Different Situation
 
-Approximately 29 states have enacted some form of constitutional carry — allowing individuals who are otherwise legally permitted to carry a firearm to do so without a permit. In these states, whether your out-of-state permit is "recognized" is a different question than whether you can carry.
+Approximately 29 states have enacted some form of constitutional carry (counts vary by source and date) — allowing individuals who are otherwise legally permitted to carry a firearm to do so without a permit. In these states, whether your out-of-state permit is "recognized" is a different question than whether you can carry.
 
 Generally: in constitutional carry states, any person who could legally obtain that state's permit may carry without a permit. If you're from another state and you meet the residency, age, and eligibility requirements to carry in that state, you typically may carry without any permit in a constitutional carry state. But the specific legal framework varies by state — some constitutional carry states still technically have a permit recognition framework; others don't.
 
@@ -2660,6 +2665,7 @@ Verify the current status any time you plan to travel. Reciprocity agreements ch
     category: "Legal Update",
     categorySlug: "legal-update",
     publishedAt: "2026-08-25",
+    dateModified: "2026-10-11",
     readTime: "12 min read",
     content: `*This article reflects federal and state law as of October 2026. Laws in this area change frequently; verify current law in your state before relying on it. This is general information, not legal advice.*
 
@@ -2964,6 +2970,7 @@ The 2026 National Firearms Survey confirms that gun ownership in the United Stat
     category: "State Laws",
     categorySlug: "state-laws",
     publishedAt: "2026-09-08",
+    dateModified: "2026-10-24",
     readTime: "4 min read",
     content: `*As of October 2026: the sales and magazine restrictions described below are blocked by a statewide state-court injunction and are not currently being enforced. The status can change; check the current court record before relying on it. This is general information, not legal advice.*
 
@@ -3017,8 +3024,8 @@ Virginia's semi-auto sales ban is enacted law, but as of October 2026 a statewid
     title: "How to Inherit a Firearm Legally: A 2026 Guide for Executors and Beneficiaries",
     excerpt: "Federal law permits direct interstate inheritance without an FFL — but state law often requires one, and NFA items follow their own six-to-twelve-month Form 5 process. A plain-language guide to the estate transfer rules that keep executors and heirs on the right side of the law.",
     metaDescription: "A 2026 guide to inheriting firearms across state lines: direct-transfer rules by state, Form 5 tax-exempt NFA transfers, prohibited-person handling, and when a gun trust prevents the mess entirely.",
-    category: "Legal Guides",
-    categorySlug: "legal-guides",
+    category: "Gun Laws",
+    categorySlug: "gun-laws",
     publishedAt: "2026-09-14",
     readTime: "9 min read",
     content: `Your father's gun cabinet has three rifles, a shotgun, a couple of handguns, and — in the safe underneath — a suppressor and a short-barreled rifle he registered in the 1990s. He lived in Wyoming. You live in New Jersey. He passed last month, and the estate attorney has just asked you what you'd like to do with the firearms.
@@ -3469,6 +3476,7 @@ Almost always yes when there's any uncertainty about the buyer, the state's rule
     category: "State Laws",
     categorySlug: "state-laws",
     publishedAt: "2026-09-21",
+    dateModified: "2026-10-24",
     readTime: "8 min read",
     content: `*Update, October 2026: As of October 9, 2026, ATF has stopped enforcing NFA approval and registration for suppressors nationwide. State bans and state laws tied to federal registration still apply. See [our updated guide](/blog/nfa-ruling-august-2026-what-it-means).*
 
@@ -3602,9 +3610,10 @@ Before October 9, 2026, an individually registered suppressor could be lawfully 
     title: "Self-Defense Insurance in 2026: What These Policies Actually Cover",
     excerpt: "USCCA, US Law Shield, CCW Safe, Right to Bear — a framework for comparing what any self-defense insurance policy actually delivers versus what its marketing promises. Four things every policy either does or doesn't.",
     metaDescription: "2026 self-defense insurance comparison framework: pre-charge attorney access, civil defense coverage, reimbursement vs pay-directly, coverage limits, exclusions, state validity.",
-    category: "Legal Guides",
-    categorySlug: "legal-guides",
+    category: "Gun Laws",
+    categorySlug: "gun-laws",
     publishedAt: "2026-09-21",
+    dateModified: "2026-10-06",
     readTime: "12 min read",
     content: `Self-defense legal insurance is a market that grew from a niche product to a mainstream firearms-community purchase in the last decade. USCCA, US Law Shield, CCW Safe, Right to Bear, and several smaller providers all sell some version of the same core promise: pay a monthly premium, and if you're ever involved in a self-defense incident, the provider covers your legal defense.
 
@@ -3918,6 +3927,7 @@ Occasionally an interstate transfer hits a problem. The most common are:
     category: "State Laws",
     categorySlug: "state-laws",
     publishedAt: "2026-09-28",
+    dateModified: "2026-10-06",
     readTime: "17 min read",
     content: `*This article reflects state firearm storage laws as of publication in September 2026. State storage requirements have expanded materially in 2025-2026 and continue to shift. Confirm current requirements with your state's Attorney General or Department of Justice, or Giffords Law Center, before relying on this information.*
 
@@ -4530,6 +4540,7 @@ If you are 18 to 20 and planning a first handgun purchase, start with your state
     category: "Legal Update",
     categorySlug: "legal-update",
     publishedAt: "2026-10-19",
+    dateModified: "2026-10-24",
     readTime: "9 min read",
     content: `*This article reflects the case docket and state law as of October 2026. The case is pending and the facts below will change; check the current docket and your state's law before relying on it. This is general information, not legal advice.*
 

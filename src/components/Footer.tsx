@@ -21,7 +21,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-sm text-ink-300 leading-relaxed max-w-xs">
-              The informed firearms directory. Find trusted shops, ranges, and instructors.
+              The informed firearms directory. Find local shops, ranges, and instructors.
               Understand state laws and own responsibly.
             </p>
           </div>

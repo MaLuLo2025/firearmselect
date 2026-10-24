@@ -9,11 +9,11 @@ import "@/styles/globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.firearmselect.com"),
   title: {
-    default: "FirearmSelect — Find Trusted Dealers & Know Your State Gun Laws",
+    default: "FirearmSelect — Find Local Dealers & Know Your State Gun Laws",
     template: "%s | FirearmSelect",
   },
   description:
-    "The informed firearms directory. Find trusted local dealers, understand state gun laws, and exercise your Second Amendment rights responsibly.",
+    "The informed firearms directory. Find local dealers, understand state gun laws, and exercise your Second Amendment rights responsibly.",
   keywords: [
     "gun shops near me",
     "FFL dealers",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "FirearmSelect — Find Trusted Dealers & Know Your State Gun Laws",
+    title: "FirearmSelect — Find Local Dealers & Know Your State Gun Laws",
     description:
       "The informed firearms directory. Find dealers, understand state laws, own responsibly.",
     url: "https://www.firearmselect.com",

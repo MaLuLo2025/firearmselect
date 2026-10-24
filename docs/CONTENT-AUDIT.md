@@ -11,7 +11,9 @@ go to the report.
    every "PENDING BACKLOG" allowlist entry: resolve it or carry it forward.
 2. LINKS: test every external link in blog posts and FAQ (curl with a
    browser user agent, then a real headless browser for anything
-   non-200). Fix broken or moved links: same-site current URL first, then
+   non-200). atf.gov
+   blocks scripted checks (curl returns 403 and the headless browser fails),
+   so spot-check ATF links by hand and don't count them as broken. Fix broken or moved links: same-site current URL first, then
    an equivalent authoritative source that supports the same sentence.
    Flag only what you can't fix. Report counts.
 3. WATCHLIST: re-verify every docs/CONTENT-WATCHLIST.md claim against its

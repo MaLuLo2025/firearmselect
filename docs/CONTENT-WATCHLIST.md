@@ -18,3 +18,6 @@ Time-sensitive claims to re-verify each audit.
 | 2026-10-19 | buying-gun-as-gift-legal-2026 | DOJ/ATF under-21 dealer handgun position | justice.gov, atf.gov minimum-age page | 2026-10-24 | none found |
 | 2026-10-24 | hunting-apps article (public-land-hunting-beginners-guide) | onX Hunt pricing: Premium one state $34.99/yr, Elite nationwide $99.99/yr (dated October 2026) | onxmaps.com/hunt/app/pricing | 2026-10-24 | new |
 | 2026-10-24 | virginia-ar15-sales-ban-2026 | Injunction duration and the reported late-July agreed stay (Santolla v. Katz, CL26-1139); June 29 letter opinion terms | Washington County Circuit Court record | — | new |
+| 2026-10-24 | firearm-waiting-periods | State list and periods (IL, MN unconfirmed; CO, ME, NM, VT named but not confirmed against statutes; WA verified at 10 business days) | State statutes; Brady waiting-periods page | 2026-10-24 | new (partly hedged) |
+| 2026-10-24 | red-flag-laws-erpos | ERPO state count (22 + DC as of Feb 2026); Supreme Court or circuit rulings on ERPOs | erpo.org/state-by-state; supremecourt.gov | 2026-10-24 | new |
+| 2026-10-24 | ccw-reciprocity-guide | H.R. 38 floor vote or enactment; constitutional carry state count (about 29, unconfirmed) | congress.gov/bill/119th-congress/house-bill/38; NRA-ILA or Giffords trackers | 2026-10-24 | new (count hedged) |

@@ -4,5 +4,11 @@
     "pattern": "self-claim",
     "contains": "An instructor running a defensive shooting course should be vetted more rigorously",
     "reason": "Consumer advice on how a reader should evaluate an instructor; not a claim about this directory's vetting."
+  },
+  {
+    "file": "src/lib/blog.ts",
+    "pattern": "price",
+    "contains": "As of October 2026, onX lists Premium for a single state at $34.99 per year and Elite for nationwide maps at $99.99 per year",
+    "reason": "Verified against onxmaps.com/hunt/app/pricing on 2026-10-24 and dated in the text with a link to current pricing. Re-check at the next audit (watchlist)."
   }
 ]
