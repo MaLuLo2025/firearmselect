@@ -2534,7 +2534,7 @@ If you receive notice of a temporary ERPO:
     category: "Gun Laws",
     categorySlug: "gun-laws",
     publishedAt: "2026-07-14",
-    dateModified: "2026-10-24",
+    dateModified: "2026-10-26",
     readTime: "6 min read",
     content: `Waiting periods impose a mandatory delay between the time of purchase and when a buyer can take possession of a firearm. If you've been surprised to learn your purchase won't be ready for several days, or if you're planning a purchase in an unfamiliar state, here's what you need to know.
 
@@ -2558,9 +2558,20 @@ Waiting periods are often confused with the NICS check delay (a "delay" response
 **Oregon:** Effective with background check delays from 2022 law
 **Maryland:** 7 days for handguns
 **Connecticut:** 14 days for handguns from state database; different process for long guns
-**Illinois:** 72 hours for handguns, with a shorter period for rifles and shotguns under the FOID card system; some summaries list 72 hours for all firearms, so confirm the current statute
 
-Several other states have more limited waiting period provisions or permit-to-purchase systems that effectively create delays. Recent trackers also list Colorado (3 days), Maine, New Mexico, and Vermont (roughly 3 to 7 days), and the Brady organization counts 22 states with waiting periods. We have not confirmed those four states' details against their statutes, and some state waiting-period laws have been challenged in court, so check the current statute and its status before relying on any figure here.
+Several other states have more limited waiting period provisions or permit-to-purchase systems that effectively create delays.
+
+Status as of October 2026. Several of the laws below are in active litigation; check the current docket before relying on any of them.
+
+**Colorado: 3 days ([C.R.S. § 18-12-115](https://content.leg.colorado.gov/sites/default/files/2023a_1219_signed.pdf), enacted by 2023 HB 23-1219).** A seller may not deliver a firearm until the later of two times: three days after a licensed dealer initiates the required background check, or approval following the check. Exempt are antique, curio, and relic firearms, sales by a service member deploying outside the U.S. within 30 days to a family member, and transfers that do not require a background check. Penalties are civil infractions: $500 for a first offense and $500 to $5,000 for a later one. The law took effect October 1, 2023. A federal judge denied a preliminary injunction in November 2023. In *Rocky Mountain Gun Owners v. Polis* (D. Colo. No. 1:23-cv-02563), the parties' cross-motions for summary judgment were argued August 24, 2026. As of October 2026, the court had not ruled, and the law is in effect.
+
+**Illinois: 72 hours ([720 ILCS 5/24-3(A)(g)](https://www.ilga.gov/Documents/legislation/ilcs/documents/072000050K24-3.htm)).** A seller may not deliver any firearm without withholding delivery for at least 72 hours after application for its purchase has been made. The statute lists exceptions, including sales to law enforcement officers and certain mail-order sales between licensed dealers. Illinois did not always use one period for every firearm: before a 2018 law, the wait was 72 hours for handguns and 24 hours for rifles and shotguns.
+
+**Maine: 72 hours ([25 M.R.S. § 2016](https://legislature.maine.gov/statutes/25/title25sec2016.html)).** A seller may not knowingly deliver a firearm to a buyer sooner than 72 hours after the parties agree to the sale. The waiting period runs at the same time as any background-check waiting period. The law took effect August 9, 2024. Exceptions include sales to law enforcement and corrections officers, sales to licensed dealers, and certain family transfers, and violations are civil ($200 to $500 for a first violation, $500 to $1,000 for a later one). A federal district court blocked the law in February 2025. The First Circuit [vacated that injunction on April 3, 2026](https://www.ca1.uscourts.gov/sites/ca1/files/opnfiles/25-1160P-01A.pdf) in *Beckwith v. Frey* (No. 25-1160), concluding the law is likely constitutional, and the Supreme Court [denied review on October 19, 2026](https://www.supremecourt.gov/docket/docketfiles/html/public/26-258.html) (No. 26-258). The case returns to the district court, and the law is in effect.
+
+**New Mexico: 7 calendar days (NMSA 1978, § 30-7-7.3, enacted by [2024 HB 129](https://www.nmlegis.gov/Sessions/24%20Regular/final/HB0129.pdf)).** A seller may not transfer a firearm until seven calendar days after the sale, and the period includes the federal background check. If the check is still pending when the seven days end, the seller must wait for it to complete; if it is not completed within 20 days, the seller may transfer. Exempt are buyers who hold a federal firearms license or a New Mexico concealed handgun license, law enforcement agencies, transfers between certified law enforcement officers, and transfers between immediate family members. Violations are misdemeanors, and the law took effect May 15, 2024. In *Ortega v. Lujan Grisham*, the Tenth Circuit held in 2025 that the plaintiffs were likely to succeed on their Second Amendment challenge. On August 27, 2026, the [federal district court entered final judgment](https://storage.courtlistener.com/recap/gov.uscourts.nmd.501908/gov.uscourts.nmd.501908.127.0.pdf) enjoining enforcement only against the two plaintiffs, and the state appealed to the Tenth Circuit on September 28, 2026 (No. 26-2170). A second suit, *National Shooting Sports Foundation v. Torrez* (D.N.M. No. 1:26-cv-03514), was filed October 19, 2026, seeking to extend relief to its members, and a preliminary-injunction motion is pending. For everyone else, the waiting period remains in effect.
+
+**Vermont: 72 hours, capped at 7 business days ([13 V.S.A. § 4019a](https://legislature.vermont.gov/statutes/section/13/085/04019a)).** A person may not transfer a firearm until the earlier of two times: 72 hours after the dealer receives a unique identification number for the transfer from NICS, or seven business days after the dealer contacted NICS to start the check. The rule does not apply to transfers that do not require a background check under federal or Vermont law. A violation is punishable by up to one year in prison, a $500 fine, or both. The law took effect July 1, 2023. A federal district court denied a preliminary injunction, and the challengers' appeal, *Vermont Federation of Sportsmen's Clubs v. Birmingham* (2d Cir. No. 24-2026), was argued April 28, 2026. As of October 2026, the Second Circuit had not issued a decision, and the law is in effect.
 
 **No federal waiting period:** Federal law does not impose a waiting period. The NICS system allows dealers to transfer after a "proceed" response is received. The three-business-day default provision (the "Charleston Loophole") allows transfer after three business days if the check hasn't returned a response — but this is separate from state-mandated waiting periods.
 
@@ -2874,52 +2885,47 @@ The change also has a symbolic dimension. The postal system is a public service;
 
   {
     slug: "federal-firearms-rights-restoration-program-2026",
-    title: "The Federal Firearms Rights Restoration Program: What You Need to Know Before September 26",
-    excerpt: "The DOJ is launching a new program to restore firearms rights for eligible individuals. Applications open September 26. Here's how it works.",
-    metaDescription: "The DOJ is launching a new program to restore firearms rights for eligible individuals. Applications open September 26. Here's how it works.",
+    title: "The Federal Firearms Rights Restoration Program: How the Staged Rollout Works",
+    excerpt: "The Justice Department's final rule reviving federal firearms rights restoration took effect September 21, 2026, and applications open in stages through January 2027. Here is how it works and what it does not cover.",
+    metaDescription: "Federal firearms rights restoration under 18 U.S.C. § 925(c): the final rule, the staged application dates, the standard, and what relief does not cover.",
     category: "Legal Update",
     categorySlug: "legal-update",
     publishedAt: "2026-09-08",
-    readTime: "4 min read",
-    content: `On August 22, 2026, the Department of Justice announced a new Federal Firearms Rights Restoration Program — the first operational program of its kind in decades. Applications open on September 26, 2026, with an initial "invited" pool, followed by a general-public application window beginning November 4, 2026.
+    dateModified: "2026-10-26",
+    readTime: "5 min read",
+    content: `*This article reflects the final rule and the Department of Justice's program page as of October 2026. Dates and procedures may change; check the DOJ page before you apply. This is general information, not legal advice.*
 
-The program allows certain individuals who have lost their firearms rights due to a federal conviction to apply for restoration of those rights. It's a significant development for the firearms community because the federal system has not had a functioning mechanism for rights restoration through the executive branch in practical terms since Congress defunded the ATF's ability to process such applications in 1992.
+On August 17, 2026, the Department of Justice announced a final rule reviving the federal process for restoring firearms rights under [18 U.S.C. § 925(c)](https://www.law.cornell.edu/uscode/text/18/925). The rule was published in the [Federal Register on August 20, 2026](https://www.federalregister.gov/documents/2026/08/20/2026-16981/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition) (91 FR 54054) and took effect September 21, 2026. Section 925(c) lets the Attorney General grant relief from federal firearms disabilities, but beginning in 1992 Congress barred ATF from using appropriated funds to process applications, which left ATF's relief program unusable.
 
-## Who is eligible
+## How the rollout works
 
-The program's eligibility criteria have not been fully detailed in public materials as of early September 2026, but the framework is based on existing federal statutory authority that permits the Attorney General to restore firearms rights to individuals who are not likely to act in a manner dangerous to public safety and whose restoration would not be contrary to the public interest.
+The Department's [program page](https://www.justice.gov/ffrr) says the program is launching in stages:
 
-Generally, federal firearms rights restoration has historically been available to individuals whose disqualifying conviction was federal (not state), who have completed their sentence including supervised release, and who can demonstrate rehabilitation. State convictions that result in a firearms prohibition are typically addressed through state-level rights restoration processes, which vary significantly by state.
+- September 25, 2026: the application opens to invited candidates.
+- November 4, 2026: the application opens to the public, and the first 5,000 candidates can apply.
+- January 4, 2027: the application opens to the public for 500 more candidates, and the application fee begins.
 
-The "invited" application pool opening September 26 suggests the DOJ will begin with a defined set of eligible individuals — likely those whose cases meet specific criteria identified through federal records — before opening the general application window on November 4.
+The rule says the Department began soliciting applications from individuals on September 21, 2026, and it anticipates an online portal. As of October 2026, the general-public window had not yet opened.
 
-## How the program works
+## The standard
 
-The final rule establishing the program provides for a structured application process. Applicants submit documentation establishing their identity, their conviction history, their completion of sentence and any supervised release, and evidence of rehabilitation. The DOJ evaluates each application individually against the statutory standard.
+An applicant has to show, to the Attorney General's satisfaction, that they are not likely to act in a manner dangerous to public safety and that granting relief would not be contrary to the public interest. The rule lists presumptive disqualifiers. Applications are denied, absent extraordinary circumstances, if the applicant has been convicted under state or federal law of certain felonies, such as those involving the death of another person, sexual assault, domestic violence, burglary, robbery, or assault, or of any felony in which the applicant brandished or discharged a firearm. The rule also sets out the documents applicants submit and separate provisions for people subject to other federal disabilities, such as the one in 18 U.S.C. § 922(g)(4). Read the rule and the DOJ page before you apply.
 
-The initial round is limited: 5,000 applications from the general public will be accepted beginning November 4, 2026. This cap suggests the DOJ is anticipating significant demand and managing the administrative workload of individual evaluations.
+## What this program does not do
 
-If an application is approved, the individual's federal firearms rights are restored — meaning the federal prohibition on possessing, receiving, or transporting firearms is lifted. This does not automatically override state-level prohibitions, which operate independently. An individual whose firearms rights are restored at the federal level must still comply with their state's firearm laws, and some states maintain their own prohibitions that are unaffected by a federal restoration.
+- **It addresses federal disabilities.** The program covers disabilities under the federal Gun Control Act, which can arise from a state or a federal conviction. It does not lift prohibitions that state law imposes. Under the rule, relief does not extend to a state-law disability if the applicant is independently subject to one, and state restoration is a separate process that varies by state.
+- **Relief is discretionary.** Meeting the basic criteria does not guarantee approval, and the Attorney General can deny an application.
+- **Capacity is limited at first.** The program page caps the first public window at 5,000 candidates and the next at 500 more, so not everyone who wants to apply can do so right away.
 
-## What this doesn't do
+## What to do if you are interested
 
-Several limitations are worth understanding clearly.
+Gather your conviction records, proof that you completed your sentence, and any evidence of rehabilitation, and check the [DOJ program page](https://www.justice.gov/ffrr) for the current dates and how applications are accepted. If you may also face a state-law prohibition, find out what your state requires, because federal relief would not remove it. A firearms attorney can tell you whether your conviction falls within the presumptive disqualifiers.
 
-This is a federal program for federal prohibitions. If your firearms disability is based on a state conviction, this program does not address it. State-level rights restoration is a separate process governed by each state's laws, and the pathways vary dramatically — some states have formal restoration processes, others require a pardon from the governor, and some offer no mechanism at all.
-
-Restoration is discretionary, not automatic. Meeting the eligibility criteria doesn't guarantee approval. The Attorney General retains discretion to deny an application if the circumstances don't support a finding that restoration is appropriate.
-
-The program's initial capacity is limited. With 5,000 general-public applications in the first wave, not everyone who applies will have their application processed promptly.
-
-## What to do if you're interested
-
-If you believe you may be eligible, the practical steps between now and September 26 are to gather your documentation — conviction records, proof of sentence completion, evidence of rehabilitation — and to understand whether your specific circumstances fall under federal or state jurisdiction. If your firearms disability is state-based, the federal program isn't the right path, and pursuing it would waste time and potentially the limited application slots.
-
-If your conviction is federal and you've completed your sentence, monitor the DOJ's official announcements as September 26 approaches. The details of the application process, required documentation, and specific eligibility criteria will be published in advance of the application window opening.
+The program also came up in the Third Circuit's October 2026 rulings on the federal felon-in-possession ban; see our explainer on [the Third Circuit's split decisions in Bost and Williams](/blog/third-circuit-felon-gun-ban-ruling-2026).
 
 ## The bottom line
 
-The Federal Firearms Rights Restoration Program reopens a pathway that has been functionally closed for over 30 years. For eligible individuals, it provides a formal, structured process for addressing a federal firearms prohibition — something that has previously required either a presidential pardon or legislative intervention on a case-by-case basis. The program's launch is significant, but its initial scope is limited, and understanding the boundaries — federal only, discretionary, capacity-constrained — is essential before applying.`,
+The federal restoration process is open again, but it is rolling out in stages with limited capacity and a discretionary standard. Knowing which window applies to you, and which prohibitions the program does and does not reach, comes before applying.`,
   },
 
   {
@@ -4778,6 +4784,276 @@ If you are unsure, ask the dealer before you fill out the form, not after; a dea
 ---
 
 *Planning a holiday purchase? Browse [our dealer directory](/dealers) to find dealers near you.*`,
+  },
+
+  {
+    slug: "third-circuit-felon-gun-ban-ruling-2026",
+    title: "The Third Circuit Splits the Felon Gun Ban: What Bost and Williams Mean for Old Convictions",
+    excerpt: "On October 13, 2026, the full Third Circuit decided two challenges to the federal felon-in-possession ban on the same day and reached opposite results. Here is what each case held, the test the court adopted, who is bound by it, and why neither ruling restores anyone else's gun rights.",
+    metaDescription: "United States v. Bost and Williams v. Attorney General: the en banc Third Circuit's October 2026 rulings on 18 U.S.C. § 922(g)(1), explained in plain language.",
+    category: "Legal Update",
+    categorySlug: "legal-update",
+    publishedAt: "2026-10-26",
+    readTime: "9 min read",
+    content: `*This article reflects the court opinions, federal rules, and dockets as of October 2026. These cases may be appealed and the law will keep changing. Check the current status before relying on anything here. This is general information, not legal advice.*
+
+On October 13, 2026, the full U.S. Court of Appeals for the Third Circuit decided two challenges to the federal ban on gun possession by people with felony-level convictions. It upheld the ban in one case and struck it down as applied to one man in the other.
+
+That sounds contradictory, but the two rulings fit together. Read side by side, they answer a question working through the courts since 2022: when can the government permanently disarm someone because of an old conviction?
+
+One point up front: neither decision restores anyone's gun rights except Edward Williams's, and it would be a serious mistake to read these opinions as permission to buy or possess a firearm.
+
+## The law being challenged
+
+The statute is [18 U.S.C. § 922(g)(1)](https://www.law.cornell.edu/uscode/text/18/922). It makes it a federal crime for anyone "convicted in any court of, a crime punishable by imprisonment for a term exceeding one year" to possess a firearm or ammunition. Three features of that wording matter for these cases.
+
+- **It turns on the maximum possible sentence, not the actual sentence.** Someone who served 90 days can be covered.
+- **The label "felony" does not control.** State misdemeanors are excluded only if they carry a maximum of two years or less, under 18 U.S.C. § 921(a)(20)(B). Both men in these cases had Pennsylvania misdemeanor convictions that carried up to five years, so the federal ban reached them.
+- **The ban has no end date.** Unless a conviction is expunged, set aside, or pardoned, or the person's civil rights are restored, the prohibition lasts for life.
+
+## The backdrop: Bruen, Range, and Rahimi
+
+In [New York State Rifle & Pistol Ass'n v. Bruen](https://www.supremecourt.gov/opinions/21pdf/20-843_7j80.pdf) (2022), the Supreme Court held that when the Second Amendment's text covers someone's conduct, the government has to justify its regulation by showing it fits the nation's historical tradition of firearm regulation. Our explainer on [the Second Amendment after Bruen](/blog/second-amendment-after-bruen) walks through how that test works.
+
+The Third Circuit has been applying Bruen to § 922(g)(1) for years through the case of Bryan Range, a Pennsylvania man with a decades-old conviction for food-stamp fraud.
+
+- **Range I.** In 2023, the full court held the ban unconstitutional as applied to Range.
+- **Supreme Court remand.** On July 2, 2024, the Supreme Court vacated that judgment and sent the case back for reconsideration in light of *United States v. Rahimi*, according to the [Supreme Court's docket in Garland v. Range](https://www.supremecourt.gov/docket/docketfiles/html/public/23-374.html).
+- **Range II.** Later in 2024, the full Third Circuit reached the same result again (124 F.4th 218). It held that people with felony convictions are part of "the people" the Second Amendment protects, and that the government had not shown a historical tradition of permanently disarming someone like Range.
+
+Range II left open how courts should decide which people the ban can constitutionally reach. Bost and Williams answer that.
+
+## United States v. Bost: a threats conviction is enough
+
+James Bost's case came up as a criminal prosecution. According to the [court's opinion](https://www2.ca3.uscourts.gov/opinarch/241719p.pdf), Bost carjacked a woman in 2002, threatened to kill her unless she gave him money, and pleaded guilty to terroristic threats, conspiracy, false imprisonment, and simple assault. The terroristic-threats and conspiracy convictions were first-degree misdemeanors under Pennsylvania law, punishable by up to five years. Years later, U.S. Marshals found him next to a stolen .38 caliber pistol, and he was charged under § 922(g)(1). He moved to dismiss, arguing the ban was unconstitutional on its face and as applied to him.
+
+Judge Bibas wrote for the court, which affirmed his conviction. The core holding is this:
+
+"We hold that some predicate crimes (like Bost's conviction for terroristic threats) demonstrate a prima facie risk of physical violence from misusing guns and that those convicted of such crimes may presumptively be disarmed based on those convictions alone."
+
+The court concluded that, at the founding, disarmament usually followed a judge's individualized finding that a person posed a risk of physical violence, as with the going-armed and surety laws the Supreme Court relied on in *Rahimi*. A conviction can supply that finding, but only when the crime itself signals such a risk.
+
+That led to a framework with two clear ends and a possible middle:
+
+- **Violent or threatening crimes justify disarmament.** The opinion names common-law murder, forcible rape, and common-law robbery as examples, along with threatening conduct. The crime does not have to have involved a gun.
+- **Crimes that are not even physically dangerous do not.** The court pointed back to Range's food-stamp fraud.
+- **There may be a middle category.** Some crimes "may fuel" violence without involving it directly. Whether those justify disarmament depends on their own historical analogues, and the court said it did not need to draw those lines yet.
+
+Bost's conviction required "a threat to commit any crime of violence with intent to terrorize another." That placed him at the violent end, so his challenge failed. The court also rejected his facial challenge: a law that can be validly applied to the challenger is not facially invalid.
+
+Two smaller points from Bost matter going forward:
+
+- **Pitsilides is out.** The court said an earlier panel decision, *Pitsilides v. Barr*, "is no longer our touchstone."
+- **No exhaustion requirement.** Bost did not have to apply for administrative relief before raising the Second Amendment as a defense to criminal charges.
+
+**The vote.** Twelve of the fourteen judges agreed Bost's conviction should stand, though not all for the same reasons. Judge Phipps dissented, joined by Judge Bove. He argued there is no historical analogue for the "presumptive permanent disarmament" that § 922(g)(1) imposes.
+
+At the other end of the court, Judge Shwartz, joined by Judges Krause and Restrepo, agreed with the result but not the test. In her view, § 922(g)(1) constitutionally applies to all felons. A footnote in her concurrence lists the Second, Fourth, Eighth, and Tenth Circuits as courts that have rejected a danger-based limit on the ban.
+
+## Williams v. Attorney General: two old DUIs are not enough
+
+Edward Williams's case came up differently. He was not charged with anything. He sued in 2017, asking a court to declare that § 922(g)(1) could not constitutionally be applied to him.
+
+According to the [court's opinion](https://www2.ca3.uscourts.gov/opinarch/241091p.pdf):
+
+- **The first offense.** In 2000, Williams was charged with DUI and entered Pennsylvania's Accelerated Rehabilitative Disposition program.
+- **The second offense.** In 2005, he was convicted of DUI at the "highest rate of alcohol" (a blood alcohol concentration of 0.16% or higher). Because it was a second offense, it was punishable by up to five years.
+- **The sentence.** He received 90 days to two years and served it in home confinement.
+- **What happened next.** He kept owning guns and worked at a gun store. In 2015, his lawyer told him the 2005 conviction prohibited him from possessing firearms, and he got rid of all of them.
+
+Judge Matey wrote for the 8–6 majority, which affirmed the district court's judgment for Williams. The method follows Bost. The court looks at the elements of the predicate offense and, where needed, the limited court records the Supreme Court approved in *Shepard v. United States* (the charging document, plea agreement, plea colloquy, and similar records). If the offense "lacks threats or violence, then the predicate crime was likely never disarmable."
+
+Williams's offense required driving, a blood alcohol level of 0.16% or higher, and a prior DUI. The court said it "plainly does not contain threatening or violent elements." The government's historical analogy to laws about "habitual drunkards" failed. The court relied partly on the Supreme Court's 2026 decision in *United States v. Hemani* (covered in our post on [marijuana users and gun ownership](/blog/marijuana-users-gun-ownership-hemani-2026)), which described those laws as protecting drunkards and their families rather than protecting the public from violence. The court also noted that the record showed Williams had done nothing violent in more than twenty years.
+
+**The vote.** Chief Judge Chagares joined the judgment for Williams but wrote separately. In his view, people seeking to restore their rights should generally go through the federal administrative process first, though he would excuse Williams given how long his case has been pending. Six judges would have ruled against Williams:
+
+- **Judge Freeman, joined by Judges Montgomery-Reeves and Chung**, agreed with looking at the elements of the conviction. She would not limit disarming convictions to those involving violence or threats.
+- **Judge Shwartz, joined by Judges Krause and Restrepo**, would have upheld the ban as applied to Williams. She would also have dismissed his case so he could apply for administrative relief first.
+
+## How the two cases fit together
+
+Read together, the rulings set up a sorting exercise for § 922(g)(1) cases in the Third Circuit:
+
+- **Start with the elements of the prior conviction**, plus the limited Shepard records where needed.
+- **Violence or threats in the elements:** the ban applies, at least at the early stage of a case.
+- **Neither:** as with Range's fraud or Williams's DUI, the government needs a different historical analogy, and here it had none.
+- **Crimes in between:** left for future cases.
+
+## Who is bound, and what this does not do
+
+**Geography.** The Third Circuit covers Pennsylvania, New Jersey, Delaware, and the U.S. Virgin Islands, under [28 U.S.C. § 41](https://www.law.cornell.edu/uscode/text/28/41). Its decisions bind the federal courts in those places. They do not bind federal courts elsewhere, and other circuits have taken different approaches, as Judge Shwartz's footnote shows.
+
+**Williams is an as-applied ruling for one person.** The court affirmed a declaratory judgment for Edward Williams based on his specific conviction and record. It did not strike down § 922(g)(1). It did not hold that everyone with a DUI conviction may have guns. It did not order the FBI's background check system to clear anyone else.
+
+The ban stays on the books and stays enforceable. A person with a qualifying conviction who buys or possesses a firearm on the strength of these opinions is risking a federal felony prosecution. Whether a defense under Bost and Williams would work in that case would turn on the conviction, the court, and the stage of the case. State law can also prohibit possession independently of federal law, so a federal ruling does not settle state-law eligibility.
+
+Consider a New Jersey resident with a 20-year-old nonviolent conviction that carried a possible sentence of more than a year. After Bost and Williams, that person may have a stronger argument than before. But a background check at the dealer's counter is still likely to come back denied, because neither opinion changes how the federal background check system treats that record. The safe paths run through a court, the administrative process, or a pardon or expungement, with a lawyer's help.
+
+## The federal restoration process is back
+
+Both opinions spend time on [18 U.S.C. § 925(c)](https://www.law.cornell.edu/uscode/text/18/925). That provision lets the Attorney General grant relief from federal firearms disabilities to someone who shows they are not likely to act in a manner dangerous to public safety. Congress blocked funding for it for decades.
+
+The Justice Department has now revived it. Its final rule, "Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms," was published in the [Federal Register on August 20, 2026](https://www.federalregister.gov/documents/2026/08/20/2026-16981/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition) (91 FR 54054). According to the rule, it took effect September 21, 2026, and the Department began soliciting applications from individuals on that date.
+
+Judge Shwartz and Chief Judge Chagares see it as the main path to restoration. The Williams majority called relief before the final rule "a slow trickle" and declined to make Williams wait for it. Our guide to the [federal firearms rights restoration program](/blog/federal-firearms-rights-restoration-program-2026) covers how to apply.
+
+## What could happen next
+
+Both cases were decided by the full court, so the next step for a losing side is a Supreme Court petition. The Justice Department could seek review in Williams, and Bost could seek review of his conviction. As of October 24, 2026, those are possibilities, not filed petitions.
+
+The Supreme Court has repeatedly described felon-possession bans as "longstanding" and presumptively lawful, as Judge Shwartz's concurrence points out, citing *Heller*, *McDonald*, and *Rahimi*. It has not decided how as-applied challenges to § 922(g)(1) should be resolved. With the circuits divided on whether dangerousness is the line, the question may reach the Court eventually, but no one can say when.
+
+## What to watch
+
+- **Cert petitions in Bost or Williams.** A petition would receive a new Supreme Court docket number, so search the [Supreme Court docket](https://www.supremecourt.gov/docket/docket.aspx) by case name.
+- **Third Circuit cases about the middle category** of crimes that are not violent by their elements but may be treated as risk-creating.
+- **How the § 925(c) program operates in practice**, including how many applications are granted and how long decisions take.
+
+We will update this article if either case reaches the Supreme Court.
+
+---
+
+*Looking for a licensed dealer near you? Browse [our dealer directory](/dealers) to find dealers by location.*`,
+  },
+
+  {
+    slug: "maryland-gun-law-changes-october-2026",
+    title: "Maryland Gun Law Changes for October 2026, Plus the Jan. 1, 2027 Pistol Ban",
+    excerpt: "Four Maryland firearms laws took effect October 1, 2026: a 24-hour theft and security-breach reporting rule for dealers, mandatory destruction of buyback guns, five-year carry permits for retired officers, and a ban on 'machine gun convertible pistols' that starts January 1, 2027. A federal judge has declined to block the pistol ban while the challenge continues.",
+    metaDescription: "Maryland's October 1, 2026 firearms laws explained: SB 160 dealer reporting, SB 775 buybacks, SB 331 retired-officer permits, and SB 334's Jan. 1, 2027 pistol ban.",
+    category: "State Laws",
+    categorySlug: "state-laws",
+    publishedAt: "2026-10-26",
+    readTime: "9 min read",
+    content: `*This article reflects Maryland law and the federal court docket as of October 2026. A lawsuit over the pistol ban is pending, and the State Police list of covered pistols may change what applies to you. Check current sources before you rely on anything here. This is general information, not legal advice.*
+
+Maryland's 2026 legislative session produced four firearms laws that took effect October 1, 2026. Three are narrow: dealer theft reporting, buyback destruction, and retired-officer permits. The fourth will matter to far more people. Starting January 1, 2027, Maryland will ban the manufacture, sale, purchase, receipt, and transfer of what the statute calls "machine gun convertible pistols."
+
+On October 5, 2026, the federal judge hearing a challenge to that ban refused to block it. The case continues, but as of late October 2026 no court order stands between the ban and its January 1 start date.
+
+Each law is summarized below from its chapter text on the [Maryland General Assembly's website](https://mgaleg.maryland.gov).
+
+## SB 160 / HB 284: dealers must report thefts and security failures within 24 hours
+
+**Chapters 86 and 85, effective October 1, 2026.** Maryland already required licensed dealers to meet security standards where they store firearms (Public Safety Article § 5-145.1). A dealer has two options:
+
+- **Option one:** have video recording inside and outside, physical barriers on exterior doors and windows (such as bars, security screens, or commercial-grade metal doors), a continuously monitored burglar alarm, and, where practicable, barriers against vehicle ramming.
+- **Option two:** lock all firearms in a vault, a safe, or a room or building that meets those standards outside business hours.
+
+[Senate Bill 160](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0160?ys=2026RS), requested by the Governor on behalf of the State Police, adds a deadline. Under the [chapter text](https://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_86_sb0160t.pdf), a licensed dealer must notify the Secretary of State Police within 24 hours after first learning of either of these:
+
+- **A crime involving firearms or ammunition.** This covers a burglary, attempted burglary, robbery, or theft at the dealer's premises or wherever its firearms are stored.
+- **A security failure.** This covers a compromise of a required security feature, including failed video recording, a failed entry barrier, an alarm that can no longer be monitored, or a vehicle barrier that failed to stop a breach.
+
+The Maryland notice is in addition to any report to local police or ATF. Federal rules separately require licensees to report a firearm theft or loss to ATF within 48 hours of discovery under [27 CFR § 478.39a](https://www.ecfr.gov/current/title-27/chapter-II/subchapter-B/part-478/subpart-C/section-478.39a), so the state's clock is now the shorter one.
+
+Penalties are civil fines imposed by the Secretary: up to $250 for a first violation and up to $1,000 for a second or later one. A dealer who knowingly and willfully violates § 5-145.1 also faces license suspension on a second offense and revocation on a third or later offense. The penalty subsection does not apply when equipment or an alarm system became temporarily inoperable through no fault of the dealer.
+
+## SB 775: buyback guns must be destroyed
+
+**Chapter 430, effective October 1, 2026.** [Senate Bill 775](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0775?ys=2026RS) adds a new subtitle on gun buyback programs (Public Safety Article §§ 5-901 through 5-905). The rules apply to a buyback run by a federal firearms licensee or a law enforcement agency that does all three of these things:
+
+- lets owners voluntarily surrender firearms,
+- operates, explicitly or implicitly, to reduce the number of firearms in a community, and
+- advertises that surrendered firearms will be destroyed or made permanently inoperable.
+
+Under the [chapter text](https://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_430_sb0775t.pdf), the operator must destroy every surrendered firearm, including every component and part attached to it, so that it is "permanently inoperable and unrepairable." The operator may contract with a law enforcement agency or a business to do the destruction. The rule does not apply to a firearm that a law enforcement agency determines is stolen or is evidence of a crime.
+
+Before anything is destroyed, a law enforcement agency that receives a buyback firearm must make reasonable efforts, including a National Crime Information Center check, to determine whether it is a crime gun or has been reported lost or stolen.
+
+The penalties are steep:
+
+- **Failing to destroy a firearm properly:** a fine of up to $10,000 per violation.
+- **A licensed dealer who violates the destruction rule:** mandatory revocation of the dealer's license.
+- **Running a buyback any other way:** a misdemeanor with a fine of up to $10,000.
+
+**What this means for you.** A gun turned in at a Maryland buyback that advertises destruction should be destroyed, not resold, unless police hold it as stolen or as evidence. If you'd rather it go to another lawful owner, see our guide to [private-party firearm sales](/blog/private-party-firearm-sales-state-laws-2026).
+
+## SB 331 / HB 94: five-year permits for retired officers
+
+**Chapters 455 and 454, effective October 1, 2026.** A standard Maryland handgun permit (the permit to wear, carry, or transport a handgun) expires on the last day of the holder's birth month two years after it is issued. It can then be renewed for three-year periods.
+
+Under the [chapter text](https://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_455_sb0331t.pdf) of [Senate Bill 331](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0331?ys=2026RS), now Public Safety Article § 5-309(e), a permit issued to a qualifying retired officer works differently. It expires on the last day of the holder's birth month five years after issuance, and it can be renewed for successive five-year periods as long as the holder still meets the qualifications.
+
+The rule covers someone who retired in good standing from a law enforcement agency of Maryland or of a Maryland county or municipality. Retirees from federal or out-of-state agencies are not covered by this section. Existing law already exempts Maryland's retired officers from the permit application fee.
+
+## SB 334: the "machine gun convertible pistol" ban
+
+**Chapter 771. The law took effect October 1, 2026, and the ban itself starts January 1, 2027.**
+
+### Why the legislature acted
+
+A "switch" or "auto sear" is a small device that makes a semiautomatic pistol fire automatically. Federal law already treats these devices as machineguns. The definition in [26 U.S.C. § 5845(b)](https://www.law.cornell.edu/uscode/text/26/5845) includes "any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun," and [18 U.S.C. § 922(o)](https://www.law.cornell.edu/uscode/text/18/922) generally bars possessing or transferring a machinegun. Maryland law also prohibits these devices. Our article on [bump stocks and forced-reset triggers](/blog/bump-stocks-forced-reset-triggers-cargill-2026) covers how federal law treats other rate-of-fire devices.
+
+[Senate Bill 334](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0334?ys=2026RS) goes a step further by regulating the pistols themselves. The federal court opinion in the challenge, discussed below, recounts the legislative record. According to that record, Maryland charges for the state crimes most tied to machineguns averaged about 14 a year through 2022, then rose to 202 in 2024 and 278 in 2025.
+
+### What the law covers
+
+Under the [chapter text](https://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_771_sb0334t.pdf), now Criminal Law Article § 4-301, the key definitions are these:
+
+- **Cruciform trigger bar:** a component in a semiautomatic pistol that links the trigger and the firing pin and "has its sear incorporated into a cross-shaped surface."
+- **Machine gun convertible pistol:** any semiautomatic pistol with a cruciform trigger bar that "can be readily converted by hand or by using common household tools into a machine gun" by installing a pistol converter in place of the slide's backplate. The definition still applies if the frame has a tab or other blocking material that "can be readily removed with a common household tool." The statute lists those tools: a screwdriver, pipe wrench, pliers, hacksaw, crowbar, electric drill, rotary tool, hammer, chisel, file, and crescent wrench.
+- **What is excluded:** hammer-fired pistols, and striker-fired pistols without a cruciform trigger bar.
+- **Pistol converter:** a device that replaces the backplate and interferes with the trigger mechanism so the pistol fires automatically, including one made on a 3D printer. The law also adds "pistol converter" to Maryland's existing definition of "rapid fire activator."
+
+### Does it cover Glocks?
+
+That is how opponents and much of the news coverage describe it, and many call it a "Glock ban." The statute itself never names a manufacturer. The court's opinion summarizes the plaintiffs' allegations that every factory Glock model has a cruciform trigger bar, and that the same is true of "Glock-style" pistols made since Glock's patent expired. The court also cites legislative testimony that pistols from manufacturers such as Smith & Wesson, Sig Sauer, and Springfield use trigger bars that are shielded from interference.
+
+The authoritative answer for any particular model will be the State Police's list. The law requires the Department of State Police to adopt regulations and publish a list of prohibited machine gun convertible pistols. Check the State Police Licensing Division's official pages for that list and the regulations before January 1.
+
+### What is banned, and what is not
+
+Starting January 1, 2027, a person may not "manufacture, sell, offer for sale, purchase, receive, or transfer" a machine gun convertible pistol (Criminal Law § 4-305.2).
+
+**Possession is not on that list.** If you already lawfully own a pistol that falls within the definition, the law does not require you to surrender it or make it illegal to keep. What changes is what you can do with it:
+
+- **Family transfers.** You may sell or transfer it to an immediate family member who is not prohibited from possessing firearms. The law defines immediate family as a spouse, child, stepchild, parent, stepparent, sibling, or stepsibling.
+- **Inheritance.** It can pass by inheritance to a person who is not disqualified from possessing a regulated firearm. Our guide on [how to inherit a firearm legally](/blog/how-to-inherit-a-firearm-legally-2026) covers the general process.
+- **Servicing.** You may temporarily transfer it to a licensed dealer or gunsmith for servicing and get it back afterward.
+- **Surrender.** You may surrender it to a law enforcement agency or a licensed dealer.
+- **Temporary loans.** A "temporary gratuitous exchange" is allowed.
+
+The law also exempts transfers to or by current law enforcement officials and certain retired officers with a federal credential under 18 U.S.C. § 926C, and lets dealers and manufacturers sell covered pistols to out-of-state buyers through licensed dealers.
+
+**Penalty.** A violation is a misdemeanor punishable by up to three years in prison, a fine of up to $5,000, or both (Criminal Law § 4-306(a)).
+
+**A practical point.** If you plan to buy a covered pistol in Maryland, or sell one outside your immediate family, the January 1 date matters, and the covered-model list may arrive close to it.
+
+## The federal lawsuit: no injunction, case continues
+
+Two lawsuits challenging SB 334 were filed in the U.S. District Court for the District of Maryland and later consolidated:
+
+- **Bathras v. Moore, No. 1:26-cv-02074**, filed May 26, 2026.
+- **Duffy v. Moore, No. 1:26-cv-02647**, filed July 2, 2026.
+
+The plaintiffs include individual gun owners, firearms businesses, the NRA, Firearms Policy Coalition, Second Amendment Foundation, and Maryland Shall Issue. The defendants are the Governor, the Attorney General, and the Secretary of State Police.
+
+The Duffy and Bathras plaintiffs moved for a preliminary injunction on July 13 and July 20, 2026. Senior U.S. District Judge Richard D. Bennett denied the motions from the bench after a hearing on September 25, then issued a written [memorandum opinion and order on October 5, 2026](https://storage.courtlistener.com/recap/gov.uscourts.mdd.606289/gov.uscourts.mdd.606289.42.0.pdf).
+
+- **The pistols are protected "arms."** Judge Bennett found that machine gun convertible pistols "likely fall within the plain text" of the Second Amendment, given how popular these handguns are with civilians and police. He cited *Heller*'s description of handguns as the "quintessential self-defense weapon" and the Supreme Court's 2026 decision in *Wolford v. Lopez* (see our post on [Wolford and carry on private property](/blog/wolford-v-lopez-carry-private-property-2026)).
+- **But the plaintiffs were not likely to win.** The court concluded that the state had shown SB 334 likely fits "within the historic tradition restricting 'excessively dangerous weapons' which are prone to criminal misuse."
+- **The other factors also weighed against an injunction.** The court found the plaintiffs had not shown irreparable harm, and that the balance of equities and the public interest did not favor blocking a "democratically enacted state law."
+
+A preliminary-injunction ruling is not a final decision on the merits. Under the court's October 22, 2026 scheduling order, discovery closes January 5, 2027, and summary-judgment briefing runs through March 2027, with a hearing in April or May 2027 if the court wants one. The district court docket, last updated October 23, 2026, does not show an appeal of the injunction denial. The plaintiffs could still seek review from the U.S. Court of Appeals for the Fourth Circuit. You can follow the case on the [CourtListener docket](https://www.courtlistener.com/docket/73394533/bathras-v-moore/).
+
+**Bottom line.** Unless a court acts first, the ban takes effect January 1, 2027.
+
+## How this fits with the rest of Maryland law
+
+None of these laws changes Maryland's existing framework: the Handgun Qualification License requirement, the handgun roster, the assault weapon ban (upheld by the Fourth Circuit in *Bianchi v. Brown*, which Judge Bennett relied on), and the 10-round limit on magazines sold or transferred in the state. See our guide to [magazine capacity limits by state](/blog/magazine-capacity-limits-by-state-2026).
+
+## What to watch
+
+- **The State Police list and regulations** for covered pistols.
+- **Any Fourth Circuit appeal** of the October 5 injunction denial.
+- **Summary-judgment rulings** in Bathras v. Moore.
+
+We will update this article when the list is published or a court rules.
+
+---
+
+*Looking for a licensed dealer near you? Browse [our dealer directory](/dealers) to find dealers by location.*`,
   },
 ];
 

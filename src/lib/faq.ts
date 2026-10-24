@@ -83,6 +83,7 @@ export const faqData: FaqEntry[] = [
     category: "Gun Laws",
     relatedLinks: [
       { label: "Marijuana Use and Gun Ownership After Hemani", href: "/blog/marijuana-users-gun-ownership-hemani-2026" },
+      { label: "The Third Circuit Splits the Felon Gun Ban", href: "/blog/third-circuit-felon-gun-ban-ruling-2026" },
       { label: "State Gun Law Guides", href: "/states" },
     ],
   },
@@ -975,11 +976,12 @@ export const faqData: FaqEntry[] = [
     id: "federal-firearms-rights-restoration",
     question: "Can I get my federal firearms rights restored if I have a felony conviction?",
     answer:
-      "It depends on whether your disqualifying conviction is federal or state, and starting in late 2026, there's a new formal pathway for federal cases. The DOJ's Federal Firearms Rights Restoration Program opens an initial invited-applicant pool on September 26, 2026, followed by a general-public application window on November 4, 2026 (capped at 5,000 applications in the first wave). It only addresses federal firearms prohibitions — a state conviction requires that state's own rights-restoration process, which varies widely and in some states doesn't exist. Restoration is discretionary, not automatic, even for eligible applicants.",
+      "There is a federal pathway again. The Justice Department's final rule under 18 U.S.C. § 925(c) took effect September 21, 2026, and the program is launching in stages: invited candidates from September 25, 2026, the general public from November 4, 2026 (the first 5,000 candidates), and 500 more from January 4, 2027, when the application fee begins. The program addresses federal firearms disabilities, which can arise from a state or a federal conviction, but it does not lift prohibitions that state law imposes, and state restoration is a separate process that varies widely. Relief is discretionary, and the rule lists presumptive disqualifiers. Our [full guide](/blog/federal-firearms-rights-restoration-program-2026) covers the rollout, and our [Third Circuit explainer](/blog/third-circuit-felon-gun-ban-ruling-2026) covers the court rulings on the felon-in-possession ban.",
     keywords: ["rights restoration", "felony", "firearms rights", "DOJ", "federal conviction", "restore rights", "2026"],
     category: "Gun Laws",
     relatedLinks: [
       { label: "The Federal Firearms Rights Restoration Program: Full Guide", href: "/blog/federal-firearms-rights-restoration-program-2026" },
+      { label: "The Third Circuit Splits the Felon Gun Ban", href: "/blog/third-circuit-felon-gun-ban-ruling-2026" },
       { label: "State Gun Law Guides", href: "/states" },
     ],
   },
