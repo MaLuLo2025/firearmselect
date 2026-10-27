@@ -9,7 +9,8 @@ export function generateStaticParams() {
   return states.map((s) => ({ state: s.slug }));
 }
 
-export function generateMetadata({ params }: { params: { state: string } }): Metadata {
+export async function generateMetadata(props: { params: Promise<{ state: string }> }): Promise<Metadata> {
+  const params = await props.params;
   const state = getStateBySlug(params.state);
   if (!state) return {};
   const title = `${state.name} Gun Laws — Carry, Purchase & Ownership Guide`;
@@ -17,7 +18,8 @@ export function generateMetadata({ params }: { params: { state: string } }): Met
   return { title, description, alternates: { canonical: `/${params.state}/gun-laws` }, openGraph: { title, description } };
 }
 
-export default function StateGunLawsPage({ params }: { params: { state: string } }) {
+export default async function StateGunLawsPage(props: { params: Promise<{ state: string }> }) {
+  const params = await props.params;
   const state = getStateBySlug(params.state);
   if (!state) notFound();
 

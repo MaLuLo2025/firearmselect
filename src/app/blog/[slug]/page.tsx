@@ -7,7 +7,8 @@ export function generateStaticParams() {
   return blogPosts.map((post) => ({ slug: post.slug }));
 }
 
-export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
+export async function generateMetadata(props: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const params = await props.params;
   const post = getPostBySlug(params.slug);
   if (!post) return {};
   const description = post.metaDescription ?? post.excerpt;
@@ -149,7 +150,8 @@ function renderBody(body: string): React.ReactNode[] {
 
 const BASE = "https://www.firearmselect.com";
 
-export default function BlogPostPage({ params }: { params: { slug: string } }) {
+export default async function BlogPostPage(props: { params: Promise<{ slug: string }> }) {
+  const params = await props.params;
   const post = getPostBySlug(params.slug);
   if (!post) notFound();
 

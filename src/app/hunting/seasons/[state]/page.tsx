@@ -8,11 +8,12 @@ export function generateStaticParams() {
   return huntingStates.map((h) => ({ state: h.stateSlug }));
 }
 
-export function generateMetadata({
-  params,
-}: {
-  params: { state: string };
-}): Metadata {
+export async function generateMetadata(
+  props: {
+    params: Promise<{ state: string }>;
+  }
+): Promise<Metadata> {
+  const params = await props.params;
   const data = getHuntingData(params.state);
   if (!data) return {};
   const title = `${data.stateName} Hunting Seasons & Licensing 2025–2026 | FirearmSelect`;
@@ -64,11 +65,12 @@ function SeasonTable({ seasons, title }: { seasons: HuntingSeason[]; title: stri
   );
 }
 
-export default function HuntingStatePage({
-  params,
-}: {
-  params: { state: string };
-}) {
+export default async function HuntingStatePage(
+  props: {
+    params: Promise<{ state: string }>;
+  }
+) {
+  const params = await props.params;
   const data = getHuntingData(params.state);
   if (!data) notFound();
 

@@ -11,7 +11,8 @@ export function generateStaticParams() {
   return cities.map((c) => ({ state: c.stateSlug, city: c.slug }));
 }
 
-export function generateMetadata({ params }: { params: { state: string; city: string } }): Metadata {
+export async function generateMetadata(props: { params: Promise<{ state: string; city: string }> }): Promise<Metadata> {
+  const params = await props.params;
   const state = getStateBySlug(params.state);
   const city = getCityBySlug(params.state, params.city);
   if (!state || !city) return {};
@@ -20,7 +21,8 @@ export function generateMetadata({ params }: { params: { state: string; city: st
   return { title, description, alternates: { canonical: `/dealers/${params.state}/${params.city}` }, openGraph: { title, description } };
 }
 
-export default function CityDealersPage({ params }: { params: { state: string; city: string } }) {
+export default async function CityDealersPage(props: { params: Promise<{ state: string; city: string }> }) {
+  const params = await props.params;
   const state = getStateBySlug(params.state);
   const city = getCityBySlug(params.state, params.city);
   if (!state || !city) notFound();

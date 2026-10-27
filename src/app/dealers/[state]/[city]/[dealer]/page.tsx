@@ -14,7 +14,10 @@ export function generateStaticParams() {
   }));
 }
 
-export function generateMetadata({ params }: { params: { state: string; city: string; dealer: string } }): Metadata {
+export async function generateMetadata(
+  props: { params: Promise<{ state: string; city: string; dealer: string }> }
+): Promise<Metadata> {
+  const params = await props.params;
   const state = getStateBySlug(params.state);
   const dealer = dealers.find((d) => d.slug === params.dealer && d.state === params.state);
   if (!state || !dealer) return {};
@@ -23,7 +26,10 @@ export function generateMetadata({ params }: { params: { state: string; city: st
   return { title, description, alternates: { canonical: `/dealers/${params.state}/${params.city}/${params.dealer}` }, openGraph: { title, description } };
 }
 
-export default function DealerDetailPage({ params }: { params: { state: string; city: string; dealer: string } }) {
+export default async function DealerDetailPage(
+  props: { params: Promise<{ state: string; city: string; dealer: string }> }
+) {
+  const params = await props.params;
   const state = getStateBySlug(params.state);
   const city = getCityBySlug(params.state, params.city);
   const dealer = dealers.find(
