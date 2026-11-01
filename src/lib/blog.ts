@@ -1421,6 +1421,7 @@ Bruen created a new framework but did not resolve every question. Lower courts a
     category: "Education",
     categorySlug: "education",
     publishedAt: "2026-03-15",
+    dateModified: "2026-11-02",
     readTime: "9 min read",
     content: `Buying your first firearm is a decision that deserves careful thought, honest self-assessment, and a commitment to ongoing education. Whether your primary motivation is home defense, recreational shooting, or exercising your constitutional right, the process is more straightforward than most people expect. Here is what you need to know.
 
@@ -1436,7 +1437,7 @@ Do you have a plan for secure storage? If you have children in the home, secure 
 
 The federal process for buying a firearm from a licensed dealer is the same in every state. You must be at least 18 years old to purchase a rifle or shotgun from a federally licensed dealer, and at least 21 to purchase a handgun. You will fill out ATF Form 4473 (details: https://www.atf.gov/firearms), which asks questions about your identity, residency, and eligibility. The dealer will then run a National Instant Criminal Background Check System (NICS) check through the FBI (https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/nics).
 
-In most cases, the background check takes minutes. You will receive a "proceed," "delayed," or "denied" response. A "proceed" means you can complete the purchase. A "delayed" means the FBI needs additional time, up to three business days. A "denied" means you are prohibited from purchasing.
+In most cases, the background check takes minutes. You will receive a "proceed," "delayed," or "denied" response. A "proceed" means you can complete the purchase. A "delayed" means NICS needs more time. If three business days pass with no answer (up to 10 for some buyers under 21), federal law allows the dealer to transfer, though the dealer is not required to and some wait for a final answer. Our guide to [delayed background checks](/blog/nics-background-check-delayed-what-happens-2026) explains the rules. A "denied" means you are prohibited from purchasing.
 
 Some states have additional requirements beyond the federal process. These may include waiting periods (typically 3 to 14 days), state-specific permits or licenses required before purchase, registration requirements, or additional state-level background checks.
 
@@ -5054,6 +5055,192 @@ We will update this article when the list is published or a court rules.
 ---
 
 *Looking for a licensed dealer near you? Browse [our dealer directory](/dealers) to find dealers by location.*`,
+  },
+  {
+    slug: "new-york-body-armor-ban-struck-down-2026",
+    title: "A Federal Judge Struck Down New York's Body Armor Ban. Can You Buy a Vest Now?",
+    excerpt: "On October 21, 2026, a federal judge in Buffalo held that New York's ban on civilian body armor purchases violates the Second Amendment and permanently enjoined it, then paused his own order for 14 days so the state could appeal. Here is what the law says, what the court decided, what it left in place, and where the case stood as of November 1, 2026.",
+    metaDescription: "Heeter v. James explained: what New York's body armor ban says, why the court struck it down, the 14-day stay, and the case's status as of November 1, 2026.",
+    category: "Legal Update",
+    categorySlug: "legal-update",
+    publishedAt: "2026-11-02",
+    readTime: "9 min read",
+    content: `*This article reflects the court record and New York law as of November 1, 2026. The ruling is on a short stay, and an appeal could change what applies to you. Check the current docket before you rely on anything here. This is general information, not legal advice.*
+
+On October 21, 2026, a federal judge in Buffalo ruled that New York's ban on civilian purchases of body armor violates the Second Amendment. The decision in *Heeter v. James* permanently bars the state from enforcing the ban on buying and selling body armor. In the same order, the judge paused that relief for 14 days so the state could appeal.
+
+So the short answer to the headline question, as of November 1, 2026, is no, not yet. On that date the ban could still be enforced as written. Whether that changes depends on what the state and the U.S. Court of Appeals for the Second Circuit do next. Below is what the law says, what the court decided, what the ruling leaves untouched, and how to read the docket yourself.
+
+## What New York's law says
+
+New York's restrictions took effect in July 2022. According to the [New York Department of State's body armor page](https://dos.ny.gov/body-armor), Governor Hochul signed the original restrictions on June 6, 2022, and a follow-up law signed July 1, 2022 extended them to body armor generally, effective July 6, 2022. Three statutes do the work:
+
+- **Penal Law § 270.21 (buying).** A person who is not "engaged or employed in an eligible profession" commits a crime if they "knowingly purchase or take possession of body armor." It is a class A misdemeanor for a first offense and a class E felony after that. ([statute text](https://www.nysenate.gov/legislation/laws/PEN/270.21))
+- **Penal Law § 270.22 (selling).** A person commits a crime if they "sell, exchange, give or dispose of" body armor to someone they know, or reasonably should have known, is not in an eligible profession. The penalty grades are the same. ([statute text](https://www.nysenate.gov/legislation/laws/PEN/270.22))
+- **General Business Law § 396-eee (sellers).** No person or business may sell or deliver body armor to anyone outside an eligible profession. The buyer must also meet the seller in person to complete a sale, except for purchases by government agencies equipping their own employees. A violation carries a fine of up to $5,000 for a first offense and up to $10,000 after that. ([statute text](https://www.nysenate.gov/legislation/laws/GBS/396-EEE))
+
+The definition is broad. Penal Law § 270.20 defines body armor as "any product that is a personal protective body covering intended to protect against gunfire, regardless of whether such product is to be worn alone or is sold as a complement to another product or garment." That reaches soft vests, hard plates and carriers alike.
+
+**Eligible professions.** By statute these include police officers, peace officers, and people in military service in New York or for the United States. Executive Law § 144-a lets the Department of State add others. The Department keeps the official list and runs the process for requesting that a profession be added, both on its body armor page.
+
+## What the court decided
+
+The case is *Heeter v. James*, No. 1:24-cv-623 in the U.S. District Court for the Western District of New York, before Judge John L. Sinatra Jr. Two individuals, Benjamin Heeter and Joseph Wurtenberg, and the Firearms Policy Coalition sued the Attorney General, the Superintendent of the State Police, and the district attorneys of Erie and Monroe Counties. Both sides moved for summary judgment, and the court heard argument on August 28, 2026.
+
+The [47-page decision and order](https://storage.courtlistener.com/recap/gov.uscourts.nywd.151526/gov.uscourts.nywd.151526.95.0.pdf) (Dkt. 95) ruled for the plaintiffs on the sale-and-purchase ban. The core reasoning:
+
+- **Body armor is an "arm."** The court relied on *District of Columbia v. Heller*, which quoted founding-era dictionaries defining "arms" to include "armour of defence," and on *Heller*'s statement that the Second Amendment "extends, prima facie, to all instruments that constitute bearable arms, even those that were not in existence at the time of the founding." The court concluded that body armor is "an 'Arm' protected by the plain text of the Second Amendment."
+- **No historical tradition supports the ban.** Under the test from *New York State Rifle & Pistol Association v. Bruen*, the state had to show the law fits the nation's historical tradition of arms regulation. The court found the state failed "to identify a single relevantly analogous law." It gave little weight to the state's main analogue, the 1328 English Statute of Northampton, quoting *Bruen*'s observation that the statute "has little bearing on the Second Amendment adopted in 1791."
+- **Not "unusually dangerous."** The state argued body armor falls under the Second Circuit's standard from *National Association for Gun Rights v. Lamont* for weapons that are unusually dangerous. The court disagreed, calling body armor "a purely defensive arm" and finding no evidence it is "uniquely designed to create mayhem."
+- **A statewide injunction is allowed.** The state argued that *Trump v. CASA* (2025) bars statewide relief. In a footnote, the court read *CASA* as limiting universal injunctions against federal statutes and executive actions, citing several district courts that reached the same view and one that did not.
+
+**The remedy.** The order permanently enjoins the defendants and those acting with them "from enforcing N.Y. GEN. Bus. LAW § 396-eee and N.Y. PENAL LAW §§ 270.21 and 270.22 with respect to the sale and purchase of body armor." The clerk entered judgment the same day (Dkt. 96).
+
+**The stay.** The state asked for a 14-day stay pending appeal, and the court granted it. The court said it disagreed that the state is likely to win on appeal. It granted the stay anyway because the law has been on the books since 2022 and no plaintiff ever sought a preliminary injunction, so the balance of hardships and the public interest favored a short pause.
+
+## What the ruling does not change
+
+Even after the stay ends, several rules stay in place.
+
+- **Wearing armor during a violent felony.** Footnote 12 of the decision says nothing in it affects Penal Law § 270.20(1). That section makes it a crime to wear body armor while committing a violent felony offense while possessing a firearm, rifle or shotgun.
+- **Federal law.** [18 U.S.C. § 931](https://www.law.cornell.edu/uscode/text/18/931) makes it a federal crime to buy, own or possess body armor after a felony conviction for a crime of violence. There is an affirmative defense for someone whose employer certified in writing, in advance, that the armor was necessary for lawful business activity. The New York ruling does not touch this law, and it applies in every state.
+- **Who is bound.** The injunction runs against the named defendants (the Attorney General, the State Police Superintendent, and the Erie and Monroe County district attorneys) and those acting in concert with them who receive notice. District attorneys in New York's other counties are not named parties, and the order does not separately address them.
+- **In-person delivery.** The order speaks to "the sale and purchase of body armor." It does not separately discuss § 396-eee's in-person transfer requirement. How that requirement applies to non-professional buyers once the injunction takes effect is not spelled out in the order.
+- **Retailers' own policies.** Online and out-of-state sellers set their own shipping rules. A court ruling does not require any business to change them.
+- **Other states.** This decision binds only New York officials. It says nothing about other states' laws.
+
+## Where the case stands as of November 1, 2026
+
+The district court docket is public on CourtListener, which mirrors filings from the federal courts' PACER system and can lag behind it. As of November 1, 2026, the [CourtListener docket](https://www.courtlistener.com/docket/68907301/heeter-v-james/) (last updated October 29) shows these final entries:
+
+- **Dkt. 95, October 21:** decision and order granting summary judgment, the permanent injunction, and the 14-day stay.
+- **Dkt. 96, October 21:** judgment for the plaintiffs.
+- **Dkt. 97, October 22:** notice that the transcript of the August 28 argument has been filed.
+
+The docket does not show a notice of appeal or a request to the Second Circuit for a longer stay. CourtListener's Second Circuit records list no *Heeter* appeal as of the same date.
+
+Two dates matter:
+
+- **The stay.** The order grants a "fourteen-day stay" without naming an end date. Counting 14 days from October 21 gives November 4, 2026.
+- **The appeal deadline.** Under [Federal Rule of Appellate Procedure 4(a)(1)(A)](https://www.law.cornell.edu/rules/frap/rule_4), a notice of appeal in a civil case is due within 30 days after entry of the judgment. For a judgment entered October 21, that is November 20, 2026.
+
+**What can happen next.** The procedural options are well defined, even though no one can say which will occur:
+
+- The state files a notice of appeal and asks the district court or the Second Circuit to extend the stay while the appeal proceeds. If a court grants that request, the ban stays enforceable during the appeal.
+- The stay runs out with no further stay in place. In that case the injunction takes effect, and the named officials are barred from enforcing the sale-and-purchase ban.
+- The state appeals but does not obtain a further stay, so the injunction takes effect while the appeal goes forward.
+
+The Supreme Court's calendar is relevant too. The *Lamont* decision this court discussed is now before the Supreme Court as *Grant v. Higgins* (No. 25-566), consolidated with *Viramontes v. Cook County*. The cases are [set for argument on December 2, 2026](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-566.html). A ruling there could shape how lower courts, including the Second Circuit, analyze bans on particular arms. See our post on [the Supreme Court's AR-15 ban case](/blog/supreme-court-ar15-ban-case-2026).
+
+## If you live in New York
+
+- **Until the stay ends with no further stay in place, treat the law as in force.** Buying body armor outside an eligible profession is still a crime as written, and so is selling it to someone outside one.
+- **Check the docket yourself before you buy.** The CourtListener docket linked above will show any notice of appeal or stay order once it is posted. News coverage can run ahead of, or behind, the record.
+- **Expect retailers to make their own calls.** A seller may keep New York restrictions in place after the injunction takes effect, and that is the seller's decision.
+- **If you are in an eligible profession,** the Department of State's page explains how to show proof of eligibility when you buy.
+- **Federal rules apply regardless.** If you have a felony conviction for a crime of violence, § 931 bars you from buying or possessing body armor no matter what happens in this case.
+
+For New York's firearms rules more generally, see our [New York gun laws guide](/new-york/gun-laws).
+
+We will update this article when the docket shows an appeal, a stay order, or the stay's expiration.
+
+*Looking for local gun shops, ranges & instructors? Browse [FirearmSelect's listings by state and city](/dealers).*`,
+  },
+  {
+    slug: "nics-background-check-delayed-what-happens-2026",
+    title: "Background Check Delayed? What 'Proceed,' 'Delayed' and the Three-Day Rule Mean This Holiday Season",
+    excerpt: "A 'delayed' NICS response is not a denial, and the three-business-day rule is not a deadline for the FBI. Here is how proceed, delayed and denied work under federal law, what changes for buyers under 21, how long a check stays good, and how to request a reason, challenge a denial, or apply to the FBI's Voluntary Appeal File.",
+    metaDescription: "NICS delayed? How proceed, delayed and denied work, the three-business-day rule, under-21 checks, the 30-day limit, denial appeals and the Voluntary Appeal File.",
+    category: "Buying Guides",
+    categorySlug: "buying-guides",
+    publishedAt: "2026-11-02",
+    readTime: "9 min read",
+    content: `*This article reflects federal law, regulations and FBI guidance as of November 2026. State law can add its own steps, permits and waiting periods. This is general information, not legal advice.*
+
+You picked out a firearm, filled out the paperwork, and the clerk came back from the phone or the computer and said, "You're delayed." That is not a denial. It does not mean you did anything wrong, and it does not mean you will leave empty-handed for good. It does mean the rules now run on a clock most buyers have never had explained to them.
+
+This guide covers what happens at the counter when a licensed dealer runs a background check, what each answer means, how the three-business-day rule actually works, and what to do if you are denied or keep getting delayed. Federal law sets the baseline. Your state may add more.
+
+## Who runs your check
+
+When you buy from a federally licensed dealer, you fill out ATF Form 4473 and show a photo ID. The dealer then contacts the National Instant Criminal Background Check System (NICS). According to the [FBI's NICS page](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/nics), the FBI provides full service to dealers in 31 states, five U.S. territories and the District of Columbia, and partial service in four states. The other 15 states run their own checks through NICS. Those are often called "point of contact" or POC states.
+
+The FBI says the NICS phone line is customarily available 17 hours a day, seven days a week, including holidays except Christmas, and its online NICS E-Check is available around the clock. Since NICS launched in 1998, the FBI reports more than 500 million checks and more than two million denials. The FBI publishes its highest-volume days and weeks in a "Top 10 Highest Days/Weeks" report linked from the same page.
+
+## The three answers
+
+**Proceed.** NICS found nothing that bars the transfer and gives the dealer a unique transaction number. The dealer may complete the sale, subject to any state requirements. Under the FBI's NICS regulation, [28 CFR 25.9](https://www.law.cornell.edu/cfr/text/28/25.9), identifying information about the buyer in an allowed transaction is destroyed within 24 hours after the dealer is told the transfer may proceed.
+
+**Denied.** NICS found a record or other information that it determined prohibits you from receiving a firearm. The dealer may not transfer the firearm. You have options to find out why and to challenge the decision, covered below.
+
+**Delayed.** NICS could not give an immediate answer and needs more time to research a possible match. The FBI notes that NICS checks compare names, dates of birth and other descriptive information, not fingerprints. A buyer can be held up because their details resemble someone else's record, and the FBI flags common names as a particular issue.
+
+## What "three business days" actually means
+
+The rule comes from [18 U.S.C. § 922(t)(1)](https://www.law.cornell.edu/uscode/text/18/922). It says a dealer "shall not transfer a firearm" to an unlicensed person unless the dealer has contacted NICS and either:
+
+- NICS has given the dealer a unique identification number (a proceed), or
+- "3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system," and NICS has not told the dealer the transfer would be illegal.
+
+Two things follow from that wording.
+
+**First, it is not a deadline for the FBI.** The three days mark when the dealer is first allowed to transfer if no answer has come back. NICS can keep researching after that. Under 28 CFR 25.9, records of a transaction still in open status are destroyed, except the transaction number and date, after not more than 90 days from the date of the check. A denial can still arrive after day three.
+
+**Second, "business day" means a day your state's offices are open.** Weekends usually do not count, and neither do holidays when your state's offices are closed. ATF's regulation, [27 CFR 478.102](https://www.law.cornell.edu/cfr/text/27/478.102), gives an example: a dealer contacts NICS on a Thursday and gets a delayed response. If state offices are closed Saturday and Sunday, three business days have passed at the end of Tuesday, and the dealer may transfer on Wednesday. Around Thanksgiving, count carefully. If your state's offices close for the holiday, those days do not count toward the three.
+
+## Day four is permission, not an obligation
+
+The statute is written as a prohibition with conditions. It tells dealers when they may not transfer. It does not tell them they must. ATF's regulation says the same thing in plain terms: if three business days have passed and NICS has not issued a denial, "the licensee may proceed with the transfer."
+
+That word "may" matters at the counter. Nothing in federal law requires a dealer to hand over a firearm on day four. Some dealers wait for a final answer as a matter of store policy, and that is their decision to make. If you are delayed, ask the dealer what their practice is.
+
+One more point that is easy to miss. A default transfer does not make an unlawful purchase lawful. If you are in fact prohibited, federal law bars you from receiving or possessing a firearm, whether or not NICS finished its research in time.
+
+## Buyers under 21
+
+Federal law adds a step for buyers under 21, and the regulation says it applies through September 30, 2032. If NICS tells the dealer within three business days that there is cause to investigate a possibly disqualifying juvenile record, the dealer may not transfer until NICS sends a proceed or until 10 business days in total have passed without a denial, whichever comes first (18 U.S.C. § 922(t)(1)(C); 27 CFR 478.102(a)(3)(iii)).
+
+So an 18-, 19- or 20-year-old who is delayed should plan for a wait of up to two weeks, not three days. Federal age rules for dealer handgun sales are their own subject. See our guide on [whether 18-to-20-year-olds can buy a handgun](/blog/can-18-20-year-olds-buy-handgun-2026).
+
+## A check is good for 30 days
+
+Under 27 CFR 478.102(c), a NICS check may be used for a single transaction and for no more than 30 calendar days from the date the dealer first contacted NICS. If the sale is not completed in that window, the dealer has to run a new check. If you are delayed and then put off picking up the firearm, keep that window in mind.
+
+## If you are denied
+
+The FBI's [challenges and appeals page](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/nics/requesting-reason-for-andor-challenging-a-nics-related-denial) lays out two separate steps. You can take either or both. They apply only to denials. The FBI will not process a request about a check that is still delayed.
+
+- **Get your transaction number.** You need the NICS Transaction Number (NTN), or a State Transaction Number (STN) if a POC state ran the check. If you do not have it, the FBI says to ask the dealer that ran the check.
+- **Request the reason for the denial.** This tells you the prohibiting category NICS applied. No fingerprints or documents are needed, and the FBI says it is required to respond within five business days. This is the fastest way to learn what triggered the denial.
+- **Challenge the denial.** A challenge lets you dispute the decision and send documents NICS may not have had, such as a court disposition or a restoration of rights. Fingerprints are not required but are encouraged, especially if you have a common name. The FBI says it is required to respond within 60 calendar days. The response will either sustain or overturn the denial, or tell you the challenge is still unresolved.
+- **How to file.** The FBI prefers electronic requests through its eDO portal at edo.cjis.gov. You can also mail a request to FBI CJIS Division, NICS Section, P.O. Box 4278, Clarksburg, WV 26306-9922.
+- **POC states.** If a state agency issued the denial, the FBI encourages you to contact that agency first, because it may have information the FBI does not.
+- **Beyond the FBI.** If the FBI's response points to a record held by a court or another agency, you can ask that agency to correct it. Federal law also allows a civil action under [18 U.S.C. § 925A](https://www.law.cornell.edu/uscode/text/18/925A). The FBI encourages using the administrative process first.
+
+If the denial is accurate because of a past conviction, a challenge will not fix it. Restoring rights is a separate process. See our guide to the [federal firearms rights restoration program](/blog/federal-firearms-rights-restoration-program-2026).
+
+## If you keep getting delayed: the Voluntary Appeal File
+
+Some lawful buyers get delayed or wrongly denied again and again. That can happen because NICS purges records of approved checks within 24 hours, so the next check starts over against the same confusing record. The FBI's answer is the [Voluntary Appeal File (VAF)](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/nics/voluntary-appeal-file). Here is how the FBI describes it:
+
+- **Who can apply.** Anyone may apply. The file is designed for people who believe they can legally receive firearms but have been denied or have had extended delays. You do not need a prior check to apply, and the FBI notes that identity-theft victims may want to apply before ever trying to buy.
+- **What you send.** A completed VAF application and a fingerprint card. A Social Security number is not required but is "highly encouraged," and the last four digits are acceptable. Most local police departments and sheriff's offices can take fingerprints, and some charge a fee. The FBI does not charge for VAF applications.
+- **What you get.** Approved applicants receive a VAF Unique Personal Identification Number (VPIN), which you enter on Form 4473 for future purchases.
+- **What it does not do.** A VPIN does not skip the background check. It helps NICS confirm you are not the person in the problem record, and in some cases it gives NICS access to documents such as a pardon or restoration of rights.
+- **Timing.** You can apply for the VAF at the same time you file a denial challenge.
+
+## A holiday-season checklist
+
+- **Bring a valid government-issued photo ID.** Federal law requires the dealer to verify your identity with one. If your ID shows an old address, ask the dealer before you shop what extra documents they will accept.
+- **Shop early.** A delay plus a holiday week can stretch three business days well past a long weekend.
+- **Know your state's rules.** Waiting periods, permits and state-run checks are separate from the federal three-day rule. See our guide to [firearm waiting periods](/blog/firearm-waiting-periods) and your [state's gun laws](/states).
+- **Buying for someone else?** Read our guide to [buying a gun as a gift](/blog/buying-gun-as-gift-legal-2026) before you answer question 21.a on Form 4473.
+- **Buying across state lines?** See our guide to [interstate purchases and FFL transfers](/blog/interstate-firearm-purchases-ffl-transfer-2026).
+- **Keep your paperwork.** If you are denied, the transaction number is the key to every next step.
+
+New to all of this? Our [first-time gun buyer's guide](/blog/first-time-gun-buyer-guide) covers the whole process.
+
+*Looking for local gun shops, ranges & instructors? Browse [FirearmSelect's listings by state and city](/dealers).*`,
   },
 ];
 

@@ -78,10 +78,11 @@ export const faqData: FaqEntry[] = [
     id: "background-check",
     question: "What happens during a background check when I buy a gun?",
     answer:
-      "When you purchase a firearm from a licensed dealer (FFL), you fill out ATF Form 4473 and present government-issued ID. The dealer contacts the FBI's National Instant Criminal Background Check System (NICS), which checks your information against databases of prohibited persons. Results come back as Proceed, Delayed, or Denied. Form 4473 also asks whether you are an unlawful user of, or addicted to, marijuana or other controlled substances, and a false answer is a separate federal offense. See our article on [marijuana use and gun ownership](/blog/marijuana-users-gun-ownership-hemani-2026). Delays are resolved within three business days in most cases. Private sales between individuals may or may not require a background check depending on state law.",
+      "When you purchase a firearm from a licensed dealer (FFL), you fill out ATF Form 4473 and present government-issued ID. The dealer contacts the FBI's National Instant Criminal Background Check System (NICS), which checks your information against databases of prohibited persons. Results come back as Proceed, Delayed, or Denied. Form 4473 also asks whether you are an unlawful user of, or addicted to, marijuana or other controlled substances, and a false answer is a separate federal offense. See our article on [marijuana use and gun ownership](/blog/marijuana-users-gun-ownership-hemani-2026). A Delayed response is not a denial: if three business days pass with no answer (up to 10 for some buyers under 21), federal law allows, but does not require, the dealer to transfer. See our guide to [delayed background checks](/blog/nics-background-check-delayed-what-happens-2026). Private sales between individuals may or may not require a background check depending on state law.",
     keywords: ["background check", "NICS", "4473", "form", "FBI", "dealer", "FFL", "private sale"],
     category: "Gun Laws",
     relatedLinks: [
+      { label: "Background Check Delayed? Proceed, Delayed and the Three-Day Rule", href: "/blog/nics-background-check-delayed-what-happens-2026" },
       { label: "Marijuana Use and Gun Ownership After Hemani", href: "/blog/marijuana-users-gun-ownership-hemani-2026" },
       { label: "The Third Circuit Splits the Felon Gun Ban", href: "/blog/third-circuit-felon-gun-ban-ruling-2026" },
       { label: "State Gun Law Guides", href: "/states" },
@@ -1123,6 +1124,56 @@ export const faqData: FaqEntry[] = [
       { label: "The Supreme Court's AR-15 Ban Case", href: "/blog/supreme-court-ar15-ban-case-2026" },
       { label: "Virginia's Semi-Auto Sales Ban: Full Guide", href: "/blog/virginia-ar15-sales-ban-2026" },
       { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  // ── Legal Update / Buying (weekly cycle 2026-11-02 additions) ──
+  {
+    id: "new-york-body-armor-ruling",
+    question: "Can I buy body armor in New York after the October 2026 court ruling?",
+    answer:
+      "Not yet, as of November 1, 2026. On October 21, 2026, a federal judge in Heeter v. James (W.D.N.Y. No. 1:24-cv-623) held that New York's ban on body armor sales and purchases by people outside an \"eligible profession\" violates the Second Amendment and permanently enjoined enforcement of Penal Law §§ 270.21 and 270.22 and General Business Law § 396-eee as to sale and purchase. The court also granted the state a 14-day stay pending appeal, which by the calendar runs to about November 4, 2026. Until that stay ends with no further stay from the Second Circuit, the law can still be enforced as written. As of November 1, 2026, the docket shows no notice of appeal; the deadline is November 20, 2026. See our [full explainer](/blog/new-york-body-armor-ban-struck-down-2026).",
+    keywords: ["body armor", "bulletproof vest", "New York", "Heeter", "plate carrier", "270.21", "eligible profession"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "New York's Body Armor Ban Struck Down: What It Means", href: "/blog/new-york-body-armor-ban-struck-down-2026" },
+      { label: "New York Gun Laws", href: "/new-york/gun-laws" },
+    ],
+  },
+  {
+    id: "body-armor-federal-law",
+    question: "Does federal law restrict who can own body armor?",
+    answer:
+      "Yes, for one group. Under 18 U.S.C. § 931, a person convicted of a felony that is a crime of violence may not buy, own or possess body armor. There is an affirmative defense if the person's employer certified in writing, in advance, that the armor was necessary for lawful business activity and its use stayed within that work. State laws differ. New York restricted purchases to eligible professions in 2022, a law a federal court struck down in October 2026, subject to a short stay and any appeal. New York also separately makes it a crime to wear body armor while committing a violent felony with a firearm (Penal Law § 270.20(1)), which the ruling left in place.",
+    keywords: ["body armor", "federal law", "931", "violent felony", "vest", "own"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "New York's Body Armor Ban Struck Down: What It Means", href: "/blog/new-york-body-armor-ban-struck-down-2026" },
+      { label: "State Gun Law Guides", href: "/states" },
+    ],
+  },
+  {
+    id: "nics-delayed-three-day-rule",
+    question: "My background check came back \"delayed.\" When can the dealer transfer the gun?",
+    answer:
+      "A delay means NICS needs more time to research a possible match; it is not a denial. Under 18 U.S.C. § 922(t)(1)(B)(ii), if 3 business days (days your state's offices are open) pass without a denial, the dealer may transfer. ATF's regulation, 27 CFR 478.102, says the dealer \"may proceed,\" so the dealer is allowed to transfer but not required to, and some wait for a final answer. For buyers under 21, the wait can run to 10 business days if NICS flags a possible juvenile record. A check is good for 30 calendar days, after which the dealer must run a new one. State waiting periods and permits are separate. See our [guide to delayed checks](/blog/nics-background-check-delayed-what-happens-2026).",
+    keywords: ["delayed", "NICS", "three day", "3 business days", "default proceed", "background check", "under 21", "30 days"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "Background Check Delayed? Proceed, Delayed and the Three-Day Rule", href: "/blog/nics-background-check-delayed-what-happens-2026" },
+      { label: "Firearm Waiting Periods by State", href: "/blog/firearm-waiting-periods" },
+      { label: "Blog: First-Time Buyer's Guide", href: "/blog/first-time-gun-buyer-guide" },
+    ],
+  },
+  {
+    id: "nics-denial-appeal",
+    question: "How do I find out why I was denied and challenge a NICS denial?",
+    answer:
+      "Get your NICS Transaction Number (NTN), or State Transaction Number if your state ran the check, from the dealer. Through the FBI's eDO portal (edo.cjis.gov) or by mail, you can request the reason for the denial, which the FBI says it must answer within five business days, and you can file a challenge with supporting documents and, ideally, fingerprints, which it must answer within 60 calendar days. Only denials can be challenged, not delays. If a state agency issued the denial, the FBI suggests contacting that agency first. A civil action under 18 U.S.C. § 925A is also available. If you are delayed or wrongly denied repeatedly, the FBI's Voluntary Appeal File (VAF) gives approved applicants a number (VPIN) to enter on Form 4473; it does not skip the background check. See our [guide to delays and denials](/blog/nics-background-check-delayed-what-happens-2026).",
+    keywords: ["denied", "NICS", "appeal", "challenge", "VAF", "VPIN", "Voluntary Appeal File", "NTN", "925A"],
+    category: "Buying Your First Firearm",
+    relatedLinks: [
+      { label: "Background Check Delayed? Proceed, Delayed and the Three-Day Rule", href: "/blog/nics-background-check-delayed-what-happens-2026" },
+      { label: "The Federal Firearms Rights Restoration Program", href: "/blog/federal-firearms-rights-restoration-program-2026" },
     ],
   },
 ];
