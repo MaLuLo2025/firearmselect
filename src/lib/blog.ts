@@ -3836,6 +3836,7 @@ Yes, though pre-existing incidents may not be covered by a new provider. Coverag
     category: "Buying Guides",
     categorySlug: "buying-guides",
     publishedAt: "2026-09-28",
+    dateModified: "2026-11-02",
     readTime: "9 min read",
     content: `*This article reflects federal and state firearm transfer rules as of publication in September 2026. State laws in this area shift frequently. Confirm current requirements with your local FFL and your state's licensing authority before completing a purchase.*
 
@@ -3855,7 +3856,7 @@ The mechanics are consistent across the country. The out-of-state seller ships t
 
 When you walk into your local FFL to pick up an incoming firearm, you will complete ATF Form 4473. The form asks for your name, address, date of birth, and a series of yes/no questions about eligibility — whether you have a felony conviction, whether you are a fugitive, whether you have been dishonorably discharged, whether you have a domestic violence restraining order, and so on. You certify the answers under penalty of perjury.
 
-The FFL then submits your information to the FBI's National Instant Criminal Background Check System (NICS). NICS returns one of three responses: proceed, delayed, or denied. If you clear immediately, you take the firearm home that day. If you are delayed, the FFL can transfer after three business days in most states even if NICS has not returned a final answer, though many FFLs choose to wait for a definitive response. If you are denied, the FFL cannot transfer the firearm under any circumstances, retains your 4473 for at least five years, and returns any payment you made.
+The FFL then submits your information to the FBI's National Instant Criminal Background Check System (NICS). NICS returns one of three responses: proceed, delayed, or denied. If you clear immediately, you take the firearm home that day. If you are delayed, the FFL can transfer after three business days in most states even if NICS has not returned a final answer, though many FFLs choose to wait for a definitive response. If you are denied, the FFL cannot transfer the firearm, and federal rules (27 CFR 478.129(b)) require the dealer to keep your 4473 in its records until it goes out of business. What happens to any payment depends on the dealer's policy, so ask before you pay.
 
 Some states run the check through their own state agency rather than directly through NICS, which changes the timing and sometimes the process. California, for example, requires all transfers to go through a licensed dealer and imposes a ten-day waiting period. Colorado requires background checks for private transfers, typically conducted by FFLs. Illinois requires the seller to see the buyer's Firearms Owner's Identification (FOID) card. The federal transfer rule is a floor, not a ceiling.
 
