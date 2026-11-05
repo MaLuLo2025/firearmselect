@@ -5060,17 +5060,18 @@ We will update this article when the list is published or a court rules.
   {
     slug: "new-york-body-armor-ban-struck-down-2026",
     title: "A Federal Judge Struck Down New York's Body Armor Ban. Can You Buy a Vest Now?",
-    excerpt: "On October 21, 2026, a federal judge in Buffalo held that New York's ban on civilian body armor purchases violates the Second Amendment and permanently enjoined it, then paused his own order for 14 days so the state could appeal. Here is what the law says, what the court decided, what it left in place, and where the case stood as of November 1, 2026.",
-    metaDescription: "Heeter v. James explained: what New York's body armor ban says, why the court struck it down, the 14-day stay, and the case's status as of November 1, 2026.",
+    excerpt: "On October 21, 2026, a federal judge in Buffalo held that New York's ban on civilian body armor purchases violates the Second Amendment and permanently enjoined it, then paused his own order so the state could appeal. On November 4, 2026, the court extended that pause for the length of the state's appeal. Here is what the law says, what the court decided, what it left in place, and where the case stood as of November 5, 2026.",
+    metaDescription: "Heeter v. James explained: what New York's body armor ban says, why the court struck it down, the stay pending appeal, and the case's status as of November 5, 2026.",
     category: "Legal Update",
     categorySlug: "legal-update",
     publishedAt: "2026-11-02",
+    dateModified: "2026-11-05",
     readTime: "9 min read",
-    content: `*This article reflects the court record and New York law as of November 1, 2026. The ruling is on a short stay, and an appeal could change what applies to you. Check the current docket before you rely on anything here. This is general information, not legal advice.*
+    content: `*This article reflects the court record and New York law as of November 5, 2026 (first published November 2, 2026, and updated November 5 after the state appealed and the court extended the stay). The ruling is stayed while the appeal proceeds, and the appeal could change what applies to you. Check the current docket before you rely on anything here. This is general information, not legal advice.*
 
-On October 21, 2026, a federal judge in Buffalo ruled that New York's ban on civilian purchases of body armor violates the Second Amendment. The decision in *Heeter v. James* permanently bars the state from enforcing the ban on buying and selling body armor. In the same order, the judge paused that relief for 14 days so the state could appeal.
+On October 21, 2026, a federal judge in Buffalo ruled that New York's ban on civilian purchases of body armor violates the Second Amendment. The decision in *Heeter v. James* permanently bars the state from enforcing the ban on buying and selling body armor. In the same order, the judge paused that relief for 14 days so the state could appeal. The state appealed on October 30, and on November 4 the court approved the parties' agreement to keep the ruling on hold while the appeal proceeds.
 
-So the short answer to the headline question, as of November 1, 2026, is no, not yet. On that date the ban could still be enforced as written. Whether that changes depends on what the state and the U.S. Court of Appeals for the Second Circuit do next. Below is what the law says, what the court decided, what the ruling leaves untouched, and how to read the docket yourself.
+So the short answer to the headline question, as of November 5, 2026, is no. The ban can still be enforced as written while the appeal is pending. Whether that changes depends on the U.S. Court of Appeals for the Second Circuit, and possibly the Supreme Court. Below is what the law says, what the court decided, what the ruling leaves untouched, and how to read the docket yourself.
 
 ## What New York's law says
 
@@ -5110,40 +5111,36 @@ Even after the stay ends, several rules stay in place.
 - **Retailers' own policies.** Online and out-of-state sellers set their own shipping rules. A court ruling does not require any business to change them.
 - **Other states.** This decision binds only New York officials. It says nothing about other states' laws.
 
-## Where the case stands as of November 1, 2026
+## Where the case stands as of November 5, 2026
 
-The district court docket is public on CourtListener, which mirrors filings from the federal courts' PACER system and can lag behind it. As of November 1, 2026, the [CourtListener docket](https://www.courtlistener.com/docket/68907301/heeter-v-james/) (last updated October 29) shows these final entries:
+The district court docket is public on CourtListener, which mirrors filings from the federal courts' PACER system and can lag behind it. As of November 5, 2026, the [CourtListener docket](https://www.courtlistener.com/docket/68907301/heeter-v-james/) (last updated November 4) shows these key entries:
 
 - **Dkt. 95, October 21:** decision and order granting summary judgment, the permanent injunction, and the 14-day stay.
 - **Dkt. 96, October 21:** judgment for the plaintiffs.
-- **Dkt. 97, October 22:** notice that the transcript of the August 28 argument has been filed.
+- **Dkt. 98, October 30:** the state's notice of appeal to the Second Circuit.
+- **Dkt. 99, November 3:** a stipulation in which both sides agreed to keep the stay in place during the appeal, in exchange for an expedited briefing and argument schedule.
+- **Dkt. 104, November 4:** the court's order approving that stipulation.
 
-The docket does not show a notice of appeal or a request to the Second Circuit for a longer stay. CourtListener's Second Circuit records list no *Heeter* appeal as of the same date.
+**What the stipulation provides.** Under the [parties' stipulation](https://storage.courtlistener.com/recap/gov.uscourts.nywd.151526/gov.uscourts.nywd.151526.99.0.pdf), the stay of the judgment continues "during the pendency of any appeal." The state agreed to ask the Second Circuit, without opposition, for an expedited schedule. Two outcomes follow from that request:
 
-Two dates matter:
+- **If the Second Circuit denies the expedited schedule,** the stay ends within 7 days of the denial unless the district court or the Second Circuit orders it continued.
+- **If the Second Circuit grants it,** the stay lasts until the latest of three events: the time to seek Supreme Court review of the Second Circuit's decision runs out, the Supreme Court denies review, or, if the Supreme Court takes the case, it issues its mandate.
 
-- **The stay.** The order grants a "fourteen-day stay" without naming an end date. Counting 14 days from October 21 gives November 4, 2026.
-- **The appeal deadline.** Under [Federal Rule of Appellate Procedure 4(a)(1)(A)](https://www.law.cornell.edu/rules/frap/rule_4), a notice of appeal in a civil case is due within 30 days after entry of the judgment. For a judgment entered October 21, that is November 20, 2026.
-
-**What can happen next.** The procedural options are well defined, even though no one can say which will occur:
-
-- The state files a notice of appeal and asks the district court or the Second Circuit to extend the stay while the appeal proceeds. If a court grants that request, the ban stays enforceable during the appeal.
-- The stay runs out with no further stay in place. In that case the injunction takes effect, and the named officials are barred from enforcing the sale-and-purchase ban.
-- The state appeals but does not obtain a further stay, so the injunction takes effect while the appeal goes forward.
+In practical terms, if the expedited schedule is granted, the ban stays enforceable until the appeal, and any Supreme Court review, is over.
 
 The Supreme Court's calendar is relevant too. The *Lamont* decision this court discussed is now before the Supreme Court as *Grant v. Higgins* (No. 25-566), consolidated with *Viramontes v. Cook County*. The cases are [set for argument on December 2, 2026](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-566.html). A ruling there could shape how lower courts, including the Second Circuit, analyze bans on particular arms. See our post on [the Supreme Court's AR-15 ban case](/blog/supreme-court-ar15-ban-case-2026).
 
 ## If you live in New York
 
-- **Until the stay ends with no further stay in place, treat the law as in force.** Buying body armor outside an eligible profession is still a crime as written, and so is selling it to someone outside one.
-- **Check the docket yourself before you buy.** The CourtListener docket linked above will show any notice of appeal or stay order once it is posted. News coverage can run ahead of, or behind, the record.
+- **Treat the law as in force while the appeal is pending.** Buying body armor outside an eligible profession is still a crime as written, and so is selling it to someone outside one.
+- **Check the docket yourself before you buy.** The CourtListener docket linked above will show the Second Circuit's ruling on the expedited schedule and any later order once it is posted. News coverage can run ahead of, or behind, the record.
 - **Expect retailers to make their own calls.** A seller may keep New York restrictions in place after the injunction takes effect, and that is the seller's decision.
 - **If you are in an eligible profession,** the Department of State's page explains how to show proof of eligibility when you buy.
 - **Federal rules apply regardless.** If you have a felony conviction for a crime of violence, § 931 bars you from buying or possessing body armor no matter what happens in this case.
 
 For New York's firearms rules more generally, see our [New York gun laws guide](/new-york/gun-laws).
 
-We will update this article when the docket shows an appeal, a stay order, or the stay's expiration.
+We will update this article when the Second Circuit rules on the expedited schedule or the stay ends.
 
 *Looking for local gun shops, ranges & instructors? Browse [FirearmSelect's listings by state and city](/dealers).*`,
   },
