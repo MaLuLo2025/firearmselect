@@ -5240,6 +5240,174 @@ New to all of this? Our [first-time gun buyer's guide](/blog/first-time-gun-buye
 
 *Looking for local gun shops, ranges & instructors? Browse [FirearmSelect's listings by state and city](/dealers).*`,
   },
+  {
+    slug: "washington-permit-to-purchase-2027",
+    title: "Washington's Permit to Purchase Starts May 1, 2027: What Gun Buyers Need to Do",
+    excerpt: "Starting May 1, 2027, Washington dealers can't deliver any firearm without a state permit to purchase. Here's how the permit works under HB 1163: fingerprints, certified live-fire training, the 30-day clock, five-year validity, cost, and what WSP is still building.",
+    metaDescription: "Washington's permit to purchase firearms starts May 1, 2027 under HB 1163: training levels, fingerprints, 30/60-day issuance, fees, renewal and what WSP still plans.",
+    category: "State Laws",
+    categorySlug: "state-laws",
+    publishedAt: "2026-11-09",
+    readTime: "8 min read",
+    content: `*This article reflects Washington law and Washington State Patrol guidance as of November 2026. The program is still being built, and details such as fees and application steps may change before it starts. This is general information, not legal advice.*
+
+Starting May 1, 2027, a Washington dealer may not deliver a firearm to you unless you hold a state permit to purchase firearms. The law is Engrossed Second Substitute House Bill 1163, Chapter 370, Laws of 2025, signed in May 2025. The Washington State Patrol (WSP) says it expects to open applications in early 2027 so buyers can get a permit before the deadline.
+
+If you plan to buy a gun in Washington in 2027 or later, the permit will be the first step, and it takes training, fingerprints and up to 30 days or more. Here is what the law requires and what is still being worked out.
+
+## What changes on May 1, 2027
+
+Under the [final bill report](https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bill%20Reports/House/1163-S2.E%20HBR%20FBR%2025.pdf), "A dealer may not deliver a firearm to a purchaser or transferee until the purchaser or transferee produces a valid permit to purchase firearms." The application for every firearm transfer must include the buyer's permit number.
+
+Today, Washington buyers show the dealer proof of a firearm safety course within the last five years. Under HB 1163, that training requirement moves to the permit application instead.
+
+The permit applies to firearms generally, not only to pistols or semi-automatic rifles. The bill also extends the state's dealer record and transfer-application requirements, which used to cover pistols and semi-automatic assault rifles, to all firearm transfers, and the Department of Licensing will keep those records.
+
+Because Washington already routes most private sales through a licensed dealer, the permit will matter for many private sales too. Some transfers are exempt from the dealer requirement under state law. Check the current exemptions in [RCW 9.41.113](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.113) before relying on one.
+
+## How to get a permit
+
+You apply to the WSP Firearms Background Check Program. Under the session law and the bill report:
+
+- **Fingerprints.** A complete set taken by the local law enforcement agency where you live. You pay a fingerprint processing fee, and the local agency may charge a reasonable fee for taking them. The agency must check for active warrants when it takes your prints.
+- **Training.** A certificate of completion of a certified firearms safety training program within the last five years, or proof of an exemption.
+- **Background check.** For an original permit, WSP runs a check through its criminal records division that includes a national FBI check, plus specified state and federal databases. You may request a copy of the results and seek to correct your record.
+- **Health records release.** A signed application acts as a waiver allowing health care facilities to release information relevant to your eligibility to WSP or a court.
+
+WSP must issue or deny a completed application within 30 days, or within 60 days if you don't have a valid permanent Washington driver's license or ID card or haven't lived in Washington for the previous 90 consecutive days, unless it needs more time to get the records it needs to decide.
+
+A permit must be issued unless you are prohibited from possessing firearms under state or federal law, are subject to certain protection, no-contact or restraining orders, have an outstanding warrant for an offense that makes you ineligible, or haven't shown the training certificate or an exemption. A denial must be in writing and state the specific grounds.
+
+## Training: what will count
+
+The training must cover the topics in [RCW 9.41.1132](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.1132), including safety rules, children and secure storage, suicide prevention, safe handling, state and federal law, Washington's deadly force law, avoiding and managing violent confrontations, and **live-fire shooting** that demonstrates safe handling and proficiency.
+
+In a July 2026 update to trainers, WSP described three training levels:
+
+- **Level 1:** 50 or more live rounds. Good for a concealed pistol license, a permit to purchase, or a permit renewal.
+- **Level 2:** 1 to 49 live rounds. Good for a permit or a renewal only.
+- **Level 3:** no live fire. Good only for permit renewals.
+
+WSP said it expected to start approving trainers in September 2026 and curriculums in October 2026, and to launch an electronic system in January 2027 so trainers report completions directly, with no paper certificate. Training must be sponsored by a law enforcement agency, a college or university, a nationally recognized organization that customarily offers firearms training, or a school with instructors certified by such an organization.
+
+Exemptions from the training requirement include certain Washington, federal and tribal peace officers, active-duty military, National Guard and reserve members, and some licensed armed private investigators and security guards, as the statute defines them.
+
+**Plan for it:** if you already took a firearm safety course for a past Washington purchase, don't assume it will count. The permit requires a course certified under the new program.
+
+## Cost
+
+The law lets WSP charge application fees that cover the program's costs. As of November 7, 2026, WSP's [Firearms Background Division page](https://wsp.wa.gov/firearms-background-division/) does not list a permit fee. NRA-ILA reported in September 2026 that the WSP framework sets the permit at $126 and renewals at $90; we have not confirmed those figures with WSP. Separately, WSP's per-transfer background check fee rose to $33 on July 1, 2026. Fingerprinting and training costs are extra.
+
+## How long a permit lasts
+
+A permit is valid for **five years**. You can renew it within 90 days before or after it expires. WSP must check every year that permit holders remain eligible, must revoke a permit if the holder becomes ineligible, and must notify local law enforcement when it revokes one.
+
+## What doesn't change
+
+The bill report doesn't describe any change to Washington's existing waiting period or background check at the point of sale. You will still go through a dealer background check for each purchase; the permit is a prerequisite, not a replacement. Washington's other purchase rules, including its age limits and its restrictions on certain semi-automatic rifles and magazines, are separate. See our [Washington gun laws page](/washington/gun-laws).
+
+A valid permit does make one thing easier: an applicant for a Washington concealed pistol license who presents a valid permit is exempt from the CPL's separate fingerprint-based background check. Separately, starting May 1, 2027, a CPL will require proof of a certified concealed carry training course with at least 50 rounds of live fire.
+
+## Is it being challenged?
+
+Gun rights groups criticized the law and said lawsuits would follow when it was signed. As of November 2026, we have not found a court ruling on Washington's permit-to-purchase requirement. Colorado has its own, narrower eligibility-card system for certain semi-automatic firearms, covered in our [Colorado permit-to-purchase guide](/blog/colorado-permit-to-purchase-semiauto-2026). Whether permit-to-purchase laws survive the Supreme Court's history-and-tradition test is not settled; see our explainer on [the Second Amendment after Bruen](/blog/second-amendment-after-bruen).
+
+## A checklist if you'll buy in 2027
+
+- Watch for WSP's application launch, expected in early 2027.
+- Find a trainer whose course WSP has certified, and choose Level 1 if you may also want a concealed pistol license.
+- Schedule fingerprints with your local police or sheriff.
+- Apply well before you plan to buy. Thirty days is the target, not a guarantee.
+- If you're new to Washington or don't have a Washington license or ID, expect up to 60 days.
+
+New to buying? Our [first-time gun buyer's guide](/blog/first-time-gun-buyer-guide) covers the rest of the process.
+
+*Looking for local gun shops, ranges & instructors? Browse [FirearmSelect's listings by state and city](/dealers).*`,
+  },
+  {
+    slug: "out-of-state-hunt-rifle-transport-cwd-carcass-rules",
+    title: "Driving to an Out-of-State Hunt: Your Rifle, Federal Safe Passage, and CWD Carcass Rules",
+    excerpt: "Heading to another state for deer or elk season? How 18 U.S.C. 926A protects your rifle on the drive (and where it doesn't), buying guns and ammo on the trip, and the chronic wasting disease carcass rules that decide what you can bring home.",
+    metaDescription: "Out-of-state hunt: federal safe-passage rules for your rifle (18 U.S.C. 926A), nonresident purchases, and CWD carcass import rules for bringing deer and elk home.",
+    category: "Hunting",
+    categorySlug: "hunting",
+    publishedAt: "2026-11-09",
+    readTime: "8 min read",
+    content: `*This article reflects federal law and state wildlife agency rules we checked in November 2026. Carcass and firearm transport rules change, sometimes in the middle of a season. Check the current rules for every state on your route before you leave. This is general information, not legal advice.*
+
+A November hunt in another state means two sets of rules on the drive: the ones for your rifle on the way there, and the ones for your deer, elk or moose on the way home. The second set catches more hunters than the first, because the rule that matters is often set by your **home** state, not the state where you hunted.
+
+## Getting your rifle there: the federal safe-passage rule
+
+Federal law gives travelers a narrow protection for driving through places with stricter gun laws. Under [18 U.S.C. § 926A](https://www.law.cornell.edu/uscode/text/18/926A), a person who isn't prohibited from possessing firearms may transport a firearm "for any lawful purpose from any place where he may lawfully possess and carry such firearm to any other place where he may lawfully possess and carry such firearm," if during the trip:
+
+- **The firearm is unloaded.**
+- **Neither the firearm nor any ammunition is readily accessible** or directly accessible from the passenger compartment.
+- **In a vehicle without a separate trunk,** the firearm or ammunition is in a locked container other than the glove compartment or console.
+
+Two limits matter for hunters:
+
+- **Both ends must be legal.** The protection applies only if you may lawfully possess and carry the firearm where you start and where you end. A rifle or magazine that's legal at home and at your hunting destination may still be illegal to possess in a state you pass through, and § 926A protects you there only while you're actually traveling under its conditions.
+- **Stops are a gray area.** Courts and states have read "transport" differently when travelers stop overnight or make long detours. How much of a stop the protection covers is not settled. Plan routes and overnight stops in states where your firearm and magazines are legal, where you can.
+
+Our guide to [traveling through states that don't honor carry permits](/blog/states-that-dont-honor-concealed-carry-permits) covers § 926A in more detail, including magazine-capacity limits. If you're flying, see [flying with firearms](/blog/flying-with-firearms-tsa-rules).
+
+## Buying a rifle or ammunition on the trip
+
+Federal law lets a licensed dealer sell a rifle or shotgun to a nonresident in person if the sale complies with the laws of both the buyer's state and the dealer's state. Handguns are different: they generally have to be transferred through a dealer in your home state. See our guide to [interstate purchases and FFL transfers](/blog/interstate-firearm-purchases-ffl-transfer-2026). Some states also restrict ammunition purchases or require background checks for them, so buying ammunition at your destination may not be simpler than bringing it.
+
+## Licenses and hunter education
+
+You'll need the destination state's nonresident license and any tags it requires, and most states require proof of hunter education. Many recognize other states' hunter education cards. See our [hunting license guide](/blog/hunting-license-guide-2025-2026).
+
+## Bringing the animal home: chronic wasting disease rules
+
+Chronic wasting disease (CWD) is a fatal prion disease of deer, elk, moose and caribou. Prions concentrate in the brain, spinal cord and certain other tissues, so many states restrict which carcass parts may cross their borders. The rules come in two forms:
+
+- **Import rules** set by the state you're driving into, including your home state.
+- **Export or movement rules** set by the state where you hunted, often tied to CWD management zones within that state.
+
+You have to satisfy both. Two examples from state wildlife agencies:
+
+**Minnesota.** The Minnesota DNR's [carcass import rules](https://www.dnr.state.mn.us/deerimports/index.html) say it is illegal to import whole deer, elk, moose and caribou carcasses from anywhere outside Minnesota, "regardless of their CWD status." Hunters may bring in:
+
+- Quarters or other portions of meat with no part of the spinal column or head attached.
+- Boned-out meat, or meat cut and wrapped, commercially or privately.
+- Hides and teeth.
+- Antlers or clean skull plates with antlers attached, with no brain tissue.
+- Finished taxidermy mounts.
+
+A head from outside Minnesota may come in only if it is delivered to a licensed taxidermist within 48 hours of entering the state. Nonresidents passing through Minnesota on a direct route are exempt.
+
+**Pennsylvania.** In a [2022 notice](https://www.pa.gov/agencies/pgc/newsroom/hunters-reminded-of-cwd-protections), the Pennsylvania Game Commission said its regulation bans importing high-risk carcass parts into Pennsylvania from any state or province, "regardless of whether CWD is known to exist there," and lists high-risk parts including the head, the spinal cord and backbone, the spleen, unfinished taxidermy mounts and brain-tanned hides. Pennsylvania also restricts moving deer out of its own disease management areas. Check the Game Commission's current regulations, since the notice is from 2022.
+
+Not every state is this strict, and some rules turn on whether the animal came from a state or zone where CWD has been found. The pattern in Minnesota and Pennsylvania is common enough that a safe default is to plan as if only these will be allowed home: deboned meat, quarters without spine or head, cleaned skull plates and antlers, hides and finished mounts.
+
+## Breaking down the animal before you drive
+
+- **Know your processor options.** A processor at the destination can debone and package the meat. Ask before the hunt.
+- **Cape it there, or use a taxidermist there.** If you want a mount, a taxidermist near where you hunted can cape the animal. You can do it yourself if you know how, keeping brain and spinal tissue out of what you bring home.
+- **Dispose of the rest legally.** Many states restrict where carcass remains can be left. Use the destination state's approved disposal options.
+- **Test if offered.** Many states offer CWD testing, and some require it in certain zones. Results take time, so ask how you'll get them after you're home.
+- **Keep your tag and paperwork with the meat.** Most states require proof of legal harvest during transport.
+
+## Why the carcass rules carry federal weight too
+
+Wildlife transported across state lines in violation of a state's law can also become a federal matter. The Lacey Act, [16 U.S.C. § 3372(a)(2)(A)](https://www.law.cornell.edu/uscode/text/16/3372), makes it unlawful to transport in interstate commerce "any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State." How often it is used against hunters for carcass-movement violations varies; the more common consequence is a state citation and seizure of the parts. Either way, the fix is the same: break the animal down before you cross the line.
+
+## Pre-trip checklist
+
+- Check firearm and magazine laws for your destination and every state on your route.
+- Pack the rifle unloaded, cased, and out of reach; lock it up if your vehicle has no trunk.
+- Buy the nonresident license and tags, and carry hunter education proof.
+- Read your home state's carcass import rule and the destination state's movement rule.
+- Line up a processor, taxidermist or caping plan before you go.
+- Bring coolers, game bags and labels for deboned meat.
+
+New to hunting trips? See [how to plan your first hunt](/blog/how-to-plan-your-first-hunt) and [hunter safety essentials](/blog/hunter-safety-essentials). For more hunting guides, visit our [hunting section](/hunting).
+
+*Looking for local gun shops, ranges & instructors? Browse [FirearmSelect's listings by state and city](/dealers).*`,
+  },
 ];
 
 const slugs = blogPosts.map((p) => p.slug);

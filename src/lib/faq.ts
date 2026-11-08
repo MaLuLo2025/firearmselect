@@ -483,6 +483,7 @@ export const faqData: FaqEntry[] = [
     relatedLinks: [
       { label: "States That Don't Honor CCW Permits", href: "/blog/states-that-dont-honor-concealed-carry-permits" },
       { label: "Interstate Reciprocity Guide", href: "/reciprocity" },
+      { label: "Driving to an Out-of-State Hunt", href: "/blog/out-of-state-hunt-rifle-transport-cwd-carcass-rules" },
     ],
   },
   {
@@ -1174,6 +1175,30 @@ export const faqData: FaqEntry[] = [
     relatedLinks: [
       { label: "Background Check Delayed? Proceed, Delayed and the Three-Day Rule", href: "/blog/nics-background-check-delayed-what-happens-2026" },
       { label: "The Federal Firearms Rights Restoration Program", href: "/blog/federal-firearms-rights-restoration-program-2026" },
+    ],
+  },
+  {
+    id: "washington-permit-to-purchase",
+    question: "Do I need a permit to buy a gun in Washington?",
+    answer:
+      "Starting May 1, 2027, yes. Under HB 1163 (Chapter 370, Laws of 2025), a Washington dealer may not deliver any firearm until the buyer shows a valid permit to purchase firearms from the Washington State Patrol. Applicants submit fingerprints taken by their local law enforcement agency and proof of certified firearms safety training with live fire within the last five years (or an exemption). WSP must decide within 30 days, or 60 days for applicants without a Washington license or ID or recent residency. Permits last five years and are renewable. WSP expects to open applications in early 2027.",
+    keywords: ["Washington", "permit to purchase", "P2P", "HB 1163", "WSP", "2027", "training", "fingerprints"],
+    category: "Gun Laws",
+    relatedLinks: [
+      { label: "Washington's Permit to Purchase Starts May 1, 2027", href: "/blog/washington-permit-to-purchase-2027" },
+      { label: "Washington Gun Laws", href: "/washington/gun-laws" },
+    ],
+  },
+  {
+    id: "cwd-carcass-out-of-state",
+    question: "Can I bring a deer or elk home from a hunt in another state?",
+    answer:
+      "Usually only certain parts. Because of chronic wasting disease, many states ban importing whole cervid carcasses or high-risk parts such as the head and spinal cord. Minnesota, for example, bars whole deer, elk, moose and caribou carcasses from anywhere outside the state and allows deboned or cut-and-wrapped meat, quarters without spine or head, hides, teeth, clean skull plates with antlers, and finished mounts. The state where you hunted may have its own movement rules too. Check both before you leave, and plan to debone or quarter the animal before crossing state lines.",
+    keywords: ["CWD", "chronic wasting disease", "carcass", "import", "deer", "elk", "out of state", "hunting trip"],
+    category: "Hunting",
+    relatedLinks: [
+      { label: "Driving to an Out-of-State Hunt: Your Rifle and CWD Carcass Rules", href: "/blog/out-of-state-hunt-rifle-transport-cwd-carcass-rules" },
+      { label: "Hunting License Guide", href: "/blog/hunting-license-guide-2025-2026" },
     ],
   },
 ];
